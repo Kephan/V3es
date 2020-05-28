@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C004_Gokuh"
+msgid "Umm...Kaede!"
+msgstr ""
+
+msgctxt "0002 | C015_Akama"
+msgid "Wh-What?"
+msgstr ""
+
+msgctxt "0003 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Gonta looks mad! Did I do something\n"
+"to make him angry?"
+msgstr ""
+
+msgctxt "0004 | C004_Gokuh"
+msgid "Ummm, uhhh..."
+msgstr ""
+
+msgctxt "0005 | C004_Gokuh"
+msgid "Y-Y-Your paw, please...!"
+msgstr ""
+
+msgctxt "0006 | C015_Akama"
+msgid "My paw? Do I look like a dog to you?"
+msgstr ""
+
+msgctxt "0007 | C004_Gokuh"
+msgid "Huh? D-Did Gonta mess up!?"
+msgstr ""
+
+msgctxt "0008 | C015_Akama"
+msgid ""
+"I-It's okay, I'm sure this is some sort of\n"
+"misunderstanding..."
+msgstr ""
+
+msgctxt "0009 | C015_Akama"
+msgid "Were you asking me for my hand, Gonta?"
+msgstr ""
+
+msgctxt "0010 | C004_Gokuh"
+msgid ""
+"Of course! Cuz Kaede is lady, so Gonta give\n"
+"you escort like true gentleman!"
+msgstr ""
+
+msgctxt "0011 | C015_Akama"
+msgid ""
+"Oh, I see now. You meant to say, \"Your hand,\n"
+"please.\""
+msgstr ""
+
+msgctxt "0012 | C004_Gokuh"
+msgid "Huh? Gonta thought he did say that..."
+msgstr ""
+
+msgctxt "0013 | C004_Gokuh"
+msgid "Did Gonta use wrong word? Sorry!"
+msgstr ""
+
+msgctxt "0014 | C015_Akama"
+msgid "Don't worry, you don't have to apologize..."
+msgstr ""
+
+msgctxt "0015 | C004_Gokuh"
+msgid ""
+"U-Um... Last time Gonta spend time with\n"
+"Kaede, Gonta just keep talking..."
+msgstr ""
+
+msgctxt "0016 | C004_Gokuh"
+msgid ""
+"Gonta never escort you like gentleman.\n"
+"So Gonta wanna do it right today..."
+msgstr ""
+
+msgctxt "0017 | C004_Gokuh"
+msgid ""
+"But Gonta very nervous... Never escort\n"
+"lady before..."
+msgstr ""
+
+msgctxt "0018 | C004_Gokuh"
+msgid ""
+"But Gonta gentleman!\n"
+"So Gonta give you proper escort!"
+msgstr ""
+
+msgctxt "0019 | C015_Akama"
+msgid "Th-Thank you..."
+msgstr ""
+
+msgctxt "0020 | C004_Gokuh"
+msgid "Okay, then...y-y-your hand, m'lady!"
+msgstr ""
+
+msgctxt "0021 | chara_Blank"
+msgid "<CLT=cltMIND>He stuttered just now..."
+msgstr ""
+
+msgctxt "0022 | C004_Gokuh"
+msgid "A-Again! Your hand, m-my lady!"
+msgstr ""
+
+msgctxt "0023 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Hm? What should I say to help him calm\n"
+"down?"
+msgstr ""
+
+msgctxt "0024 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Well, I guess I should just take his hand\n"
+"for now."
+msgstr ""
+
+msgctxt "0025 | C015_Akama"
+msgid "Thank you very much, Gonta."
+msgstr ""
+
+msgctxt "0026 | C004_Gokuh"
+msgid "Wha—!?"
+msgstr ""
+
+msgctxt "0027 | C004_Gokuh"
+msgid "A-Amazing! Kaede, you wonderful lady!"
+msgstr ""
+
+msgctxt "0028 | C015_Akama"
+msgid "N-Not really..."
+msgstr ""
+
+msgctxt "0029 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>His eyes are practically sparkling, but I hope\n"
+"he doesn't expect too much from me!"
+msgstr ""
+
+msgctxt "0030 | C004_Gokuh"
+msgid "Ummmm..."
+msgstr ""
+
+msgctxt "0031 | C015_Akama"
+msgid "..."
+msgstr "..."
+
+msgctxt "0032 | C004_Gokuh"
+msgid "..."
+msgstr "..."
+
+msgctxt "0033 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Gonta froze while he held my hand.\n"
+"Don't tell me..."
+msgstr ""
+
+msgctxt "0034 | C004_Gokuh"
+msgid ""
+"Kaede, what Gonta should do next?\n"
+"Gonta not know..."
+msgstr ""
+
+msgctxt "0035 | chara_Blank"
+msgid "<CLT=cltMIND>I knew it!"
+msgstr ""
+
+msgctxt "0036 | C015_Akama"
+msgid ""
+"Me neither...I don't know what a gentleman\n"
+"and a lady do at a time like this."
+msgstr ""
+
+msgctxt "0037 | C004_Gokuh"
+msgid "...Oh! Yes! Dance! We gotta dance!"
+msgstr ""
+
+msgctxt "0038 | C004_Gokuh"
+msgid ""
+"Ladies and gentleman have night parties!\n"
+"Lots of spinning and dancing!"
+msgstr ""
+
+msgctxt "0039 | C015_Akama"
+msgid ""
+"That does sound right, but I don't think we\n"
+"should be doing that right now..."
+msgstr ""
+
+msgctxt "0040 | C015_Akama"
+msgid ""
+"Besides, I've never been to a social event\n"
+"that involved dancing."
+msgstr ""
+
+msgctxt "0041 | C004_Gokuh"
+msgid "Gonta...also never dance before..."
+msgstr ""
+
+msgctxt "0042 | C004_Gokuh"
+msgid "Ummmm... Then...then...!"
+msgstr ""
+
+msgctxt "0043 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Between his wild hair and intense effort...\n"
+"Gonta looks really scary right now!"
+msgstr ""
+
+msgctxt "0044 | C004_Gokuh"
+msgid ""
+"So sorry! Gonta no can think of anything! Gonta\n"
+"no can treat you like proper gentleman would!"
+msgstr ""
+
+msgctxt "0045 | C015_Akama"
+msgid ""
+"U-Um, Gonta. You don't need to treat me\n"
+"like a gentleman would."
+msgstr ""
+
+msgctxt "0046 | C004_Gokuh"
+msgid "B-But—!"
+msgstr ""
+
+msgctxt "0047 | C015_Akama"
+msgid "Now, now, just listen to what I have to say."
+msgstr ""
+
+msgctxt "0048 | C015_Akama"
+msgid ""
+"Just letting you hold my hand is already\n"
+"making me feel very safe, okay?"
+msgstr ""
+
+msgctxt "0049 | C004_Gokuh"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "0050 | C015_Akama"
+msgid ""
+"A gentleman is always supposed to protect\n"
+"a lady, right?"
+msgstr ""
+
+msgctxt "0051 | C015_Akama"
+msgid "I feel like your large hands are protecting me."
+msgstr ""
+
+msgctxt "0052 | C004_Gokuh"
+msgid "Really...?"
+msgstr ""
+
+msgctxt "0053 | C015_Akama"
+msgid ""
+"Yeah, and I think that's very gentlemanly\n"
+"of you."
+msgstr ""
+
+msgctxt "0054 | C004_Gokuh"
+msgid "K-Kaede...!"
+msgstr ""
+
+msgctxt "0055 | C004_Gokuh"
+msgid ""
+"Thank you! Gonta so happy to be called\n"
+"gentleman!"
+msgstr ""
+
+msgctxt "0056 | C004_Gokuh"
+msgid "Your words give Gonta courage!"
+msgstr ""
+
+msgctxt "0057 | C004_Gokuh"
+msgid ""
+"Gonta have lots to learn... But Gonta\n"
+"do his best to become true gentleman!"
+msgstr ""
+
+msgctxt "0058 | C015_Akama"
+msgid "Yeah, good luck!"
+msgstr ""
+
+msgctxt "0059 | chara_Blank"
+msgid "<CLT=cltMIND>I'm glad I was able to help him..."
+msgstr ""
+
+msgctxt "0060 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Gonta's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\n"
+"based on your experience with him."
+msgstr ""
+
+msgctxt "0061 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>After parting ways with Gonta, I returned\n"
+"to my room."
+msgstr ""

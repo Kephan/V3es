@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C000_Saiha"
+msgid ""
+"You weren't persuaded by Monokuma...\n"
+"And you weren't trying to save yourself..."
+msgstr ""
+
+msgctxt "0002 | C000_Saiha"
+msgid ""
+"What you were trying to do...\n"
+"was <CLT=cltSTRONG>kill the mastermind<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0003 | C007_Ki-Bo"
+msgid "Kill...the mastermind?"
+msgstr ""
+
+msgctxt "0004 | C000_Saiha"
+msgid ""
+"Kaede wasn't targeting Rantaro.\n"
+"She was targeting the mastermind."
+msgstr ""
+
+msgctxt "0005 | C000_Saiha"
+msgid ""
+"She was trying to end this killing game...\n"
+"She was trying to save us all."
+msgstr ""
+
+msgctxt "0006 | C000_Saiha"
+msgid "...Isn't that right, Kaede?"
+msgstr ""
+
+msgctxt "0007 | C015_Akama"
+msgid "..."
+msgstr "..."
+
+msgctxt "0008 | C013_Yonag"
+msgid ""
+"I see! Otherwise, everyone would've\n"
+"died when the time limit expired..."
+msgstr ""
+
+msgctxt "0009 | C001_Momot"
+msgid ""
+"So...she tried to end the killing game\n"
+"by killing the mastermind?"
+msgstr ""
+
+msgctxt "0010 | C000_Saiha"
+msgid "...But it's all my fault."
+msgstr ""
+
+msgctxt "0011 | C000_Saiha"
+msgid ""
+"Kaede trusted my detective skills. I\n"
+"told her the mastermind might be there..."
+msgstr ""
+
+msgctxt "0012 | C000_Saiha"
+msgid "And that's why she set that trap."
+msgstr ""
+
+msgctxt "0013 | C000_Saiha"
+msgid ""
+"It's all my fault. She trusted my\n"
+"detective work, and I screwed it up!"
+msgstr ""
+
+msgctxt "0014 | C015_Akama"
+msgid "Stop... That's not true..."
+msgstr ""
+
+msgctxt "0015 | C015_Akama"
+msgid "Please, don't say it's your fault..."
+msgstr ""
+
+msgctxt "0016 | C015_Akama"
+msgid "It'll be harder for me..."
+msgstr ""
+
+msgctxt "0017 | C015_Akama"
+msgid "None of this is your fault! It's mine!"
+msgstr ""
+
+msgctxt "0018 | C015_Akama"
+msgid "Everything's my fault!"
+msgstr ""
+
+msgctxt "0019 | C000_Saiha"
+msgid "Kaede..."
+msgstr ""
+
+msgctxt "0020 | C015_Akama"
+msgid "..."
+msgstr "..."
+
+msgctxt "0021 | C015_Akama"
+msgid ""
+"Shuichi, can I ask you to do one\n"
+"last favor for me?"
+msgstr ""
+
+msgctxt "0022 | C015_Akama"
+msgid "Can you...end all of this?"
+msgstr ""
+
+msgctxt "0023 | C000_Saiha"
+msgid "...What?"
+msgstr ""
+
+msgctxt "0024 | C015_Akama"
+msgid ""
+"I want you to reveal everything that\n"
+"happened and convince everyone..."
+msgstr ""
+
+msgctxt "0025 | C015_Akama"
+msgid "And then...I want you to end this."
+msgstr ""
+
+msgctxt "0026 | C015_Akama"
+msgid "That's...my final wish."
+msgstr ""
+
+msgctxt "0027 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0028 | C000_Saiha"
+msgid ""
+"...I understand.\n"
+"I'll end all of this."
+msgstr ""
+
+msgctxt "0029 | C000_Saiha"
+msgid ""
+"I'll reveal everything!\n"
+"The <CLT=cltSTRONG>truth and the lies<CLT=cltNORMAL>!"
+msgstr ""

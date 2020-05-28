@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C011_Chaba"
+msgid "Rantaro's <CLT=size2>body"
+msgstr ""
+
+msgctxt "0002 | C011_Chaba"
+msgid "Rantaro's body was found..."
+msgstr ""
+
+msgctxt "0003 | C011_Chaba"
+msgid "was <CLT=size2>found..."
+msgstr ""
+
+msgctxt "0004 | C011_Chaba"
+msgid "<CLT=size2>just before"
+msgstr ""
+
+msgctxt "0005 | C011_Chaba"
+msgid "just before the time limit, right!?"
+msgstr ""
+
+msgctxt "0006 | C011_Chaba"
+msgid "the <CLT=size2>time limit,<CLT=size1> right!?"
+msgstr ""
+
+msgctxt "0007 | C006_Shing"
+msgid ""
+"He was <CLT=cltWEAK><CLT=size2>killed\n"
+"<CLT=size1>in the <CLT=size2>library<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0008 | C006_Shing"
+msgid "He was killed in the library."
+msgstr ""
+
+msgctxt "0009 | C013_Yonag"
+msgid "<CLT=size2>Rantaro<CLT=size1> was alone in the <CLT=size2>library."
+msgstr ""
+
+msgctxt "0010 | C013_Yonag"
+msgid "Rantaro was alone in the library."
+msgstr ""
+
+msgctxt "0011 | C013_Yonag"
+msgid "<CLT=size1>The culprit <CLT=size1>could've"
+msgstr ""
+
+msgctxt "0012 | C013_Yonag"
+msgid "The culprit could've snuck up on him."
+msgstr ""
+
+msgctxt "0013 | C013_Yonag"
+msgid ""
+"<CLT=size2>snuck\n"
+"up"
+msgstr ""
+
+msgctxt "0014 | C013_Yonag"
+msgid "on him."
+msgstr ""
+
+msgctxt "0015 | C002_Hoshi"
+msgid ""
+"I bet you know\n"
+"<CLT=size2>what I’m talking<CLT=size1> about."
+msgstr ""
+
+msgctxt "0016 | C002_Hoshi"
+msgid "What was he even doin' in the library anyway?"
+msgstr ""
+
+msgctxt "0017 | C001_Momot"
+msgid "He was <CLT=size2>opening"
+msgstr ""
+
+msgctxt "0018 | C001_Momot"
+msgid "He was opening that moving bookcase for one reason..."
+msgstr ""
+
+msgctxt "0019 | C001_Momot"
+msgid "<CLT=size1>that"
+msgstr ""
+
+msgctxt "0020 | C001_Momot"
+msgid ""
+"<CLT=size2>moving\n"
+"bookcase"
+msgstr ""
+
+msgctxt "0021 | C001_Momot"
+msgid "for one reason..."
+msgstr ""
+
+msgctxt "0022 | C001_Momot"
+msgid "Cuz he knew"
+msgstr ""
+
+msgctxt "0023 | C001_Momot"
+msgid "Cuz he knew about the hidden door!"
+msgstr ""
+
+msgctxt "0024 | C001_Momot"
+msgid "<CLT=size2>about"
+msgstr ""
+
+msgctxt "0025 | C001_Momot"
+msgid "the <CLT=size2>hidden door!"
+msgstr ""
+
+msgctxt "0026 | C001_Momot"
+msgid ""
+"<CLT=size1>That means\n"
+"<CLT=cltWEAK><CLT=size2>Rantaro was \n"
+"\n"
+"masterminding<CLT=cltNORMAL> \n"
+"<CLT=size1>this whole thing!"
+msgstr ""
+
+msgctxt "0027 | C001_Momot"
+msgid ""
+"That means Rantaro was\n"
+"masterminding this whole thing!"
+msgstr ""

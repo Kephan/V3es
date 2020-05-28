@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C001_Momot"
+msgid ""
+"I refuse to <CLT=size2>believe<CLT=size1> that\n"
+"<CLT=size2>Kaede<CLT=size1> is the <CLT=size2>culprit!"
+msgstr ""
+
+msgctxt "0002 | C001_Momot"
+msgid "I refuse to believe that Kaede is the culprit!"
+msgstr ""
+
+msgctxt "0003 | C001_Momot"
+msgid "I still have my <CLT=size2>doubts!"
+msgstr ""
+
+msgctxt "0004 | C001_Momot"
+msgid "I still have my doubts!"
+msgstr ""
+
+msgctxt "0005 | C009_Yumen"
+msgid "What kinda <CLT=size2>doubts?"
+msgstr ""
+
+msgctxt "0006 | C009_Yumen"
+msgid "What kinda doubts?"
+msgstr ""
+
+msgctxt "0007 | C001_Momot"
+msgid "Doubts about the"
+msgstr ""
+
+msgctxt "0008 | C001_Momot"
+msgid "Doubts about the noise, of course!"
+msgstr ""
+
+msgctxt "0009 | C001_Momot"
+msgid "<CLT=size2>noise,"
+msgstr ""
+
+msgctxt "0010 | C001_Momot"
+msgid "of course!"
+msgstr ""
+
+msgctxt "0011 | C001_Momot"
+msgid "<CLT=cltWEAK>The <CLT=size2>library"
+msgstr ""
+
+msgctxt "0012 | C001_Momot"
+msgid "The library shoulda been quiet, right?"
+msgstr ""
+
+msgctxt "0013 | C001_Momot"
+msgid ""
+"<CLT=cltWEAK>shoulda been <CLT=size2>quiet,\n"
+"<CLT=cltNORMAL><CLT=size1>right?"
+msgstr ""
+
+msgctxt "0014 | C001_Momot"
+msgid "If that <CLT=size2>shot<CLT=size1> was rolling through the <CLT=size2>vents..."
+msgstr ""
+
+msgctxt "0015 | C001_Momot"
+msgid "If that shot was rolling through the vents..."
+msgstr ""
+
+msgctxt "0016 | C001_Momot"
+msgid "<CLT=cltWEAK>it woulda made <CLT=size2>a ton"
+msgstr ""
+
+msgctxt "0017 | C001_Momot"
+msgid "it woulda made a ton of noise!"
+msgstr ""
+
+msgctxt "0018 | C001_Momot"
+msgid "<CLT=cltWEAK><CLT=size2>of <CLT=size3>noise!<CLT=cltNORMAL>"
+msgstr ""
+
+msgctxt "0019 | C004_Gokuh"
+msgid "<CLT=size3>Indeed!"
+msgstr ""
+
+msgctxt "0020 | C004_Gokuh"
+msgid "Indeed! So much noise..."
+msgstr ""
+
+msgctxt "0021 | C004_Gokuh"
+msgid "So much <CLT=size2>noise..."
+msgstr ""
+
+msgctxt "0022 | C004_Gokuh"
+msgid "<CLT=cltWEAK><CLT=size2>Rantaro<CLT=size1> woulda <CLT=size2>heard!<CLT=cltNORMAL>"
+msgstr ""
+
+msgctxt "0023 | C004_Gokuh"
+msgid "Rantaro woulda heard!"
+msgstr ""
+
+msgctxt "0024 | C002_Hoshi"
+msgid "Eh, some noise ain't a <CLT=size2>big deal."
+msgstr ""
+
+msgctxt "0025 | C002_Hoshi"
+msgid "Eh, some noise ain't a big deal."
+msgstr ""
+
+msgctxt "0026 | C011_Chaba"
+msgid "<CLT=size4>Of course,"
+msgstr ""
+
+msgctxt "0027 | C011_Chaba"
+msgid "Of course, it's a big deal!"
+msgstr ""
+
+msgctxt "0028 | C011_Chaba"
+msgid "it's a <CLT=size2>big deal!"
+msgstr ""
+
+msgctxt "0029 | C006_Shing"
+msgid "Doubts?"
+msgstr ""
+
+msgctxt "0030 | C010_Haruk"
+msgid "Is there still more?"
+msgstr ""
+
+msgctxt "0031 | C007_Ki-Bo"
+msgid "What kind of doubts?"
+msgstr ""
+
+msgctxt "0032 | C014_Iruma"
+msgid "Noise!?"
+msgstr ""
+
+msgctxt "0033 | C010_Haruk"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "0034 | C005_Oma__"
+msgid "Eh?"
+msgstr ""
+
+msgctxt "0035 | C011_Chaba"
+msgid "It should have been quiet!"
+msgstr ""
+
+msgctxt "0036 | C005_Oma__"
+msgid "That's a good point!"
+msgstr ""
+
+msgctxt "0037 | C006_Shing"
+msgid "Hm, I wonder."
+msgstr ""
+
+msgctxt "0038 | C013_Yonag"
+msgid "I see!"
+msgstr ""
+
+msgctxt "0039 | C002_Hoshi"
+msgid "Sure about that?"
+msgstr ""
+
+msgctxt "0040 | C004_Gokuh"
+msgid "Is true!"
+msgstr ""
+
+msgctxt "0041 | C001_Momot"
+msgid "Yes! I'm positive!"
+msgstr ""

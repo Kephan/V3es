@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C015_Akama"
+msgid "Morning, Ryoma."
+msgstr ""
+
+msgctxt "0002 | C002_Hoshi"
+msgid ""
+"Oh, it's you...and Shuichi too, huh?\n"
+"You guys are always together."
+msgstr ""
+
+msgctxt "0003 | C015_Akama"
+msgid "Whaaat? We're not *always* together..."
+msgstr ""
+
+msgctxt "0004 | C002_Hoshi"
+msgid ""
+"Hmph, well not \"always,\" but I feel like \n"
+"whenever I see one of you, the other's nearby."
+msgstr ""
+
+msgctxt "0005 | C000_Saiha"
+msgid "I-Is that right...?"
+msgstr ""
+
+msgctxt "0006 | C002_Hoshi"
+msgid ""
+"Well, it's not a bad thing. You can't protect \n"
+"yourself when you're alone."
+msgstr ""
+
+msgctxt "0007 | C015_Akama"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "0008 | C002_Hoshi"
+msgid ""
+"I thought something would happen at night...\n"
+"when it's easiest to get someone alone..."
+msgstr ""
+
+msgctxt "0009 | C002_Hoshi"
+msgid ""
+"But everyone's safe and nothing \n"
+"all that bad has happened."
+msgstr ""
+
+msgctxt "0010 | C015_Akama"
+msgid "Of course! No one would do that!"
+msgstr ""
+
+msgctxt "0011 | C002_Hoshi"
+msgid "Hmph...I said it before, but..."
+msgstr ""
+
+msgctxt "0012 | C002_Hoshi"
+msgid ""
+"If you really want to live through a \n"
+"situation like this, grumbling won't help."
+msgstr ""
+
+msgctxt "0013 | C015_Akama"
+msgid "What...?"
+msgstr ""
+
+msgctxt "0014 | C002_Hoshi"
+msgid ""
+"I understand that you want to believe\n"
+"in everyone, but..."
+msgstr ""
+
+msgctxt "0015 | C002_Hoshi"
+msgid ""
+"Idealistic thoughts like that won't save anyone.\n"
+"You might end up losing what you tried to save."
+msgstr ""
+
+msgctxt "0016 | C015_Akama"
+msgid "What do you mean by that?"
+msgstr ""
+
+msgctxt "0017 | C002_Hoshi"
+msgid "Who knows...? I've talked too much."
+msgstr ""
+
+msgctxt "0018 | C002_Hoshi"
+msgid ""
+"Anyway...you guys only have a little bit \n"
+"of time left to think."
+msgstr ""
+
+msgctxt "0019 | C002_Hoshi"
+msgid ""
+"That's the situation. The best thing to do \n"
+"is live life with confidence."
+msgstr ""
+
+msgctxt "0020 | C002_Hoshi"
+msgid "That's all I can say."
+msgstr ""
+
+msgctxt "0021 | C002_Hoshi"
+msgid "Don't forget it..."
+msgstr ""
+
+msgctxt "0022 | C002_Hoshi"
+msgid ""
+"If you really want to live through a \n"
+"situation like this, grumbling won't help."
+msgstr ""
+
+msgctxt "0023 | C003_Amami"
+msgid "Good morning."
+msgstr ""
+
+msgctxt "0024 | C015_Akama"
+msgid "Morning, Rantaro."
+msgstr ""
+
+msgctxt "0025 | C000_Saiha"
+msgid ""
+"Good morning, Rantaro... Ah, actually,\n"
+"may I ask you a question?"
+msgstr ""
+
+msgctxt "0026 | C003_Amami"
+msgid "Hm? What's up?"
+msgstr ""
+
+msgctxt "0027 | C003_Amami"
+msgid ""
+"Being questioned by the <CLT=cltSTRONG>Ultimate Detective<CLT=typeNORMAL> \n"
+"is making me kind of nervous."
+msgstr ""
+
+msgctxt "0028 | C000_Saiha"
+msgid ""
+"No, well, it's not...\n"
+"It's nothing bad."
+msgstr ""
+
+msgctxt "0029 | C003_Amami"
+msgid ""
+"Haha, I know, I'm just teasing.\n"
+"What's up, Shuichi?"
+msgstr ""
+
+msgctxt "0030 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0031 | C000_Saiha"
+msgid ""
+"I wanted to know what you meant\n"
+"by the <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0032 | C015_Akama"
+msgid "Oh, yeah! I wanted to know about that too!"
+msgstr ""
+
+msgctxt "0033 | C003_Amami"
+msgid "..."
+msgstr "..."
+
+msgctxt "0034 | C003_Amami"
+msgid ""
+"I told you, it's nothing.\n"
+"Just forget about it."
+msgstr ""
+
+msgctxt "0035 | C000_Saiha"
+msgid "But..."
+msgstr ""
+
+msgctxt "0036 | C003_Amami"
+msgid ""
+"Look, like I told you before,\n"
+"I was just a little confused."
+msgstr ""
+
+msgctxt "0037 | C003_Amami"
+msgid ""
+"Not being able to remember my own\n"
+"talent is...stressing me out."
+msgstr ""
+
+msgctxt "0038 | C003_Amami"
+msgid ""
+"Really, I would appreciate it if you\n"
+"didn't ask me about it anymore."
+msgstr ""
+
+msgctxt "0039 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0040 | C000_Saiha"
+msgid ""
+"I understand. Sorry if it seemed\n"
+"like I was interrogating you."
+msgstr ""
+
+msgctxt "0041 | C003_Amami"
+msgid ""
+"No, no...\n"
+"I'm sorry that I'm not much help."
+msgstr ""
+
+msgctxt "0042 | C003_Amami"
+msgid "Well then, I'll see you later."
+msgstr ""
+
+msgctxt "0043 | C015_Akama"
+msgid ""
+"Hey, Shuichi... Do you think Rantaro is really\n"
+"just confused?"
+msgstr ""
+
+msgctxt "0044 | C000_Saiha"
+msgid "I don't know, but..."
+msgstr ""
+
+msgctxt "0045 | C000_Saiha"
+msgid ""
+"He certainly doesn't want to talk about it.\n"
+"We shouldn't ask him any more questions..."
+msgstr ""
+
+msgctxt "0046 | C015_Akama"
+msgid ""
+"Yeah... We should be focusing on exposing\n"
+"the mastermind."
+msgstr ""
+
+msgctxt "0047 | C015_Akama"
+msgid "Morning, Keebo."
+msgstr ""
+
+msgctxt "0048 | C007_Ki-Bo"
+msgid "Ah, good morning."
+msgstr ""
+
+msgctxt "0049 | C007_Ki-Bo"
+msgid ""
+"Your timing is impeccable. I have something\n"
+"I wish to ask you both."
+msgstr ""
+
+msgctxt "0050 | C000_Saiha"
+msgid "Huh? What is it, Keebo?"
+msgstr ""
+
+msgctxt "0051 | C007_Ki-Bo"
+msgid ""
+"What are your thoughts on this door?\n"
+"No matter how hard I try, it will not open..."
+msgstr ""
+
+msgctxt "0052 | C015_Akama"
+msgid "Um, well...it doesn't seem like an exit..."
+msgstr ""
+
+msgctxt "0053 | C007_Ki-Bo"
+msgid ""
+"What do you think is on the other side\n"
+"of this wall?"
+msgstr ""
+
+msgctxt "0054 | C005_Oma__"
+msgid ""
+"Why don't you just fly over and see\n"
+"for yourself?"
+msgstr ""
+
+msgctxt "0055 | C007_Ki-Bo"
+msgid "Whoa—!?"
+msgstr ""
+
+msgctxt "0056 | C000_Saiha"
+msgid "K-Kokichi!?"
+msgstr ""
+
+msgctxt "0057 | C005_Oma__"
+msgid "C'mon! I wanna see you fly!"
+msgstr ""
+
+msgctxt "0058 | C005_Oma__"
+msgid ""
+"Robots have jet packs or whatever under\n"
+"their feet, right?"
+msgstr ""
+
+msgctxt "0059 | C007_Ki-Bo"
+msgid "..."
+msgstr "..."
+
+msgctxt "0060 | C005_Oma__"
+msgid "Whaaat!? You...don't...?"
+msgstr ""
+
+msgctxt "0061 | C007_Ki-Bo"
+msgid "...No, I don't."
+msgstr ""
+
+msgctxt "0062 | C005_Oma__"
+msgid "...Have a dick?"
+msgstr ""
+
+msgctxt "0063 | C007_Ki-Bo"
+msgid "Wh-What are you talking about!?"
+msgstr ""
+
+msgctxt "0064 | C005_Oma__"
+msgid "Oh, yeah! If you had a jet pack..."
+msgstr ""
+
+msgctxt "0065 | C005_Oma__"
+msgid ""
+"...then you could've flown over the wall\n"
+"and called for help!"
+msgstr ""
+
+msgctxt "0066 | C007_Ki-Bo"
+msgid "..."
+msgstr "..."
+
+msgctxt "0067 | C005_Oma__"
+msgid ""
+"Geeeez! You're just a huge disappointment,\n"
+"Keebo!"
+msgstr ""
+
+msgctxt "0068 | C007_Ki-Bo"
+msgid "..."
+msgstr "..."
+
+msgctxt "0069 | C015_Akama"
+msgid "K-Keebo?"
+msgstr ""
+
+msgctxt "0070 | C007_Ki-Bo"
+msgid "...I'm fine. Please just let it be."
+msgstr ""
+
+msgctxt "0071 | C007_Ki-Bo"
+msgid "I...don't like sci-fi functions like flight."
+msgstr ""
+
+msgctxt "0072 | chara_Blank"
+msgid "<CLT=cltMIND>But aren't you already pretty sci-fi?"
+msgstr ""
+
+msgctxt "0073 | C007_Ki-Bo"
+msgid "..."
+msgstr "..."
+
+msgctxt "0074 | chara_Blank"
+msgid "<CLT=cltMIND>Um...it might be better to leave them alone..."
+msgstr ""
+
+msgctxt "0075 | chara_Blank"
+msgid "<CLT=cltMIND>Huh?"
+msgstr ""
+
+msgctxt "0076 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>This door was blocked before...\n"
+"When did it become accessible?"
+msgstr ""
+
+msgctxt "0077 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Casino Area Door Hexagon Wrench Gimmick\n"
+"(Closed)"
+msgstr ""
+
+msgctxt "0078 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Casino Area Door Hexagon Wrench Gimmick\n"
+"(Open)"
+msgstr ""

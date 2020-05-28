@@ -1,0 +1,1966 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Once we all had climbed down the ladder, we\n"
+"looked around and saw an open area."
+msgstr ""
+
+msgctxt "0002 | C002_Hoshi"
+msgid "It's more spacious than I thought it'd be..."
+msgstr ""
+
+msgctxt "0003 | C005_Oma__"
+msgid "Yodelay-hee-hoooooo!"
+msgstr ""
+
+msgctxt "0004 | C010_Haruk"
+msgid "What is this place...?"
+msgstr ""
+
+msgctxt "0005 | C008_Tojo_"
+msgid ""
+"An old industrial passageway, I suspect...\n"
+"Perhaps factories once existed here?"
+msgstr ""
+
+msgctxt "0006 | C001_Momot"
+msgid "And this is all that's left of 'em."
+msgstr ""
+
+msgctxt "0007 | C003_Amami"
+msgid "Hey, take a look at this."
+msgstr ""
+
+msgctxt "0008 | C003_Amami"
+msgid ""
+"What a considerate sign... Apparently,\n"
+"the end of the tunnel is the exit."
+msgstr ""
+
+msgctxt "0009 | C011_Chaba"
+msgid ""
+"Considerate? You don't think it's weird that\n"
+"someone went out of their way to write \"<CLT=cltSTRONG>exit<CLT=cltNORMAL>\"?"
+msgstr ""
+
+msgctxt "0010 | C014_Iruma"
+msgid ""
+"Hah-haha! Don't piss yourself in fear!\n"
+"Your natural scent is bad enough!"
+msgstr ""
+
+msgctxt "0011 | C011_Chaba"
+msgid "I-I'm not scared! And I smell just fine!"
+msgstr ""
+
+msgctxt "0012 | C003_Amami"
+msgid ""
+"Well then, go on ahead.\n"
+"No point standing around here."
+msgstr ""
+
+msgctxt "0013 | C000_Saiha"
+msgid "Ah, yeah..."
+msgstr ""
+
+msgctxt "0014 | C015_Akama"
+msgid "No need to worry!"
+msgstr ""
+
+msgctxt "0015 | C015_Akama"
+msgid ""
+"It looks a bit dangerous, but we're all\n"
+"<CLT=cltSTRONG>Ultimates<CLT=cltNORMAL> here!"
+msgstr ""
+
+msgctxt "0016 | C015_Akama"
+msgid ""
+"As long as we work together, everything will\n"
+"work out just fine!"
+msgstr ""
+
+msgctxt "0017 | C000_Saiha"
+msgid "Y-Yeah...you're right."
+msgstr ""
+
+msgctxt "0018 | C001_Momot"
+msgid ""
+"That's exactly what I was gonna say!\n"
+"We're really on the same wavelength, Kaede!"
+msgstr ""
+
+msgctxt "0019 | C001_Momot"
+msgid "Gimme a hug!"
+msgstr ""
+
+msgctxt "0020 | C015_Akama"
+msgid "Um...no."
+msgstr ""
+
+msgctxt "0021 | C011_Chaba"
+msgid ""
+"Typical degenerate behavior! You were trying to\n"
+"trick her into pressing her boobs against you!"
+msgstr ""
+
+msgctxt "0022 | C015_Akama"
+msgid "..."
+msgstr "..."
+
+msgctxt "0023 | C015_Akama"
+msgid "Uh... What...?"
+msgstr ""
+
+msgctxt "0024 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>As I slowly opened my eyes, it dawned on me\n"
+"that I had somehow lost consciousness."
+msgstr ""
+
+msgctxt "0025 | C015_Akama"
+msgid "Oh!"
+msgstr ""
+
+msgctxt "0026 | C008_Tojo_"
+msgid "You're awake... Are you alright?"
+msgstr ""
+
+msgctxt "0027 | C015_Akama"
+msgid "I-I'm fine, but what about everyone else?"
+msgstr ""
+
+msgctxt "0028 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I looked around and saw the others sitting\n"
+"on the ground."
+msgstr ""
+
+msgctxt "0029 | C007_Ki-Bo"
+msgid "..."
+msgstr "..."
+
+msgctxt "0030 | C009_Yumen"
+msgid "..."
+msgstr "..."
+
+msgctxt "0031 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Everyone sat in stunned silence...\n"
+"A sobering sadness filled the air—"
+msgstr ""
+
+msgctxt "0032 | C020_Monok"
+msgid ""
+"Geez, this is quite the pity party you sadsacks\n"
+"are throwing for yourselves!"
+msgstr ""
+
+msgctxt "0033 | C015_Akama"
+msgid "M-Monokuma!?"
+msgstr ""
+
+msgctxt "0034 | C023_Mfunn"
+msgid ""
+"Wow, you all look exhausted.\n"
+"Poor things. I feel sorry for you."
+msgstr ""
+
+msgctxt "0035 | C021_Mtaro"
+msgid ""
+"Sheesh, this place is filthy. It's murder on\n"
+"my cashmere skin."
+msgstr ""
+
+msgctxt "0036 | C025_Mkid_"
+msgid ""
+"I bet Monodam is feelin' lucky right now!\n"
+"His body's already a cheap piece of junk!"
+msgstr ""
+
+msgctxt "0037 | C024_Mdam_"
+msgid "..."
+msgstr "..."
+
+msgctxt "0038 | C022_Msuke"
+msgid ""
+"Why don'tcha respond to him, Monodam?\n"
+"It'll liven things up a little, y'know?"
+msgstr ""
+
+msgctxt "0039 | C001_Momot"
+msgid ""
+"Tch... So you guys crawled outta your holes.\n"
+"I guess you finally noticed what we were up to."
+msgstr ""
+
+msgctxt "0040 | C020_Monok"
+msgid "...Noticed?"
+msgstr ""
+
+msgctxt "0041 | C020_Monok"
+msgid ""
+"I've known for a while that you guys would\n"
+"botch whatever escape plan you had."
+msgstr ""
+
+msgctxt "0042 | C015_Akama"
+msgid "What?"
+msgstr ""
+
+msgctxt "0043 | C021_Mtaro"
+msgid ""
+"Y-Yeah, I also...kinda...pretty much knew,\n"
+"too..."
+msgstr ""
+
+msgctxt "0044 | C022_Msuke"
+msgid "...That's a lie."
+msgstr ""
+
+msgctxt "0045 | C010_Haruk"
+msgid "If you knew all along, then this was just a trap."
+msgstr ""
+
+msgctxt "0046 | C011_Chaba"
+msgid "Then there *was* no exit! You tricked us!"
+msgstr ""
+
+msgctxt "0047 | C023_Mfunn"
+msgid "...No, there's an exit."
+msgstr ""
+
+msgctxt "0048 | C021_Mtaro"
+msgid ""
+"I think you guys'll manage to reach it\n"
+"if you all work together!"
+msgstr ""
+
+msgctxt "0049 | C023_Mfunn"
+msgid ""
+"Yeah! There's nothing you 16 <CLT=cltSTRONG>Ultimates<CLT=cltNORMAL>\n"
+"can't accomplish if you work together!"
+msgstr ""
+
+msgctxt "0050 | C020_Monok"
+msgid "Puhuhu. And if at first you don't succeed..."
+msgstr ""
+
+msgctxt "0051 | C020_Monok"
+msgid "...try, try again."
+msgstr ""
+
+msgctxt "0052 | C020_Monok"
+msgid ""
+"Try as many times as you want until you\n"
+"accept reality! Ah-hahahaha!"
+msgstr ""
+
+msgctxt "0053 | C027_Mono5"
+msgid "Kyahahahaha!"
+msgstr ""
+
+msgctxt "0054 | C009_Yumen"
+msgid ""
+"Nyeeeh, so we can escape if we\n"
+"work hard enough...?"
+msgstr ""
+
+msgctxt "0055 | C014_Iruma"
+msgid ""
+"No way, you little moron! They'd be freakin'\n"
+"out if we could actually reach it!"
+msgstr ""
+
+msgctxt "0056 | C002_Hoshi"
+msgid "That's probably why they let us try."
+msgstr ""
+
+msgctxt "0057 | C002_Hoshi"
+msgid ""
+"They wanted us to try the underground passage\n"
+"so we'd learn that escape is impossible."
+msgstr ""
+
+msgctxt "0058 | C003_Amami"
+msgid ""
+"Instead of blocking off every exit completely,\n"
+"they leave that little bit of hope..."
+msgstr ""
+
+msgctxt "0059 | C003_Amami"
+msgid ""
+"They want us to be <CLT=cltSTRONG>desperate to go home<CLT=cltNORMAL>.\n"
+"Corner us mentally."
+msgstr ""
+
+msgctxt "0060 | C012_Shiro"
+msgid "That's just rotten..."
+msgstr ""
+
+msgctxt "0061 | C015_Akama"
+msgid "Yeah, but we can't just give up..."
+msgstr ""
+
+msgctxt "0062 | C015_Akama"
+msgid ""
+"Right, you guys? I mean, we've only failed once,\n"
+"y'know."
+msgstr ""
+
+msgctxt "0063 | C015_Akama"
+msgid "We can't give up this early, right?"
+msgstr ""
+
+msgctxt "0064 | C009_Yumen"
+msgid "But...isn't getting out of here impossible?"
+msgstr ""
+
+msgctxt "0065 | C015_Akama"
+msgid ""
+"No, it's not. It may take one more try or a lot\n"
+"more tries, but it's not impossible."
+msgstr ""
+
+msgctxt "0066 | C015_Akama"
+msgid ""
+"Forget about Monokuma. It doesn't matter what\n"
+"he says to us."
+msgstr ""
+
+msgctxt "0067 | C015_Akama"
+msgid ""
+"I don't wanna lose to him! And I don't want any\n"
+"of you to lose, either!"
+msgstr ""
+
+msgctxt "0068 | C015_Akama"
+msgid ""
+"I refuse to lose to someone who would do\n"
+"these terrible things to us!"
+msgstr ""
+
+msgctxt "0069 | C000_Saiha"
+msgid "Kaede..."
+msgstr ""
+
+msgctxt "0070 | C015_Akama"
+msgid ""
+"So let's all work hard to escape this place\n"
+"together!"
+msgstr ""
+
+msgctxt "0071 | C015_Akama"
+msgid ""
+"And once we get out of here and make it\n"
+"to the outside world..."
+msgstr ""
+
+msgctxt "0072 | C015_Akama"
+msgid "Why don't we all stay friends?"
+msgstr ""
+
+msgctxt "0073 | C004_Gokuh"
+msgid "...F-Friends?"
+msgstr ""
+
+msgctxt "0074 | C015_Akama"
+msgid ""
+"Yeah... After going through an experience like\n"
+"this, I think we'd all be the best of friends."
+msgstr ""
+
+msgctxt "0075 | C015_Akama"
+msgid ""
+"I mean, it's not every day you get to meet\n"
+"other <CLT=cltSTRONG>Ultimates<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0076 | C015_Akama"
+msgid "...So what do you say?"
+msgstr ""
+
+msgctxt "0077 | C002_Hoshi"
+msgid "Hmph...that might not be bad."
+msgstr ""
+
+msgctxt "0078 | C012_Shiro"
+msgid "Yeah. That's a great idea."
+msgstr ""
+
+msgctxt "0079 | C008_Tojo_"
+msgid ""
+"Then we've all the more reason to escape\n"
+"this place, no matter what."
+msgstr ""
+
+msgctxt "0080 | C011_Chaba"
+msgid ""
+"My body is ready! You can tell by how outta\n"
+"control my pit sweat is!"
+msgstr ""
+
+msgctxt "0081 | C015_Akama"
+msgid "E-Everyone!"
+msgstr ""
+
+msgctxt "0082 | C007_Ki-Bo"
+msgid ""
+"Isn't it premature to say what we'll do after\n"
+"we escape? Assumptions are all but useless."
+msgstr ""
+
+msgctxt "0083 | C005_Oma__"
+msgid ""
+"Geez, you're clueless... Why am I not surprised\n"
+"that a robot can't read the air?"
+msgstr ""
+
+msgctxt "0084 | C007_Ki-Bo"
+msgid ""
+"Robots can read the air! Thanks to innovations\n"
+"in pollutant-detecting technology, I—"
+msgstr ""
+
+msgctxt "0085 | C001_Momot"
+msgid ""
+"Anyway, it doesn't matter if Monokuma says it's\n"
+"impossible! We'll show him what we can do!"
+msgstr ""
+
+msgctxt "0086 | C015_Akama"
+msgid "Yeah! You're right!"
+msgstr ""
+
+msgctxt "0087 | C009_Yumen"
+msgid "It seems like a pain...but I guess I'll try."
+msgstr ""
+
+msgctxt "0088 | C005_Oma__"
+msgid ""
+"Yeah, let's work together! We messed up last\n"
+"time, but I'm sure it'll go well this time!"
+msgstr ""
+
+msgctxt "0089 | C013_Yonag"
+msgid ""
+"I'm sure we'll be fine. A divine wind will\n"
+"blow through and lift us to victory."
+msgstr ""
+
+msgctxt "0090 | C006_Shing"
+msgid ""
+"Aaah, humanity is *truly* wonderful. The way\n"
+"you all confront adversity is beautiful."
+msgstr ""
+
+msgctxt "0091 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>With our bond stronger than ever, we stepped\n"
+"into the tunnel once more."
+msgstr ""
+
+msgctxt "0092 | C015_Akama"
+msgid "..."
+msgstr "..."
+
+msgctxt "0093 | C015_Akama"
+msgid "Uh...uuhhh..."
+msgstr ""
+
+msgctxt "0094 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>When I finally woke up, searing pain coursed\n"
+"throughout my entire body."
+msgstr ""
+
+msgctxt "0095 | C015_Akama"
+msgid "I-I see... I lost...consciousness again..."
+msgstr ""
+
+msgctxt "0096 | C014_Iruma"
+msgid ""
+"Wh-What the—? And I was lookin' forward\n"
+"to a happy ending!"
+msgstr ""
+
+msgctxt "0097 | C005_Oma__"
+msgid "Not yet! We're just getting started!"
+msgstr ""
+
+msgctxt "0098 | C011_Chaba"
+msgid ""
+"O-Of course!\n"
+"This will be...a piece of cake!"
+msgstr ""
+
+msgctxt "0099 | C004_Gokuh"
+msgid ""
+"Gonta gonna escape. Become friends with\n"
+"everyone. Gentlemen...never give up!"
+msgstr ""
+
+msgctxt "0100 | C015_Akama"
+msgid ""
+"Th-This time...!\n"
+"This time...we'll reach the exit!"
+msgstr ""
+
+msgctxt "0101 | chara_Blank"
+msgid "<CLT=cltMIND>This time..."
+msgstr ""
+
+msgctxt "0102 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Those words carried me as I stepped into\n"
+"the tunnel once again."
+msgstr ""
+
+msgctxt "0103 | chara_Blank"
+msgid "<CLT=cltMIND>But..."
+msgstr ""
+
+msgctxt "0104 | chara_Blank"
+msgid "<CLT=cltMIND>It was no good."
+msgstr ""
+
+msgctxt "0105 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Even so, we refused to surrender... We kept\n"
+"telling ourselves that \"this time\" we'll escape."
+msgstr ""
+
+msgctxt "0106 | chara_Blank"
+msgid "<CLT=cltMIND>But...we failed each time..."
+msgstr ""
+
+msgctxt "0107 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>With every attempt, we repeated the words\n"
+"\"this time\" over and over again..."
+msgstr ""
+
+msgctxt "0108 | chara_Blank"
+msgid "<CLT=cltMIND>But in the end, we couldn't do it."
+msgstr ""
+
+msgctxt "0109 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I thought we'd be able to escape as long\n"
+"as we never gave up..."
+msgstr ""
+
+msgctxt "0110 | chara_Blank"
+msgid "<CLT=cltMIND>But it made no difference in the end."
+msgstr ""
+
+msgctxt "0111 | C004_Gokuh"
+msgid "Failed...again."
+msgstr ""
+
+msgctxt "0112 | C001_Momot"
+msgid "Damn it...!"
+msgstr ""
+
+msgctxt "0113 | C012_Shiro"
+msgid "I can't...go on..."
+msgstr ""
+
+msgctxt "0114 | C015_Akama"
+msgid "Wait, we can't give up. This time, we'll—"
+msgstr ""
+
+msgctxt "0115 | C005_Oma__"
+msgid "...Knock it off already."
+msgstr ""
+
+msgctxt "0116 | C015_Akama"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "0117 | C005_Oma__"
+msgid ""
+"You're free to keep trying on your own, but\n"
+"forcing us to join you is basically torture."
+msgstr ""
+
+msgctxt "0118 | C015_Akama"
+msgid "T-Torture?"
+msgstr ""
+
+msgctxt "0119 | C005_Oma__"
+msgid ""
+"You know what really hurts? Being denied the\n"
+"right to give up in an impossible situation..."
+msgstr ""
+
+msgctxt "0120 | C005_Oma__"
+msgid ""
+"You won't let us give up and no matter what\n"
+"we say, you have the moral high ground..."
+msgstr ""
+
+msgctxt "0121 | C005_Oma__"
+msgid "That...doesn't sound like torture to you?"
+msgstr ""
+
+msgctxt "0122 | C005_Oma__"
+msgid ""
+"When you say we can't give up, you're not\n"
+"inspiring us—you're strong-arming us!"
+msgstr ""
+
+msgctxt "0123 | C015_Akama"
+msgid "I-I didn't mean it like that..."
+msgstr ""
+
+msgctxt "0124 | C011_Chaba"
+msgid "Hey, degenerate! Quit being so selfish!"
+msgstr ""
+
+msgctxt "0125 | C005_Oma__"
+msgid ""
+"I-I'm not being selfish...\n"
+"The others feel the same way, too..."
+msgstr ""
+
+msgctxt "0126 | C015_Akama"
+msgid "What?"
+msgstr ""
+
+msgctxt "0127 | C015_Akama"
+msgid "E-Everyone...?"
+msgstr ""
+
+msgctxt "0128 | C006_Shing"
+msgid ""
+"My spirit...is nearly broken...\n"
+"This hardship gnaws at me..."
+msgstr ""
+
+msgctxt "0129 | C007_Ki-Bo"
+msgid ""
+"Given the circumstance...the most logical\n"
+"course of action would be to give up..."
+msgstr ""
+
+msgctxt "0130 | C012_Shiro"
+msgid ""
+"Yeah...I feel like Hisashi Mitsui in the \n"
+"second half of a basketball game."
+msgstr ""
+
+msgctxt "0131 | C010_Haruk"
+msgid "I knew this was impossible from the start."
+msgstr ""
+
+msgctxt "0132 | C014_Iruma"
+msgid ""
+"Kh... This bullshit is a waste of my\n"
+"precious time and energy."
+msgstr ""
+
+msgctxt "0133 | C009_Yumen"
+msgid ""
+"I can't let you all rely on my magic...\n"
+"Besides, I don't have enough MP left."
+msgstr ""
+
+msgctxt "0134 | C013_Yonag"
+msgid ""
+"I'm just relieved that no one was seriously\n"
+"injured. Praise be to Atua."
+msgstr ""
+
+msgctxt "0135 | C004_Gokuh"
+msgid "P-Please, wait! We...no can give up!"
+msgstr ""
+
+msgctxt "0136 | C001_Momot"
+msgid ""
+"You guys! Are you really okay with\n"
+"not getting out of this place!?"
+msgstr ""
+
+msgctxt "0137 | C005_Oma__"
+msgid ""
+"We shouldn't have to push ourselves...\n"
+"Let's just find another way out, okay?"
+msgstr ""
+
+msgctxt "0138 | C015_Akama"
+msgid "What!?"
+msgstr ""
+
+msgctxt "0139 | C003_Amami"
+msgid ""
+"...You're talking about the\n"
+"killing game, aren't you?"
+msgstr ""
+
+msgctxt "0140 | C005_Oma__"
+msgid "Oh, so you're gonna interpret it like that, huh?"
+msgstr ""
+
+msgctxt "0141 | C011_Chaba"
+msgid ""
+"Wh-What are you saying!?\n"
+"There's no way we can do the killing game!"
+msgstr ""
+
+msgctxt "0142 | C005_Oma__"
+msgid ""
+"Nee-heehee... Calm down. Want some bubble\n"
+"gum? You can blow pretty big bubbles with it."
+msgstr ""
+
+msgctxt "0143 | C011_Chaba"
+msgid ""
+"Oh-hoho... Looks like this little degenerate\n"
+"wants his head smashed into the ground."
+msgstr ""
+
+msgctxt "0144 | C000_Saiha"
+msgid "S-Stop, guys, we shouldn't be fighting..."
+msgstr ""
+
+msgctxt "0145 | C002_Hoshi"
+msgid "Geez..."
+msgstr ""
+
+msgctxt "0146 | C002_Hoshi"
+msgid ""
+"We fell apart pretty quick for a group that\n"
+"decided to be friends and work together."
+msgstr ""
+
+msgctxt "0147 | C015_Akama"
+msgid "..."
+msgstr "..."
+
+msgctxt "0148 | C015_Akama"
+msgid ""
+"I'm sorry...this is my fault.\n"
+"I'm so sorry..."
+msgstr ""
+
+msgctxt "0149 | C000_Saiha"
+msgid "No, Kaede..."
+msgstr ""
+
+msgctxt "0150 | C001_Momot"
+msgid ""
+"I-Idiot! What're *you* apologizing for!?\n"
+"It's not your fault at all!"
+msgstr ""
+
+msgctxt "0151 | C010_Haruk"
+msgid "...Really? I think it is Kaede's fault."
+msgstr ""
+
+msgctxt "0152 | C001_Momot"
+msgid "H-Huh!? Why!?"
+msgstr ""
+
+msgctxt "0153 | C022_Msuke"
+msgid ""
+"This is an official announcement from the\n"
+"Ultimate Academy for Gifted Juveniles."
+msgstr ""
+
+msgctxt "0154 | C021_Mtaro"
+msgid ""
+"It is now 10 p.m. <CLT=cltSTRONG>Nighttime<CLT=cltNORMAL> officially starts\n"
+"now."
+msgstr ""
+
+msgctxt "0155 | C025_Mkid_"
+msgid ""
+"Whether you've been good or naughty, it's\n"
+"time to go tinkle and go to beddy-bye!"
+msgstr ""
+
+msgctxt "0156 | C023_Mfunn"
+msgid ""
+"The dining hall and gym are locked during\n"
+"nighttime, so be careful."
+msgstr ""
+
+msgctxt "0157 | C024_Mdam_"
+msgid "..."
+msgstr "..."
+
+msgctxt "0158 | C027_Mono5"
+msgid "Kyahahahaha! Sweet dreams!"
+msgstr ""
+
+msgctxt "0159 | C003_Amami"
+msgid ""
+"Nighttime, huh?\n"
+"Welp, no sense pushing our luck."
+msgstr ""
+
+msgctxt "0160 | C003_Amami"
+msgid ""
+"We should probably just\n"
+"get a fresh start tomorrow."
+msgstr ""
+
+msgctxt "0161 | C013_Yonag"
+msgid "Fresh start?"
+msgstr ""
+
+msgctxt "0162 | C008_Tojo_"
+msgid ""
+"We've each been assigned a room in the\n"
+"dormitory. Perhaps we should rest there?"
+msgstr ""
+
+msgctxt "0163 | C014_Iruma"
+msgid "Heeeee! We're gonna rest there!?"
+msgstr ""
+
+msgctxt "0164 | C002_Hoshi"
+msgid ""
+"The rooms aren't that bad. Much better\n"
+"than my prison cell, that's for sure."
+msgstr ""
+
+msgctxt "0165 | C012_Shiro"
+msgid ""
+"But...it makes me nervous to think we'll be\n"
+"staying the night at this creepy school."
+msgstr ""
+
+msgctxt "0166 | C005_Oma__"
+msgid ""
+"Well, nothing we can do but suck it up!\n"
+"So what's our plan for tomorrow?"
+msgstr ""
+
+msgctxt "0167 | C005_Oma__"
+msgid ""
+"Since the dining hall opens at 8 a.m.,\n"
+"how about we meet there at that time?"
+msgstr ""
+
+msgctxt "0168 | C003_Amami"
+msgid ""
+"Sure, I think that'll work.\n"
+"I'm okay with that."
+msgstr ""
+
+msgctxt "0169 | C010_Haruk"
+msgid "Can we go to our rooms already?"
+msgstr ""
+
+msgctxt "0170 | C008_Tojo_"
+msgid ""
+"Yes, we should get as much rest as we can\n"
+"and regain our strength."
+msgstr ""
+
+msgctxt "0171 | C009_Yumen"
+msgid ""
+"Nyeeeh...I dunno if I can go pee by myself\n"
+"in the middle of the night."
+msgstr ""
+
+msgctxt "0172 | C011_Chaba"
+msgid ""
+"I'll come with you! If you don't mind, that is!\n"
+"Just lemme know!"
+msgstr ""
+
+msgctxt "0173 | C003_Amami"
+msgid "Hey, guys? Just...as a warning..."
+msgstr ""
+
+msgctxt "0174 | C003_Amami"
+msgid ""
+"We shouldn't let our guards down.\n"
+"We'll be easy targets at night."
+msgstr ""
+
+msgctxt "0175 | C004_Gokuh"
+msgid "C-Cuz of killing game, you mean?"
+msgstr ""
+
+msgctxt "0176 | C007_Ki-Bo"
+msgid ""
+"I see no need to worry about something as\n"
+"illogical as murder taking place here."
+msgstr ""
+
+msgctxt "0177 | C003_Amami"
+msgid "I know, I know. Just a warning."
+msgstr ""
+
+msgctxt "0178 | C015_Akama"
+msgid "..."
+msgstr "..."
+
+msgctxt "0179 | C000_Saiha"
+msgid ""
+"Ah, if we all...work together...it'll be okay.\n"
+"I'm sure of it."
+msgstr ""
+
+msgctxt "0180 | C000_Saiha"
+msgid "Um, Kaede?"
+msgstr ""
+
+msgctxt "0181 | C000_Saiha"
+msgid ""
+"I don't think you need to worry\n"
+"about what Kokichi said."
+msgstr ""
+
+msgctxt "0182 | C000_Saiha"
+msgid ""
+"You weren't pressuring us.\n"
+"At least, I don't think so."
+msgstr ""
+
+msgctxt "0183 | C015_Akama"
+msgid "Yeah... Thanks, Shuichi."
+msgstr ""
+
+msgctxt "0184 | C015_Akama"
+msgid ""
+"But I'm exhausted.\n"
+"Let's just go back to our rooms and rest."
+msgstr ""
+
+msgctxt "0185 | C000_Saiha"
+msgid ""
+"...Right.\n"
+"Well...see you tomorrow."
+msgstr ""
+
+msgctxt "0186 | C001_Momot"
+msgid "What's up? You wanna give me that hug after all?"
+msgstr ""
+
+msgctxt "0187 | C015_Akama"
+msgid "No, not really..."
+msgstr ""
+
+msgctxt "0188 | C001_Momot"
+msgid ""
+"Hey, you don't gotta hold back!\n"
+"We're two of a kind, y'know!?"
+msgstr ""
+
+msgctxt "0189 | C005_Oma__"
+msgid ""
+"Hey, you two, quit flirting.\n"
+"Can't you read the air?"
+msgstr ""
+
+msgctxt "0190 | C001_Momot"
+msgid "W-We're not flirting!"
+msgstr ""
+
+msgctxt "0191 | C010_Haruk"
+msgid "...You guys are annoying."
+msgstr ""
+
+msgctxt "0192 | C001_Momot"
+msgid ""
+"Hey, why did you apologize before?\n"
+"You didn't do anything wrong, y'know?"
+msgstr ""
+
+msgctxt "0193 | C015_Akama"
+msgid ""
+"Well...when we tried to escape, I felt like\n"
+"we were united behind a common goal."
+msgstr ""
+
+msgctxt "0194 | C015_Akama"
+msgid ""
+"But after I put everyone's lives at risk, that\n"
+"unity is gone now."
+msgstr ""
+
+msgctxt "0195 | C001_Momot"
+msgid ""
+"Shut up! That's just the stupid end result!\n"
+"It's not like you wanted it to go that way!"
+msgstr ""
+
+msgctxt "0196 | C001_Momot"
+msgid ""
+"Listen up. Don't apologize for something that's\n"
+"not your fault! It'll just make you feel bad!"
+msgstr ""
+
+msgctxt "0197 | C015_Akama"
+msgid "..."
+msgstr "..."
+
+msgctxt "0198 | C001_Momot"
+msgid ""
+"Everyone just decided to blame you and give up.\n"
+"I'm gonna give 'em a piece of my mind later."
+msgstr ""
+
+msgctxt "0199 | C001_Momot"
+msgid ""
+"Well, anyway, let's just go to sleep for now.\n"
+"See ya tomorrow."
+msgstr ""
+
+msgctxt "0200 | C015_Akama"
+msgid "..."
+msgstr "..."
+
+msgctxt "0201 | chara_Blank"
+msgid "<CLT=cltMIND>Thank you, Kaito."
+msgstr ""
+
+msgctxt "0202 | C001_Momot"
+msgid ""
+"Th-This isn't the time for talking!\n"
+"Let's hurry and keep going!"
+msgstr ""
+
+msgctxt "0203 | C002_Hoshi"
+msgid ""
+"Even if this is a trap...all we need to do\n"
+"is fight and struggle our way out of it."
+msgstr ""
+
+msgctxt "0204 | C002_Hoshi"
+msgid ""
+"It'll be dangerous, of course...\n"
+"But it's better than rotting away here."
+msgstr ""
+
+msgctxt "0205 | C002_Hoshi"
+msgid "Conversation with Ryoma Hoshi Nighttime after the escape game"
+msgstr ""
+
+msgctxt "0206 | C003_Amami"
+msgid ""
+"Welp, we gotta keep trying.\n"
+"Nothing's gonna change if we don't try."
+msgstr ""
+
+msgctxt "0207 | C003_Amami"
+msgid ""
+"Conversation with Rantaro, Post-Escape Game\n"
+"Nighttime"
+msgstr ""
+
+msgctxt "0208 | C004_Gokuh"
+msgid ""
+"So it was exit!\n"
+"Gonta glad he tell everyone!"
+msgstr ""
+
+msgctxt "0209 | C004_Gokuh"
+msgid "Come, everyone! Gonta protect you!"
+msgstr ""
+
+msgctxt "0210 | C004_Gokuh"
+msgid ""
+"Conversation with Gonta, Post-Escape Game\n"
+"Nighttime"
+msgstr ""
+
+msgctxt "0211 | C005_Oma__"
+msgid "Yodelay-hee-hoooooo!"
+msgstr ""
+
+msgctxt "0212 | C005_Oma__"
+msgid "..."
+msgstr "..."
+
+msgctxt "0213 | C005_Oma__"
+msgid ""
+"Ooohh! It echoes well!\n"
+"Must be pretty big then."
+msgstr ""
+
+msgctxt "0214 | C005_Oma__"
+msgid ""
+"A giant underground passage is so exciting!\n"
+"I wanna play hide-and-seek in here!"
+msgstr ""
+
+msgctxt "0215 | C015_Akama"
+msgid "Hide-and-seek?"
+msgstr ""
+
+msgctxt "0216 | C005_Oma__"
+msgid ""
+"Nee-heehee... I am *the* master of\n"
+"hide-and-seek."
+msgstr ""
+
+msgctxt "0217 | C005_Oma__"
+msgid ""
+"As the supreme leader of an evil organization,\n"
+"I'm always on the run from the law..."
+msgstr ""
+
+msgctxt "0218 | C005_Oma__"
+msgid ""
+"And over time, I just became a total pro\n"
+"at hiding."
+msgstr ""
+
+msgctxt "0219 | C005_Oma__"
+msgid "...Just kidding! That was a lie!"
+msgstr ""
+
+msgctxt "0220 | C015_Akama"
+msgid "Yeah, I thought so..."
+msgstr ""
+
+msgctxt "0221 | C005_Oma__"
+msgid ""
+"I guess now's not a good time to play hide-\n"
+"and-seek, though. Too bad..."
+msgstr ""
+
+msgctxt "0222 | C006_Shing"
+msgid "When Kokichi yodelled earlier..."
+msgstr ""
+
+msgctxt "0223 | C006_Shing"
+msgid ""
+"His echoes reminded me of tales told\n"
+"in mountain villages."
+msgstr ""
+
+msgctxt "0224 | C006_Shing"
+msgid ""
+"They believe that voices echoing off the\n"
+"mountains are replies from Yamabiko, the spirit—"
+msgstr ""
+
+msgctxt "0225 | C006_Shing"
+msgid ""
+"...Ah, this may take too long. I shall save the\n"
+"rest for after we have safely escaped."
+msgstr ""
+
+msgctxt "0226 | C006_Shing"
+msgid ""
+"I shall save the rest for after we have\n"
+"safely escaped."
+msgstr ""
+
+msgctxt "0227 | C007_Ki-Bo"
+msgid "...It's quite dusty in here."
+msgstr ""
+
+msgctxt "0228 | C007_Ki-Bo"
+msgid ""
+"Prolonged exposure to this polluted air may\n"
+"be detrimental to one's health."
+msgstr ""
+
+msgctxt "0229 | C013_Yonag"
+msgid ""
+"Whaaat? Polluted air bothers you?\n"
+"But you don't even breathe air, right?"
+msgstr ""
+
+msgctxt "0230 | C007_Ki-Bo"
+msgid "W-Well, that is..."
+msgstr ""
+
+msgctxt "0231 | C007_Ki-Bo"
+msgid ""
+"While it's true that I do not breathe, I also do\n"
+"not like polluted air any more than you do."
+msgstr ""
+
+msgctxt "0232 | C005_Oma__"
+msgid ""
+"I see, you have a function for sensing poisonous\n"
+"gases! Well then, lead the way!"
+msgstr ""
+
+msgctxt "0233 | C007_Ki-Bo"
+msgid ""
+"N-No! I don't have that function!\n"
+"Do I look like a canary to you?"
+msgstr ""
+
+msgctxt "0234 | C005_Oma__"
+msgid ""
+"Whaaat, you don't? Then you're even more\n"
+"useless than a canary!"
+msgstr ""
+
+msgctxt "0235 | C007_Ki-Bo"
+msgid "Grgh..."
+msgstr ""
+
+msgctxt "0236 | C007_Ki-Bo"
+msgid ""
+"While it's true that I do not breathe, I also do\n"
+"not like polluted air any more than you do."
+msgstr ""
+
+msgctxt "0237 | C008_Tojo_"
+msgid ""
+"An underground passage that has not been in\n"
+"use for some time...must be quite dangerous."
+msgstr ""
+
+msgctxt "0238 | C008_Tojo_"
+msgid ""
+"But if everyone wishes to proceed...then\n"
+"I will do my best to support that decision."
+msgstr ""
+
+msgctxt "0239 | C008_Tojo_"
+msgid ""
+"Conversation with Kirumi, Post-Escape Game\n"
+"Nighttime"
+msgstr ""
+
+msgctxt "0240 | C009_Yumen"
+msgid ""
+"It's dark here... If we're gonna keep going,\n"
+"we need a light..."
+msgstr ""
+
+msgctxt "0241 | C015_Akama"
+msgid ""
+"Then shouldn't you use magic to light it up?\n"
+"You know...like \"Lumos!\" or something?"
+msgstr ""
+
+msgctxt "0242 | C009_Yumen"
+msgid "..."
+msgstr "..."
+
+msgctxt "0243 | C009_Yumen"
+msgid "...We should be fine without a light."
+msgstr ""
+
+msgctxt "0244 | C009_Yumen"
+msgid ""
+"Magic power is precious... I need to save it\n"
+"for when we really need it."
+msgstr ""
+
+msgctxt "0245 | C015_Akama"
+msgid "U-Um, okay..."
+msgstr ""
+
+msgctxt "0246 | C009_Yumen"
+msgid ""
+"Magic power is precious... I need to save it\n"
+"for when we really need it."
+msgstr ""
+
+msgctxt "0247 | C010_Haruk"
+msgid ""
+"...If we're going, let's hurry up already. It'll\n"
+"be a pain if Monokuma and his cubs appear."
+msgstr ""
+
+msgctxt "0248 | C010_Haruk"
+msgid ""
+"Conversation with Maki, Post-Escape Game\n"
+"Nighttime"
+msgstr ""
+
+msgctxt "0249 | C011_Chaba"
+msgid "Don't worry! If something happens..."
+msgstr ""
+
+msgctxt "0250 | C011_Chaba"
+msgid ""
+"...then I'll protect the girls by using all the\n"
+"degenerate males as human shields!"
+msgstr ""
+
+msgctxt "0251 | C011_Chaba"
+msgid ""
+"Conversation with Tenko, Post-Escape Game\n"
+"Nighttime"
+msgstr ""
+
+msgctxt "0252 | C012_Shiro"
+msgid ""
+"We're going to escape from the \n"
+"underground passage..."
+msgstr ""
+
+msgctxt "0253 | C012_Shiro"
+msgid ""
+"We should be careful of dangerous creatures.\n"
+"Does everyone have their Protect Gear?"
+msgstr ""
+
+msgctxt "0254 | C012_Shiro"
+msgid "...Just kidding. It was just a joke."
+msgstr ""
+
+msgctxt "0255 | C012_Shiro"
+msgid "Besides...something worse might show up..."
+msgstr ""
+
+msgctxt "0256 | C012_Shiro"
+msgid ""
+"Those Exisals are probably too big to get\n"
+"into the underground passage, though..."
+msgstr ""
+
+msgctxt "0257 | C013_Yonag"
+msgid ""
+"You're so amazingly strong, Gonta!\n"
+"I want a piggy-back ride!"
+msgstr ""
+
+msgctxt "0258 | C013_Yonag"
+msgid ""
+"Conversation with Angie, Post-Escape Game\n"
+"Nighttime"
+msgstr ""
+
+msgctxt "0259 | C014_Iruma"
+msgid ""
+"You're too weak, Keebo! Lemme remodel you\n"
+"and I'll make you the strongest robot ever!"
+msgstr ""
+
+msgctxt "0260 | C014_Iruma"
+msgid ""
+"First, I'll soup up your crotch plate by\n"
+"installin' a nice, thick one, just how I like it!"
+msgstr ""
+
+msgctxt "0261 | C014_Iruma"
+msgid "Hah-hahaha!"
+msgstr ""
+
+msgctxt "0262 | C014_Iruma"
+msgid ""
+"Conversation with Miu Post-Escape Game\n"
+"Nighttime"
+msgstr ""
+
+msgctxt "0263 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>What's the point of going back!?\n"
+"We gotta move forward!"
+msgstr ""
+
+msgctxt "0264 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>What's the point of going back!?\n"
+"We gotta move forward!"
+msgstr ""
+
+msgctxt "0265 | chara_Blank"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0266 | chara_Blank"
+msgid "No"
+msgstr ""
+
+msgctxt "0267 | chara_Blank"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0268 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0269 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>It's a monitor for communicating with us...\n"
+"But there's nothing displayed right now."
+msgstr ""
+
+msgctxt "0270 | chara_Blank"
+msgid "<CLT=cltMIND>It'll probably be okay..."
+msgstr ""
+
+msgctxt "0271 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>There'll be an exit at the end of this...\n"
+"And once we reach it, this'll all be over..."
+msgstr ""
+
+msgctxt "0272 | chara_Blank"
+msgid "<CLT=cltMIND>I just know it!"
+msgstr ""
+
+msgctxt "0273 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I clung fiercely to that belief as we\n"
+"stepped into the tunnel."
+msgstr ""
+
+msgctxt "0274 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You're about to take on the\n"
+"<CLT=cltSTRONG>Death Road of Despair<CLT=cltSYSTEM>."
+msgstr ""
+
+msgctxt "0275 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>The objective is simple.\n"
+"Everyone works together to escape!"
+msgstr ""
+
+msgctxt "0276 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Press the <PAD=【Ｌ⇔】> and <PAD=【Ｐ⇔】> directional buttons to move,\n"
+"and press the <PAD=【×】> button to jump."
+msgstr ""
+
+msgctxt "0277 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You'll encounter plenty of <CLT=cltSTRONG>traps<CLT=cltSYSTEM>\n"
+"set up to prevent you from escaping."
+msgstr ""
+
+msgctxt "0278 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If you hit a trap or fall\n"
+"off a ledge..."
+msgstr ""
+
+msgctxt "0279 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>That person will be <CLT=cltSTRONG>eliminated<CLT=cltSYSTEM>, and control\n"
+"will switch to one of the remaining students.\n"
+""
+msgstr ""
+
+msgctxt "0280 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If everyone is eliminated...\n"
+"Game over, man."
+msgstr ""
+
+msgctxt "0281 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Oh, sorry. Didn't mean for things\n"
+"to get that real."
+msgstr ""
+
+msgctxt "0282 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>For now, stay vigilant and\n"
+"<CLT=cltSTRONG>do your best to reach the exit<CLT=cltSYSTEM>."
+msgstr ""
+
+msgctxt "0283 | chara_Blank"
+msgid "<CLT=cltSYSTEM>...Not that it matters."
+msgstr ""
+
+msgctxt "0284 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Everyone left, so I should head back to\n"
+"my room, too."
+msgstr ""
+
+msgctxt "0285 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>The sign says \"exit\" and everything...\n"
+"What a cruel joke..."
+msgstr ""
+
+msgctxt "0286 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Everyone left, so I should head back to\n"
+"my room, too."
+msgstr ""
+
+msgctxt "0287 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>What's the point of going back!?\n"
+"We gotta move forward!"
+msgstr ""
+
+msgctxt "0288 | chara_Blank"
+msgid "Dammit... This is it for me..."
+msgstr ""
+
+msgctxt "0289 | chara_Blank"
+msgid "Is everyone okay?"
+msgstr ""
+
+msgctxt "0290 | chara_Blank"
+msgid "Where is the exit...?"
+msgstr ""
+
+msgctxt "0291 | chara_Blank"
+msgid "Let's try it."
+msgstr ""
+
+msgctxt "0292 | chara_Blank"
+msgid "Everyone, be careful!"
+msgstr ""
+
+msgctxt "0293 | chara_Blank"
+msgid "Hup!"
+msgstr ""
+
+msgctxt "0294 | chara_Blank"
+msgid "DAMN IT!!!"
+msgstr ""
+
+msgctxt "0295 | chara_Blank"
+msgid "Leave it to me!"
+msgstr ""
+
+msgctxt "0296 | chara_Blank"
+msgid "Let's get pumped!"
+msgstr ""
+
+msgctxt "0297 | chara_Blank"
+msgid "Let's do it!"
+msgstr ""
+
+msgctxt "0298 | chara_Blank"
+msgid "Leave it to me!"
+msgstr ""
+
+msgctxt "0299 | chara_Blank"
+msgid "Hup!"
+msgstr ""
+
+msgctxt "0300 | chara_Blank"
+msgid "Still...got a ways to go..."
+msgstr ""
+
+msgctxt "0301 | chara_Blank"
+msgid "Follow me."
+msgstr ""
+
+msgctxt "0302 | chara_Blank"
+msgid "Be careful."
+msgstr ""
+
+msgctxt "0303 | chara_Blank"
+msgid "It's not over yet!"
+msgstr ""
+
+msgctxt "0304 | chara_Blank"
+msgid "I guess I'm up..."
+msgstr ""
+
+msgctxt "0305 | chara_Blank"
+msgid "Hm!"
+msgstr ""
+
+msgctxt "0306 | chara_Blank"
+msgid "Looks like it's no good..."
+msgstr ""
+
+msgctxt "0307 | chara_Blank"
+msgid "I wonder where the exit is..."
+msgstr ""
+
+msgctxt "0308 | chara_Blank"
+msgid "Are you okay?"
+msgstr ""
+
+msgctxt "0309 | chara_Blank"
+msgid "You guys are incredible!"
+msgstr ""
+
+msgctxt "0310 | chara_Blank"
+msgid "Let's go!"
+msgstr ""
+
+msgctxt "0311 | chara_Blank"
+msgid "Hup!"
+msgstr ""
+
+msgctxt "0312 | chara_Blank"
+msgid "Sorry...everyone..."
+msgstr ""
+
+msgctxt "0313 | chara_Blank"
+msgid "Gentleman no lose!"
+msgstr ""
+
+msgctxt "0314 | chara_Blank"
+msgid "Gonta handle this!"
+msgstr ""
+
+msgctxt "0315 | chara_Blank"
+msgid "Everyone okay?"
+msgstr ""
+
+msgctxt "0316 | chara_Blank"
+msgid "Gonta do his best!"
+msgstr ""
+
+msgctxt "0317 | chara_Blank"
+msgid "Hup!"
+msgstr ""
+
+msgctxt "0318 | chara_Blank"
+msgid "Ah-haha...I'm not gonna make it."
+msgstr ""
+
+msgctxt "0319 | chara_Blank"
+msgid "Let's have more fun!"
+msgstr ""
+
+msgctxt "0320 | chara_Blank"
+msgid "Let's do this!"
+msgstr ""
+
+msgctxt "0321 | chara_Blank"
+msgid "Are you guys still alive?"
+msgstr ""
+
+msgctxt "0322 | chara_Blank"
+msgid "Let's have fun with this!"
+msgstr ""
+
+msgctxt "0323 | chara_Blank"
+msgid "Alley-oop!"
+msgstr ""
+
+msgctxt "0324 | chara_Blank"
+msgid "So this is the end..."
+msgstr ""
+
+msgctxt "0325 | chara_Blank"
+msgid "How do you fare?"
+msgstr ""
+
+msgctxt "0326 | chara_Blank"
+msgid "This may prove difficult..."
+msgstr ""
+
+msgctxt "0327 | chara_Blank"
+msgid "Where, I wonder, is the exit?"
+msgstr ""
+
+msgctxt "0328 | chara_Blank"
+msgid "I shall go..."
+msgstr ""
+
+msgctxt "0329 | chara_Blank"
+msgid "Hah..."
+msgstr ""
+
+msgctxt "0330 | chara_Blank"
+msgid "I miscalculated..."
+msgstr ""
+
+msgctxt "0331 | chara_Blank"
+msgid "Let's find the exit!"
+msgstr ""
+
+msgctxt "0332 | chara_Blank"
+msgid "Is everyone alright!?"
+msgstr ""
+
+msgctxt "0333 | chara_Blank"
+msgid "We have to do this."
+msgstr ""
+
+msgctxt "0334 | chara_Blank"
+msgid "Leave it to me, everyone!"
+msgstr ""
+
+msgctxt "0335 | chara_Blank"
+msgid "Hup!"
+msgstr ""
+
+msgctxt "0336 | chara_Blank"
+msgid "I am a failure...as a maid..."
+msgstr ""
+
+msgctxt "0337 | chara_Blank"
+msgid "I will do my best."
+msgstr ""
+
+msgctxt "0338 | chara_Blank"
+msgid "I will do it for everyone's sake."
+msgstr ""
+
+msgctxt "0339 | chara_Blank"
+msgid "Is everyone alright?"
+msgstr ""
+
+msgctxt "0340 | chara_Blank"
+msgid "Let us proceed."
+msgstr ""
+
+msgctxt "0341 | chara_Blank"
+msgid "Ha!"
+msgstr ""
+
+msgctxt "0342 | chara_Blank"
+msgid "I couldn't do it..."
+msgstr ""
+
+msgctxt "0343 | chara_Blank"
+msgid "I'll do it...with magic!"
+msgstr ""
+
+msgctxt "0344 | chara_Blank"
+msgid "Gotta do my best!"
+msgstr ""
+
+msgctxt "0345 | chara_Blank"
+msgid "Where's the exit?"
+msgstr ""
+
+msgctxt "0346 | chara_Blank"
+msgid "I guess I'll go..."
+msgstr ""
+
+msgctxt "0347 | chara_Blank"
+msgid "Nyeh!"
+msgstr ""
+
+msgctxt "0348 | chara_Blank"
+msgid "Tsk..."
+msgstr ""
+
+msgctxt "0349 | chara_Blank"
+msgid "Let's get it over with..."
+msgstr ""
+
+msgctxt "0350 | chara_Blank"
+msgid "Where's the exit?"
+msgstr ""
+
+msgctxt "0351 | chara_Blank"
+msgid "This place is trouble."
+msgstr ""
+
+msgctxt "0352 | chara_Blank"
+msgid "Let's go."
+msgstr ""
+
+msgctxt "0353 | chara_Blank"
+msgid "Fu!"
+msgstr ""
+
+msgctxt "0354 | chara_Blank"
+msgid "I'm sorry! I couldn't do it!"
+msgstr ""
+
+msgctxt "0355 | chara_Blank"
+msgid "HAAAIYAAAAAAAHHH!!!!!"
+msgstr ""
+
+msgctxt "0356 | chara_Blank"
+msgid "Sneak attack!"
+msgstr ""
+
+msgctxt "0357 | chara_Blank"
+msgid "I will protect you!"
+msgstr ""
+
+msgctxt "0358 | chara_Blank"
+msgid "I'll do it!"
+msgstr ""
+
+msgctxt "0359 | chara_Blank"
+msgid "Ha!"
+msgstr ""
+
+msgctxt "0360 | chara_Blank"
+msgid "Nooooooooooooooo!"
+msgstr ""
+
+msgctxt "0361 | chara_Blank"
+msgid "I'm gonna try my best!"
+msgstr ""
+
+msgctxt "0362 | chara_Blank"
+msgid "Is everyone okay?"
+msgstr ""
+
+msgctxt "0363 | chara_Blank"
+msgid "I wonder where the exit is."
+msgstr ""
+
+msgctxt "0364 | chara_Blank"
+msgid "Time to do my best!"
+msgstr ""
+
+msgctxt "0365 | chara_Blank"
+msgid "Umph!"
+msgstr ""
+
+msgctxt "0366 | chara_Blank"
+msgid "Nyahahaha! Bye-onara!"
+msgstr ""
+
+msgctxt "0367 | chara_Blank"
+msgid "Gimme strength!"
+msgstr ""
+
+msgctxt "0368 | chara_Blank"
+msgid "Ohhhh!"
+msgstr ""
+
+msgctxt "0369 | chara_Blank"
+msgid "How divine!"
+msgstr ""
+
+msgctxt "0370 | chara_Blank"
+msgid "Atua's on my side."
+msgstr ""
+
+msgctxt "0371 | chara_Blank"
+msgid "Hi-yup!"
+msgstr ""
+
+msgctxt "0372 | chara_Blank"
+msgid "Ahhhhhh!"
+msgstr ""
+
+msgctxt "0373 | chara_Blank"
+msgid "I fuckin' ruuuuule!"
+msgstr ""
+
+msgctxt "0374 | chara_Blank"
+msgid "You shitheads still alive!?"
+msgstr ""
+
+msgctxt "0375 | chara_Blank"
+msgid "Bring it on!"
+msgstr ""
+
+msgctxt "0376 | chara_Blank"
+msgid "Fine. I'll fuckin' do it."
+msgstr ""
+
+msgctxt "0377 | chara_Blank"
+msgid "Yup!"
+msgstr ""
+
+msgctxt "0378 | chara_Blank"
+msgid "I can't...lose here..."
+msgstr ""
+
+msgctxt "0379 | chara_Blank"
+msgid "Good job, everyone!"
+msgstr ""
+
+msgctxt "0380 | chara_Blank"
+msgid "Follow me!"
+msgstr ""
+
+msgctxt "0381 | chara_Blank"
+msgid "I'll do my best!"
+msgstr ""
+
+msgctxt "0382 | chara_Blank"
+msgid "I'll get us out of here!"
+msgstr ""
+
+msgctxt "0383 | chara_Blank"
+msgid "Hup!"
+msgstr ""
+
+msgctxt "0384 | chara_Blank"
+msgid "Dammit... This is it for me..."
+msgstr ""
+
+msgctxt "0385 | chara_Blank"
+msgid "Is everyone okay?"
+msgstr ""
+
+msgctxt "0386 | chara_Blank"
+msgid "Where is the exit...?"
+msgstr ""
+
+msgctxt "0387 | chara_Blank"
+msgid "Let's try it."
+msgstr ""
+
+msgctxt "0388 | chara_Blank"
+msgid "Everyone, be careful!"
+msgstr ""
+
+msgctxt "0389 | chara_Blank"
+msgid "Hup!"
+msgstr ""
+
+msgctxt "0390 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You're about to take on the\n"
+"<CLT=cltSTRONG>Death Road of Despair<CLT=cltSYSTEM>."
+msgstr ""
+
+msgctxt "0391 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>The objective is simple.\n"
+"Everyone works together to escape!"
+msgstr ""
+
+msgctxt "0392 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Use the A and D keys to move left and right,\n"
+"and press the W key to jump."
+msgstr ""
+
+msgctxt "0393 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You'll encounter plenty of <CLT=cltSTRONG>traps<CLT=cltSYSTEM>\n"
+"set up to prevent you from escaping."
+msgstr ""
+
+msgctxt "0394 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If you hit a trap or fall\n"
+"off a ledge..."
+msgstr ""
+
+msgctxt "0395 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>That person will be <CLT=cltSTRONG>eliminated<CLT=cltSYSTEM>, and control\n"
+"will switch to one of the remaining students.\n"
+""
+msgstr ""
+
+msgctxt "0396 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If everyone is eliminated...\n"
+"Game over, man."
+msgstr ""
+
+msgctxt "0397 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Oh, sorry. Didn't mean for things\n"
+"to get that real."
+msgstr ""
+
+msgctxt "0398 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>For now, stay vigilant and\n"
+"<CLT=cltSTRONG>do your best to reach the exit<CLT=cltSYSTEM>."
+msgstr ""
+
+msgctxt "0399 | chara_Blank"
+msgid "<CLT=cltSYSTEM>...Not that it matters."
+msgstr ""

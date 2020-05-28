@@ -1,0 +1,458 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | non"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0002 | non"
+msgid "No"
+msgstr ""
+
+msgctxt "0003 | non"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0004 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0005 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>It's a monitor for communicating with us...\n"
+"The audio's gonna crack from so many speakers."
+msgstr ""
+
+msgctxt "0006 | C015_Akama"
+msgid "..."
+msgstr "..."
+
+msgctxt "0007 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Maybe I should try one more time.\n"
+"I might be able to go again..."
+msgstr ""
+
+msgctxt "0008 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Monokuma wasn't doing this out of generosity.\n"
+"This was just more of his evildoings."
+msgstr ""
+
+msgctxt "0009 | chara_Blank"
+msgid "Dammit... This is it for me..."
+msgstr ""
+
+msgctxt "0010 | chara_Blank"
+msgid "Is everyone okay?"
+msgstr ""
+
+msgctxt "0011 | chara_Blank"
+msgid "Where is the exit...?"
+msgstr ""
+
+msgctxt "0012 | chara_Blank"
+msgid "Let's try it."
+msgstr ""
+
+msgctxt "0013 | chara_Blank"
+msgid "Everyone, be careful!"
+msgstr ""
+
+msgctxt "0014 | chara_Blank"
+msgid "Hup!"
+msgstr ""
+
+msgctxt "0015 | chara_Blank"
+msgid "DAMN IT!!!"
+msgstr ""
+
+msgctxt "0016 | chara_Blank"
+msgid "Leave it to me!"
+msgstr ""
+
+msgctxt "0017 | chara_Blank"
+msgid "Let's get pumped!"
+msgstr ""
+
+msgctxt "0018 | chara_Blank"
+msgid "Let's do it!"
+msgstr ""
+
+msgctxt "0019 | chara_Blank"
+msgid "Leave it to me!"
+msgstr ""
+
+msgctxt "0020 | chara_Blank"
+msgid "Hup!"
+msgstr ""
+
+msgctxt "0021 | chara_Blank"
+msgid "Still...got a ways to go..."
+msgstr ""
+
+msgctxt "0022 | chara_Blank"
+msgid "Follow me."
+msgstr ""
+
+msgctxt "0023 | chara_Blank"
+msgid "Be careful."
+msgstr ""
+
+msgctxt "0024 | chara_Blank"
+msgid "It's not over yet!"
+msgstr ""
+
+msgctxt "0025 | chara_Blank"
+msgid "I guess I'm up..."
+msgstr ""
+
+msgctxt "0026 | chara_Blank"
+msgid "Hm!"
+msgstr ""
+
+msgctxt "0027 | chara_Blank"
+msgid "Looks like it's no good..."
+msgstr ""
+
+msgctxt "0028 | chara_Blank"
+msgid "I wonder where the exit is..."
+msgstr ""
+
+msgctxt "0029 | chara_Blank"
+msgid "Are you okay?"
+msgstr ""
+
+msgctxt "0030 | chara_Blank"
+msgid "You guys are incredible!"
+msgstr ""
+
+msgctxt "0031 | chara_Blank"
+msgid "Let's go!"
+msgstr ""
+
+msgctxt "0032 | chara_Blank"
+msgid "Hup!"
+msgstr ""
+
+msgctxt "0033 | chara_Blank"
+msgid "Sorry...everyone..."
+msgstr ""
+
+msgctxt "0034 | chara_Blank"
+msgid "Gentleman no lose!"
+msgstr ""
+
+msgctxt "0035 | chara_Blank"
+msgid "Gonta handle this!"
+msgstr ""
+
+msgctxt "0036 | chara_Blank"
+msgid "Everyone okay?"
+msgstr ""
+
+msgctxt "0037 | chara_Blank"
+msgid "Gonta do his best!"
+msgstr ""
+
+msgctxt "0038 | chara_Blank"
+msgid "Hup!"
+msgstr ""
+
+msgctxt "0039 | chara_Blank"
+msgid "Ah-haha...I'm not gonna make it."
+msgstr ""
+
+msgctxt "0040 | chara_Blank"
+msgid "Let's have more fun!"
+msgstr ""
+
+msgctxt "0041 | chara_Blank"
+msgid "Let's do this!"
+msgstr ""
+
+msgctxt "0042 | chara_Blank"
+msgid "Are you guys still alive?"
+msgstr ""
+
+msgctxt "0043 | chara_Blank"
+msgid "Let's have fun with this!"
+msgstr ""
+
+msgctxt "0044 | chara_Blank"
+msgid "Alley-oop!"
+msgstr ""
+
+msgctxt "0045 | chara_Blank"
+msgid "So this is the end..."
+msgstr ""
+
+msgctxt "0046 | chara_Blank"
+msgid "How do you fare?"
+msgstr ""
+
+msgctxt "0047 | chara_Blank"
+msgid "This may prove difficult..."
+msgstr ""
+
+msgctxt "0048 | chara_Blank"
+msgid "Where, I wonder, is the exit?"
+msgstr ""
+
+msgctxt "0049 | chara_Blank"
+msgid "I shall go..."
+msgstr ""
+
+msgctxt "0050 | chara_Blank"
+msgid "Hah..."
+msgstr ""
+
+msgctxt "0051 | chara_Blank"
+msgid "I miscalculated..."
+msgstr ""
+
+msgctxt "0052 | chara_Blank"
+msgid "Let's find the exit!"
+msgstr ""
+
+msgctxt "0053 | chara_Blank"
+msgid "Is everyone alright!?"
+msgstr ""
+
+msgctxt "0054 | chara_Blank"
+msgid "We have to do this."
+msgstr ""
+
+msgctxt "0055 | chara_Blank"
+msgid "Leave it to me, everyone!"
+msgstr ""
+
+msgctxt "0056 | chara_Blank"
+msgid "Hup!"
+msgstr ""
+
+msgctxt "0057 | chara_Blank"
+msgid "I am a failure...as a maid..."
+msgstr ""
+
+msgctxt "0058 | chara_Blank"
+msgid "I will do my best."
+msgstr ""
+
+msgctxt "0059 | chara_Blank"
+msgid "I will do it for everyone's sake."
+msgstr ""
+
+msgctxt "0060 | chara_Blank"
+msgid "Is everyone alright?"
+msgstr ""
+
+msgctxt "0061 | chara_Blank"
+msgid "Let us proceed."
+msgstr ""
+
+msgctxt "0062 | chara_Blank"
+msgid "Ha!"
+msgstr ""
+
+msgctxt "0063 | chara_Blank"
+msgid "I couldn't do it..."
+msgstr ""
+
+msgctxt "0064 | chara_Blank"
+msgid "I'll do it...with magic!"
+msgstr ""
+
+msgctxt "0065 | chara_Blank"
+msgid "Gotta do my best!"
+msgstr ""
+
+msgctxt "0066 | chara_Blank"
+msgid "Where's the exit?"
+msgstr ""
+
+msgctxt "0067 | chara_Blank"
+msgid "I guess I'll go..."
+msgstr ""
+
+msgctxt "0068 | chara_Blank"
+msgid "Nyeh!"
+msgstr ""
+
+msgctxt "0069 | chara_Blank"
+msgid "Tsk..."
+msgstr ""
+
+msgctxt "0070 | chara_Blank"
+msgid "Let's get it over with..."
+msgstr ""
+
+msgctxt "0071 | chara_Blank"
+msgid "Where's the exit?"
+msgstr ""
+
+msgctxt "0072 | chara_Blank"
+msgid "This place is trouble."
+msgstr ""
+
+msgctxt "0073 | chara_Blank"
+msgid "Let's go."
+msgstr ""
+
+msgctxt "0074 | chara_Blank"
+msgid "Fu!"
+msgstr ""
+
+msgctxt "0075 | chara_Blank"
+msgid "I'm sorry! I couldn't do it!"
+msgstr ""
+
+msgctxt "0076 | chara_Blank"
+msgid "HAAAIYAAAAAAAHHH!!!!!"
+msgstr ""
+
+msgctxt "0077 | chara_Blank"
+msgid "Sneak attack!"
+msgstr ""
+
+msgctxt "0078 | chara_Blank"
+msgid "I will protect you!"
+msgstr ""
+
+msgctxt "0079 | chara_Blank"
+msgid "I'll do it!"
+msgstr ""
+
+msgctxt "0080 | chara_Blank"
+msgid "Ha!"
+msgstr ""
+
+msgctxt "0081 | chara_Blank"
+msgid "Nooooooooooooooo!"
+msgstr ""
+
+msgctxt "0082 | chara_Blank"
+msgid "I'm gonna try my best!"
+msgstr ""
+
+msgctxt "0083 | chara_Blank"
+msgid "Is everyone okay?"
+msgstr ""
+
+msgctxt "0084 | chara_Blank"
+msgid "I wonder where the exit is."
+msgstr ""
+
+msgctxt "0085 | chara_Blank"
+msgid "Time to do my best!"
+msgstr ""
+
+msgctxt "0086 | chara_Blank"
+msgid "Umph!"
+msgstr ""
+
+msgctxt "0087 | chara_Blank"
+msgid "Nyahahaha! Bye-onara!"
+msgstr ""
+
+msgctxt "0088 | chara_Blank"
+msgid "Gimme strength!"
+msgstr ""
+
+msgctxt "0089 | chara_Blank"
+msgid "Ohhhh!"
+msgstr ""
+
+msgctxt "0090 | chara_Blank"
+msgid "How divine!"
+msgstr ""
+
+msgctxt "0091 | chara_Blank"
+msgid "Atua's on my side."
+msgstr ""
+
+msgctxt "0092 | chara_Blank"
+msgid "Hi-yup!"
+msgstr ""
+
+msgctxt "0093 | chara_Blank"
+msgid "Ahhhhhh!"
+msgstr ""
+
+msgctxt "0094 | chara_Blank"
+msgid "I fuckin' ruuuuule!"
+msgstr ""
+
+msgctxt "0095 | chara_Blank"
+msgid "You shitheads still alive!?"
+msgstr ""
+
+msgctxt "0096 | chara_Blank"
+msgid "Bring it on!"
+msgstr ""
+
+msgctxt "0097 | chara_Blank"
+msgid "Fine. I'll fuckin' do it."
+msgstr ""
+
+msgctxt "0098 | chara_Blank"
+msgid "Yup!"
+msgstr ""
+
+msgctxt "0099 | chara_Blank"
+msgid "I can't...lose here..."
+msgstr ""
+
+msgctxt "0100 | chara_Blank"
+msgid "Good job, everyone!"
+msgstr ""
+
+msgctxt "0101 | chara_Blank"
+msgid "Follow me!"
+msgstr ""
+
+msgctxt "0102 | chara_Blank"
+msgid "I'll do my best!"
+msgstr ""
+
+msgctxt "0103 | chara_Blank"
+msgid "I'll get us out of here!"
+msgstr ""
+
+msgctxt "0104 | chara_Blank"
+msgid "Hup!"
+msgstr ""
+
+msgctxt "0105 | chara_Blank"
+msgid "Dammit... This is it for me..."
+msgstr ""
+
+msgctxt "0106 | chara_Blank"
+msgid "Is everyone okay?"
+msgstr ""
+
+msgctxt "0107 | chara_Blank"
+msgid "Where is the exit...?"
+msgstr ""
+
+msgctxt "0108 | chara_Blank"
+msgid "Let's try it."
+msgstr ""
+
+msgctxt "0109 | chara_Blank"
+msgid "Everyone, be careful!"
+msgstr ""
+
+msgctxt "0110 | chara_Blank"
+msgid "Hup!"
+msgstr ""

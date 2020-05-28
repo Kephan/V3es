@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C005_Oma__"
+msgid "Why don't you just <CLT=size2>admit it<CLT=size1> already?"
+msgstr ""
+
+msgctxt "0002 | C005_Oma__"
+msgid "Why don't you just admit it already?"
+msgstr ""
+
+msgctxt "0003 | C005_Oma__"
+msgid "You're the <CLT=size2>culprit,"
+msgstr ""
+
+msgctxt "0004 | C005_Oma__"
+msgid "You're the culprit, aren't you Miu?"
+msgstr ""
+
+msgctxt "0005 | C005_Oma__"
+msgid "aren't you <CLT=size2>Miu?"
+msgstr ""
+
+msgctxt "0006 | C014_Iruma"
+msgid "<CLT=size3>N..."
+msgstr ""
+
+msgctxt "0007 | C014_Iruma"
+msgid "N...No way! That's not possible!"
+msgstr ""
+
+msgctxt "0008 | C014_Iruma"
+msgid "<CLT=size2>N...<CLT=size1> No"
+msgstr ""
+
+msgctxt "0009 | C014_Iruma"
+msgid "<CLT=size3>way!"
+msgstr ""
+
+msgctxt "0010 | C014_Iruma"
+msgid "<CLT=size1>That's <CLT=size3>not"
+msgstr ""
+
+msgctxt "0011 | C014_Iruma"
+msgid "<CLT=size2>possible!"
+msgstr ""
+
+msgctxt "0012 | C007_Ki-Bo"
+msgid ""
+"So you knew nothing about\n"
+"the <CLT=size2>trap<CLT=size1> in the <CLT=size2>library?"
+msgstr ""
+
+msgctxt "0013 | C007_Ki-Bo"
+msgid ""
+"So you knew nothing about\n"
+"the trap in the library?"
+msgstr ""
+
+msgctxt "0014 | C014_Iruma"
+msgid "I'm tellin' ya,"
+msgstr ""
+
+msgctxt "0015 | C014_Iruma"
+msgid "I'm tellin' ya, I had no idea!"
+msgstr ""
+
+msgctxt "0016 | C014_Iruma"
+msgid "I had <CLT=size3>no idea!"
+msgstr ""
+
+msgctxt "0017 | C014_Iruma"
+msgid "Not like it matters..."
+msgstr ""
+
+msgctxt "0018 | C014_Iruma"
+msgid "Not like it matters..."
+msgstr ""
+
+msgctxt "0019 | C014_Iruma"
+msgid ""
+"cuz I <CLT=cltAGREE><CLT=size2>never went\n"
+"<CLT=size1>to the <CLT=size2>library,"
+msgstr ""
+
+msgctxt "0020 | C014_Iruma"
+msgid "cuz I never went to the library, okay!?"
+msgstr ""
+
+msgctxt "0021 | C014_Iruma"
+msgid "okay!?"
+msgstr ""
+
+msgctxt "0022 | C002_Hoshi"
+msgid ""
+"The person who <CLT=size2>made\n"
+"<CLT=size1>the <CLT=size2>cameras..."
+msgstr ""
+
+msgctxt "0023 | C002_Hoshi"
+msgid "The person who made the cameras..."
+msgstr ""
+
+msgctxt "0024 | C002_Hoshi"
+msgid ""
+"would've\n"
+"<CLT=size2>known\n"
+"<CLT=size1>their"
+msgstr ""
+
+msgctxt "0025 | C002_Hoshi"
+msgid "would've known their blind spots, too."
+msgstr ""
+
+msgctxt "0026 | C002_Hoshi"
+msgid ""
+"<CLT=size2>blind spots,\n"
+"<CLT=size1>too."
+msgstr ""
+
+msgctxt "0027 | C014_Iruma"
+msgid "<CLT=size3>Yeah,"
+msgstr ""
+
+msgctxt "0028 | C014_Iruma"
+msgid "Yeah, well...I didn't make the cameras, either!"
+msgstr ""
+
+msgctxt "0029 | C014_Iruma"
+msgid "<CLT=size2>well..."
+msgstr ""
+
+msgctxt "0030 | C014_Iruma"
+msgid "<CLT=cltAGREE><CLT=size3>I<CLT=size2> didn't<CLT=size1> make"
+msgstr ""
+
+msgctxt "0031 | C014_Iruma"
+msgid "<CLT=cltAGREE>the <CLT=size3>cameras,"
+msgstr ""
+
+msgctxt "0032 | C014_Iruma"
+msgid "<CLT=cltAGREE><CLT=size2>either<CLT=cltNORMAL>!"
+msgstr ""

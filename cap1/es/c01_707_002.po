@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | chara_Blank"
+msgid "<CLT=cltMIND>I'm chatting with Keebo again today, but..."
+msgstr ""
+
+msgctxt "0002 | C007_Ki-Bo"
+msgid "...Kaede, is something troubling you?"
+msgstr ""
+
+msgctxt "0003 | C015_Akama"
+msgid "N-No! It's nothing."
+msgstr ""
+
+msgctxt "0004 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>To be honest, something's been bothering me,\n"
+"and I can't really focus on our conversation."
+msgstr ""
+
+msgctxt "0005 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>There's a button on Keebo's neck...\n"
+"What does it do?"
+msgstr ""
+
+msgctxt "0006 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>It's calling out to me...\n"
+"I wanna push the button!"
+msgstr ""
+
+msgctxt "0007 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*thud!*"
+msgstr ""
+
+msgctxt "0008 | C007_Ki-Bo"
+msgid "Hm? What was that sound?"
+msgstr ""
+
+msgctxt "0009 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Whatever that sound was, it occurred at the\n"
+"exact right time..."
+msgstr ""
+
+msgctxt "0010 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Because when Keebo turned around, his\n"
+"neck was completely defenseless..."
+msgstr ""
+
+msgctxt "0011 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Oh, god! The button is like screaming,\n"
+"\"Don't push me! Don't push me!\""
+msgstr ""
+
+msgctxt "0012 | chara_Blank"
+msgid "<CLT=cltMIND>But I'm definitely gonna push the button!"
+msgstr ""
+
+msgctxt "0013 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click!*"
+msgstr ""
+
+msgctxt "0014 | C007_Ki-Bo"
+msgid "..."
+msgstr "..."
+
+msgctxt "0015 | C015_Akama"
+msgid "..."
+msgstr "..."
+
+msgctxt "0016 | C007_Ki-Bo"
+msgid "..."
+msgstr "..."
+
+msgctxt "0017 | C015_Akama"
+msgid "..."
+msgstr "..."
+
+msgctxt "0018 | C007_Ki-Bo"
+msgid "..."
+msgstr "..."
+
+msgctxt "0019 | chara_Blank"
+msgid "<CLT=cltMIND>No reaction...?"
+msgstr ""
+
+msgctxt "0020 | C015_Akama"
+msgid "Keebo!?"
+msgstr ""
+
+msgctxt "0021 | chara_Blank"
+msgid "<CLT=cltMIND>I called his name and circled around him..."
+msgstr ""
+
+msgctxt "0022 | C007_Ki-Bo"
+msgid "..."
+msgstr "..."
+
+msgctxt "0023 | C015_Akama"
+msgid "Whaaaaat!?"
+msgstr ""
+
+msgctxt "0024 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Keebo was completely frozen!\n"
+"Like a toy out of batteries..."
+msgstr ""
+
+msgctxt "0025 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>M-Maybe that was the emergency stop\n"
+"button!?"
+msgstr ""
+
+msgctxt "0026 | C015_Akama"
+msgid ""
+"Wh-What should I do!?\n"
+"Maybe if I push it again, it'll fix him...?"
+msgstr ""
+
+msgctxt "0027 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Hoping that was the case, I pressed the\n"
+"button again."
+msgstr ""
+
+msgctxt "0028 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click!*"
+msgstr ""
+
+msgctxt "0029 | C007_Ki-Bo"
+msgid "..."
+msgstr "..."
+
+msgctxt "0030 | C015_Akama"
+msgid "..."
+msgstr "..."
+
+msgctxt "0031 | C007_Ki-Bo"
+msgid "Wha—!?"
+msgstr ""
+
+msgctxt "0032 | C007_Ki-Bo"
+msgid ""
+"Kaede, why are you in front of me?\n"
+"Weren't you behind me earlier?"
+msgstr ""
+
+msgctxt "0033 | C007_Ki-Bo"
+msgid "A-And why are you so close to me?"
+msgstr ""
+
+msgctxt "0034 | C015_Akama"
+msgid "I-I'm so glad... You're back to normal..."
+msgstr ""
+
+msgctxt "0035 | C007_Ki-Bo"
+msgid "Huh? What do you mean?"
+msgstr ""
+
+msgctxt "0036 | C015_Akama"
+msgid ""
+"U-Um...well, I noticed a button on your\n"
+"neck, so I pushed it."
+msgstr ""
+
+msgctxt "0037 | C007_Ki-Bo"
+msgid "What—!? You discovered this button!?"
+msgstr ""
+
+msgctxt "0038 | C015_Akama"
+msgid ""
+"I-I'm so sorry! It was tempting me!\n"
+"Was that the emergency stop button?"
+msgstr ""
+
+msgctxt "0039 | C007_Ki-Bo"
+msgid ""
+"...Yes. It's there just in case my AI or\n"
+"essential functions encounter problems."
+msgstr ""
+
+msgctxt "0040 | C015_Akama"
+msgid "I didn't know you had such a function..."
+msgstr ""
+
+msgctxt "0041 | C007_Ki-Bo"
+msgid "Kaede...you know my secret now..."
+msgstr ""
+
+msgctxt "0042 | C015_Akama"
+msgid ""
+"I-If it's a secret, then you should've hid\n"
+"it better!"
+msgstr ""
+
+msgctxt "0043 | C007_Ki-Bo"
+msgid ""
+"But what good is an emergency button that\n"
+"cannot be easily found in an emergency?"
+msgstr ""
+
+msgctxt "0044 | C015_Akama"
+msgid ""
+"But there are people who might push it for\n"
+"fun...like me..."
+msgstr ""
+
+msgctxt "0045 | C007_Ki-Bo"
+msgid ""
+"...That's true. I will forward your feedback to\n"
+"the professor when we get out of here."
+msgstr ""
+
+msgctxt "0046 | C015_Akama"
+msgid "Yeah, good idea..."
+msgstr ""
+
+msgctxt "0047 | C007_Ki-Bo"
+msgid ""
+"But...Kaede, that means you will have\n"
+"influenced my design."
+msgstr ""
+
+msgctxt "0048 | C007_Ki-Bo"
+msgid ""
+"Which means you will have played a role in my\n"
+"creation."
+msgstr ""
+
+msgctxt "0049 | C015_Akama"
+msgid "Huh? You're exaggerating."
+msgstr ""
+
+msgctxt "0050 | C007_Ki-Bo"
+msgid ""
+"It's no exaggeration. If Professor Idabashi\n"
+"can be considered my \"father\"..."
+msgstr ""
+
+msgctxt "0051 | C007_Ki-Bo"
+msgid ""
+"Then you, Kaede, will be my \"mother.\"\n"
+"So I shall call you mom."
+msgstr ""
+
+msgctxt "0052 | C015_Akama"
+msgid "M-M-Mom!? What!?"
+msgstr ""
+
+msgctxt "0053 | C007_Ki-Bo"
+msgid "...That was a joke."
+msgstr ""
+
+msgctxt "0054 | C015_Akama"
+msgid "U-Um..."
+msgstr ""
+
+msgctxt "0055 | C007_Ki-Bo"
+msgid ""
+"It's payback for messing with my body.\n"
+"You deserve at least that much."
+msgstr ""
+
+msgctxt "0056 | C015_Akama"
+msgid ""
+"Ha...hahaha...\n"
+"I'm so sorry, Keebo."
+msgstr ""
+
+msgctxt "0057 | chara_Blank"
+msgid "<CLT=cltMIND>A robot making a joke... That's pretty cool."
+msgstr ""
+
+msgctxt "0058 | chara_Blank"
+msgid "<CLT=cltMIND>The title of <CLT=cltSTRONG>Ultimate Robot<CLT=cltMIND> really suits him."
+msgstr ""
+
+msgctxt "0059 | C007_Ki-Bo"
+msgid ""
+"Um, Kaede... Do you think you can keep\n"
+"that button a secret from everyone?"
+msgstr ""
+
+msgctxt "0060 | C015_Akama"
+msgid "Yeah, don't worry."
+msgstr ""
+
+msgctxt "0061 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Kokichi definitely can't find out about this\n"
+"button. That would be a huge problem..."
+msgstr ""
+
+msgctxt "0062 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>K1-B0's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\n"
+"based on your experience with him."
+msgstr ""
+
+msgctxt "0063 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>After parting ways with Keebo, I returned\n"
+"to my room."
+msgstr ""

@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C006_Shing"
+msgid "The <CLT=size2>shot<CLT=size1> that fell from the <CLT=size2>vent..."
+msgstr ""
+
+msgctxt "0002 | C006_Shing"
+msgid "The shot that fell from the vent..."
+msgstr ""
+
+msgctxt "0003 | C006_Shing"
+msgid "How did"
+msgstr ""
+
+msgctxt "0004 | C006_Shing"
+msgid ""
+"How did it strike Rantaro's head\n"
+"from that distance?"
+msgstr ""
+
+msgctxt "0005 | C006_Shing"
+msgid "it <CLT=size2>strike"
+msgstr ""
+
+msgctxt "0006 | C006_Shing"
+msgid ""
+"<CLT=size1>Rantaro's\n"
+"<CLT=size2>head"
+msgstr ""
+
+msgctxt "0007 | C006_Shing"
+msgid ""
+"from that\n"
+"<CLT=size2>distance?"
+msgstr ""
+
+msgctxt "0008 | C011_Chaba"
+msgid ""
+"Yeah! That's \n"
+"<CLT=size2>impossible!"
+msgstr ""
+
+msgctxt "0009 | C011_Chaba"
+msgid "Yeah! That's impossible!"
+msgstr ""
+
+msgctxt "0010 | C002_Hoshi"
+msgid ""
+"It's not like\n"
+"<CLT=cltAGREE><CLT=size2>it<CLT=size1> started"
+msgstr ""
+
+msgctxt "0011 | C002_Hoshi"
+msgid "It's not like it started rollin' on its own,"
+msgstr ""
+
+msgctxt "0012 | C002_Hoshi"
+msgid "<CLT=cltAGREE><CLT=size2>rollin'"
+msgstr ""
+
+msgctxt "0013 | C002_Hoshi"
+msgid "<CLT=cltAGREE>on its own<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0014 | C002_Hoshi"
+msgid ""
+"and fell off the <CLT=size2>bookcase\n"
+"<CLT=size1>onto Rantaro's <CLT=size2>head."
+msgstr ""
+
+msgctxt "0015 | C002_Hoshi"
+msgid ""
+"and fell off the bookcase\n"
+"onto Rantaro's head.."
+msgstr ""
+
+msgctxt "0016 | C005_Oma__"
+msgid "Maybe the <CLT=size2>shot<CLT=size1> was on the <CLT=size2>floor..."
+msgstr ""
+
+msgctxt "0017 | C005_Oma__"
+msgid "Maybe the shot was on the floor..."
+msgstr ""
+
+msgctxt "0018 | C005_Oma__"
+msgid ""
+"and <CLT=size2>Rantaro<CLT=size1> tripped over it,\n"
+"causing him to"
+msgstr ""
+
+msgctxt "0019 | C005_Oma__"
+msgid "and Rantaro tripped over it, causing him to hit his head on the bookcase???"
+msgstr ""
+
+msgctxt "0020 | C005_Oma__"
+msgid "<CLT=cltAGREE>hit his head"
+msgstr ""
+
+msgctxt "0021 | C005_Oma__"
+msgid "<CLT=cltAGREE>on"
+msgstr ""
+
+msgctxt "0022 | C005_Oma__"
+msgid "<CLT=cltAGREE>the bookcase"
+msgstr ""
+
+msgctxt "0023 | C005_Oma__"
+msgid "???"
+msgstr ""
+
+msgctxt "0024 | C013_Yonag"
+msgid ""
+"Watch out so you\n"
+"don't slip and fall!"
+msgstr ""
+
+msgctxt "0025 | C013_Yonag"
+msgid ""
+"Watch out so you\n"
+"don't slip and fall!"
+msgstr ""
+
+msgctxt "0026 | C014_Iruma"
+msgid "<CLT=size4>What<CLT=size2> if"
+msgstr ""
+
+msgctxt "0027 | C014_Iruma"
+msgid "What if Rantaro's corpse moved on its own!?"
+msgstr ""
+
+msgctxt "0028 | C014_Iruma"
+msgid "Rantaro's <CLT=cltAGREE><CLT=size2>corpse"
+msgstr ""
+
+msgctxt "0029 | C014_Iruma"
+msgid "<CLT=cltAGREE><CLT=size2>moved"
+msgstr ""
+
+msgctxt "0030 | C014_Iruma"
+msgid "on its own"
+msgstr ""
+
+msgctxt "0031 | C014_Iruma"
+msgid "!?"
+msgstr ""
+
+msgctxt "0032 | C014_Iruma"
+msgid ""
+"Like, he was standin' under the <CLT=size2>vent\n"
+"<CLT=size1>when the <CLT=size2>shot<CLT=size1> hit his <CLT=size2>head..."
+msgstr ""
+
+msgctxt "0033 | C014_Iruma"
+msgid ""
+"Like, he was standin' under the vent\n"
+"when the shot hit his head..."
+msgstr ""
+
+msgctxt "0034 | C014_Iruma"
+msgid ""
+"then he <CLT=size2>walked<CLT=size1> a few steps\n"
+"before he finally <CLT=size2>dropped dead!"
+msgstr ""
+
+msgctxt "0035 | C014_Iruma"
+msgid ""
+"then he walked a few steps\n"
+"before he finally dropped dead!"
+msgstr ""
+
+msgctxt "0036 | C015_Akama"
+msgid ".................."
+msgstr ""
+
+msgctxt "0037 | C015_Akama"
+msgid ".................."
+msgstr ""
+
+msgctxt "0038 | C015_Akama"
+msgid "Hey, Shuichi..."
+msgstr ""
+
+msgctxt "0039 | C015_Akama"
+msgid "Hey, Shuichi..."
+msgstr ""
+
+msgctxt "0040 | C015_Akama"
+msgid ""
+"<CLT=cltWEAK>Don't lose\n"
+"sight of the truth."
+msgstr ""
+
+msgctxt "0041 | C015_Akama"
+msgid "Don't lose sight of the truth."
+msgstr ""
+
+msgctxt "0042 | C009_Yumen"
+msgid "Well, if it was a magic shot..."
+msgstr ""
+
+msgctxt "0043 | C009_Yumen"
+msgid "Oh. I guess it's impossible..."
+msgstr ""
+
+msgctxt "0044 | C014_Iruma"
+msgid "Rollin' on its own!?"
+msgstr ""
+
+msgctxt "0045 | C014_Iruma"
+msgid ""
+"The hell are you\n"
+"talkin' about!?"
+msgstr ""
+
+msgctxt "0046 | C014_Iruma"
+msgid "The weapon was a shot put ball!"
+msgstr ""
+
+msgctxt "0047 | C014_Iruma"
+msgid ""
+"Fear is the mind-killer. Fear is the little\n"
+"death that brings total obliteration."
+msgstr ""
+
+msgctxt "0048 | C014_Iruma"
+msgid ""
+"I will face my fear. I will permit it\n"
+"to pass over me and through me."
+msgstr ""
+
+msgctxt "0049 | C014_Iruma"
+msgid ""
+"And when it has gone past I will turn the inner\n"
+"eye to see its path. Where the fear has gone\n"
+"there will be nothing. Only I will remain."
+msgstr ""

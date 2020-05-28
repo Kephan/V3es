@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C005_Oma__"
+msgid "Good moooorning, Kaede!"
+msgstr ""
+
+msgctxt "0002 | C015_Akama"
+msgid "Morning..."
+msgstr ""
+
+msgctxt "0003 | C005_Oma__"
+msgid ""
+"Maaan, I slept great last night. Y'know, this place\n"
+"is alright when there's nothing to worry about."
+msgstr ""
+
+msgctxt "0004 | C005_Oma__"
+msgid "Oh! So...how far have you gone with Shuichi?"
+msgstr ""
+
+msgctxt "0005 | C015_Akama"
+msgid "Huh!? Wh-What are you talking about!?"
+msgstr ""
+
+msgctxt "0006 | C005_Oma__"
+msgid ""
+"Nee-heehee...\n"
+"What were *you* imagining just now?"
+msgstr ""
+
+msgctxt "0007 | C005_Oma__"
+msgid ""
+"I just wanted to know how far you've gone\n"
+"exploring this place together, that's all."
+msgstr ""
+
+msgctxt "0008 | C015_Akama"
+msgid "That's none of your business, Kokichi."
+msgstr ""
+
+msgctxt "0009 | C005_Oma__"
+msgid "Huh? What's with the attitude...?"
+msgstr ""
+
+msgctxt "0010 | C005_Oma__"
+msgid ""
+"You're so mean! I thought you said we were\n"
+"friends, Kaede!"
+msgstr ""
+
+msgctxt "0011 | C005_Oma__"
+msgid ""
+"But you were lying this whole time!\n"
+"WAAAAAAAAAAAAHHHHHH!!!!!"
+msgstr ""
+
+msgctxt "0012 | C015_Akama"
+msgid "Yeah, well, you're lying too."
+msgstr ""
+
+msgctxt "0013 | C005_Oma__"
+msgid ""
+"Oh? Wow, Kaede. You know how to stand\n"
+"your ground, don'tcha?"
+msgstr ""
+
+msgctxt "0014 | C005_Oma__"
+msgid ""
+"But you're right—I was lying. After all, we're\n"
+"just strangers to one another."
+msgstr ""
+
+msgctxt "0015 | C005_Oma__"
+msgid ""
+"That's why I don't really care what you and\n"
+"Shuichi do."
+msgstr ""
+
+msgctxt "0016 | C005_Oma__"
+msgid ""
+"Besides, even friends don't share *everything*\n"
+"with each other!"
+msgstr ""
+
+msgctxt "0017 | C015_Akama"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0018 | C005_Oma__"
+msgid ""
+"I'm more nervous around friends who share too\n"
+"much than strangers, really."
+msgstr ""
+
+msgctxt "0019 | C015_Akama"
+msgid "..."
+msgstr "..."
+
+msgctxt "0020 | C007_Ki-Bo"
+msgid "Good morning, Kaede."
+msgstr ""
+
+msgctxt "0021 | C015_Akama"
+msgid "Morning, Keebo."
+msgstr ""
+
+msgctxt "0022 | C007_Ki-Bo"
+msgid ""
+"Everyone appears to have gathered at\n"
+"the dining hall again."
+msgstr ""
+
+msgctxt "0023 | C015_Akama"
+msgid "Yup, looks like it."
+msgstr ""
+
+msgctxt "0024 | C007_Ki-Bo"
+msgid ""
+"I'm thinking about heading over there as\n"
+"well, but..."
+msgstr ""
+
+msgctxt "0025 | C007_Ki-Bo"
+msgid "..."
+msgstr "..."
+
+msgctxt "0026 | C015_Akama"
+msgid "But?"
+msgstr ""
+
+msgctxt "0027 | C007_Ki-Bo"
+msgid ""
+"Oh, nothing. I was just wondering...when someone\n"
+"is going to come rescue us."
+msgstr ""
+
+msgctxt "0028 | C007_Ki-Bo"
+msgid ""
+"It's been almost a full day since Monokuma was\n"
+"dispatched, but our situation hasn't changed."
+msgstr ""
+
+msgctxt "0029 | C007_Ki-Bo"
+msgid "I'm just speculating, but what if..."
+msgstr ""
+
+msgctxt "0030 | C007_Ki-Bo"
+msgid ""
+"...only Monokuma knew about this place?\n"
+"What if this location is not on any map?"
+msgstr ""
+
+msgctxt "0031 | C007_Ki-Bo"
+msgid "What if...no one is coming to rescue us?"
+msgstr ""
+
+msgctxt "0032 | C015_Akama"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "0033 | C007_Ki-Bo"
+msgid ""
+"Maybe...we'll just be forgotten, and no one\n"
+"will ever find us again..."
+msgstr ""
+
+msgctxt "0034 | C015_Akama"
+msgid "D-Don't say that!"
+msgstr ""
+
+msgctxt "0035 | C015_Akama"
+msgid ""
+"Besides, we should be trying to escape, not\n"
+"waiting for someone to rescue us!"
+msgstr ""
+
+msgctxt "0036 | C007_Ki-Bo"
+msgid "Y-Yes...I apologize. I was overthinking things."
+msgstr ""
+
+msgctxt "0037 | C007_Ki-Bo"
+msgid ""
+"It would be impossible to discreetly construct\n"
+"a facility such as this in the first place."
+msgstr ""
+
+msgctxt "0038 | C007_Ki-Bo"
+msgid ""
+"Plus, if the professor knew I was missing, he\n"
+"would not rest until he found me."
+msgstr ""
+
+msgctxt "0039 | C007_Ki-Bo"
+msgid ""
+"With his technology, he would rescue us!\n"
+"No matter where on earth this place is!"
+msgstr ""
+
+msgctxt "0040 | C015_Akama"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "0041 | C007_Ki-Bo"
+msgid "On the other hand...it *has* only been one day."
+msgstr ""
+
+msgctxt "0042 | C007_Ki-Bo"
+msgid ""
+"As much as we'd love to go home right now,\n"
+"we must wait in a calm, dignified manner!"
+msgstr ""
+
+msgctxt "0043 | C013_Yonag"
+msgid "G'morning Kaede!"
+msgstr ""
+
+msgctxt "0044 | C015_Akama"
+msgid "Morning..."
+msgstr ""
+
+msgctxt "0045 | C013_Yonag"
+msgid ""
+"Hmm, I see, I see! Are you finally ready\n"
+"to make an offering?"
+msgstr ""
+
+msgctxt "0046 | chara_Blank"
+msgid "Huh!? Right now!?"
+msgstr ""
+
+msgctxt "0047 | C015_Akama"
+msgid "S-Sorry! I still have anemia!"
+msgstr ""
+
+msgctxt "0048 | C013_Yonag"
+msgid "Huhhh?"
+msgstr ""
+
+msgctxt "0049 | C013_Yonag"
+msgid "That's a bummer."
+msgstr ""
+
+msgctxt "0050 | C013_Yonag"
+msgid "Major bummer."
+msgstr ""
+
+msgctxt "0051 | C013_Yonag"
+msgid "This is a problem, though."
+msgstr ""
+
+msgctxt "0052 | C013_Yonag"
+msgid ""
+"I need an offering from someone to thank\n"
+"Atua for smiting Monokuma."
+msgstr ""
+
+msgctxt "0053 | C013_Yonag"
+msgid ""
+"Make sure you eat a big breakfast, 'kay?\n"
+"Hope your anemia clears up soooooon!"
+msgstr ""
+
+msgctxt "0054 | chara_Blank"
+msgid "<CLT=cltMIND>I-Is she serious about offering my blood?"
+msgstr ""
+
+msgctxt "0055 | C081_kak22"
+msgid ""
+"<CLT=cltMIND>Casino Area Door Hexagon Wrench Gimmick\n"
+"(Closed)"
+msgstr ""
+
+msgctxt "0056 | C081_kak22"
+msgid ""
+"<CLT=cltMIND>Casino Area Door Hexagon Wrench Gimmick\n"
+"(Open)"
+msgstr ""

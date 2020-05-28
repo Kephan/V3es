@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C015_Akama"
+msgid "So, what did you wanna talk about?"
+msgstr ""
+
+msgctxt "0002 | C000_Saiha"
+msgid ""
+"...I want to talk in the library.\n"
+"Could you come with me, please?"
+msgstr ""
+
+msgctxt "0003 | C015_Akama"
+msgid "Kirumi, what are you doing here?"
+msgstr ""
+
+msgctxt "0004 | C008_Tojo_"
+msgid ""
+"I am waiting until someone in need of my\n"
+"service approaches me."
+msgstr ""
+
+msgctxt "0005 | C015_Akama"
+msgid "Huh? So you're just waiting?"
+msgstr ""
+
+msgctxt "0006 | C000_Saiha"
+msgid ""
+"Kirumi, you aren't our maid...\n"
+"You don't have to do that."
+msgstr ""
+
+msgctxt "0007 | C008_Tojo_"
+msgid ""
+"As I have said...my only desire is to fulfill\n"
+"the desires of others."
+msgstr ""
+
+msgctxt "0008 | C008_Tojo_"
+msgid "Until we escape, I intend to serve everyone."
+msgstr ""
+
+msgctxt "0009 | C008_Tojo_"
+msgid ""
+"If either of you have a request to make of\n"
+"me, please do not hesitate to ask."
+msgstr ""
+
+msgctxt "0010 | C015_Akama"
+msgid "O-Okay. I'm fine for now."
+msgstr ""
+
+msgctxt "0011 | C000_Saiha"
+msgid "Ah, I think I'm okay too..."
+msgstr ""
+
+msgctxt "0012 | C008_Tojo_"
+msgid "I see..."
+msgstr ""
+
+msgctxt "0013 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>The Ultimate Maid is so impressive...\n"
+"She's so thorough..."
+msgstr ""
+
+msgctxt "0014 | C008_Tojo_"
+msgid ""
+"Tell me your request and I shall see to it\n"
+"at once."
+msgstr ""
+
+msgctxt "0015 | C008_Tojo_"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0016 | C008_Tojo_"
+msgid "No"
+msgstr ""
+
+msgctxt "0017 | C008_Tojo_"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0018 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0019 | C000_Saiha"
+msgid "Ah, that's...my room..."
+msgstr ""
+
+msgctxt "0020 | C000_Saiha"
+msgid "...I want to talk in the library."
+msgstr ""
+
+msgctxt "0021 | C000_Saiha"
+msgid "...Kaede, we should go to the library."
+msgstr ""
+
+msgctxt "0022 | C000_Saiha"
+msgid "...Kaede, we should go to the library."
+msgstr ""
+
+msgctxt "0023 | C000_Saiha"
+msgid "...Kaede, we should go to the library."
+msgstr ""
+
+msgctxt "0024 | C000_Saiha"
+msgid "...Kaede, we should go to the library."
+msgstr ""
+
+msgctxt "0025 | C000_Saiha"
+msgid "...Kaede, we should go to the library."
+msgstr ""
+
+msgctxt "0026 | C000_Saiha"
+msgid "...Kaede, we should go to the library."
+msgstr ""
+
+msgctxt "0027 | C000_Saiha"
+msgid "...Kaede, we should go to the library."
+msgstr ""
+
+msgctxt "0028 | C000_Saiha"
+msgid "...Kaede, we should go to the library."
+msgstr ""
+
+msgctxt "0029 | C000_Saiha"
+msgid "...Kaede, we should go to the library."
+msgstr ""
+
+msgctxt "0030 | C000_Saiha"
+msgid "...Kaede, we should go to the library."
+msgstr ""
+
+msgctxt "0031 | C000_Saiha"
+msgid "...Kaede, we should go to the library."
+msgstr ""
+
+msgctxt "0032 | C000_Saiha"
+msgid "...Kaede, we should go to the library."
+msgstr ""
+
+msgctxt "0033 | C000_Saiha"
+msgid "...Kaede, we should go to the library."
+msgstr ""
+
+msgctxt "0034 | C000_Saiha"
+msgid "...Kaede, we should go to the library."
+msgstr ""
+
+msgctxt "0035 | C000_Saiha"
+msgid "...Kaede, we should go to the library."
+msgstr ""
+
+msgctxt "0036 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>It's a monitor for communicating with us...\n"
+"But there's nothing displayed right now."
+msgstr ""

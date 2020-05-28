@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>What should I do?\n"
+"I don't think I can do this anymore..."
+msgstr ""
+
+msgctxt "0002 | C015_Akama"
+msgid "<CLT=cltMIND>Is everyone suspecting me...?"
+msgstr ""
+
+msgctxt "0003 | C020_Monok"
+msgid "Hm? Done debating already?"
+msgstr ""
+
+msgctxt "0004 | C020_Monok"
+msgid ""
+"Well, this next part's mandatory so let's\n"
+"get it over with. It's...Voting Time!"
+msgstr ""
+
+msgctxt "0005 | C020_Monok"
+msgid "Puhuhuhu...!"
+msgstr ""
+
+msgctxt "0006 | C015_Akama"
+msgid "Is there...nothing else I can do?"
+msgstr ""
+
+msgctxt "0007 | C015_Akama"
+msgid "Retry"
+msgstr ""
+
+msgctxt "0008 | C015_Akama"
+msgid "We won't give up!"
+msgstr ""
+
+msgctxt "0009 | C015_Akama"
+msgid "Make preparations and retry"
+msgstr ""
+
+msgctxt "0010 | C015_Akama"
+msgid "We won't give up!"
+msgstr ""
+
+msgctxt "0011 | C015_Akama"
+msgid "Quit"
+msgstr ""
+
+msgctxt "0012 | C015_Akama"
+msgid "Would you like to retry?"
+msgstr ""

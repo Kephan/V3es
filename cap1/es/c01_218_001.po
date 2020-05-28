@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C005_Oma__"
+msgid ""
+"<CLT=size1>The <CLT=size2>security\n"
+"sensor\n"
+"<CLT=size1>was armed, but..."
+msgstr ""
+
+msgctxt "0002 | C005_Oma__"
+msgid ""
+"The security sensor\n"
+"was armed, but..."
+msgstr ""
+
+msgctxt "0003 | C005_Oma__"
+msgid ""
+"<CLT=size2><CLT=cltWEAK>the moving\n"
+"bookcase"
+msgstr ""
+
+msgctxt "0004 | C005_Oma__"
+msgid ""
+"the moving\n"
+"bookcase isn't what triggered it."
+msgstr ""
+
+msgctxt "0005 | C005_Oma__"
+msgid "<CLT=cltNORMAL>isn't what triggered it."
+msgstr ""
+
+msgctxt "0006 | C005_Oma__"
+msgid ""
+"As it turns out, <CLT=size2>Shuichi\n"
+"<CLT=size2>had<CLT=size1> it the <CLT=size2>whole time."
+msgstr ""
+
+msgctxt "0007 | C005_Oma__"
+msgid ""
+"As it turns out, Shuichi\n"
+"had it the whole time."
+msgstr ""
+
+msgctxt "0008 | C006_Shing"
+msgid "The <CLT=size2>sound"
+msgstr ""
+
+msgctxt "0009 | C006_Shing"
+msgid "The sound Kaede heard came from..."
+msgstr ""
+
+msgctxt "0010 | C006_Shing"
+msgid "<CLT=size2>Kaede<CLT=size1> heard came from..."
+msgstr ""
+
+msgctxt "0011 | C006_Shing"
+msgid "the <CLT=size2>sensor<CLT=size1> when"
+msgstr ""
+
+msgctxt "0012 | C006_Shing"
+msgid "the sensor when Shuichi secretly moved it..."
+msgstr ""
+
+msgctxt "0013 | C006_Shing"
+msgid "Shuichi"
+msgstr ""
+
+msgctxt "0014 | C006_Shing"
+msgid "<CLT=cltWEAK><CLT=size2>secretly moved<CLT=size1> it<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0015 | C006_Shing"
+msgid "in order"
+msgstr ""
+
+msgctxt "0016 | C006_Shing"
+msgid "in order to trigger the alarm."
+msgstr ""
+
+msgctxt "0017 | C006_Shing"
+msgid "to <CLT=size2>trigger"
+msgstr ""
+
+msgctxt "0018 | C006_Shing"
+msgid "the <CLT=size2>alarm."
+msgstr ""
+
+msgctxt "0019 | C002_Hoshi"
+msgid ""
+"So when\n"
+"<CLT=size2>Kaede<CLT=size1> heard\n"
+"the sensor go off..."
+msgstr ""
+
+msgctxt "0020 | C002_Hoshi"
+msgid ""
+"So when Kaede heard\n"
+"the sensor go off..."
+msgstr ""
+
+msgctxt "0021 | C002_Hoshi"
+msgid ""
+"she figured someone\n"
+"had <CLT=size2>tried<CLT=size1> to\n"
+"<CLT=size2>move<CLT=size1> the <CLT=size2>bookcase..."
+msgstr ""
+
+msgctxt "0022 | C002_Hoshi"
+msgid ""
+"she figured someone had\n"
+"tried to move the bookcase..."
+msgstr ""
+
+msgctxt "0023 | C005_Oma__"
+msgid "Only an <CLT=size2>idiot<CLT=size1> could make that mistake!"
+msgstr ""
+
+msgctxt "0024 | C005_Oma__"
+msgid "Only an idiot could make that mistake!"
+msgstr ""
+
+msgctxt "0025 | C000_Saiha"
+msgid ".................."
+msgstr ""
+
+msgctxt "0026 | C000_Saiha"
+msgid ".................."
+msgstr ""
+
+msgctxt "0027 | C007_Ki-Bo"
+msgid "Did Shuichi really...?"
+msgstr ""
+
+msgctxt "0028 | C002_Hoshi"
+msgid "So it's Shuichi!"
+msgstr ""
+
+msgctxt "0029 | C002_Hoshi"
+msgid "Knew it!"
+msgstr ""
+
+msgctxt "0030 | C011_Chaba"
+msgid "I knew it!"
+msgstr ""
+
+msgctxt "0031 | C006_Shing"
+msgid "A clever trick..."
+msgstr ""
+
+msgctxt "0032 | C007_Ki-Bo"
+msgid "Is that really it?"
+msgstr ""
+
+msgctxt "0033 | C010_Haruk"
+msgid "Say something."
+msgstr ""

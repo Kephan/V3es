@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C004_Gokuh"
+msgid ""
+"What would...true gentleman do in time\n"
+"like this?"
+msgstr ""
+
+msgctxt "0002 | C004_Gokuh"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0003 | C004_Gokuh"
+msgid "No"
+msgstr ""
+
+msgctxt "0004 | C004_Gokuh"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0005 | chara_Blank"
+msgid "<CLT=cltMIND>Should I spend time with Gonta?"
+msgstr ""
+
+msgctxt "0006 | C004_Gokuh"
+msgid "O-Okay. I-If you okay with Gonta..."
+msgstr ""
+
+msgctxt "0007 | chara_Blank"
+msgid "<CLT=cltMIND>I spent some time trying to cheer Gonta up..."
+msgstr ""
+
+msgctxt "0008 | chara_Blank"
+msgid "<CLT=cltMIND>Gonta and I grew a little closer today."
+msgstr ""

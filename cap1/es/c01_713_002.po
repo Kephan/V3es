@@ -1,0 +1,318 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C013_Yonag"
+msgid ""
+"Kaede! I have a problem!\n"
+"A super-duper serious problem!"
+msgstr ""
+
+msgctxt "0002 | C015_Akama"
+msgid "Wh-What happened!?"
+msgstr ""
+
+msgctxt "0003 | C013_Yonag"
+msgid ""
+"Atua demands that we do a paint-and-piano\n"
+"jam session!"
+msgstr ""
+
+msgctxt "0004 | C015_Akama"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0005 | C013_Yonag"
+msgid ""
+"We must fuse your piano playing with my\n"
+"painting! Nyahahaha! This will be so divine!"
+msgstr ""
+
+msgctxt "0006 | C015_Akama"
+msgid ""
+"Sorry, but I don't know how you can fuse music\n"
+"and painting together. I can't picture it."
+msgstr ""
+
+msgctxt "0007 | C013_Yonag"
+msgid "I dunno either!"
+msgstr ""
+
+msgctxt "0008 | C015_Akama"
+msgid "But you're the one who suggested it."
+msgstr ""
+
+msgctxt "0009 | C013_Yonag"
+msgid ""
+"It'll be fine. Atua will fill me with divine\n"
+"inspiration and show us the way."
+msgstr ""
+
+msgctxt "0010 | C013_Yonag"
+msgid "C'mon, let's do it! Let's do it!"
+msgstr ""
+
+msgctxt "0011 | C013_Yonag"
+msgid ""
+"Atua says we gotta do it or He'll pour His\n"
+"wrath upon us, y'know?"
+msgstr ""
+
+msgctxt "0012 | C015_Akama"
+msgid "..."
+msgstr "..."
+
+msgctxt "0013 | chara_Blank"
+msgid "<CLT=cltMIND>I doubt Atua said that..."
+msgstr ""
+
+msgctxt "0014 | chara_Blank"
+msgid "<CLT=cltMIND>I'm pretty sure it's all Angie talking."
+msgstr ""
+
+msgctxt "0015 | chara_Blank"
+msgid "<CLT=cltMIND>Maybe she's actually lonely..."
+msgstr ""
+
+msgctxt "0016 | C015_Akama"
+msgid "Yeah, sure... Let's do it."
+msgstr ""
+
+msgctxt "0017 | C013_Yonag"
+msgid "Yay! We're gonna do do do it!"
+msgstr ""
+
+msgctxt "0018 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>First, I'll have Angie listen to me play the piano,\n"
+"but..."
+msgstr ""
+
+msgctxt "0019 | C015_Akama"
+msgid "Angie, do you have any songs you wanna hear?"
+msgstr ""
+
+msgctxt "0020 | C013_Yonag"
+msgid "I will welcome any song you choose."
+msgstr ""
+
+msgctxt "0021 | C013_Yonag"
+msgid ""
+"Oh, but...I think I'd like a song that will make\n"
+"me feel...divine while I'm listening to it."
+msgstr ""
+
+msgctxt "0022 | C015_Akama"
+msgid "That's a...difficult request..."
+msgstr ""
+
+msgctxt "0023 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Divine...divine... Hmmm, I guess it should be fine\n"
+"as long as I make it fun."
+msgstr ""
+
+msgctxt "0024 | chara_Blank"
+msgid "<CLT=cltMIND>I got it! Yeah, I'll do *that* song!"
+msgstr ""
+
+msgctxt "0025 | C015_Akama"
+msgid "Then, I'll begin."
+msgstr ""
+
+msgctxt "0026 | C013_Yonag"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "0027 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I sat down, straightened my back, and placed my\n"
+"fingers on the cold, smooth keys of the piano."
+msgstr ""
+
+msgctxt "0028 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Yes...I feel like I could play like\n"
+"this forever!"
+msgstr ""
+
+msgctxt "0029 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>No matter where I am, the piano will always be\n"
+"there for me..."
+msgstr ""
+
+msgctxt "0030 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I can feel my <CLT=cltSTRONG>partner<CLT=cltMIND>'s passion—the same feeling\n"
+"I had when we first started walking together!"
+msgstr ""
+
+msgctxt "0031 | C015_Akama"
+msgid "Alright, here I go!"
+msgstr ""
+
+msgctxt "0032 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0033 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0034 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0035 | C015_Akama"
+msgid ""
+"Well, how was it, Angie?\n"
+"This song..."
+msgstr ""
+
+msgctxt "0036 | C015_Akama"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "0037 | C013_Yonag"
+msgid "Zzzzz...zzzzz..."
+msgstr ""
+
+msgctxt "0038 | C015_Akama"
+msgid "She's sleeping!?"
+msgstr ""
+
+msgctxt "0039 | C013_Yonag"
+msgid "Zzzzz...zzzzz...zzzzz...zzzzz..."
+msgstr ""
+
+msgctxt "0040 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Geez, she fell asleep even though she asked\n"
+"me to play. And it was a really lively song, too."
+msgstr ""
+
+msgctxt "0041 | C013_Yonag"
+msgid "Ngh, grgh...zzzzz...zzzzz..."
+msgstr ""
+
+msgctxt "0042 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Angie...scares me sometimes, but she\n"
+"looks like an angel right now."
+msgstr ""
+
+msgctxt "0043 | C013_Yonag"
+msgid "Hmmmm..."
+msgstr ""
+
+msgctxt "0044 | C015_Akama"
+msgid "Oh, are you awake?"
+msgstr ""
+
+msgctxt "0045 | C013_Yonag"
+msgid ""
+"Wednesday morning... Need sacrifice...\n"
+"Hurry... Can't wait..."
+msgstr ""
+
+msgctxt "0046 | C015_Akama"
+msgid "What?"
+msgstr ""
+
+msgctxt "0047 | C013_Yonag"
+msgid ""
+"Not enough blood... Need more blood...\n"
+"So I'll... I'll..."
+msgstr ""
+
+msgctxt "0048 | C013_Yonag"
+msgid ""
+"Hahhh! Stop!\n"
+"Ngh, ergh... Ngahhhh... It's too much!"
+msgstr ""
+
+msgctxt "0049 | C015_Akama"
+msgid ""
+"Is she having a nightmare!?\n"
+"Angie, wake up! I said, wake up!"
+msgstr ""
+
+msgctxt "0050 | C013_Yonag"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "0051 | C013_Yonag"
+msgid "Oh, hi Kaede. Was I sleeping?"
+msgstr ""
+
+msgctxt "0052 | C013_Yonag"
+msgid ""
+"Sorry 'bout that. But thanks to your piano,\n"
+"I got to have a wonderful dream."
+msgstr ""
+
+msgctxt "0053 | C015_Akama"
+msgid ""
+"Are you sure about that...? You sounded pretty\n"
+"distressed..."
+msgstr ""
+
+msgctxt "0054 | C013_Yonag"
+msgid ""
+"Hehe, Atua says He was so enchanted by you, He\n"
+"accidentally poured His divine wrath somewhere."
+msgstr ""
+
+msgctxt "0055 | C015_Akama"
+msgid ""
+"He poured it!? Where!? Divine wrath shouldn't\n"
+"just be accidentally poured somewhere, right!?"
+msgstr ""
+
+msgctxt "0056 | C013_Yonag"
+msgid ""
+"I'm starting to like your music, Kaede! Let's\n"
+"have a paint-and-piano jam session very soon!"
+msgstr ""
+
+msgctxt "0057 | C015_Akama"
+msgid "O-Okay..."
+msgstr ""
+
+msgctxt "0058 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Well, I guess it wouldn't be so bad to get\n"
+"along with Angie..."
+msgstr ""
+
+msgctxt "0059 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>We might even be able to exchange artistic ideas\n"
+"with each other."
+msgstr ""
+
+msgctxt "0060 | chara_Blank"
+msgid "<CLT=cltMIND>Although, I'd never accept Atua..."
+msgstr ""
+
+msgctxt "0061 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Angie's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\n"
+"based on your experience with her."
+msgstr ""
+
+msgctxt "0062 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>After parting ways with Angie, I returned\n"
+"to my room."
+msgstr ""

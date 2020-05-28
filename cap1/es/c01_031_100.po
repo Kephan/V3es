@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C000_Saiha"
+msgid ""
+"Ah, sorry to keep you waiting...\n"
+"Let's go to Miu's lab."
+msgstr ""
+
+msgctxt "0002 | chara_Blank"
+msgid "<CLT=cltMIND>Let's go to Shuichi's room first!"
+msgstr ""
+
+msgctxt "0003 | chara_Blank"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0004 | chara_Blank"
+msgid "No"
+msgstr ""
+
+msgctxt "0005 | chara_Blank"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0006 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0007 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*ding dong*"
+msgstr ""
+
+msgctxt "0008 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0009 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0010 | C015_Akama"
+msgid ""
+"Huh? No response...\n"
+"I wonder if something's the matter?"
+msgstr ""
+
+msgctxt "0011 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*ding dong... ding dong...*"
+msgstr ""
+
+msgctxt "0012 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0013 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0014 | C000_Saiha"
+msgid "...Ah, Kaede. Good morning."
+msgstr ""
+
+msgctxt "0015 | C015_Akama"
+msgid ""
+"Geez! Finally, you came out!\n"
+"You had me nervous for a second!"
+msgstr ""
+
+msgctxt "0016 | C000_Saiha"
+msgid "Ah, sorry! I was just...going to the bathroom."
+msgstr ""
+
+msgctxt "0017 | C015_Akama"
+msgid ""
+"Are you ready, then? We have to get the\n"
+"cameras from Miu, remember?"
+msgstr ""
+
+msgctxt "0018 | C000_Saiha"
+msgid "Yeah, right..."
+msgstr ""
+
+msgctxt "0019 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I wonder if Miu finished modifying the\n"
+"cameras already..."
+msgstr ""
+
+msgctxt "0020 | chara_Blank"
+msgid "<CLT=cltMIND>Let's go to Shuichi's room first!"
+msgstr ""
+
+msgctxt "0021 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>It's a monitor for communicating with us...\n"
+"But there's nothing displayed right now."
+msgstr ""
+
+msgctxt "0022 | chara_Blank"
+msgid "<CLT=cltMIND>No, this isn't Shuichi's room!"
+msgstr ""
+
+msgctxt "0023 | chara_Blank"
+msgid "<CLT=cltMIND>I gotta calm down..."
+msgstr ""
+
+msgctxt "0024 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I don't have time to wander around...\n"
+"We need to go to Miu's research lab!"
+msgstr ""

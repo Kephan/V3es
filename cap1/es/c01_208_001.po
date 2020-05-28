@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C004_Gokuh"
+msgid "<CLT=cltWEAK><CLT=size2>Gonta"
+msgstr ""
+
+msgctxt "0002 | C004_Gokuh"
+msgid "Gonta not culprit!!!!"
+msgstr ""
+
+msgctxt "0003 | C004_Gokuh"
+msgid "<CLT=cltWEAK>not"
+msgstr ""
+
+msgctxt "0004 | C004_Gokuh"
+msgid "<CLT=cltWEAK>culprit!"
+msgstr ""
+
+msgctxt "0005 | C004_Gokuh"
+msgid "　"
+msgstr "　"
+
+msgctxt "0006 | C004_Gokuh"
+msgid ""
+"Cuz, to leave\n"
+"<CLT=size2>AV Room..."
+msgstr ""
+
+msgctxt "0007 | C004_Gokuh"
+msgid ""
+"Cuz, to leave\n"
+"AV Room..."
+msgstr ""
+
+msgctxt "0008 | C004_Gokuh"
+msgid ""
+"Gonta must walk through\n"
+"<CLT=size2>Game Room,\n"
+"<CLT=size1>where friends are..."
+msgstr ""
+
+msgctxt "0009 | C004_Gokuh"
+msgid ""
+"Gonta must walk through\n"
+"Game Room, where\n"
+"friends are..."
+msgstr ""
+
+msgctxt "0010 | C004_Gokuh"
+msgid "to even"
+msgstr ""
+
+msgctxt "0011 | C004_Gokuh"
+msgid "to even reach hallway!"
+msgstr ""
+
+msgctxt "0012 | C004_Gokuh"
+msgid "<CLT=size2>reach<CLT=size1> hallway!"
+msgstr ""
+
+msgctxt "0013 | C013_Yonag"
+msgid "If you <CLT=size2>can't get<CLT=size1> to the <CLT=size2>hallway..."
+msgstr ""
+
+msgctxt "0014 | C013_Yonag"
+msgid "If you can't get to the hallway..."
+msgstr ""
+
+msgctxt "0015 | C013_Yonag"
+msgid "you <CLT=size2>can't go<CLT=size1> to the <CLT=size2>library!"
+msgstr ""
+
+msgctxt "0016 | C013_Yonag"
+msgid "you can't go to the library!"
+msgstr ""
+
+msgctxt "0017 | C002_Hoshi"
+msgid "<CLT=size2>AV Room's<CLT=size1> got"
+msgstr ""
+
+msgctxt "0018 | C002_Hoshi"
+msgid "AV Room's got more than one entrance, though."
+msgstr ""
+
+msgctxt "0019 | C002_Hoshi"
+msgid ""
+"<CLT=size2>more\n"
+"than"
+msgstr ""
+
+msgctxt "0020 | C002_Hoshi"
+msgid "<CLT=size2>one<CLT=size1> entrance, though."
+msgstr ""
+
+msgctxt "0021 | C002_Hoshi"
+msgid "There shoulda been"
+msgstr ""
+
+msgctxt "0022 | C002_Hoshi"
+msgid "There shoulda been a door facing the hallway, too."
+msgstr ""
+
+msgctxt "0023 | C002_Hoshi"
+msgid "a door facing the <CLT=size2>hallway,<CLT=size1> too."
+msgstr ""
+
+msgctxt "0024 | C000_Saiha"
+msgid ""
+"The sliding door <CLT=size2>across from\n"
+"<CLT=size1>the <CLT=size2>rear entrance,<CLT=size1> correct?"
+msgstr ""
+
+msgctxt "0025 | C000_Saiha"
+msgid "You're referring to the sliding door opposite the rear entrance, correct?"
+msgstr ""
+
+msgctxt "0026 | C014_Iruma"
+msgid "<CLT=cltWEAK>With that <CLT=size2>sliding door<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0027 | C014_Iruma"
+msgid "With that sliding door..."
+msgstr ""
+
+msgctxt "0028 | C014_Iruma"
+msgid ""
+"you can quickly go <CLT=size2>in<CLT=size1> and <CLT=size2>out\n"
+"<CLT=size1>of the <CLT=size2>library!"
+msgstr ""
+
+msgctxt "0029 | C014_Iruma"
+msgid ""
+"you can go in and out\n"
+"of the library!"
+msgstr ""
+
+msgctxt "0030 | C009_Yumen"
+msgid ""
+"<CLT=size2>Then, \n"
+"<CLT=size1>he got past the camera somehow..."
+msgstr ""
+
+msgctxt "0031 | C009_Yumen"
+msgid "Then, he got past the camera somehow..."
+msgstr ""
+
+msgctxt "0032 | C009_Yumen"
+msgid "and <CLT=size2>killed<CLT=size1> <CLT=size2>Rantaro."
+msgstr ""
+
+msgctxt "0033 | C009_Yumen"
+msgid "and killed Rantaro."
+msgstr ""
+
+msgctxt "0034 | C009_Yumen"
+msgid "Well, that's settled. Let's go home."
+msgstr ""
+
+msgctxt "0035 | C009_Yumen"
+msgid "Well, that's settled. Let's go home."
+msgstr ""
+
+msgctxt "0036 | C004_Gokuh"
+msgid "Is <CLT=size2>not settled!"
+msgstr ""
+
+msgctxt "0037 | C004_Gokuh"
+msgid "Is not settled! Gonta not culprit!"
+msgstr ""
+
+msgctxt "0038 | C004_Gokuh"
+msgid "<CLT=size2>Gonta<CLT=size1> not <CLT=size2>culprit!"
+msgstr ""

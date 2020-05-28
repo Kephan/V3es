@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C013_Yonag"
+msgid "The <CLT=size1.5>culprit"
+msgstr ""
+
+msgctxt "0002 | C013_Yonag"
+msgid "The culprit was hiding in the library the whole time."
+msgstr ""
+
+msgctxt "0003 | C013_Yonag"
+msgid "was <CLT=size1.5>hiding"
+msgstr ""
+
+msgctxt "0004 | C013_Yonag"
+msgid "in the <CLT=size1.5>library"
+msgstr ""
+
+msgctxt "0005 | C013_Yonag"
+msgid "the <CLT=size1.5>whole time."
+msgstr ""
+
+msgctxt "0006 | C013_Yonag"
+msgid "Before <CLT=size1.5>Kaede"
+msgstr ""
+
+msgctxt "0007 | C013_Yonag"
+msgid "Before Kaede and Shuichi even placed the cameras."
+msgstr ""
+
+msgctxt "0008 | C013_Yonag"
+msgid "and <CLT=size1.5>Shuichi"
+msgstr ""
+
+msgctxt "0009 | C013_Yonag"
+msgid ""
+"<CLT=size1>even <CLT=size1.5>placed\n"
+"<CLT=size1>the <CLT=size1.5>cameras."
+msgstr ""
+
+msgctxt "0010 | C007_Ki-Bo"
+msgid "<CLT=size2>Where<CLT=size1> would they have <CLT=size2>hidden?"
+msgstr ""
+
+msgctxt "0011 | C007_Ki-Bo"
+msgid "Where would they have hidden?"
+msgstr ""
+
+msgctxt "0012 | C013_Yonag"
+msgid "<CLT=size1>Inside the <CLT=size2><CLT=cltWEAK>hidden door<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0013 | C013_Yonag"
+msgid "Inside the hidden door!"
+msgstr ""
+
+msgctxt "0014 | C002_Hoshi"
+msgid "So you're sayin'"
+msgstr ""
+
+msgctxt "0015 | C002_Hoshi"
+msgid ""
+"So you're sayin' the culprit \n"
+"was lyin' in wait there?"
+msgstr ""
+
+msgctxt "0016 | C002_Hoshi"
+msgid "the <CLT=size2>culprit<CLT=size1> was <CLT=size2>lyin' in wait<CLT=size1> there?"
+msgstr ""
+
+msgctxt "0017 | C006_Shing"
+msgid "If that's true, the <CLT=size2>suspects..."
+msgstr ""
+
+msgctxt "0018 | C006_Shing"
+msgid "If that's true, the suspects..."
+msgstr ""
+
+msgctxt "0019 | C006_Shing"
+msgid ""
+"are those who were <CLT=size2>alone\n"
+"<CLT=size1>at the time of the incident."
+msgstr ""
+
+msgctxt "0020 | C006_Shing"
+msgid "are those who were alone at the time of the incident."
+msgstr ""
+
+msgctxt "0021 | C010_Haruk"
+msgid ""
+"The only ones who didn't go to\n"
+"the <CLT=size2>dining hall<CLT=size1> or <CLT=size2>basement<CLT=size1> are..."
+msgstr ""
+
+msgctxt "0022 | C010_Haruk"
+msgid ""
+"The only ones who didn't go to\n"
+"the dining hall or basement are..."
+msgstr ""
+
+msgctxt "0023 | C004_Gokuh"
+msgid "<CLT=cltWEAK><CLT=size2>Kokichi"
+msgstr ""
+
+msgctxt "0024 | C004_Gokuh"
+msgid "Kokichi and Keebo and Ryoma, right?"
+msgstr ""
+
+msgctxt "0025 | C004_Gokuh"
+msgid "<CLT=cltWEAK>and"
+msgstr ""
+
+msgctxt "0026 | C004_Gokuh"
+msgid "<CLT=cltWEAK><CLT=size2>Keebo"
+msgstr ""
+
+msgctxt "0027 | C004_Gokuh"
+msgid "<CLT=cltWEAK>and"
+msgstr ""
+
+msgctxt "0028 | C004_Gokuh"
+msgid "<CLT=cltWEAK><CLT=size2>Ryoma,"
+msgstr ""
+
+msgctxt "0029 | C004_Gokuh"
+msgid "right?"
+msgstr ""
+
+msgctxt "0030 | C011_Chaba"
+msgid "I knew the <CLT=size2>culprit<CLT=size1> was a <CLT=size2>male!"
+msgstr ""
+
+msgctxt "0031 | C011_Chaba"
+msgid "I knew the culprit was a male!"
+msgstr ""
+
+msgctxt "0032 | C013_Yonag"
+msgid "<CLT=size2>Nyah-hahaha!"
+msgstr ""
+
+msgctxt "0033 | C013_Yonag"
+msgid "Nyah-hahaha! Behold Atua's divine logic!"
+msgstr ""
+
+msgctxt "0034 | C013_Yonag"
+msgid "Behold Atua's <CLT=size6>divine<CLT=size2> logic<CLT=size2>!"
+msgstr ""

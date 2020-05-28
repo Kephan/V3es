@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C014_Iruma"
+msgid "<CLT=size2>So we agree<CLT=size1>-"
+msgstr ""
+
+msgctxt "0002 | C014_Iruma"
+msgid "So we agree—Gonta's the culprit!"
+msgstr ""
+
+msgctxt "0003 | C014_Iruma"
+msgid "<CLT=size3>Gonta's<CLT=size1> the culprit!"
+msgstr ""
+
+msgctxt "0004 | C004_Gokuh"
+msgid "Gonta <CLT=size2>not culprit! Honest!"
+msgstr ""
+
+msgctxt "0005 | C004_Gokuh"
+msgid "Gonta not culprit! Honest!"
+msgstr ""
+
+msgctxt "0006 | C011_Chaba"
+msgid ""
+"A <CLT=size2>typical<CLT=size1> degenerate\n"
+"<CLT=size2>male<CLT=size1> <CLT=size2>excuse!"
+msgstr ""
+
+msgctxt "0007 | C011_Chaba"
+msgid "A typical degenerate male excuse!"
+msgstr ""
+
+msgctxt "0008 | C008_Tojo_"
+msgid "Rantaro's corpse and"
+msgstr ""
+
+msgctxt "0009 | C008_Tojo_"
+msgid "Rantaro's corpse and the AV Room door..."
+msgstr ""
+
+msgctxt "0010 | C008_Tojo_"
+msgid "the AV Room"
+msgstr ""
+
+msgctxt "0011 | C008_Tojo_"
+msgid "door..."
+msgstr ""
+
+msgctxt "0012 | C008_Tojo_"
+msgid "do line up"
+msgstr ""
+
+msgctxt "0013 | C008_Tojo_"
+msgid "do line up with one another."
+msgstr ""
+
+msgctxt "0014 | C008_Tojo_"
+msgid "with one another."
+msgstr ""
+
+msgctxt "0015 | C008_Tojo_"
+msgid "There are"
+msgstr ""
+
+msgctxt "0016 | C008_Tojo_"
+msgid "There are no obstacles in the way..."
+msgstr ""
+
+msgctxt "0017 | C008_Tojo_"
+msgid "<CLT=cltWEAK>no obstacles<CLT=cltNORMAL> <CLT=size1>in the way..."
+msgstr ""
+
+msgctxt "0018 | C006_Shing"
+msgid ""
+"If one opened the <CLT=size2>back door\n"
+"<CLT=size1> of the <CLT=size2>library..."
+msgstr ""
+
+msgctxt "0019 | C006_Shing"
+msgid ""
+"If one opened the back door\n"
+"of the library..."
+msgstr ""
+
+msgctxt "0020 | C006_Shing"
+msgid "one could"
+msgstr ""
+
+msgctxt "0021 | C006_Shing"
+msgid ""
+"one could throw a shot\n"
+"and strike true."
+msgstr ""
+
+msgctxt "0022 | C006_Shing"
+msgid "<CLT=size2>throw<CLT=size1> a shot"
+msgstr ""
+
+msgctxt "0023 | C006_Shing"
+msgid "and strike true."
+msgstr ""
+
+msgctxt "0024 | C002_Hoshi"
+msgid ""
+"No way the <CLT=size2>average person<CLT=size1>\n"
+"could make that shot."
+msgstr ""
+
+msgctxt "0025 | C002_Hoshi"
+msgid ""
+"No way the average person\n"
+"could make that shot."
+msgstr ""
+
+msgctxt "0026 | C002_Hoshi"
+msgid ""
+"But with <CLT=size2>superhuman strength<CLT=size1>\n"
+"like <CLT=size2>Gonta's,<CLT=size1> it's a different story."
+msgstr ""
+
+msgctxt "0027 | C002_Hoshi"
+msgid ""
+"But with superhuman strength\n"
+"like Gonta's, it's a different story."
+msgstr ""
+
+msgctxt "0028 | C013_Yonag"
+msgid ""
+"Afterward, to <CLT=size2>close\n"
+"<CLT=size1>the <CLT=size2>back door<CLT=size1>"
+msgstr ""
+
+msgctxt "0029 | C013_Yonag"
+msgid ""
+"Afterward, to close the back door\n"
+"to the library, he would've used..."
+msgstr ""
+
+msgctxt "0030 | C013_Yonag"
+msgid ""
+"to the <CLT=size2>library,\n"
+"<CLT=size1>he would've used..."
+msgstr ""
+
+msgctxt "0031 | C013_Yonag"
+msgid "the"
+msgstr ""
+
+msgctxt "0032 | C013_Yonag"
+msgid "the rolled-up projector screen again."
+msgstr ""
+
+msgctxt "0033 | C013_Yonag"
+msgid "<CLT=size2><CLT=cltWEAK>rolled-up"
+msgstr ""
+
+msgctxt "0034 | C013_Yonag"
+msgid "<CLT=size2><CLT=cltWEAK>projector"
+msgstr ""
+
+msgctxt "0035 | C013_Yonag"
+msgid "<CLT=size2><CLT=cltWEAK>screen<CLT=cltNORMAL> again<CLT=size1>."
+msgstr ""
+
+msgctxt "0036 | C005_Oma__"
+msgid ""
+"Seeee, that's all\n"
+"there is to it!"
+msgstr ""
+
+msgctxt "0037 | C005_Oma__"
+msgid ""
+"Seeee, that's all\n"
+"there is to it!"
+msgstr ""
