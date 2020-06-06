@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C009_Yumen"
+msgid "Ah, Shuichi, you're here."
+msgstr ""
+
+msgctxt "0002 | C004_Gokuh"
+msgid "Shuichi! We do this together!"
+msgstr ""
+
+msgctxt "0003 | C000_Saiha"
+msgid "Huh? You're here too, Gonta?"
+msgstr ""
+
+msgctxt "0004 | C004_Gokuh"
+msgid "Gonta wanna help Himiko!"
+msgstr ""
+
+msgctxt "0005 | C000_Saiha"
+msgid "Help?"
+msgstr ""
+
+msgctxt "0006 | C004_Gokuh"
+msgid ""
+"Himiko decide to work hard, and live for\n"
+"Angie and Tenko's sake, right?"
+msgstr ""
+
+msgctxt "0007 | C004_Gokuh"
+msgid "Gonta very moved by Himiko's feelings!"
+msgstr ""
+
+msgctxt "0008 | C004_Gokuh"
+msgid ""
+"So Gonta wanna help Himiko stay positive!\n"
+"Gonta wanna be useful, even just a little!"
+msgstr ""
+
+msgctxt "0009 | C009_Yumen"
+msgid "I don't need any help..."
+msgstr ""
+
+msgctxt "0010 | C004_Gokuh"
+msgid "...Huh? No?"
+msgstr ""
+
+msgctxt "0011 | C009_Yumen"
+msgid "Urk—!"
+msgstr ""
+
+msgctxt "0012 | C009_Yumen"
+msgid ""
+"N-No...well, maybe you can help me \n"
+"just a little."
+msgstr ""
+
+msgctxt "0013 | C004_Gokuh"
+msgid "Really? Gonta can help with something!?"
+msgstr ""
+
+msgctxt "0014 | C009_Yumen"
+msgid "U-Um..."
+msgstr ""
+
+msgctxt "0015 | C004_Gokuh"
+msgid "Tell Gonta! Gonta do anything for Himiko!"
+msgstr ""
+
+msgctxt "0016 | C009_Yumen"
+msgid "Nyeeeh...let's see..."
+msgstr ""
+
+msgctxt "0017 | chara_Blank"
+msgid "<CLT=cltMIND>Why are you looking at *me*?"
+msgstr ""
+
+msgctxt "0018 | C004_Gokuh"
+msgid "What wrong? You being modest?"
+msgstr ""
+
+msgctxt "0019 | C004_Gokuh"
+msgid "You no gotta be modest! We friends!"
+msgstr ""
+
+msgctxt "0020 | C009_Yumen"
+msgid "I-I know that! You tell him, Shuichi!"
+msgstr ""
+
+msgctxt "0021 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I knew you were gonna make\n"
+"me do this!"
+msgstr ""
+
+msgctxt "0022 | C004_Gokuh"
+msgid "Shuichi, how can Gonta help?"
+msgstr ""
+
+msgctxt "0023 | C000_Saiha"
+msgid ""
+"Ah, um, perhaps we should\n"
+"work out together?"
+msgstr ""
+
+msgctxt "0024 | C004_Gokuh"
+msgid "Together? That all? Really, Himiko?"
+msgstr ""
+
+msgctxt "0025 | C009_Yumen"
+msgid "Y-Yeah! R-Really!"
+msgstr ""
+
+msgctxt "0026 | C009_Yumen"
+msgid ""
+"The exercises I'm about to do aren't regular\n"
+"exercises. They're for mage training."
+msgstr ""
+
+msgctxt "0027 | C009_Yumen"
+msgid ""
+"So that means, I need mana \n"
+"to move my body."
+msgstr ""
+
+msgctxt "0028 | C004_Gokuh"
+msgid ""
+"Mah-nah? What that? Gonta not smart\n"
+"boy, so Gonta not understand!"
+msgstr ""
+
+msgctxt "0029 | C009_Yumen"
+msgid ""
+"Uh...erm...basically, it's energy.\n"
+"I need a lot of energy to use magic."
+msgstr ""
+
+msgctxt "0030 | C009_Yumen"
+msgid ""
+"And the best way to get that energy is by having\n"
+"someone with overflowing vitality nearby."
+msgstr ""
+
+msgctxt "0031 | C004_Gokuh"
+msgid "Sorry! Gonta still not understand!"
+msgstr ""
+
+msgctxt "0032 | C000_Saiha"
+msgid ""
+"Gonta, you have a lot of vitality, so I want\n"
+"your help giving some of that to Himiko."
+msgstr ""
+
+msgctxt "0033 | C004_Gokuh"
+msgid "...And that help Himiko?"
+msgstr ""
+
+msgctxt "0034 | C009_Yumen"
+msgid "Uh, yeah. It'll help a lot."
+msgstr ""
+
+msgctxt "0035 | C004_Gokuh"
+msgid "Okay! Then Gonta train with Himiko too!"
+msgstr ""
+
+msgctxt "0036 | C004_Gokuh"
+msgid "Shuichi, let's work hard for Himiko!"
+msgstr ""
+
+msgctxt "0037 | C000_Saiha"
+msgid "Y-Yeah!"
+msgstr ""
+
+msgctxt "0038 | C009_Yumen"
+msgid ""
+"We haven't even started and I'm \n"
+"already tired..."
+msgstr ""
+
+msgctxt "0039 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>After changing into our keikogi,\n"
+"we began training under Himiko."
+msgstr ""
+
+msgctxt "0040 | C009_Yumen"
+msgid ""
+"Next up, we're gonna do 100 cool \n"
+"magic show poses!"
+msgstr ""
+
+msgctxt "0041 | C009_Yumen"
+msgid ""
+"Follow along after me!\n"
+"Don't forget to smile for the audience!"
+msgstr ""
+
+msgctxt "0042 | C004_Gokuh"
+msgid "Yes!"
+msgstr ""
+
+msgctxt "0043 | C000_Saiha"
+msgid "O-Okay..."
+msgstr ""
+
+msgctxt "0044 | C009_Yumen"
+msgid "One! Two! Three!"
+msgstr ""
+
+msgctxt "0045 | C004_Gokuh"
+msgid "One! Two! Three!"
+msgstr ""
+
+msgctxt "0046 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>We practiced waving our wands and\n"
+"straddling broomsticks 100 times..."
+msgstr ""
+
+msgctxt "0047 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>It's honestly...difficult to\n"
+"comment on..."
+msgstr ""
+
+msgctxt "0048 | C009_Yumen"
+msgid ""
+"What's the matter, Shuichi!?\n"
+"You're slacking on your poses!"
+msgstr ""
+
+msgctxt "0049 | C004_Gokuh"
+msgid ""
+"It important to smile, too!\n"
+"Smile like Gonta! Smile like gentleman!"
+msgstr ""
+
+msgctxt "0050 | C000_Saiha"
+msgid "S-Sure."
+msgstr ""
+
+msgctxt "0051 | C009_Yumen"
+msgid ""
+"One more time, from the top!\n"
+"One! Two! Three!"
+msgstr ""
+
+msgctxt "0052 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Himiko is more lively than\n"
+"I've ever seen her."
+msgstr ""
+
+msgctxt "0053 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>All the anger and sadness... She's trying\n"
+"to deal with all of that in her own way."
+msgstr ""
+
+msgctxt "0054 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Hey, Tenko...\n"
+"Can you see Himiko from wherever you are?"
+msgstr ""
+
+msgctxt "0055 | chara_Blank"
+msgid "<CLT=cltMIND>You've reached her, Tenko."
+msgstr ""
+
+msgctxt "0056 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Still sweating from all the training,\n"
+"I returned to my room."
+msgstr ""

@@ -1,0 +1,279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C021_Mtaro"
+msgid "If Rantaro's killer is"
+msgstr ""
+
+msgctxt "0002 | C021_Mtaro"
+msgid "If Rantaro's killer is the mastermind..."
+msgstr ""
+
+msgctxt "0003 | C021_Mtaro"
+msgid "the <CLT=size2>mastermind..."
+msgstr ""
+
+msgctxt "0004 | C021_Mtaro"
+msgid ""
+"that means Kaede was\n"
+"the <CLT=size2>mastermind!"
+msgstr ""
+
+msgctxt "0005 | C021_Mtaro"
+msgid "that means Kaede was the mastermind!"
+msgstr ""
+
+msgctxt "0006 | C024_Mdam_"
+msgid "CAN-YOU-"
+msgstr ""
+
+msgctxt "0007 | C024_Mdam_"
+msgid ""
+"CAN-YOU-PROVE-THE-\n"
+"MASTERMIND-IS-THE-CULPRIT?"
+msgstr ""
+
+msgctxt "0008 | C024_Mdam_"
+msgid "PROVE-"
+msgstr ""
+
+msgctxt "0009 | C024_Mdam_"
+msgid "THE-"
+msgstr ""
+
+msgctxt "0010 | C024_Mdam_"
+msgid "MASTER"
+msgstr ""
+
+msgctxt "0011 | C024_Mdam_"
+msgid "MIND-IS-"
+msgstr ""
+
+msgctxt "0012 | C024_Mdam_"
+msgid "THE-CULPRIT"
+msgstr ""
+
+msgctxt "0013 | C024_Mdam_"
+msgid "?"
+msgstr "?"
+
+msgctxt "0014 | C022_Msuke"
+msgid "Yeah! Got any"
+msgstr ""
+
+msgctxt "0015 | C022_Msuke"
+msgid "Yeah! Got any evidence!?"
+msgstr ""
+
+msgctxt "0016 | C022_Msuke"
+msgid "<CLT=size2>evidence!?"
+msgstr ""
+
+msgctxt "0017 | C020_Monok"
+msgid ""
+"Ya want\n"
+"<CLT=size2>evidence<CLT=size1>"
+msgstr ""
+
+msgctxt "0018 | C020_Monok"
+msgid "Ya want evidence Kaede is the culprit?"
+msgstr ""
+
+msgctxt "0019 | C020_Monok"
+msgid "<CLT=size2>Kaede<CLT=size1> is"
+msgstr ""
+
+msgctxt "0020 | C020_Monok"
+msgid "the <CLT=size2>culprit?"
+msgstr ""
+
+msgctxt "0021 | C020_Monok"
+msgid ""
+"The <CLT=size2>shot\n"
+"put ball<CLT=size1>"
+msgstr ""
+
+msgctxt "0022 | C020_Monok"
+msgid "The shot put ball at the murder scene!"
+msgstr ""
+
+msgctxt "0023 | C020_Monok"
+msgid "at the <CLT=size2>murder scene!"
+msgstr ""
+
+msgctxt "0024 | C020_Monok"
+msgid "She used the <CLT=size2>camera flash"
+msgstr ""
+
+msgctxt "0025 | C020_Monok"
+msgid ""
+"She used the camera flash\n"
+"to lure Rantaro in..."
+msgstr ""
+
+msgctxt "0026 | C020_Monok"
+msgid "to <CLT=cltWEAK><CLT=size2>lure Rantaro<CLT=size1> in..."
+msgstr ""
+
+msgctxt "0027 | C020_Monok"
+msgid ""
+"And then <CLT=size2>cracked<CLT=size1> his skull\n"
+"with the <CLT=size2>shot put ball!"
+msgstr ""
+
+msgctxt "0028 | C020_Monok"
+msgid ""
+"And then cracked his skull\n"
+"with the shot put ball!"
+msgstr ""
+
+msgctxt "0029 | C023_Mfunn"
+msgid "<CLT=size2>Yep, yep!"
+msgstr ""
+
+msgctxt "0030 | C023_Mfunn"
+msgid ""
+"Yep, yep! Kaede set up\n"
+"the whole thing..."
+msgstr ""
+
+msgctxt "0031 | C023_Mfunn"
+msgid "<CLT=cltWEAK>Kaede set up"
+msgstr ""
+
+msgctxt "0032 | C023_Mfunn"
+msgid "<CLT=cltWEAK>the <CLT=size2>whole thing<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0033 | C023_Mfunn"
+msgid "Even the <CLT=size2>lethal<CLT=size1> shot put <CLT=size2>ball..."
+msgstr ""
+
+msgctxt "0034 | C023_Mfunn"
+msgid "Even the lethal shot put ball..."
+msgstr ""
+
+msgctxt "0035 | C023_Mfunn"
+msgid ""
+"<CLT=cltWEAK><CLT=size2>Kaede\n"
+"<CLT=size1>had it <CLT=cltNORMAL>all along."
+msgstr ""
+
+msgctxt "0036 | C023_Mfunn"
+msgid "Kaede had it all along."
+msgstr ""
+
+msgctxt "0037 | C021_Mtaro"
+msgid "See? <CLT=cltWEAK><CLT=size2>Kaede's"
+msgstr ""
+
+msgctxt "0038 | C021_Mtaro"
+msgid "See? Kaede's the mastermind, after all!"
+msgstr ""
+
+msgctxt "0039 | C021_Mtaro"
+msgid "the <CLT=cltWEAK><CLT=size2>mastermind,<CLT=size1><CLT=cltNORMAL> after all!"
+msgstr ""
+
+msgctxt "0040 | C020_Monok"
+msgid "Why <CLT=size2>so<CLT=size1> interested in <CLT=size2>dead people...?"
+msgstr ""
+
+msgctxt "0041 | C020_Monok"
+msgid "Why so interested in dead people...?"
+msgstr ""
+
+msgctxt "0042 | C020_Monok"
+msgid ""
+"<CLT=size1.5>You<CLT=size1> wanna\n"
+"<CLT=size2>　\n"
+"　\n"
+"　\n"
+"　"
+msgstr ""
+
+msgctxt "0043 | C020_Monok"
+msgid "You wanna crack open a cold one!?"
+msgstr ""
+
+msgctxt "0044 | C020_Monok"
+msgid ""
+"<CLT=size2>crack\n"
+"　\n"
+"　\n"
+"　\n"
+"　"
+msgstr ""
+
+msgctxt "0045 | C020_Monok"
+msgid ""
+"<CLT=size2>open\n"
+"　\n"
+"　\n"
+"　\n"
+"　"
+msgstr ""
+
+msgctxt "0046 | C020_Monok"
+msgid ""
+"a <CLT=size2>cold\n"
+"　\n"
+"　\n"
+"　\n"
+"　"
+msgstr ""
+
+msgctxt "0047 | C020_Monok"
+msgid ""
+"one!?<CLT=size2>\n"
+"　\n"
+"　\n"
+"　\n"
+"　"
+msgstr ""
+
+msgctxt "0048 | C007_Ki-Bo"
+msgid "That is not possible..."
+msgstr ""
+
+msgctxt "0049 | C012_Shiro"
+msgid "Kaede was the mastermind...?"
+msgstr ""
+
+msgctxt "0050 | C023_Mfunn"
+msgid "Show us the evidence!"
+msgstr ""
+
+msgctxt "0051 | C021_Mtaro"
+msgid "Yeah, yeah!"
+msgstr ""
+
+msgctxt "0052 | C007_Ki-Bo"
+msgid "The shot put ball was the weapon, right?"
+msgstr ""
+
+msgctxt "0053 | C020_Monok"
+msgid "*click!*"
+msgstr ""
+
+msgctxt "0054 | C022_Msuke"
+msgid "That's some wicked shit, bruv!"
+msgstr ""
+
+msgctxt "0055 | C023_Mfunn"
+msgid "Shot"
+msgstr ""
+
+msgctxt "0056 | C022_Msuke"
+msgid "Exactly!"
+msgstr ""

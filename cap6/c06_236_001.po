@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C000_Saiha"
+msgid "I'll put a stop to this <CLT=size2>killing game!"
+msgstr ""
+
+msgctxt "0002 | C000_Saiha"
+msgid "I'll put a stop to this killing game!"
+msgstr ""
+
+msgctxt "0003 | C020_Monok"
+msgid "You can't stop it!"
+msgstr ""
+
+msgctxt "0004 | C020_Monok"
+msgid "You can't stop it!"
+msgstr ""
+
+msgctxt "0005 | C020_Monok"
+msgid "If"
+msgstr ""
+
+msgctxt "0006 | C020_Monok"
+msgid "If Danganronpa ends..."
+msgstr ""
+
+msgctxt "0007 | C020_Monok"
+msgid "<CLT=size2>Danganronpa"
+msgstr ""
+
+msgctxt "0008 | C020_Monok"
+msgid "ends..."
+msgstr ""
+
+msgctxt "0009 | C020_Monok"
+msgid "I'll be <CLT=size2>out<CLT=size1> of a <CLT=size2>job!"
+msgstr ""
+
+msgctxt "0010 | C020_Monok"
+msgid "I'll be out of a job!"
+msgstr ""
+
+msgctxt "0011 | C000_Saiha"
+msgid "Even if this is all <CLT=size2>fake..."
+msgstr ""
+
+msgctxt "0012 | C000_Saiha"
+msgid "Even if this is all fake..."
+msgstr ""
+
+msgctxt "0013 | C000_Saiha"
+msgid "<CLT=size2>our"
+msgstr ""
+
+msgctxt "0014 | C000_Saiha"
+msgid "our suffering and pain is real!"
+msgstr ""
+
+msgctxt "0015 | C000_Saiha"
+msgid "<CLT=size1>suffering<CLT=size1> and"
+msgstr ""
+
+msgctxt "0016 | C000_Saiha"
+msgid "<CLT=size2>pain<CLT=size1> is"
+msgstr ""
+
+msgctxt "0017 | C000_Saiha"
+msgid "<CLT=size2>real!"
+msgstr ""
+
+msgctxt "0018 | C104_Kuwat"
+msgid "It was <CLT=size2>rough<CLT=size1> for <CLT=size2>me<CLT=size1> too..."
+msgstr ""
+
+msgctxt "0019 | C104_Kuwat"
+msgid "It was rough for me too..."
+msgstr ""
+
+msgctxt "0020 | C103_Owada"
+msgid ""
+"It's a <CLT=size2>death game.\n"
+"<CLT=size1>What the fuck ya <CLT=size2>gonna do!?"
+msgstr ""
+
+msgctxt "0021 | C103_Owada"
+msgid "It's a death game. What the fuck ya gonna do!?"
+msgstr ""
+
+msgctxt "0022 | C125_Hanam"
+msgid ""
+"Ain't it <CLT=size2>bettah<CLT=size1> t'just\n"
+"　\n"
+"　"
+msgstr ""
+
+msgctxt "0023 | C125_Hanam"
+msgid ""
+"Ain't it bettah t'just\n"
+"let it end wit' despair!?"
+msgstr ""
+
+msgctxt "0024 | C125_Hanam"
+msgid ""
+"<CLT=size1>\n"
+"　\n"
+"let it end wit' despair!?"
+msgstr ""
+
+msgctxt "0025 | C000_Saiha"
+msgid ""
+"I reject both\n"
+"<CLT=size2>hope<CLT=size1> and"
+msgstr ""
+
+msgctxt "0026 | C000_Saiha"
+msgid "I reject both hope and despair!"
+msgstr ""
+
+msgctxt "0027 | C000_Saiha"
+msgid "<CLT=size2>despair!"
+msgstr ""
+
+msgctxt "0028 | C000_Saiha"
+msgid ""
+"<CLT=size2>I reject<CLT=size1> the <CLT=size2>world\n"
+"<CLT=size1>that would make us do this!"
+msgstr ""
+
+msgctxt "0029 | C000_Saiha"
+msgid ""
+"I reject the world that would\n"
+"make us do this!"
+msgstr ""
+
+msgctxt "0030 | C000_Saiha"
+msgid ""
+"Which is why I\n"
+"<CLT=size2>abstain<CLT=size1> from voting!"
+msgstr ""
+
+msgctxt "0031 | C000_Saiha"
+msgid "Which is why I abstain from voting!"
+msgstr ""
+
+msgctxt "0032 | C000_Saiha"
+msgid "So this <CLT=size2>won't end<CLT=size1> in"
+msgstr ""
+
+msgctxt "0033 | C000_Saiha"
+msgid "So this won't end in hope or despair!"
+msgstr ""
+
+msgctxt "0034 | C000_Saiha"
+msgid "<CLT=size2>hope<CLT=size1> or <CLT=size2>despair!"
+msgstr ""
+
+msgctxt "0035 | C120_Hinat"
+msgid "You can't <CLT=size2>throw away<CLT=size1> your <CLT=size2>futures!"
+msgstr ""
+
+msgctxt "0036 | C120_Hinat"
+msgid "You can't throw away your futures!"
+msgstr ""
+
+msgctxt "0037 | C100_Naegi"
+msgid "<CLT=cltWEAK><CLT=size3>Hope<CLT=cltNORMAL><CLT=size1> is"
+msgstr ""
+
+msgctxt "0038 | C100_Naegi"
+msgid "Hope is contagious!"
+msgstr ""
+
+msgctxt "0039 | C100_Naegi"
+msgid "<CLT=size2>contagious!"
+msgstr ""
+
+msgctxt "0040 | C007_Ki-Bo"
+msgid "HOPE"
+msgstr ""
+
+msgctxt "0041 | C007_Ki-Bo"
+msgid "HOPE"
+msgstr ""
+
+msgctxt "0042 | C007_Ki-Bo"
+msgid "HOPE"
+msgstr ""

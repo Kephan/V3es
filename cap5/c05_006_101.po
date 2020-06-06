@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C020_Monok"
+msgid ""
+"Ahem! This is an announcement from the\n"
+"Ultimate Academy."
+msgstr ""
+
+msgctxt "0002 | C020_Monok"
+msgid ""
+"The time is now 10:00 p.m.\n"
+"<CLT=cltSTRONG>Nighttime<CLT=cltNORMAL> has officially begun."
+msgstr ""
+
+msgctxt "0003 | C020_Monok"
+msgid ""
+"Killers, this is your chance to strike!\n"
+"Victims, you have my condolences!"
+msgstr ""
+
+msgctxt "0004 | C020_Monok"
+msgid ""
+"Will you sleep like a baby tonight?\n"
+"Or sleep with the fishes?"
+msgstr ""
+
+msgctxt "0005 | C020_Monok"
+msgid "Either way, sweet dreams!"
+msgstr ""
+
+msgctxt "0006 | chara_Blank"
+msgid "<CLT=cltMIND>...It's nighttime."
+msgstr ""
+
+msgctxt "0007 | chara_Blank"
+msgid "<CLT=cltMIND>I *would* have been training..."
+msgstr ""
+
+msgctxt "0008 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*ding dong...ding dong...*"
+msgstr ""
+
+msgctxt "0009 | chara_Blank"
+msgid "<CLT=cltMIND>Huh?"
+msgstr ""
+
+msgctxt "0010 | chara_Blank"
+msgid "<CLT=cltMIND>Who could it be at this hour?"
+msgstr ""
+
+msgctxt "0011 | chara_Blank"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0012 | chara_Blank"
+msgid "No"
+msgstr ""
+
+msgctxt "0013 | chara_Blank"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0014 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0015 | C010_Haruk"
+msgid "...Do you have a minute?"
+msgstr ""
+
+msgctxt "0016 | C000_Saiha"
+msgid "Maki? What's wrong?"
+msgstr ""
+
+msgctxt "0017 | C010_Haruk"
+msgid ""
+"Kaito asked me earlier...to show him my\n"
+"research lab."
+msgstr ""
+
+msgctxt "0018 | C000_Saiha"
+msgid "Huh? Your lab?"
+msgstr ""
+
+msgctxt "0019 | C010_Haruk"
+msgid ""
+"I might as well show him, since I know he\n"
+"won't take no for an answer..."
+msgstr ""
+
+msgctxt "0020 | C010_Haruk"
+msgid "...So you have to come, too."
+msgstr ""
+
+msgctxt "0021 | chara_Blank"
+msgid "<CLT=cltMIND>She wants me to go?"
+msgstr ""
+
+msgctxt "0022 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0023 | chara_Blank"
+msgid "<CLT=cltMIND>Maki invited me, so...I should go."
+msgstr ""
+
+msgctxt "0024 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>How many more nights do I have to\n"
+"sleep in this bed? I'm so...sick of it!"
+msgstr ""
+
+msgctxt "0025 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>It's a pretty big light.\n"
+"It lights the room well..."
+msgstr ""
+
+msgctxt "0026 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>My closet is filled with\n"
+"uniforms exactly like mine..."
+msgstr ""
+
+msgctxt "0027 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>They went through all this just for a\n"
+"killing game? What is their objective...?"
+msgstr ""

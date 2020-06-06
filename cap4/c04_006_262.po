@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C000_Saiha"
+msgid "Good morning, Himiko."
+msgstr ""
+
+msgctxt "0002 | C009_Yumen"
+msgid "Nyeeeh, good morning..."
+msgstr ""
+
+msgctxt "0003 | C000_Saiha"
+msgid "Hm? Tired?"
+msgstr ""
+
+msgctxt "0004 | C009_Yumen"
+msgid ""
+"Nyeh...? It's because I ran here \n"
+"from my room."
+msgstr ""
+
+msgctxt "0005 | chara_Blank"
+msgid "<CLT=cltMIND>You got tired just from that...?"
+msgstr ""
+
+msgctxt "0006 | C000_Saiha"
+msgid ""
+"Ah, why did you run?\n"
+"Are you in a hurry?"
+msgstr ""
+
+msgctxt "0007 | C009_Yumen"
+msgid "..."
+msgstr "..."
+
+msgctxt "0008 | C009_Yumen"
+msgid ""
+"I decided to live life facing forward.\n"
+"That's why I can't stop."
+msgstr ""
+
+msgctxt "0009 | C009_Yumen"
+msgid ""
+"Actually, I can't even walk!\n"
+"I need to be constantly running forward!"
+msgstr ""
+
+msgctxt "0010 | C000_Saiha"
+msgid "I-Isn't that a bit extreme?"
+msgstr ""
+
+msgctxt "0011 | C009_Yumen"
+msgid "...Huh? It's extreme?"
+msgstr ""
+
+msgctxt "0012 | C000_Saiha"
+msgid ""
+"I know you want to be positive, but that\n"
+"doesn't mean you have to start sprinting."
+msgstr ""
+
+msgctxt "0013 | C000_Saiha"
+msgid ""
+"You don't want to live *too* fast.\n"
+"It makes me worried."
+msgstr ""
+
+msgctxt "0014 | C009_Yumen"
+msgid "Is that so...?"
+msgstr ""
+
+msgctxt "0015 | C009_Yumen"
+msgid "..."
+msgstr "..."
+
+msgctxt "0016 | C000_Saiha"
+msgid "Himiko?"
+msgstr ""
+
+msgctxt "0017 | C009_Yumen"
+msgid "I don't know..."
+msgstr ""
+
+msgctxt "0018 | C000_Saiha"
+msgid "What don't you know?"
+msgstr ""
+
+msgctxt "0019 | C009_Yumen"
+msgid ""
+"I want to live life facing forward\n"
+"for Tenko and Angie's sakes..."
+msgstr ""
+
+msgctxt "0020 | C009_Yumen"
+msgid "But I don't know what I'm supposed to do."
+msgstr ""
+
+msgctxt "0021 | C009_Yumen"
+msgid ""
+"I'm probably paying for saying that \n"
+"everything was a pain up till now..."
+msgstr ""
+
+msgctxt "0022 | C000_Saiha"
+msgid ""
+"Well, why don't we start with\n"
+"getting some excercise?"
+msgstr ""
+
+msgctxt "0023 | C000_Saiha"
+msgid "Here, this is a keikogi belt."
+msgstr ""
+
+msgctxt "0024 | C000_Saiha"
+msgid ""
+"You can wear this and train in the\n"
+"dojo, just like Tenko did."
+msgstr ""
+
+msgctxt "0025 | C009_Yumen"
+msgid ""
+"...Will that make me positive?\n"
+"Can I live life facing forward?"
+msgstr ""
+
+msgctxt "0026 | C000_Saiha"
+msgid ""
+"Ah, I can't say for certain...but it's better\n"
+"than just sitting around doing nothing."
+msgstr ""
+
+msgctxt "0027 | C009_Yumen"
+msgid "..."
+msgstr "..."
+
+msgctxt "0028 | C009_Yumen"
+msgid ""
+"Hm...you're right!\n"
+"Join me there, Shuichi!"
+msgstr ""
+
+msgctxt "0029 | C009_Yumen"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0030 | C009_Yumen"
+msgid "No"
+msgstr ""
+
+msgctxt "0031 | C009_Yumen"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0032 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to go with Himiko?"
+msgstr ""
+
+msgctxt "0033 | C000_Saiha"
+msgid "Ah, I don't think I'll be going with you..."
+msgstr ""
+
+msgctxt "0034 | C009_Yumen"
+msgid ""
+"What!? You're not!?\n"
+"You can't read the mood at all!"
+msgstr ""
+
+msgctxt "0035 | C009_Yumen"
+msgid ""
+"Oh well... Thanks for pointing me \n"
+"in the right direction."
+msgstr ""
+
+msgctxt "0036 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>I turned her down.\n"
+"Perhaps...I should have gone with her."
+msgstr ""
+
+msgctxt "0037 | C000_Saiha"
+msgid "Of course I will, Himiko."
+msgstr ""
+
+msgctxt "0038 | C009_Yumen"
+msgid "Thanks, Shuichi."
+msgstr ""
+
+msgctxt "0039 | C009_Yumen"
+msgid ""
+"You're a good person. But does that make\n"
+"you a good detective?"
+msgstr ""
+
+msgctxt "0040 | C000_Saiha"
+msgid ""
+"Ah, *apprentice* detective.\n"
+"Anyway, when did you want to train?"
+msgstr ""
+
+msgctxt "0041 | C009_Yumen"
+msgid ""
+"They say good deeds should be done quickly,\n"
+"so I'll start right after breakfast."
+msgstr ""
+
+msgctxt "0042 | C009_Yumen"
+msgid "Well, I'll see you later."
+msgstr ""
+
+msgctxt "0043 | C000_Saiha"
+msgid "Himiko..."
+msgstr ""
+
+msgctxt "0044 | C009_Yumen"
+msgid ""
+"Sorry... Saying discouraging stuff like that\n"
+"is probably far from being positive..."
+msgstr ""
+
+msgctxt "0045 | C009_Yumen"
+msgid ""
+"I probably have to...figure out what it means \n"
+"to live facing forward as I go..."
+msgstr ""
+
+msgctxt "0046 | C000_Saiha"
+msgid "Yeah...good idea."
+msgstr ""
+
+msgctxt "0047 | C009_Yumen"
+msgid ""
+"Alright then. I'll go scarf down some breakfast.\n"
+"See ya..."
+msgstr ""
+
+msgctxt "0048 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Hey, Tenko...\n"
+"Can you see Himiko from wherever you are?"
+msgstr ""
+
+msgctxt "0049 | chara_Blank"
+msgid "<CLT=cltMIND>You've reached her, Tenko."
+msgstr ""
+
+msgctxt "0050 | C000_Saiha"
+msgid "Maki. Good morning."
+msgstr ""
+
+msgctxt "0051 | C010_Haruk"
+msgid "...Good morning."
+msgstr ""
+
+msgctxt "0052 | C010_Haruk"
+msgid "..."
+msgstr "..."
+
+msgctxt "0053 | chara_Blank"
+msgid "<CLT=cltMIND>...This is a bit awkward."
+msgstr ""
+
+msgctxt "0054 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Kaito's obliviousness made last\n"
+"night...weird."
+msgstr ""
+
+msgctxt "0055 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>But the way she talked about it like\n"
+"she didn't care, that got to me..."
+msgstr ""
+
+msgctxt "0056 | C010_Haruk"
+msgid "...Hey, about last night."
+msgstr ""
+
+msgctxt "0057 | C000_Saiha"
+msgid "Wh-What?"
+msgstr ""
+
+msgctxt "0058 | C010_Haruk"
+msgid "You probably assumed I didn't care..."
+msgstr ""
+
+msgctxt "0059 | C010_Haruk"
+msgid "But, that wasn't it at all."
+msgstr ""
+
+msgctxt "0060 | C000_Saiha"
+msgid "It wasn't?"
+msgstr ""
+
+msgctxt "0061 | C010_Haruk"
+msgid ""
+"You're not fit to be a detective when you\n"
+"assume things without listening first."
+msgstr ""
+
+msgctxt "0062 | C000_Saiha"
+msgid "Maki..."
+msgstr ""
+
+msgctxt "0063 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Then...what were you trying to do?\n"
+"Why did you bring it up?"
+msgstr ""
+
+msgctxt "0064 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>When I used the item, the vine suddenly\n"
+"withered... How does that work?"
+msgstr ""
+
+msgctxt "0065 | chara_Blank"
+msgid "<CLT=cltMIND>Pool Entrance Zelda Gimmick Plant"
+msgstr ""
+
+msgctxt "0066 | chara_Blank"
+msgid "<CLT=cltMIND>So this is the key to the gate..."
+msgstr ""
+
+msgctxt "0067 | chara_Blank"
+msgid "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Closed)"
+msgstr ""
+
+msgctxt "0068 | chara_Blank"
+msgid "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Open)"
+msgstr ""

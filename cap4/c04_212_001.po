@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C001_Momot"
+msgid ""
+"<CLT=size2>When<CLT=size1> could Miu\n"
+"have <CLT=size2>put<CLT=size1> the <CLT=size2>poison<CLT=size1> there?"
+msgstr ""
+
+msgctxt "0002 | C001_Momot"
+msgid ""
+"When could Miu\n"
+"have put the poison there?"
+msgstr ""
+
+msgctxt "0003 | C007_Ki-Bo"
+msgid ""
+"If she did place the <CLT=size2>poison\n"
+"without<CLT=size1> us <CLT=size2>noticing..."
+msgstr ""
+
+msgctxt "0004 | C007_Ki-Bo"
+msgid "If she did place the poison without us noticing..."
+msgstr ""
+
+msgctxt "0005 | C007_Ki-Bo"
+msgid "then she must have"
+msgstr ""
+
+msgctxt "0006 | C007_Ki-Bo"
+msgid "then she must have logged out at some point."
+msgstr ""
+
+msgctxt "0007 | C007_Ki-Bo"
+msgid "<CLT=cltAGREE><CLT=size2>logged out"
+msgstr ""
+
+msgctxt "0008 | C007_Ki-Bo"
+msgid "at some point."
+msgstr ""
+
+msgctxt "0009 | C009_Yumen"
+msgid "And then what?"
+msgstr ""
+
+msgctxt "0010 | C009_Yumen"
+msgid "And then what? She logged back in?"
+msgstr ""
+
+msgctxt "0011 | C005_Oma__"
+msgid "She <CLT=size2>logged"
+msgstr ""
+
+msgctxt "0012 | C005_Oma__"
+msgid "<CLT=size1>back <CLT=size2>in?"
+msgstr ""
+
+msgctxt "0013 | C012_Shiro"
+msgid ""
+"<CLT=size2>Kokichi,<CLT=size1> weren't you in the\n"
+"<CLT=size2>salon<CLT=size1> around that time?"
+msgstr ""
+
+msgctxt "0014 | C012_Shiro"
+msgid ""
+"Kokichi, weren't you in the\n"
+"salon around that time?"
+msgstr ""
+
+msgctxt "0015 | C012_Shiro"
+msgid ""
+"Did you see her\n"
+"<CLT=size2>log in<CLT=size1> or <CLT=size2>log out\n"
+"<CLT=size1>at all?"
+msgstr ""
+
+msgctxt "0016 | C012_Shiro"
+msgid "Did you see her log in or log out at all?"
+msgstr ""
+
+msgctxt "0017 | C005_Oma__"
+msgid ""
+"Nope!\n"
+"I didn't <CLT=size2>see that<CLT=size1> at <CLT=size2>all!"
+msgstr ""
+
+msgctxt "0018 | C005_Oma__"
+msgid "Nope! I didn't see that at all!"
+msgstr ""
+
+msgctxt "0019 | C001_Momot"
+msgid ""
+"If she hadn't\n"
+"<CLT=size2>logged in<CLT=size1> or <CLT=size2>out..."
+msgstr ""
+
+msgctxt "0020 | C001_Momot"
+msgid ""
+"If she hadn't logged in\n"
+"or out..."
+msgstr ""
+
+msgctxt "0021 | C001_Momot"
+msgid "then <CLT=cltWEAK><CLT=size2>Miu<CLT=size1>"
+msgstr ""
+
+msgctxt "0022 | C001_Momot"
+msgid "then Miu couldn't have placed the poison!"
+msgstr ""
+
+msgctxt "0023 | C001_Momot"
+msgid ""
+"<CLT=cltWEAK>couldn't have\n"
+"<CLT=size2>placed\n"
+"<CLT=size1>the <CLT=size2>poison<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0024 | C004_Gokuh"
+msgid "Then,"
+msgstr ""
+
+msgctxt "0025 | C004_Gokuh"
+msgid "Then, who put poison bottle?"
+msgstr ""
+
+msgctxt "0026 | C004_Gokuh"
+msgid "<CLT=size2>who<CLT=size1> put"
+msgstr ""
+
+msgctxt "0027 | C004_Gokuh"
+msgid "<CLT=size1.5>poison"
+msgstr ""
+
+msgctxt "0028 | C004_Gokuh"
+msgid "<CLT=size1.5>bottle?"
+msgstr ""
+
+msgctxt "0029 | C009_Yumen"
+msgid "The only person who logged out early"
+msgstr ""
+
+msgctxt "0030 | C009_Yumen"
+msgid "The only person who logged out early was Kaito..."
+msgstr ""
+
+msgctxt "0031 | C009_Yumen"
+msgid "<CLT=cltAGREE>was <CLT=size2>Kaito<CLT=cltNORMAL><CLT=size1>..."
+msgstr ""
+
+msgctxt "0032 | C005_Oma__"
+msgid ""
+"<CLT=size2>Kaito,<CLT=size1> your grave just\n"
+"got <CLT=size2>ten feet deeper!"
+msgstr ""
+
+msgctxt "0033 | C005_Oma__"
+msgid ""
+"Kaito, your grave just\n"
+"got ten feet deeper!"
+msgstr ""
+
+msgctxt "0034 | C001_Momot"
+msgid "N-No..."
+msgstr ""
+
+msgctxt "0035 | C001_Momot"
+msgid "N-No... It wasn't me, guys!"
+msgstr ""
+
+msgctxt "0036 | C001_Momot"
+msgid "It wasn't me, guys!"
+msgstr ""
+
+msgctxt "0037 | C004_Gokuh"
+msgid "Maybe while Gonta sleep?"
+msgstr ""
+
+msgctxt "0038 | C009_Yumen"
+msgid "You just don't get it..."
+msgstr ""
+
+msgctxt "0039 | C010_Haruk"
+msgid "That's not possible."
+msgstr ""
+
+msgctxt "0040 | C001_Momot"
+msgid "That's impossible!"
+msgstr ""
+
+msgctxt "0041 | C012_Shiro"
+msgid "Could Miu have done that...?"
+msgstr ""
+
+msgctxt "0042 | C004_Gokuh"
+msgid "Gonta see nothing!"
+msgstr ""
+
+msgctxt "0043 | C009_Yumen"
+msgid "Yeah, I believe that."
+msgstr ""
+
+msgctxt "0044 | C012_Shiro"
+msgid "Surely that's not possible...?"
+msgstr ""
+
+msgctxt "0045 | C005_Oma__"
+msgid "Hmm, I see."
+msgstr ""
+
+msgctxt "0046 | C005_Oma__"
+msgid "Ah, so it *was* Kaito!"
+msgstr ""
+
+msgctxt "0047 | C012_Shiro"
+msgid "Total self-destruction..."
+msgstr ""
+
+msgctxt "0048 | C005_Oma__"
+msgid "Seems we've touched a nerve!"
+msgstr ""

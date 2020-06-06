@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "The <CLT=size2>side"
+msgstr ""
+
+msgctxt "0002"
+msgid "The side of the tank being open..."
+msgstr ""
+
+msgctxt "0003"
+msgid "of the"
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"<CLT=size2>tank<CLT=size1>\n"
+"being"
+msgstr ""
+
+msgctxt "0005"
+msgid "<CLT=size2>open..."
+msgstr ""
+
+msgctxt "0006"
+msgid "doesn't have"
+msgstr ""
+
+msgctxt "0007"
+msgid "doesn't have anything to do with Himiko's escape!"
+msgstr ""
+
+msgctxt "0008"
+msgid "<CLT=size2>anything"
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"to do with\n"
+"<CLT=size2>Himiko's"
+msgstr ""
+
+msgctxt "0010"
+msgid "<CLT=size2>escape!"
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT=size2>She<CLT=size1> didn't"
+msgstr ""
+
+msgctxt "0012"
+msgid "She didn't use an escape hatch!"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT=size2>use<CLT=size1> an"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT=size2>escape"
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT=size2>hatch!"
+msgstr ""
+
+msgctxt "0016"
+msgid "I know"
+msgstr ""
+
+msgctxt "0017"
+msgid "I know she didn't do that!"
+msgstr ""
+
+msgctxt "0018"
+msgid "<CLT=size2>she"
+msgstr ""
+
+msgctxt "0019"
+msgid "<CLT=size2>didn't"
+msgstr ""
+
+msgctxt "0020"
+msgid "do that!"
+msgstr ""
+
+msgctxt "0021"
+msgid ""
+"And now, I'm gonna\n"
+"<CLT=size2>punch<CLT=size1> you!"
+msgstr ""
+
+msgctxt "0022"
+msgid "And now, I'm gonna punch you!"
+msgstr ""
+
+msgctxt "0023"
+msgid ""
+"W-Wait a <CLT=size2>second,\n"
+"b-before<CLT=size1> you <CLT=size2>punch<CLT=size1> me..."
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"W-Wait a second,\n"
+"b-before you punch me...\n"
+"What makes you so sure she didn't?"
+msgstr ""
+
+msgctxt "0025"
+msgid "What makes you <CLT=size2>so sure<CLT=size1> she didn't?"
+msgstr ""
+
+msgctxt "0026"
+msgid "<CLT=size2>Because!"
+msgstr ""
+
+msgctxt "0027"
+msgid "Because! If she escaped from a hatch in the tank..."
+msgstr ""
+
+msgctxt "0028"
+msgid "If she escaped"
+msgstr ""
+
+msgctxt "0029"
+msgid "from a hatch"
+msgstr ""
+
+msgctxt "0030"
+msgid "in the <CLT=size2>tank..."
+msgstr ""
+
+msgctxt "0031"
+msgid "the <CLT=size2>water"
+msgstr ""
+
+msgctxt "0032"
+msgid "the water would have gushed out with her!"
+msgstr ""
+
+msgctxt "0033"
+msgid "would have"
+msgstr ""
+
+msgctxt "0034"
+msgid "<CLT=size1>gushed <CLT=size2>out"
+msgstr ""
+
+msgctxt "0035"
+msgid "with <CLT=size2>her!"
+msgstr ""
+
+msgctxt "0036"
+msgid ""
+"There\n"
+"　\n"
+"　\n"
+"　"
+msgstr ""
+
+msgctxt "0037"
+msgid "There would have been water everywhere!"
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"<CLT=cltWEAK>would have\n"
+"been water"
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"　\n"
+"　\n"
+"　\n"
+"everywhere!"
+msgstr ""
+
+msgctxt "0040"
+msgid "<CLT=size2>That"
+msgstr ""
+
+msgctxt "0041"
+msgid "That wouldn't be magical at all!"
+msgstr ""
+
+msgctxt "0042"
+msgid "wouldn't"
+msgstr ""
+
+msgctxt "0043"
+msgid "be <CLT=size2>magical"
+msgstr ""
+
+msgctxt "0044"
+msgid "at <CLT=size2>all!"
+msgstr ""
+
+msgctxt "0045"
+msgid ""
+"The whole\n"
+"<CLT=size2>trick\n"
+"<CLT=size1>　\n"
+"　\n"
+"　"
+msgstr ""
+
+msgctxt "0046"
+msgid "The whole trick would be ruined!"
+msgstr ""
+
+msgctxt "0047"
+msgid ""
+"　\n"
+"　\n"
+"　\n"
+"would be\n"
+"ruined!"
+msgstr ""
+
+msgctxt "0048"
+msgid ""
+"With that outta the way,\n"
+"I'm gonna\n"
+"<CLT=size2>punch<CLT=size1> you!"
+msgstr ""
+
+msgctxt "0049"
+msgid "With that outta the way, I'm gonna punch you!"
+msgstr ""
+
+msgctxt "0050"
+msgid ""
+"I'm sorry...\n"
+"Could you start over from the beginning?"
+msgstr ""

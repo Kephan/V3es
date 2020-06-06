@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | modNicofarreData"
+msgid "Are you in despair?"
+msgstr ""
+
+msgctxt "0002 | modNicofarreData"
+msgid "S-tier despair!"
+msgstr ""
+
+msgctxt "0003 | modNicofarreData"
+msgid "I love that reaction."
+msgstr ""
+
+msgctxt "0004 | modNicofarreData"
+msgid "It's despair..."
+msgstr ""
+
+msgctxt "0005 | modNicofarreData"
+msgid "I'm getting chills."
+msgstr ""
+
+msgctxt "0006 | modNicofarreData"
+msgid "Ultimate Despair Himiko"
+msgstr ""
+
+msgctxt "0007 | modNicofarreData"
+msgid "Despair Despair Despair"
+msgstr ""
+
+msgctxt "0008 | modNicofarreData"
+msgid "despair taaaimu!"
+msgstr ""
+
+msgctxt "0009 | modNicofarreData"
+msgid "Despair has to be like this."
+msgstr ""
+
+msgctxt "0010 | modNicofarreData"
+msgid "DESPAIR"
+msgstr ""
+
+msgctxt "0011 | modNicofarreData"
+msgid "Shuichi's reaction LOL"
+msgstr ""
+
+msgctxt "0012 | modNicofarreData"
+msgid "I know, right!? Despair's the best."
+msgstr ""
+
+msgctxt "0013 | modNicofarreData"
+msgid "LOL the face of despair."
+msgstr ""
+
+msgctxt "0014 | modNicofarreData"
+msgid "Are you suffering? Me too!"
+msgstr ""
+
+msgctxt "0015 | modNicofarreData"
+msgid "What a twist!"
+msgstr ""
+
+msgctxt "0016 | modNicofarreData"
+msgid "DESPAIR!"
+msgstr ""
+
+msgctxt "0017 | modNicofarreData"
+msgid "omg SO BORING"
+msgstr ""
+
+msgctxt "0018 | modNicofarreData"
+msgid "Danganronpa is despair."
+msgstr ""
+
+msgctxt "0019 | modNicofarreData"
+msgid "You're all in despair LOL"
+msgstr ""
+
+msgctxt "0020 | modNicofarreData"
+msgid "Mmm... Shuichi's despair <3"
+msgstr ""
+
+msgctxt "0021 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0022 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0023 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0024 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0025 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0026 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0027 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0028 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0029 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0030 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0031 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0032 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0033 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0034 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0035 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0036 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0037 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0038 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0039 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""
+
+msgctxt "0040 | modNicofarreData"
+msgid "DESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIRDESPAIR"
+msgstr ""

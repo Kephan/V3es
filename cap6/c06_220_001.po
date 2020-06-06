@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C010_Haruk"
+msgid ""
+"The Biggest,\n"
+"Most Awful,\n"
+"Most Tragic Event\n"
+"in Human History..."
+msgstr ""
+
+msgctxt "0002 | C010_Haruk"
+msgid ""
+"The Biggest, Most Awful, Most Tragic\n"
+"Event in Human History..."
+msgstr ""
+
+msgctxt "0003 | C007_Ki-Bo"
+msgid ""
+"That event originated at\n"
+"<CLT=cltWEAK><CLT=size2>Hope's Peak Academy<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0004 | C007_Ki-Bo"
+msgid ""
+"That event originated at\n"
+"Hope's Peak Academy..."
+msgstr ""
+
+msgctxt "0005 | C007_Ki-Bo"
+msgid "<CLT=size2>Inspiring"
+msgstr ""
+
+msgctxt "0006 | C007_Ki-Bo"
+msgid ""
+"Inspiring war and terrorism around\n"
+"the world."
+msgstr ""
+
+msgctxt "0007 | C007_Ki-Bo"
+msgid "<CLT=size3>war<CLT=size1> and"
+msgstr ""
+
+msgctxt "0008 | C007_Ki-Bo"
+msgid "<CLT=size2>terrorism"
+msgstr ""
+
+msgctxt "0009 | C007_Ki-Bo"
+msgid "<CLT=size2>aro"
+msgstr ""
+
+msgctxt "0010 | C007_Ki-Bo"
+msgid "<CLT=size2>und"
+msgstr ""
+
+msgctxt "0011 | C007_Ki-Bo"
+msgid "<CLT=size1>the "
+msgstr ""
+
+msgctxt "0012 | C007_Ki-Bo"
+msgid "<CLT=size2>wor"
+msgstr ""
+
+msgctxt "0013 | C007_Ki-Bo"
+msgid "<CLT=size2>ld."
+msgstr ""
+
+msgctxt "0014 | C009_Yumen"
+msgid "The cause of all that despair..."
+msgstr ""
+
+msgctxt "0015 | C009_Yumen"
+msgid "The cause of all that despair..."
+msgstr ""
+
+msgctxt "0016 | C009_Yumen"
+msgid "was <CLT=cltWEAK><CLT=size1.8>just<CLT=size1> a <CLT=size1.8>single"
+msgstr ""
+
+msgctxt "0017 | C009_Yumen"
+msgid "was just a single high school girl."
+msgstr ""
+
+msgctxt "0018 | C009_Yumen"
+msgid "<CLT=cltWEAK><CLT=size1.8>high school girl<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0019 | C012_Shiro"
+msgid ""
+"A <CLT=size2>student<CLT=size1> of\n"
+"<CLT=size2>Hope's Peak Academy..."
+msgstr ""
+
+msgctxt "0020 | C012_Shiro"
+msgid "A student of Hope's Peak Academy..."
+msgstr ""
+
+msgctxt "0021 | C042_Eno53"
+msgid "The Ultimate Despair,"
+msgstr ""
+
+msgctxt "0022 | C042_Eno53"
+msgid "The Ultimate Despair, Junko Enoshima!"
+msgstr ""
+
+msgctxt "0023 | C042_Eno53"
+msgid "<CLT=size2>Junko Enoshima!"
+msgstr ""
+
+msgctxt "0024 | C012_Shiro"
+msgid ""
+"I did <CLT=size2>everything\n"
+"<CLT=size1>in my power..."
+msgstr ""
+
+msgctxt "0025 | C012_Shiro"
+msgid "I did everything in my power..."
+msgstr ""
+
+msgctxt "0026 | C042_Eno53"
+msgid "<CLT=size1>to <CLT=size2>spread"
+msgstr ""
+
+msgctxt "0027 | C042_Eno53"
+msgid "to spread despair over the entire world!"
+msgstr ""
+
+msgctxt "0028 | C042_Eno53"
+msgid "<CLT=cltWEAK><CLT=size4>despair"
+msgstr ""
+
+msgctxt "0029 | C042_Eno53"
+msgid "<CLT=size2>over<CLT=size1> the entire world!"
+msgstr ""
+
+msgctxt "0030 | C020_Monok"
+msgid "Puhuhu..."
+msgstr ""
+
+msgctxt "0031 | C020_Monok"
+msgid "I wonder what the mistake is!"
+msgstr ""
+
+msgctxt "0032 | C020_Monok"
+msgid "Is it really Hope's Peak Academy?"
+msgstr ""
+
+msgctxt "0033 | C020_Monok"
+msgid "That is a catastrophe!"
+msgstr ""
+
+msgctxt "0034 | C020_Monok"
+msgid "But that might be wrong!"
+msgstr ""
+
+msgctxt "0035 | C020_Monok"
+msgid "Junko will never die!"
+msgstr ""
+
+msgctxt "0036 | C020_Monok"
+msgid "Reborn again and again!"
+msgstr ""
+
+msgctxt "0037 | C020_Monok"
+msgid "Despair"
+msgstr ""

@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "..."
+msgstr "..."
+
+msgctxt "0002"
+msgid "Kaede..."
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"<CLT=cltMIND>When we all came to the trial grounds...\n"
+"what burden were you carrying with you?"
+msgstr ""
+
+msgctxt "0004"
+msgid "<CLT=cltMIND>Tenko's Lab Door"
+msgstr ""
+
+msgctxt "0005"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"<CLT=cltMIND>This is a mysterious object, but I don't\n"
+"think I can use any of the items on it..."
+msgstr ""
+
+msgctxt "0007"
+msgid "<CLT=cltMIND>...Let me try a different object."
+msgstr ""
+
+msgctxt "0008"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"<CLT=cltMIND>This is a mysterious object, but I don't\n"
+"think I can use any of the items on it..."
+msgstr ""
+
+msgctxt "0010"
+msgid "<CLT=cltMIND>...Let me try a different object."
+msgstr ""
+
+msgctxt "0011"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"<CLT=cltMIND>This is a mysterious object, but I don't\n"
+"think I can use any of the items on it..."
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT=cltMIND>...Let me try a different object."
+msgstr ""

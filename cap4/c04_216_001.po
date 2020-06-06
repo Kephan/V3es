@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C010_Haruk"
+msgid ""
+"A way across\n"
+"that only"
+msgstr ""
+
+msgctxt "0002 | C010_Haruk"
+msgid "A way across that only Miu knew about..."
+msgstr ""
+
+msgctxt "0003 | C010_Haruk"
+msgid "<CLT=size3>Miu"
+msgstr ""
+
+msgctxt "0004 | C010_Haruk"
+msgid "knew about..."
+msgstr ""
+
+msgctxt "0005 | C012_Shiro"
+msgid "<CLT=cltAGREE>Like a <CLT=size2>hidden bridge"
+msgstr ""
+
+msgctxt "0006 | C012_Shiro"
+msgid "Like a hidden bridge besides that signboard, maybe?"
+msgstr ""
+
+msgctxt "0007 | C012_Shiro"
+msgid "<CLT=cltAGREE>besides <CLT=size2>that signboard<CLT=cltNORMAL>,<CLT=size1> maybe?"
+msgstr ""
+
+msgctxt "0008 | C004_Gokuh"
+msgid "Or, <CLT=size2>instead<CLT=size1> of <CLT=size2>bridge..."
+msgstr ""
+
+msgctxt "0009 | C004_Gokuh"
+msgid "Or, instead of bridge..."
+msgstr ""
+
+msgctxt "0010 | C004_Gokuh"
+msgid ""
+"Miu use\n"
+"some kinda"
+msgstr ""
+
+msgctxt "0011 | C004_Gokuh"
+msgid "Miu use some kinda vehicle to get across!"
+msgstr ""
+
+msgctxt "0012 | C004_Gokuh"
+msgid "<CLT=size2>v"
+msgstr ""
+
+msgctxt "0013 | C004_Gokuh"
+msgid "ehicl"
+msgstr ""
+
+msgctxt "0014 | C004_Gokuh"
+msgid "<CLT=size2>e"
+msgstr ""
+
+msgctxt "0015 | C004_Gokuh"
+msgid "to go over!"
+msgstr ""
+
+msgctxt "0016 | C009_Yumen"
+msgid "Or maybe she"
+msgstr ""
+
+msgctxt "0017 | C009_Yumen"
+msgid "Or maybe she teleported with magic..."
+msgstr ""
+
+msgctxt "0018 | C009_Yumen"
+msgid "<CLT=cltAGREE><CLT=size2>teleported"
+msgstr ""
+
+msgctxt "0019 | C009_Yumen"
+msgid "<CLT=size1>with <CLT=size2>magic..."
+msgstr ""
+
+msgctxt "0020 | C009_Yumen"
+msgid "Or she used a"
+msgstr ""
+
+msgctxt "0021 | C009_Yumen"
+msgid "Or she used a Warp Zone!"
+msgstr ""
+
+msgctxt "0022 | C009_Yumen"
+msgid "<CLT=size2>Warp Zone"
+msgstr ""
+
+msgctxt "0023 | C009_Yumen"
+msgid "<CLT=size2>!"
+msgstr ""
+
+msgctxt "0024 | C001_Momot"
+msgid ""
+"Maybe there's <CLT=size2>a place\n"
+"you can cross<CLT=size1>\n"
+"without a bridge!"
+msgstr ""
+
+msgctxt "0025 | C001_Momot"
+msgid ""
+"Maybe there's a place you can cross\n"
+"without a bridge!"
+msgstr ""
+
+msgctxt "0026 | C007_Ki-Bo"
+msgid ""
+"<CLT=cltAGREE>A hidden route that\n"
+"　\n"
+"　\n"
+"　\n"
+"　"
+msgstr ""
+
+msgctxt "0027 | C007_Ki-Bo"
+msgid "A hidden route that only Miu could use to get across..."
+msgstr ""
+
+msgctxt "0028 | C007_Ki-Bo"
+msgid ""
+"<CLT=cltAGREE><CLT=size2>only Miu\n"
+"could use"
+msgstr ""
+
+msgctxt "0029 | C007_Ki-Bo"
+msgid ""
+"　\n"
+"　\n"
+"　\n"
+"　\n"
+"to get across..."
+msgstr ""
+
+msgctxt "0030 | C007_Ki-Bo"
+msgid ""
+"I suppose it is <CLT=size2>possible\n"
+"<CLT=size1>she <CLT=size2>used\n"
+"<CLT=size1>that to\n"
+"<CLT=size2>change places."
+msgstr ""
+
+msgctxt "0031 | C007_Ki-Bo"
+msgid ""
+"I suppose it is possible she used that\n"
+"to change places."
+msgstr ""
+
+msgctxt "0032 | C005_Oma__"
+msgid ""
+"Man,\n"
+"you guys are <CLT=size2>way off..."
+msgstr ""
+
+msgctxt "0033 | C005_Oma__"
+msgid "Man, you guys are way off..."
+msgstr ""
+
+msgctxt "0034 | C005_Oma__"
+msgid "Or maybe I'm just"
+msgstr ""
+
+msgctxt "0035 | C005_Oma__"
+msgid "Or maybe I'm just pulling your legs!"
+msgstr ""
+
+msgctxt "0036 | C005_Oma__"
+msgid "<CLT=size2>pulling<CLT=size1> your"
+msgstr ""
+
+msgctxt "0037 | C005_Oma__"
+msgid "<CLT=size2>legs!"
+msgstr ""
+
+msgctxt "0038 | C007_Ki-Bo"
+msgid "What could it be?"
+msgstr ""
+
+msgctxt "0039 | C012_Shiro"
+msgid "A secret way..."
+msgstr ""
+
+msgctxt "0040 | C005_Oma__"
+msgid "Hidden"
+msgstr ""
+
+msgctxt "0041 | C012_Shiro"
+msgid "Like a plane?"
+msgstr ""
+
+msgctxt "0042 | C005_Oma__"
+msgid "Like a rocket?"
+msgstr ""
+
+msgctxt "0043 | C001_Momot"
+msgid "More magic!?"
+msgstr ""
+
+msgctxt "0044 | C012_Shiro"
+msgid "Doesn't anyone know?"
+msgstr ""
+
+msgctxt "0045 | C001_Momot"
+msgid "You really think that exists?"
+msgstr ""
+
+msgctxt "0046 | C001_Momot"
+msgid "Oh, shut up!"
+msgstr ""

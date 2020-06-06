@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"Where were ya <CLT=size2>hidin'\n"
+"<CLT=size2>Ryoma's body!?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Where were ya hidin' Ryoma's body!?"
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"It wasn't <CLT=size2>really\n"
+"<CLT=size1>in the <CLT=size2>stairs,<CLT=size1> was it?"
+msgstr ""
+
+msgctxt "0004"
+msgid "It wasn't really in the stairs, was it?"
+msgstr ""
+
+msgctxt "0005"
+msgid "After all, <CLT=cltAGREE>there was only enough <CLT=size2>space"
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"After all, there was only\n"
+"enough space for Himiko."
+msgstr ""
+
+msgctxt "0007"
+msgid "<CLT=cltAGREE><CLT=size2>for Himiko<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0008"
+msgid "Well,"
+msgstr ""
+
+msgctxt "0009"
+msgid "Well, how about behind the curtain!?"
+msgstr ""
+
+msgctxt "0010"
+msgid "how about"
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT=size2>behind"
+msgstr ""
+
+msgctxt "0012"
+msgid "the <CLT=size2>curtain!?"
+msgstr ""
+
+msgctxt "0013"
+msgid "If there was <CLT=cltAGREE>a <CLT=size2>way<CLT=size1> to enter"
+msgstr ""
+
+msgctxt "0014"
+msgid "If there were a way to enter the tank from there..."
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT=cltAGREE>the <CLT=size2>tank<CLT=cltNORMAL><CLT=size1> from there..."
+msgstr ""
+
+msgctxt "0016"
+msgid "then it would be"
+msgstr ""
+
+msgctxt "0017"
+msgid "then it would be plausible."
+msgstr ""
+
+msgctxt "0018"
+msgid "<CLT=size2>plausible."
+msgstr ""
+
+msgctxt "0019"
+msgid "Or maybe the <CLT=size2>body<CLT=size1> was <CLT=size2>in the tank<CLT=size1> all along..."
+msgstr ""
+
+msgctxt "0020"
+msgid "Or maybe the body was in the tank all along..."
+msgstr ""
+
+msgctxt "0021"
+msgid "but we just <CLT=size2>couldn't see it!"
+msgstr ""
+
+msgctxt "0022"
+msgid "but we just couldn't see it!"
+msgstr ""
+
+msgctxt "0023"
+msgid "Impossible. You'd need"
+msgstr ""
+
+msgctxt "0024"
+msgid "Impossible. You'd need top-notch visual effects to pull that off."
+msgstr ""
+
+msgctxt "0025"
+msgid ""
+"<CLT=size2>top-notch<CLT=size1>\n"
+"visual effects"
+msgstr ""
+
+msgctxt "0026"
+msgid "to pull that off."
+msgstr ""
+
+msgctxt "0027"
+msgid ""
+"<CLT=cltAGREE><CLT=size2>top-notch\n"
+"<CLT=size1>visual effects"
+msgstr ""
+
+msgctxt "0028"
+msgid "And what of the"
+msgstr ""
+
+msgctxt "0029"
+msgid "And what of the tank containing the piranhas?"
+msgstr ""
+
+msgctxt "0030"
+msgid "<CLT=size2>tank<CLT=size1> containing"
+msgstr ""
+
+msgctxt "0031"
+msgid "the <CLT=size2>piranhas?"
+msgstr ""
+
+msgctxt "0032"
+msgid ""
+"No way. If you put\n"
+"a <CLT=size2>body<CLT=size1> in <CLT=size2>there..."
+msgstr ""
+
+msgctxt "0033"
+msgid "No way. If you put a body in there..."
+msgstr ""
+
+msgctxt "0034"
+msgid ""
+"the <CLT=size2>piranhas<CLT=size1> woulda\n"
+"<CLT=size3>eaten<CLT=size1> it way <CLT=size2>before<CLT=size1> we saw it!"
+msgstr ""
+
+msgctxt "0035"
+msgid ""
+"the piranhas woulda eaten it \n"
+"way before we saw it!"
+msgstr ""
+
+msgctxt "0036"
+msgid "But if the <CLT=cltAGREE><CLT=size2>body<CLT=size1> and"
+msgstr ""
+
+msgctxt "0037"
+msgid "But if the body and piranhas were separated..."
+msgstr ""
+
+msgctxt "0038"
+msgid "<CLT=cltAGREE><CLT=size2>piranhas<CLT=size1> were"
+msgstr ""
+
+msgctxt "0039"
+msgid "<CLT=cltAGREE><CLT=size2>separated<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0040"
+msgid ""
+"Then it wouldn't have been\n"
+"<CLT=size2>devoured,<CLT=size1> correct?"
+msgstr ""
+
+msgctxt "0041"
+msgid "Then it wouldn't have been devoured, correct?"
+msgstr ""
+
+msgctxt "0042"
+msgid "Where, indeed..."
+msgstr ""
+
+msgctxt "0043"
+msgid "Stairs pretty cramped..."
+msgstr ""
+
+msgctxt "0044"
+msgid "Oh? You've been there?"
+msgstr ""
+
+msgctxt "0045"
+msgid "Swing!"
+msgstr ""
+
+msgctxt "0046"
+msgid "...And a miss!"
+msgstr ""
+
+msgctxt "0047"
+msgid "Impossible."
+msgstr ""
+
+msgctxt "0048"
+msgid "Smoke and mirrors, then?"
+msgstr ""
+
+msgctxt "0049"
+msgid "Optical camouflage!"
+msgstr ""
+
+msgctxt "0050"
+msgid "But piranhas full..."
+msgstr ""
+
+msgctxt "0051"
+msgid "He got eaten after that!"
+msgstr ""
+
+msgctxt "0052"
+msgid "Separated...?"
+msgstr ""
+
+msgctxt "0053"
+msgid "Is that possible?"
+msgstr ""

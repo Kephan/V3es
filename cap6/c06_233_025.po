@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | modNicofarreData"
+msgid "Keebo's the main character!"
+msgstr ""
+
+msgctxt "0002 | modNicofarreData"
+msgid "Keebo! Keebo!"
+msgstr ""
+
+msgctxt "0003 | modNicofarreData"
+msgid "It's Keebo's turn now."
+msgstr ""
+
+msgctxt "0004 | modNicofarreData"
+msgid "It's up to you, Keebo."
+msgstr ""
+
+msgctxt "0005 | modNicofarreData"
+msgid "Avenge everyone!"
+msgstr ""
+
+msgctxt "0006 | modNicofarreData"
+msgid "I believed in hope."
+msgstr ""
+
+msgctxt "0007 | modNicofarreData"
+msgid "Huehuehue... How crude..."
+msgstr ""
+
+msgctxt "0008 | modNicofarreData"
+msgid "rejecting despair like crazy LOL"
+msgstr ""
+
+msgctxt "0009 | modNicofarreData"
+msgid "omg Keebo, bless"
+msgstr ""
+
+msgctxt "0010 | modNicofarreData"
+msgid "Now this is Danganronpa!"
+msgstr ""
+
+msgctxt "0011 | modNicofarreData"
+msgid "Hope is the path to victory."
+msgstr ""
+
+msgctxt "0012 | modNicofarreData"
+msgid "Everyone, share your hope with me!"
+msgstr ""
+
+msgctxt "0013 | modNicofarreData"
+msgid "So this is the Ultimate..."
+msgstr ""
+
+msgctxt "0014 | modNicofarreData"
+msgid "Keebo's on fire!"
+msgstr ""
+
+msgctxt "0015 | modNicofarreData"
+msgid "So this is Keebo's true power!"
+msgstr ""
+
+msgctxt "0016 | modNicofarreData"
+msgid "goooooooo Keebo!"
+msgstr ""
+
+msgctxt "0017 | modNicofarreData"
+msgid "We're here, too!"
+msgstr ""
+
+msgctxt "0018 | modNicofarreData"
+msgid "This is my first live viewing."
+msgstr ""
+
+msgctxt "0019 | modNicofarreData"
+msgid "We're with you, too!"
+msgstr ""
+
+msgctxt "0020 | modNicofarreData"
+msgid "i wanna see the color of shuichi's blood <3"
+msgstr ""
+
+msgctxt "0021 | modNicofarreData"
+msgid "Makiiii"
+msgstr ""
+
+msgctxt "0022 | modNicofarreData"
+msgid "my darling assassin T_T"
+msgstr ""
+
+msgctxt "0023 | modNicofarreData"
+msgid "Hope lives on!"
+msgstr ""
+
+msgctxt "0024 | modNicofarreData"
+msgid "Well said!"
+msgstr ""
+
+msgctxt "0025 | modNicofarreData"
+msgid "Another hope loop?"
+msgstr ""
+
+msgctxt "0026 | modNicofarreData"
+msgid "Hope is contagious!"
+msgstr ""
+
+msgctxt "0027 | modNicofarreData"
+msgid "Two steps forward..."
+msgstr ""
+
+msgctxt "0028 | modNicofarreData"
+msgid "Don't lose to despair!"
+msgstr ""
+
+msgctxt "0029 | modNicofarreData"
+msgid "Don't tempt Maki's fate."
+msgstr ""
+
+msgctxt "0030 | modNicofarreData"
+msgid "That's my Maki."
+msgstr ""
+
+msgctxt "0031 | modNicofarreData"
+msgid "a robot and an assassin..."
+msgstr ""
+
+msgctxt "0032 | modNicofarreData"
+msgid "Hope must go on!"
+msgstr ""
+
+msgctxt "0033 | modNicofarreData"
+msgid "Maki, darling..."
+msgstr ""
+
+msgctxt "0034 | modNicofarreData"
+msgid ";_; i'm gonna cry…"
+msgstr ""
+
+msgctxt "0035 | modNicofarreData"
+msgid "Hope versus despair!"
+msgstr ""
+
+msgctxt "0036 | modNicofarreData"
+msgid "One vote for Keebo!"
+msgstr ""
+
+msgctxt "0037 | modNicofarreData"
+msgid "Assassiiiiiin"
+msgstr ""
+
+msgctxt "0038 | modNicofarreData"
+msgid "tfw you're in despair"
+msgstr ""
+
+msgctxt "0039 | modNicofarreData"
+msgid "ALL OF THESE TEARS"
+msgstr ""
+
+msgctxt "0040 | modNicofarreData"
+msgid "Shuichi looks yummy <3"
+msgstr ""
+
+msgctxt "0041 | modNicofarreData"
+msgid "Is this loss 53 for Junko?"
+msgstr ""
+
+msgctxt "0042 | modNicofarreData"
+msgid "[EMPTY_LINE]"
+msgstr ""

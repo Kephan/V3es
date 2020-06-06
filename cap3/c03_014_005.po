@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Alright...it's right here."
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"<CLT=cltMIND>Just when I reached my hand\n"
+"toward the door..."
+msgstr ""
+
+msgctxt "0003"
+msgid "Oh, wait! I'm pretty sure that door is locked!"
+msgstr ""
+
+msgctxt "0004"
+msgid "<CLT=cltMIND>Locked?"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"Ah, that's right. Angie did say that she\n"
+"locks the room when she's working."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"<CLT=cltMIND>I grabbed the doorknob anyway,\n"
+"just to test it."
+msgstr ""
+
+msgctxt "0007"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0008"
+msgid "So it is locked."
+msgstr ""
+
+msgctxt "0009"
+msgid "Move."
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"<CLT=cltMIND>Maki pushed me aside and began\n"
+"pounding on the door."
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT=cltSYSTEM>*bam! bam! bam!*"
+msgstr ""
+
+msgctxt "0012"
+msgid "Angie, open this door. Now."
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"W-Wait, Maki! You can't do it like that!\n"
+"Stop being li'l ol' Miss Impatient!"
+msgstr ""
+
+msgctxt "0014"
+msgid "Then how should I do it?"
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"Angie will only open the door when a student\n"
+"council member calls for her."
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"<CLT=cltMIND>Tenko turned back to the door and\n"
+"gave it a few nervous knocks."
+msgstr ""
+
+msgctxt "0017"
+msgid "<CLT=cltSYSTEM>*knock, knock, knock*"
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"Angie, it's Tenko. I wanna talk to you about\n"
+"something... Can you open the door?"
+msgstr ""
+
+msgctxt "0019"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0020"
+msgid "...Oh, Tenko?"
+msgstr ""
+
+msgctxt "0021"
+msgid "Yeah, it's me!"
+msgstr ""
+
+msgctxt "0022"
+msgid ""
+"<CLT=cltMIND>After Tenko answered, the door\n"
+"flew open."
+msgstr ""
+
+msgctxt "0023"
+msgid "Yah-hah! Can I help you?"
+msgstr ""
+
+msgctxt "0024"
+msgid "...Huh? Why are Shuichi and Maki here?"
+msgstr ""
+
+msgctxt "0025"
+msgid "Ah, um—"
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"Oh, I get it. You both wanna join the student\n"
+"council, huh?"
+msgstr ""
+
+msgctxt "0027"
+msgid ""
+"Then you'll need to get acquainted with Atua.\n"
+"I will introduce you to Him."
+msgstr ""
+
+msgctxt "0028"
+msgid "Please, come in."
+msgstr ""
+
+msgctxt "0029"
+msgid "Ah, no, it's not that..."
+msgstr ""
+
+msgctxt "0030"
+msgid "Let's go in for now. We can talk inside."
+msgstr ""
+
+msgctxt "0031"
+msgid "Well...I suppose."
+msgstr ""
+
+msgctxt "0032"
+msgid ""
+"<CLT=cltMIND>Invited by Angie, we stepped\n"
+"into her lab."
+msgstr ""
+
+msgctxt "0033"
+msgid "<CLT=cltMIND>But..."
+msgstr ""
+
+msgctxt "0034"
+msgid ""
+"<CLT=cltMIND>We weren't prepared for what\n"
+"we were about to see."
+msgstr ""
+
+msgctxt "0035"
+msgid "Oh, Shuichi! Not that way!"
+msgstr ""
+
+msgctxt "0036"
+msgid "What? Isn't Angie in here?"
+msgstr ""
+
+msgctxt "0037"
+msgid ""
+"Yeah, but we should go in through the front\n"
+"door."
+msgstr ""
+
+msgctxt "0038"
+msgid "Huh? Why?"
+msgstr ""
+
+msgctxt "0039"
+msgid "I'm gonna challenge Angie to make her stop!"
+msgstr ""
+
+msgctxt "0040"
+msgid ""
+"So I need to face her head-on from the\n"
+"front door, fair and square!"
+msgstr ""
+
+msgctxt "0041"
+msgid "I really don't think it matters."
+msgstr ""
+
+msgctxt "0042"
+msgid "W-Well, if it'll make Tenko feel better..."
+msgstr ""
+
+msgctxt "0043"
+msgid "...Fine. Do whatever you want."
+msgstr ""
+
+msgctxt "0044"
+msgid "<CLT=cltMIND>Let's go to the other door."
+msgstr ""
+
+msgctxt "0045"
+msgid ""
+"<CLT=cltMIND>What is this...? It's like a hanging\n"
+"scroll, but it's blank."
+msgstr ""
+
+msgctxt "0046"
+msgid ""
+"<CLT=cltMIND>It's a monitor for communicating with us.\n"
+"There's nothing on the screen."
+msgstr ""
+
+msgctxt "0047"
+msgid ""
+"<CLT=cltMIND>It's usually for when something bad\n"
+"happens... I hope it stays off."
+msgstr ""

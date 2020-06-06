@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C007_Ki-Bo"
+msgid ""
+"If someone was <CLT=size2>piloting\n"
+"<CLT=size1>the <CLT=size2>Exisal..."
+msgstr ""
+
+msgctxt "0002 | C007_Ki-Bo"
+msgid "If someone was piloting the Exisal..."
+msgstr ""
+
+msgctxt "0003 | C007_Ki-Bo"
+msgid ""
+"they could have\n"
+"used it to <CLT=cltWEAK><CLT=size2>enter\n"
+"<CLT=size1>the <CLT=size2>hangar<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0004 | C007_Ki-Bo"
+msgid ""
+"they could have used it\n"
+"to enter the hangar..."
+msgstr ""
+
+msgctxt "0005 | C010_Haruk"
+msgid "That's <CLT=size2>not<CLT=size1> possible."
+msgstr ""
+
+msgctxt "0006 | C010_Haruk"
+msgid "That's not possible."
+msgstr ""
+
+msgctxt "0007 | C012_Shiro"
+msgid ""
+"Is <CLT=size2>operating\n"
+"<CLT=size1>the Exisal..."
+msgstr ""
+
+msgctxt "0008 | C012_Shiro"
+msgid "Is operating the Exisal..."
+msgstr ""
+
+msgctxt "0009 | C012_Shiro"
+msgid ""
+"really that\n"
+"<CLT=size2>difficult?"
+msgstr ""
+
+msgctxt "0010 | C012_Shiro"
+msgid "really that difficult?"
+msgstr ""
+
+msgctxt "0011 | C010_Haruk"
+msgid "Do we even <CLT=size2>know how"
+msgstr ""
+
+msgctxt "0012 | C010_Haruk"
+msgid ""
+"Do we even know how\n"
+"to get inside an Exisal?"
+msgstr ""
+
+msgctxt "0013 | C010_Haruk"
+msgid "to get inside an <CLT=size2>Exisal?"
+msgstr ""
+
+msgctxt "0014 | C010_Haruk"
+msgid "<CLT=size2>Outside<CLT=size1> the <CLT=size2>hangar, there were"
+msgstr ""
+
+msgctxt "0015 | C010_Haruk"
+msgid ""
+"Outside the hangar, there\n"
+"were four Exisals..."
+msgstr ""
+
+msgctxt "0016 | C010_Haruk"
+msgid "<CLT=cltWEAK><CLT=size2>four Exisals<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0017 | C010_Haruk"
+msgid ""
+"and they were\n"
+"all <CLT=size2>moving,<CLT=size1> too."
+msgstr ""
+
+msgctxt "0018 | C010_Haruk"
+msgid "and they were all moving, too."
+msgstr ""
+
+msgctxt "0019 | C041_ExOma"
+msgid "I was <CLT=cltWEAK><CLT=size2>controlling<CLT=size1> them <CLT=size2>remotely<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0020 | C041_ExOma"
+msgid "I was controlling them remotely!"
+msgstr ""
+
+msgctxt "0021 | C007_Ki-Bo"
+msgid "<CLT=size2>Electro"
+msgstr ""
+
+msgctxt "0022 | C007_Ki-Bo"
+msgid "Electrohammers weren't an option..."
+msgstr ""
+
+msgctxt "0023 | C007_Ki-Bo"
+msgid "<CLT=size2>hammers"
+msgstr ""
+
+msgctxt "0024 | C007_Ki-Bo"
+msgid ""
+"weren't an\n"
+"option..."
+msgstr ""
+
+msgctxt "0025 | C007_Ki-Bo"
+msgid "Yesterday,"
+msgstr ""
+
+msgctxt "0026 | C007_Ki-Bo"
+msgid ""
+"Yesterday, all the hammers were\n"
+"still recharging..."
+msgstr ""
+
+msgctxt "0027 | C007_Ki-Bo"
+msgid "<CLT=cltWEAK><CLT=size2>all the"
+msgstr ""
+
+msgctxt "0028 | C007_Ki-Bo"
+msgid "<CLT=cltWEAK><CLT=size2>hammers"
+msgstr ""
+
+msgctxt "0029 | C007_Ki-Bo"
+msgid ""
+"were still\n"
+"<CLT=cltWEAK><CLT=size2>recharging<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0030 | C010_Haruk"
+msgid ""
+"There's <CLT=size2>no way\n"
+"<CLT=size2>to stop<CLT=size1> an Exisal..."
+msgstr ""
+
+msgctxt "0031 | C010_Haruk"
+msgid ""
+"There was no way to\n"
+"stop the Exisals..."
+msgstr ""
+
+msgctxt "0032 | C010_Haruk"
+msgid ""
+"so <CLT=cltWEAK>getting inside\n"
+"one would've been"
+msgstr ""
+
+msgctxt "0033 | C010_Haruk"
+msgid ""
+"so getting inside one would've\n"
+"been impossible."
+msgstr ""
+
+msgctxt "0034 | C010_Haruk"
+msgid "<CLT=cltWEAK><CLT=size2>impossible<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0035 | C041_ExOma"
+msgid "You're <CLT=size2>right.<CLT=size1> It's　　　<CLT=size2>impossible."
+msgstr ""
+
+msgctxt "0036 | C041_ExOma"
+msgid ""
+"You're right.\n"
+"It's impossible."
+msgstr ""
+
+msgctxt "0037 | C009_Yumen"
+msgid "Monokuma said so, too!"
+msgstr ""
+
+msgctxt "0038 | C012_Shiro"
+msgid "You're sure about that...?"
+msgstr ""
+
+msgctxt "0039 | C005_Oma__"
+msgid "Of course!"
+msgstr ""
+
+msgctxt "0040 | C009_Yumen"
+msgid ""
+"Nope!\n"
+"You just gotta use your nipples!"
+msgstr ""
+
+msgctxt "0041 | C010_Haruk"
+msgid "Exisal"
+msgstr ""
+
+msgctxt "0042 | C005_Oma__"
+msgid "Exisal　　"
+msgstr ""
+
+msgctxt "0043 | C009_Yumen"
+msgid ""
+"The hammers needed\n"
+"to be charged!"
+msgstr ""
+
+msgctxt "0044 | C012_Shiro"
+msgid ""
+"It definitely seems\n"
+"impossible..."
+msgstr ""

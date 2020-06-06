@@ -1,0 +1,646 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Oh! Look, Shuichi!"
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"<CLT=cltMIND>Kaito shouted and pointed at a\n"
+"treasure of coins in front of him."
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"Whoa! Where did you get that\n"
+"mountain of coins!?"
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"I hit the jackpot!\n"
+"I got this much from just one coin!"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"All this from just one coin?\n"
+"That's incredible!"
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"Hehe! Just a regular day for the Luminary of the\n"
+"Stars! My intuition usually leads me to victory!"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"Nice work, maverick! That's some uncanny\n"
+"luck ya got there!"
+msgstr ""
+
+msgctxt "0008"
+msgid "Whoa! D-Don't just jump out like that!"
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"My bad! I was lured here by your lucky\n"
+"streak!"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"Nice haul ya got there. You could cash in\n"
+"those coins for somethin' really splendid!"
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT=cltMIND>What character is he playing!?"
+msgstr ""
+
+msgctxt "0012"
+msgid "They're only good here, though..."
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"But if ya earn more, you could reach the\n"
+"best treasure in this place!"
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"Heh! After hearing that, there's \n"
+"no going back for me!"
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"But...you could trade in what you\n"
+"already have right now..."
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"What are you saying? If I don't meet his \n"
+"challenge, I'm not a true man!"
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"Besides, there's no way my intuition as\n"
+"Luminary of the Stars can be wrong!"
+msgstr ""
+
+msgctxt "0018"
+msgid "That's it, maverick! You da man!"
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"<CLT=cltMIND>And thus began the sad tale\n"
+"of Kaito's downfall..."
+msgstr ""
+
+msgctxt "0020"
+msgid "Aaaaargh! Damn it! Not again!"
+msgstr ""
+
+msgctxt "0021"
+msgid "What's wrong, maverick...?"
+msgstr ""
+
+msgctxt "0022"
+msgid ""
+"You're down to half your coins. Wouldn't it\n"
+"be best to walk away now...?"
+msgstr ""
+
+msgctxt "0023"
+msgid ""
+"It's just half! I'm gonna get everything back!\n"
+"Just you watch me!"
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"<CLT=cltMIND>Kaito inserted one coin after another,\n"
+"but a win never came..."
+msgstr ""
+
+msgctxt "0025"
+msgid "Th-This...is my last coin!"
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"This is where I'm gonna have my \n"
+"dramatic comeback! Just you watch!"
+msgstr ""
+
+msgctxt "0027"
+msgid ""
+"<CLT=cltMIND>Kaito slid his last coin into the slot,\n"
+"and with a determined stare pulled the lever..."
+msgstr ""
+
+msgctxt "0028"
+msgid "..."
+msgstr "..."
+
+msgctxt "0029"
+msgid "..."
+msgstr "..."
+
+msgctxt "0030"
+msgid "Right heeeeere!!!"
+msgstr ""
+
+msgctxt "0031"
+msgid "..."
+msgstr "..."
+
+msgctxt "0032"
+msgid "..."
+msgstr "..."
+
+msgctxt "0033"
+msgid "Ah...aaah...aaaaaaaaah..."
+msgstr ""
+
+msgctxt "0034"
+msgid ""
+"Too bad! Your intuition was totally wrong,\n"
+"Kaito!"
+msgstr ""
+
+msgctxt "0035"
+msgid ""
+"Man, I'm glad I built this casino! Watching\n"
+"suckers lose everything is hilarious!"
+msgstr ""
+
+msgctxt "0036"
+msgid "Ah-hahahahaha!"
+msgstr ""
+
+msgctxt "0037"
+msgid ""
+"Damn it! I was set up!\n"
+"If only I'd stopped while I was ahead..."
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"<CLT=cltMIND>You do hear that a lot from people\n"
+"who have gambled away everything..."
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"<CLT=cltMIND>They think they can win just a little\n"
+"bit more and end up destroying themselves."
+msgstr ""
+
+msgctxt "0040"
+msgid ""
+"I-I'm gonna quit gambling forever!\n"
+"You can bet on that!"
+msgstr ""
+
+msgctxt "0041"
+msgid ""
+"<CLT=cltMIND>...That is also typically what\n"
+"those people say."
+msgstr ""
+
+msgctxt "0042"
+msgid ""
+"I-I'm gonna quit gambling forever!\n"
+"You can bet on that!"
+msgstr ""
+
+msgctxt "0043"
+msgid ""
+"<CLT=cltMIND>...That is also typically what\n"
+"those people say."
+msgstr ""
+
+msgctxt "0044"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0045"
+msgid "No"
+msgstr ""
+
+msgctxt "0046"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0047"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0048"
+msgid ""
+"<CLT=cltMIND>This is OUTLAW RUN,\n"
+"A driving game."
+msgstr ""
+
+msgctxt "0049"
+msgid "<CLT=cltMIND>I guess it isn't ready to play yet..."
+msgstr ""
+
+msgctxt "0050"
+msgid ""
+"<CLT=cltMIND>This is OUTLAW RUN,\n"
+"A driving game."
+msgstr ""
+
+msgctxt "0051"
+msgid "<CLT=cltMIND>Maybe I'll try this one..."
+msgstr ""
+
+msgctxt "0052"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0053"
+msgid "No"
+msgstr ""
+
+msgctxt "0054"
+msgid "Read the rules"
+msgstr ""
+
+msgctxt "0055"
+msgid ""
+"<CLT=cltSYSTEM>OUTLAW RUN\n"
+"Driver's Manual"
+msgstr ""
+
+msgctxt "0056"
+msgid ""
+"<CLT=cltSYSTEM>Run over the targets with style\n"
+"and try to get the high score!"
+msgstr ""
+
+msgctxt "0057"
+msgid ""
+"<CLT=cltSYSTEM>Get a bunch in a row, combos are stylin'!\n"
+"Monodam is a bonus and Monokid is a boost!"
+msgstr ""
+
+msgctxt "0058"
+msgid "..."
+msgstr "..."
+
+msgctxt "0059"
+msgid "This has nothing to do with driving at all."
+msgstr ""
+
+msgctxt "0060"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0061"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0062"
+msgid ""
+"<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\n"
+"It's a game where you look for treasure..."
+msgstr ""
+
+msgctxt "0063"
+msgid "<CLT=cltMIND>I guess it isn't ready to play yet..."
+msgstr ""
+
+msgctxt "0064"
+msgid ""
+"<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\n"
+"It's a game where you look for treasure..."
+msgstr ""
+
+msgctxt "0065"
+msgid "<CLT=cltMIND>Maybe I'll play it for a little while...?"
+msgstr ""
+
+msgctxt "0066"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0067"
+msgid "No"
+msgstr ""
+
+msgctxt "0068"
+msgid "Read the rules"
+msgstr ""
+
+msgctxt "0069"
+msgid ""
+"<CLT=cltSYSTEM>TREASURE HUNTER! MONOLITH\n"
+"Treasure Hunting Guide"
+msgstr ""
+
+msgctxt "0070"
+msgid ""
+"<CLT=cltSYSTEM>Connect two or more of the same color!\n"
+"Uncover the hidden salmon fossils!"
+msgstr ""
+
+msgctxt "0071"
+msgid ""
+"<CLT=cltSYSTEM>Try to find the rare Monokub statues!\n"
+"Dig them up whenever you see one!"
+msgstr ""
+
+msgctxt "0072"
+msgid "..."
+msgstr "..."
+
+msgctxt "0073"
+msgid "Are salmon fossils treasure...?"
+msgstr ""
+
+msgctxt "0074"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0075"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0076"
+msgid ""
+"<CLT=cltMIND>SALMON FISHING!\n"
+"It's a game where you fish for salmon."
+msgstr ""
+
+msgctxt "0077"
+msgid "<CLT=cltMIND>Maybe I'll try this one..."
+msgstr ""
+
+msgctxt "0078"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0079"
+msgid "No"
+msgstr ""
+
+msgctxt "0080"
+msgid "Read the rules"
+msgstr ""
+
+msgctxt "0081"
+msgid ""
+"<CLT=cltSYSTEM>SALMON FISHING!\n"
+"Salmon Night"
+msgstr ""
+
+msgctxt "0082"
+msgid ""
+"<CLT=cltSYSTEM>On this night, the salmon come left and right.\n"
+"Use your Monokuma Eye to find them."
+msgstr ""
+
+msgctxt "0083"
+msgid ""
+"<CLT=cltSYSTEM>Fish for the color Monokuma desires.\n"
+"In Monodam a bonus, but beware the mines."
+msgstr ""
+
+msgctxt "0084"
+msgid "..."
+msgstr "..."
+
+msgctxt "0085"
+msgid "That was quite the poetic explanation..."
+msgstr ""
+
+msgctxt "0086"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0087"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0088"
+msgid ""
+"<CLT=cltMIND>MonoMono Slot...\n"
+"It looks like a slot machine game."
+msgstr ""
+
+msgctxt "0089"
+msgid "<CLT=cltMIND>Maybe I'll try this one..."
+msgstr ""
+
+msgctxt "0090"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0091"
+msgid "No"
+msgstr ""
+
+msgctxt "0092"
+msgid "Read the rules"
+msgstr ""
+
+msgctxt "0093"
+msgid ""
+"<CLT=cltSYSTEM>MonoMono Slot\n"
+"How to Win at Slots"
+msgstr ""
+
+msgctxt "0094"
+msgid ""
+"<CLT=cltSYSTEM>Insert as many coins as you'd like.\n"
+"Then, spin the slots!"
+msgstr ""
+
+msgctxt "0095"
+msgid ""
+"<CLT=cltSYSTEM>You have a 100% chance of winning if you\n"
+"never stop! Spin spin spin forever!"
+msgstr ""
+
+msgctxt "0096"
+msgid "..."
+msgstr "..."
+
+msgctxt "0097"
+msgid "Well, that was nonsense."
+msgstr ""
+
+msgctxt "0098"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0099"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0100"
+msgid ""
+"<CLT=cltMIND>MonoMono Slot...\n"
+"It looks like a slot machine game."
+msgstr ""
+
+msgctxt "0101"
+msgid "<CLT=cltMIND>Maybe I'll try this one..."
+msgstr ""
+
+msgctxt "0102"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0103"
+msgid "No"
+msgstr ""
+
+msgctxt "0104"
+msgid "Read the rules"
+msgstr ""
+
+msgctxt "0105"
+msgid ""
+"<CLT=cltSYSTEM>MonoMono Slot\n"
+"How to Win at Slots"
+msgstr ""
+
+msgctxt "0106"
+msgid ""
+"<CLT=cltSYSTEM>Insert as many coins as you'd like.\n"
+"Then, spin the slots!"
+msgstr ""
+
+msgctxt "0107"
+msgid ""
+"<CLT=cltSYSTEM>You have a 100% chance of winning if you\n"
+"never stop! Spin spin spin forever!"
+msgstr ""
+
+msgctxt "0108"
+msgid "..."
+msgstr "..."
+
+msgctxt "0109"
+msgid "Well, that was nonsense."
+msgstr ""
+
+msgctxt "0110"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0111"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0112"
+msgid ""
+"<CLT=cltMIND>MonoMono Slot...\n"
+"It looks like a slot machine game."
+msgstr ""
+
+msgctxt "0113"
+msgid "<CLT=cltMIND>Maybe I'll try this one..."
+msgstr ""
+
+msgctxt "0114"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0115"
+msgid "No"
+msgstr ""
+
+msgctxt "0116"
+msgid "Read the rules"
+msgstr ""
+
+msgctxt "0117"
+msgid ""
+"<CLT=cltSYSTEM>MonoMono Slot\n"
+"How to Win at Slots"
+msgstr ""
+
+msgctxt "0118"
+msgid ""
+"<CLT=cltSYSTEM>Insert as many coins as you'd like.\n"
+"Then, spin the slots!"
+msgstr ""
+
+msgctxt "0119"
+msgid ""
+"<CLT=cltSYSTEM>You have a 100% chance of winning if you\n"
+"never stop! Spin spin spin forever!"
+msgstr ""
+
+msgctxt "0120"
+msgid "..."
+msgstr "..."
+
+msgctxt "0121"
+msgid "Well, that was nonsense."
+msgstr ""
+
+msgctxt "0122"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0123"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0124"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0125"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0126"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0127"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0128"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0129"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0130"
+msgid "<CLT=cltMIND>It's a monitor for communicating with us."
+msgstr ""
+
+msgctxt "0131"
+msgid ""
+"<CLT=cltMIND>It's so clunky...\n"
+"I wonder if that's just what Monokuma likes."
+msgstr ""

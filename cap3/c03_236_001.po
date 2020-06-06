@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"The <CLT=size2>art\n"
+"<CLT=size2>research lab..."
+msgstr ""
+
+msgctxt "0002"
+msgid "The art research lab..."
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"is <CLT=size2>not\n"
+"<CLT=size2>where<CLT=size1> Angie"
+msgstr ""
+
+msgctxt "0004"
+msgid "is not where Angie was killed..."
+msgstr ""
+
+msgctxt "0005"
+msgid "was <CLT=size2>killed..."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"She was <CLT=size2>killed<CLT=size1> in\n"
+"<CLT=cltWEAK>the <CLT=size2>empty room\n"
+"<CLT=cltNORMAL><CLT=size1>instead!"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"She was killed in the empty room\n"
+"instead!"
+msgstr ""
+
+msgctxt "0008"
+msgid "She <CLT=size2>left<CLT=size1> her <CLT=size2>lab<CLT=size1> on <CLT=size2>her own...?"
+msgstr ""
+
+msgctxt "0009"
+msgid "She left her lab on her own...?"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"But why would she go into\n"
+"an <CLT=size2>empty room?"
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"But why would she go into\n"
+"an empty room?"
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"There shouldn't have been \n"
+"<CLT=size2>anything<CLT=size1> in <CLT=size2>there."
+msgstr ""
+
+msgctxt "0013"
+msgid "There shouldn't have been anything in there."
+msgstr ""
+
+msgctxt "0014"
+msgid "Except for <CLT=size2>candles..."
+msgstr ""
+
+msgctxt "0015"
+msgid "Except for candles..."
+msgstr ""
+
+msgctxt "0016"
+msgid "That's it!"
+msgstr ""
+
+msgctxt "0017"
+msgid "That's it! She wanted a candle!"
+msgstr ""
+
+msgctxt "0018"
+msgid "<CLT=cltAGREE>She wanted a <CLT=size2>candle<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0019"
+msgid "To keep herself <CLT=size2>awake<CLT=size1> at <CLT=size2>night..."
+msgstr ""
+
+msgctxt "0020"
+msgid "To keep herself awake at night..."
+msgstr ""
+
+msgctxt "0021"
+msgid "she would"
+msgstr ""
+
+msgctxt "0022"
+msgid "she would drip hot wax on her body!"
+msgstr ""
+
+msgctxt "0023"
+msgid "<CLT=size1>drip hot"
+msgstr ""
+
+msgctxt "0024"
+msgid "<CLT=size2>wax"
+msgstr ""
+
+msgctxt "0025"
+msgid "on her body!"
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"That <CLT=size2>sounds<CLT=size1>\n"
+"like something"
+msgstr ""
+
+msgctxt "0027"
+msgid "That sounds like something only you would do, Miu."
+msgstr ""
+
+msgctxt "0028"
+msgid ""
+"<CLT=cltAGREE><CLT=size2>only you<CLT=size1> would do,\n"
+"<CLT=size2>Miu<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0029"
+msgid "Angie forget something there?"
+msgstr ""
+
+msgctxt "0030"
+msgid "That's beyond comprehension..."
+msgstr ""
+
+msgctxt "0031"
+msgid "I don't buy it..."
+msgstr ""
+
+msgctxt "0032"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "0033"
+msgid "Why candles...?"
+msgstr ""
+
+msgctxt "0034"
+msgid "What'd she want them for?"
+msgstr ""
+
+msgctxt "0035"
+msgid "What?"
+msgstr ""
+
+msgctxt "0036"
+msgid "...Eh?"
+msgstr ""
+
+msgctxt "0037"
+msgid "What's going on in your head?"
+msgstr ""
+
+msgctxt "0038"
+msgid "Typical Miu!"
+msgstr ""
+
+msgctxt "0039"
+msgid "Huh? Ya think so...?"
+msgstr ""

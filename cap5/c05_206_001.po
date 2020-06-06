@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C010_Haruk"
+msgid "<CLT=size2>There<CLT=size1>'s"
+msgstr ""
+
+msgctxt "0002 | C010_Haruk"
+msgid ""
+"There's no doubt that Kokichi\n"
+"is the culprit."
+msgstr ""
+
+msgctxt "0003 | C010_Haruk"
+msgid "no <CLT=size2>doubt<CLT=size1> that"
+msgstr ""
+
+msgctxt "0004 | C010_Haruk"
+msgid "<CLT=size2>Kokichi<CLT=size1> is the culprit."
+msgstr ""
+
+msgctxt "0005 | C010_Haruk"
+msgid "We all <CLT=size2>saw<CLT=size1> that <CLT=size2>footage<CLT=size1> from earlier, right?"
+msgstr ""
+
+msgctxt "0006 | C010_Haruk"
+msgid "We all saw that footage from earlier, right?"
+msgstr ""
+
+msgctxt "0007 | C009_Yumen"
+msgid "<CLT=cltWEAK><CLT=size2>Kaito"
+msgstr ""
+
+msgctxt "0008 | C009_Yumen"
+msgid "Kaito got crushed to death..."
+msgstr ""
+
+msgctxt "0009 | C009_Yumen"
+msgid "<CLT=cltWEAK>got <CLT=size2>crushed"
+msgstr ""
+
+msgctxt "0010 | C009_Yumen"
+msgid "<CLT=cltWEAK>to <CLT=size2>death<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0011 | C009_Yumen"
+msgid "<CLT=cltWEAK><CLT=size2>Kaito"
+msgstr ""
+
+msgctxt "0012 | C009_Yumen"
+msgid "What a <CLT=size2>horrible<CLT=size1> video."
+msgstr ""
+
+msgctxt "0013 | C009_Yumen"
+msgid "What a horrible video."
+msgstr ""
+
+msgctxt "0014 | C007_Ki-Bo"
+msgid "Whoever committed that crime..."
+msgstr ""
+
+msgctxt "0015 | C007_Ki-Bo"
+msgid "Whoever committed that crime..."
+msgstr ""
+
+msgctxt "0016 | C007_Ki-Bo"
+msgid "was <CLT=cltWEAK>with <CLT=size2>Kaito"
+msgstr ""
+
+msgctxt "0017 | C007_Ki-Bo"
+msgid "was with Kaito in the hangar."
+msgstr ""
+
+msgctxt "0018 | C007_Ki-Bo"
+msgid "<CLT=cltWEAK>in the <CLT=size2>hangar<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0019 | C010_Haruk"
+msgid "Which <CLT=cltWEAK><CLT=size2>just leaves Kokichi<CLT=cltNORMAL>, <CLT=size1>then."
+msgstr ""
+
+msgctxt "0020 | C010_Haruk"
+msgid "Which just leaves Kokichi, then."
+msgstr ""
+
+msgctxt "0021 | C012_Shiro"
+msgid "Then, the <CLT=size2>culprit is..."
+msgstr ""
+
+msgctxt "0022 | C012_Shiro"
+msgid "Then, the culprit is..."
+msgstr ""
+
+msgctxt "0023 | C010_Haruk"
+msgid "<CLT=size2>Kokichi Oma,"
+msgstr ""
+
+msgctxt "0024 | C010_Haruk"
+msgid ""
+"Kokichi Oma, the mastermind\n"
+"of this entire killing game..."
+msgstr ""
+
+msgctxt "0025 | C010_Haruk"
+msgid ""
+"the mastermind of this\n"
+"entire <CLT=size2>killing game..."
+msgstr ""
+
+msgctxt "0026 | C010_Haruk"
+msgid "And"
+msgstr ""
+
+msgctxt "0027 | C010_Haruk"
+msgid "And Kaito's killer!"
+msgstr ""
+
+msgctxt "0028 | C010_Haruk"
+msgid "<CLT=size2>Kai"
+msgstr ""
+
+msgctxt "0029 | C010_Haruk"
+msgid "<CLT=size2>to"
+msgstr ""
+
+msgctxt "0030 | C010_Haruk"
+msgid "'s"
+msgstr ""
+
+msgctxt "0031 | C010_Haruk"
+msgid "<CLT=size2>killer!"
+msgstr ""
+
+msgctxt "0032 | C012_Shiro"
+msgid "It was so graphic..."
+msgstr ""
+
+msgctxt "0033 | C007_Ki-Bo"
+msgid "Kaito was the victim..."
+msgstr ""
+
+msgctxt "0034 | C009_Yumen"
+msgid "Squish!"
+msgstr ""
+
+msgctxt "0035 | C009_Yumen"
+msgid "That's right."
+msgstr ""
+
+msgctxt "0036 | C012_Shiro"
+msgid "There's no doubt..."
+msgstr ""
+
+msgctxt "0037 | C009_Yumen"
+msgid ""
+"Nyeh!\n"
+"It's Kokichi after all!"
+msgstr ""

@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C009_Yumen"
+msgid "<CLT=size2>I'm"
+msgstr ""
+
+msgctxt "0002 | C009_Yumen"
+msgid "I'm not the culprit!"
+msgstr ""
+
+msgctxt "0003 | C009_Yumen"
+msgid "not the"
+msgstr ""
+
+msgctxt "0004 | C009_Yumen"
+msgid "<CLT=size2>culprit!"
+msgstr ""
+
+msgctxt "0005 | C005_Oma__"
+msgid "<CLT=size2>Yeah,"
+msgstr ""
+
+msgctxt "0006 | C005_Oma__"
+msgid "Yeah, I totally agree!"
+msgstr ""
+
+msgctxt "0007 | C005_Oma__"
+msgid ""
+"I totally\n"
+"<CLT=size2>agree!"
+msgstr ""
+
+msgctxt "0008 | C009_Yumen"
+msgid "<CLT=size2>I only"
+msgstr ""
+
+msgctxt "0009 | C009_Yumen"
+msgid "I only carried the case..."
+msgstr ""
+
+msgctxt "0010 | C009_Yumen"
+msgid ""
+"<CLT=cltWEAK>carried\n"
+"the case<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0011 | C005_Oma__"
+msgid ""
+"Yup,\n"
+"yup!"
+msgstr ""
+
+msgctxt "0012 | C005_Oma__"
+msgid "Yup, yup! That's true, too!"
+msgstr ""
+
+msgctxt "0013 | C005_Oma__"
+msgid "That's <CLT=size2>true,<CLT=size1> too!"
+msgstr ""
+
+msgctxt "0014 | C009_Yumen"
+msgid "And I"
+msgstr ""
+
+msgctxt "0015 | C009_Yumen"
+msgid "And I didn't even use the crossbow..."
+msgstr ""
+
+msgctxt "0016 | C009_Yumen"
+msgid ""
+"<CLT=cltAGREE>didn't even use\n"
+"<CLT=cltNORMAL>the crossbow..."
+msgstr ""
+
+msgctxt "0017 | C005_Oma__"
+msgid ""
+"<CLT=size2>Mm-hm!\n"
+"<CLT=size1>Another"
+msgstr ""
+
+msgctxt "0018 | C005_Oma__"
+msgid "Mm-hm! Another true statement!"
+msgstr ""
+
+msgctxt "0019 | C005_Oma__"
+msgid ""
+"<CLT=size2>true<CLT=size1>\n"
+"statement!"
+msgstr ""
+
+msgctxt "0020 | C009_Yumen"
+msgid "And <CLT=size2>that's all!"
+msgstr ""
+
+msgctxt "0021 | C009_Yumen"
+msgid "And that's all! I didn't do anything else in the hangar!"
+msgstr ""
+
+msgctxt "0022 | C009_Yumen"
+msgid "<CLT=cltAGREE><CLT=size2>I didn't do<CLT=size1> anything"
+msgstr ""
+
+msgctxt "0023 | C009_Yumen"
+msgid "<CLT=cltAGREE>else in the <CLT=size2>hangar!"
+msgstr ""
+
+msgctxt "0024 | C005_Oma__"
+msgid ""
+"<CLT=size2>One hundred\n"
+"<CLT=size1>percent"
+msgstr ""
+
+msgctxt "0025 | C005_Oma__"
+msgid "One hundred percent exactamundo!"
+msgstr ""
+
+msgctxt "0026 | C005_Oma__"
+msgid "<CLT=size2>exactamundo!"
+msgstr ""
+
+msgctxt "0027 | C012_Shiro"
+msgid ""
+"Why does this all\n"
+"sound so <CLT=size2>fishy...?"
+msgstr ""
+
+msgctxt "0028 | C012_Shiro"
+msgid ""
+"Why does this all\n"
+"sound so fishy...?"
+msgstr ""
+
+msgctxt "0029 | C009_Yumen"
+msgid "<CLT=size3>Nyeeeh!"
+msgstr ""
+
+msgctxt "0030 | C009_Yumen"
+msgid "Nyeeeh! Cuz Kokichi won't shut up!"
+msgstr ""
+
+msgctxt "0031 | C009_Yumen"
+msgid ""
+"Cuz <CLT=size2>Kokichi\n"
+"won't shut up!"
+msgstr ""
+
+msgctxt "0032 | C009_Yumen"
+msgid ""
+"<CLT=size2>Get out of my head,\n"
+"<CLT=size1>Kokichi!"
+msgstr ""
+
+msgctxt "0033 | C009_Yumen"
+msgid "Get out of my head, Kokichi!"
+msgstr ""
+
+msgctxt "0034 | C012_Shiro"
+msgid ""
+"But...you brought\n"
+"the crossbow...?"
+msgstr ""
+
+msgctxt "0035 | C010_Haruk"
+msgid "Carried the case...?"
+msgstr ""
+
+msgctxt "0036 | C007_Ki-Bo"
+msgid "Why, though...?"
+msgstr ""
+
+msgctxt "0037 | C007_Ki-Bo"
+msgid ""
+"Then why did\n"
+"you have it?"
+msgstr ""
+
+msgctxt "0038 | C010_Haruk"
+msgid "Anything else...?"
+msgstr ""
+
+msgctxt "0039 | C007_Ki-Bo"
+msgid "That seems unlikely..."
+msgstr ""
+
+msgctxt "0040 | C005_Oma__"
+msgid ""
+"Yep!\n"
+"It's all my fault!"
+msgstr ""

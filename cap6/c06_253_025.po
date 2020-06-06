@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0002 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0003 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0004 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0005 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0006 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0007 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0008 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0009 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0010 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0011 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0012 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0013 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0014 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0015 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0016 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0017 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0018 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0019 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0020 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0021 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0022 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0023 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0024 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0025 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0026 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0027 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0028 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0029 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0030 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0031 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0032 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0033 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0034 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0035 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0036 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0037 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0038 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0039 | modNicofarreData"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0040 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0041 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0042 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0043 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0044 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0045 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0046 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0047 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0048 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0049 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0050 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0051 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0052 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0053 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0054 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0055 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0056 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0057 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0058 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0059 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0060 | modNicofarreData"
+msgid "Hope"
+msgstr ""
+
+msgctxt "0061 | modNicofarreData"
+msgid "It's hope!"
+msgstr ""
+
+msgctxt "0062 | modNicofarreData"
+msgid "It's despair!"
+msgstr ""
+
+msgctxt "0063 | modNicofarreData"
+msgid "It's hope!"
+msgstr ""
+
+msgctxt "0064 | modNicofarreData"
+msgid "It's despair!"
+msgstr ""
+
+msgctxt "0065 | modNicofarreData"
+msgid "It's hope!"
+msgstr ""
+
+msgctxt "0066 | modNicofarreData"
+msgid "It's despair!"
+msgstr ""
+
+msgctxt "0067 | modNicofarreData"
+msgid "It's hope!"
+msgstr ""
+
+msgctxt "0068 | modNicofarreData"
+msgid "It's despair!"
+msgstr ""
+
+msgctxt "0069 | modNicofarreData"
+msgid "It's hope!"
+msgstr ""
+
+msgctxt "0070 | modNicofarreData"
+msgid "It's despair!"
+msgstr ""
+
+msgctxt "0071 | modNicofarreData"
+msgid "It's hope!"
+msgstr ""
+
+msgctxt "0072 | modNicofarreData"
+msgid "It's despair!"
+msgstr ""
+
+msgctxt "0073 | modNicofarreData"
+msgid "It's hope!"
+msgstr ""
+
+msgctxt "0074 | modNicofarreData"
+msgid "It's despair!"
+msgstr ""
+
+msgctxt "0075 | modNicofarreData"
+msgid "It's hope!"
+msgstr ""
+
+msgctxt "0076 | modNicofarreData"
+msgid "It's despair!"
+msgstr ""
+
+msgctxt "0077 | modNicofarreData"
+msgid "It's hope!"
+msgstr ""
+
+msgctxt "0078 | modNicofarreData"
+msgid "It's despair!"
+msgstr ""
+
+msgctxt "0079 | modNicofarreData"
+msgid "It's hope!"
+msgstr ""
+
+msgctxt "0080 | modNicofarreData"
+msgid "It's despair!"
+msgstr ""
+
+msgctxt "0081 | modNicofarreData"
+msgid "[EMPTY_LINE]"
+msgstr ""

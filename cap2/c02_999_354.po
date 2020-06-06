@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "<CLT=cltMIND>We had arrived."
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"<CLT=cltMIND>After walking through that awful tunnel that\n"
+"seemed infinite, we finally reached it..."
+msgstr ""
+
+msgctxt "0003"
+msgid "Is this...the exit?"
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"I-I can't believe you guys actually beat that\n"
+"escape game on the hardest difficulty...!"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"So...frustrating...!\n"
+"But...I must...celebrate it!"
+msgstr ""
+
+msgctxt "0006"
+msgid "Congratulations! The exit's this way!"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"R-Really!? Are you serious!?\n"
+"The other side of this door is the outside world?"
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"Yep! Monophanie said so, didn't she?\n"
+"There is indeed an exit."
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"And on the other side, the outside world that\n"
+"you guys have been so desperate to see!"
+msgstr ""
+
+msgctxt "0010"
+msgid "..."
+msgstr "..."
+
+msgctxt "0011"
+msgid ""
+"<CLT=cltMIND>We...did it. We actually did it.\n"
+"We can finally get out!"
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"<CLT=cltMIND>We <CLT=cltSTRONG>Ultimates<CLT=cltMIND> worked together and\n"
+"made it all the way here!"
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"Finally... Finally, Kaede, I was able\n"
+"to make your wish come true."
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"<CLT=cltMIND>I'll get out of here, and\n"
+"become friends with everyone."
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"<CLT=cltMIND>It's too late for some of us...\n"
+"But not for everyone else..."
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"Hm, it seems Shuichi is in his own head,\n"
+"getting himself pumped up..."
+msgstr ""
+
+msgctxt "0017"
+msgid "Well then, I'll just open the door!"
+msgstr ""
+
+msgctxt "0018"
+msgid "..."
+msgstr "..."
+
+msgctxt "0019"
+msgid "..."
+msgstr "..."
+
+msgctxt "0020"
+msgid "..."
+msgstr "..."
+
+msgctxt "0021"
+msgid "What...?"
+msgstr ""
+
+msgctxt "0022"
+msgid "What...is...this?"
+msgstr ""
+
+msgctxt "0023"
+msgid "...Puhu. Puhuhuhuhu."
+msgstr ""
+
+msgctxt "0024"
+msgid "Whaddaya think of the outside world?"
+msgstr ""
+
+msgctxt "0025"
+msgid "*This*...is the outside world?"
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"What's with that face? This is the ending\n"
+"you guys were hoping for..."
+msgstr ""
+
+msgctxt "0027"
+msgid ""
+"Now then, congratulations on graduating!\n"
+"Please take flight and re-enter society!"
+msgstr ""
+
+msgctxt "0028"
+msgid "Ah-hahahahahahaha!"
+msgstr ""
+
+msgctxt "0029"
+msgid "No..."
+msgstr ""
+
+msgctxt "0030"
+msgid "..."
+msgstr "..."
+
+msgctxt "0031"
+msgid "..."
+msgstr "..."
+
+msgctxt "0032"
+msgid "<CLT=cltSYSTEM>Acquired a new theme, \"Death Road of Despair.\""
+msgstr ""

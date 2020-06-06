@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "When <CLT=size2>Tenko<CLT=size1> got <CLT=size2>killed..."
+msgstr ""
+
+msgctxt "0002"
+msgid "When Tenko got killed..."
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"it wasn't during\n"
+"the <CLT=size2>seance!"
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"it wasn't during\n"
+"the seance!"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"It could not have been done at\n"
+"<CLT=size2>any other time."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"It could not have been done at\n"
+"any other time."
+msgstr ""
+
+msgctxt "0007"
+msgid "<CLT=cltWEAK>She was"
+msgstr ""
+
+msgctxt "0008"
+msgid "She was under the cage the whole time..."
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"<CLT=cltWEAK>under the\n"
+"<CLT=size3>cage"
+msgstr ""
+
+msgctxt "0010"
+msgid "<CLT=cltWEAK>the whole time<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"when the\n"
+"<CLT=size3>cage"
+msgstr ""
+
+msgctxt "0012"
+msgid "And she was dead when the cage was lifted."
+msgstr ""
+
+msgctxt "0013"
+msgid "And she was dead"
+msgstr ""
+
+msgctxt "0014"
+msgid "was lifted."
+msgstr ""
+
+msgctxt "0015"
+msgid "Hn...?"
+msgstr ""
+
+msgctxt "0016"
+msgid "Hn...? Ngh...?"
+msgstr ""
+
+msgctxt "0017"
+msgid "Ngh...?"
+msgstr ""
+
+msgctxt "0018"
+msgid "What about"
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"What about moment\n"
+"cage was lifted!?"
+msgstr ""
+
+msgctxt "0020"
+msgid "<CLT=cltWEAK><CLT=size2>moment cage<CLT=size1> was <CLT=size2>lifted<CLT=cltNORMAL>!?"
+msgstr ""
+
+msgctxt "0021"
+msgid "Oooh..."
+msgstr ""
+
+msgctxt "0022"
+msgid "Ooooh... L-Like that..."
+msgstr ""
+
+msgctxt "0023"
+msgid "L-Like that..."
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"When <CLT=size2>cage lifted,\n"
+"<CLT=size1>culprit <CLT=size2>stab<CLT=size1> Tenko real <CLT=size2>fast!"
+msgstr ""
+
+msgctxt "0025"
+msgid ""
+"When cage lifted, culprit\n"
+"stab Tenko real fast!"
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"So fast, \n"
+"no one saw!"
+msgstr ""
+
+msgctxt "0027"
+msgid "So fast, no one saw!"
+msgstr ""
+
+msgctxt "0028"
+msgid "Nngh..."
+msgstr ""
+
+msgctxt "0029"
+msgid "Nngh... Oh...my...!"
+msgstr ""
+
+msgctxt "0030"
+msgid "<CLT=size2>Oh...<CLT=size1>my...!"
+msgstr ""
+
+msgctxt "0031"
+msgid "So <CLT=size2>who<CLT=size1> lifted the cage?"
+msgstr ""
+
+msgctxt "0032"
+msgid "So who lifted the cage?"
+msgstr ""
+
+msgctxt "0033"
+msgid ""
+"U-Uh...\n"
+"I-It was me..."
+msgstr ""
+
+msgctxt "0034"
+msgid "U-Uh... I-It was me..."
+msgstr ""
+
+msgctxt "0035"
+msgid "<CLT=size2>Hrrgh..."
+msgstr ""
+
+msgctxt "0036"
+msgid "Hrrgh... Hrrnngh...!"
+msgstr ""
+
+msgctxt "0037"
+msgid "<CLT=size2>Hrr"
+msgstr ""
+
+msgctxt "0038"
+msgid "nn"
+msgstr ""
+
+msgctxt "0039"
+msgid "<CLT=size2>gh...!"
+msgstr ""
+
+msgctxt "0040"
+msgid "Then obviously <CLT=cltWEAK>Himiko"
+msgstr ""
+
+msgctxt "0041"
+msgid ""
+"Then obviously Himiko\n"
+"is the culprit!"
+msgstr ""
+
+msgctxt "0042"
+msgid "<CLT=cltWEAK>is the <CLT=size2>culprit<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0043"
+msgid "There's no d...d..."
+msgstr ""
+
+msgctxt "0044"
+msgid "There's no d...d...DOUUUUUUUBT!!!"
+msgstr ""
+
+msgctxt "0045"
+msgid "<CLT=size2>DOUU<CLT=size1>UUU<CLT=size2>UUBT!!!"
+msgstr ""
+
+msgctxt "0046"
+msgid "But somehow..."
+msgstr ""
+
+msgctxt "0047"
+msgid "What if she got out?"
+msgstr ""
+
+msgctxt "0048"
+msgid "Maybe they left and came back?"
+msgstr ""
+
+msgctxt "0049"
+msgid "Who knows?"
+msgstr ""
+
+msgctxt "0050"
+msgid "That's a small window of time."
+msgstr ""
+
+msgctxt "0051"
+msgid "Hnngh!?"
+msgstr ""
+
+msgctxt "0052"
+msgid "Aaaaah!"
+msgstr ""
+
+msgctxt "0053"
+msgid "Nghhh!"
+msgstr ""
+
+msgctxt "0054"
+msgid "Nrrgh!"
+msgstr ""
+
+msgctxt "0055"
+msgid "Ooooh!"
+msgstr ""

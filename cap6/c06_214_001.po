@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C009_Yumen"
+msgid ""
+"I was in the <CLT=size2>Game Room<CLT=size1>\n"
+"in the <CLT=size2>basement."
+msgstr ""
+
+msgctxt "0002 | C009_Yumen"
+msgid "I was in the Game Room in the basement."
+msgstr ""
+
+msgctxt "0003 | C009_Yumen"
+msgid "With"
+msgstr ""
+
+msgctxt "0004 | C009_Yumen"
+msgid "With Kaito and Gonta and Maki..."
+msgstr ""
+
+msgctxt "0005 | C009_Yumen"
+msgid "<CLT=size2>Kaito"
+msgstr ""
+
+msgctxt "0006 | C009_Yumen"
+msgid "and"
+msgstr ""
+
+msgctxt "0007 | C009_Yumen"
+msgid "<CLT=size2>Gonta"
+msgstr ""
+
+msgctxt "0008 | C009_Yumen"
+msgid "and"
+msgstr ""
+
+msgctxt "0009 | C009_Yumen"
+msgid "<CLT=size2>Maki"
+msgstr ""
+
+msgctxt "0010 | C009_Yumen"
+msgid "<CLT=size2>..."
+msgstr ""
+
+msgctxt "0011 | C009_Yumen"
+msgid "Also,"
+msgstr ""
+
+msgctxt "0012 | C009_Yumen"
+msgid "Also, Tenko and Angie were there too."
+msgstr ""
+
+msgctxt "0013 | C009_Yumen"
+msgid "<CLT=size2>Tenko"
+msgstr ""
+
+msgctxt "0014 | C009_Yumen"
+msgid "and"
+msgstr ""
+
+msgctxt "0015 | C009_Yumen"
+msgid "<CLT=size2>Angie"
+msgstr ""
+
+msgctxt "0016 | C009_Yumen"
+msgid "were there too."
+msgstr ""
+
+msgctxt "0017 | C010_Haruk"
+msgid "Even if I was in the same basement..."
+msgstr ""
+
+msgctxt "0018 | C010_Haruk"
+msgid "Even if I was in the same basement..."
+msgstr ""
+
+msgctxt "0019 | C010_Haruk"
+msgid ""
+"It's <CLT=cltWEAK><CLT=size2>impossible<CLT=size1> for me\n"
+"to have <CLT=size2>killed<CLT=size1> Rantaro<CLT=cltNORMAL><CLT=size1>."
+msgstr ""
+
+msgctxt "0020 | C010_Haruk"
+msgid "It's impossible for me to have killed Rantaro."
+msgstr ""
+
+msgctxt "0021 | C009_Yumen"
+msgid "Hey! <CLT=cltWEAK>I didn't <CLT=size2>kill Rantaro<CLT=cltNORMAL><CLT=size1> either!"
+msgstr ""
+
+msgctxt "0022 | C009_Yumen"
+msgid "Hey! I didn't kill Rantaro either!"
+msgstr ""
+
+msgctxt "0023 | C007_Ki-Bo"
+msgid "I was in <CLT=size2>my room,"
+msgstr ""
+
+msgctxt "0024 | C007_Ki-Bo"
+msgid "I was in my room, by myself..."
+msgstr ""
+
+msgctxt "0025 | C007_Ki-Bo"
+msgid "<CLT=size1>by <CLT=size2>myself..."
+msgstr ""
+
+msgctxt "0026 | C007_Ki-Bo"
+msgid "And so were"
+msgstr ""
+
+msgctxt "0027 | C007_Ki-Bo"
+msgid "And so were Ryoma and Kokichi, too."
+msgstr ""
+
+msgctxt "0028 | C007_Ki-Bo"
+msgid "<CLT=size2>Ryoma"
+msgstr ""
+
+msgctxt "0029 | C007_Ki-Bo"
+msgid "and"
+msgstr ""
+
+msgctxt "0030 | C007_Ki-Bo"
+msgid "<CLT=size2>Kokichi"
+msgstr ""
+
+msgctxt "0031 | C007_Ki-Bo"
+msgid "<CLT=size2>,<CLT=size1> too"
+msgstr ""
+
+msgctxt "0032 | C007_Ki-Bo"
+msgid "I know that is a poor alibi, but..."
+msgstr ""
+
+msgctxt "0033 | C007_Ki-Bo"
+msgid "I know that is a poor alibi, but..."
+msgstr ""
+
+msgctxt "0034 | C007_Ki-Bo"
+msgid "<CLT=size2>I <CLT=cltWEAK>did not"
+msgstr ""
+
+msgctxt "0035 | C007_Ki-Bo"
+msgid "I did not kill Rantaro!"
+msgstr ""
+
+msgctxt "0036 | C007_Ki-Bo"
+msgid "<CLT=cltWEAK>kill <CLT=size2>Rantaro<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0037 | C012_Shiro"
+msgid "I was in the <CLT=size2>dining hall."
+msgstr ""
+
+msgctxt "0038 | C012_Shiro"
+msgid "I was in the dining hall."
+msgstr ""
+
+msgctxt "0039 | C012_Shiro"
+msgid "<CLT=size2>Kiyo"
+msgstr ""
+
+msgctxt "0040 | C012_Shiro"
+msgid "Kiyo, Miu and Kirumi were with me."
+msgstr ""
+
+msgctxt "0041 | C012_Shiro"
+msgid "<CLT=size2>,"
+msgstr ""
+
+msgctxt "0042 | C012_Shiro"
+msgid "<CLT=size2>Miu"
+msgstr ""
+
+msgctxt "0043 | C012_Shiro"
+msgid "<CLT=size2>,<CLT=size1> and"
+msgstr ""
+
+msgctxt "0044 | C012_Shiro"
+msgid "<CLT=size2>Kirumi"
+msgstr ""
+
+msgctxt "0045 | C012_Shiro"
+msgid "were with me."
+msgstr ""
+
+msgctxt "0046 | C012_Shiro"
+msgid ""
+"Though I did leave briefly\n"
+"to use the bathroom..."
+msgstr ""
+
+msgctxt "0047 | C012_Shiro"
+msgid "Though I did leave briefly to use the bathroom..."
+msgstr ""
+
+msgctxt "0048 | C012_Shiro"
+msgid "<CLT=size2><CLT=cltWEAK>I couldn't<CLT=size1> have <CLT=size2>killed<CLT=size1> Rantaro<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0049 | C012_Shiro"
+msgid "I couldn't have killed Rantaro!"
+msgstr ""
+
+msgctxt "0050 | C020_Monok"
+msgid "And"
+msgstr ""
+
+msgctxt "0051 | C020_Monok"
+msgid "And Shuichi was with Kaede, sooo..."
+msgstr ""
+
+msgctxt "0052 | C020_Monok"
+msgid "<CLT=size2>Shuichi"
+msgstr ""
+
+msgctxt "0053 | C020_Monok"
+msgid "was with"
+msgstr ""
+
+msgctxt "0054 | C020_Monok"
+msgid "<CLT=size2>Kaede"
+msgstr ""
+
+msgctxt "0055 | C020_Monok"
+msgid "<CLT=size2>,<CLT=size1> sooo..."
+msgstr ""
+
+msgctxt "0056 | C020_Monok"
+msgid ""
+"<CLT=cltWEAK>He <CLT=size2>couldn't<CLT=size1> have <CLT=size2>killed<CLT=size1> Rantaro\n"
+"<CLT=cltNORMAL>either!"
+msgstr ""
+
+msgctxt "0057 | C020_Monok"
+msgid "He couldn't have killed Rantaro either!"
+msgstr ""
+
+msgctxt "0058 | C022_Msuke"
+msgid "I dunno about that!"
+msgstr ""
+
+msgctxt "0059 | C023_Mfunn"
+msgid "We can't join the argument!"
+msgstr ""
+
+msgctxt "0060 | C021_Mtaro"
+msgid "Did you forget that?"
+msgstr ""
+
+msgctxt "0061 | C022_Msuke"
+msgid ""
+"But if I don't retort,\n"
+"I'll..."
+msgstr ""
+
+msgctxt "0062 | C023_Mfunn"
+msgid "No explosions, please!"
+msgstr ""
+
+msgctxt "0063 | C023_Mfunn"
+msgid "Please!"
+msgstr ""
+
+msgctxt "0064 | C021_Mtaro"
+msgid "Huh? We're gonna explode?"
+msgstr ""
+
+msgctxt "0065 | C022_Msuke"
+msgid "You're forgetting too much!"
+msgstr ""
+
+msgctxt "0066 | C023_Mfunn"
+msgid "They exploded earlier, remember!?"
+msgstr ""
+
+msgctxt "0067 | C022_Msuke"
+msgid "Monodam"
+msgstr ""
+
+msgctxt "0068 | C022_Msuke"
+msgid "and Monokid!"
+msgstr ""
+
+msgctxt "0069 | C021_Mtaro"
+msgid ""
+"Monodam and\n"
+"Monokid...?"
+msgstr ""
+
+msgctxt "0070 | C023_Mfunn"
+msgid "You can't forget that!"
+msgstr ""
+
+msgctxt "0071 | C023_Mfunn"
+msgid "We're family, aren't we!?"
+msgstr ""
+
+msgctxt "0072 | C022_Msuke"
+msgid "Together, we're the Monokubs!"
+msgstr ""
+
+msgctxt "0073 | C021_Mtaro"
+msgid ""
+"Monokubs...?\n"
+"Sounds familiar..."
+msgstr ""
+
+msgctxt "0074 | C021_Mtaro"
+msgid "Oh! Now I remember!"
+msgstr ""
+
+msgctxt "0075 | C022_Msuke"
+msgid "Too late!"
+msgstr ""
+
+msgctxt "0076 | C023_Mfunn"
+msgid ""
+"Just remembering is\n"
+"making me emotional!"
+msgstr ""
+
+msgctxt "0077 | C021_Mtaro"
+msgid ""
+"Eep!\n"
+"I don't wanna die!"
+msgstr ""

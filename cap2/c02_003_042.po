@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "My magic is reacting..."
+msgstr ""
+
+msgctxt "0002"
+msgid "Your magic?"
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"There's something around here...\n"
+"There's no mistake..."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"Because of my magic, we're able \n"
+"to move on..."
+msgstr ""
+
+msgctxt "0005"
+msgid "R-Right..."
+msgstr ""
+
+msgctxt "0006"
+msgid "..."
+msgstr "..."
+
+msgctxt "0007"
+msgid "Isn't there something you should say?"
+msgstr ""
+
+msgctxt "0008"
+msgid "Ah... Thank you?"
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"Hm... You should rely on my magic \n"
+"from now on..."
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"Rely on my magic from now on. I'll lend you \n"
+"my powers...as long as it's not a pain."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"Oh, you came here after all. It's plain to see \n"
+"this strange thing here is just plain strange."
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT=cltMIND>...So is it plain or strange?"
+msgstr ""
+
+msgctxt "0013"
+msgid "A hidden passage! How exciting!"
+msgstr ""
+
+msgctxt "0014"
+msgid "Let's go investigate it!"
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"<CLT=cltMIND>This door is different from the others.\n"
+"It might be an <CLT=cltSTRONG>Ultimate Research Lab<CLT=cltMIND>."
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"<CLT=cltMIND>From the look of it, I'd guess it's\n"
+"the <CLT=cltSTRONG>Ultimate Magician<CLT=cltMIND>'s lab."
+msgstr ""
+
+msgctxt "0017"
+msgid "Clock Tower A"
+msgstr ""
+
+msgctxt "0018"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"<CLT=cltMIND>...It's locked.\n"
+"It doesn't seem like I can get inside."
+msgstr ""
+
+msgctxt "0020"
+msgid "<CLT=cltMIND>The wall came down!?"
+msgstr ""
+
+msgctxt "0021"
+msgid "Was it cuz of my magic?"
+msgstr ""
+
+msgctxt "0022"
+msgid "Ah, no, I used an item on this object, and—"
+msgstr ""
+
+msgctxt "0023"
+msgid "It was my magic."
+msgstr ""
+
+msgctxt "0024"
+msgid "...Okay, sure."
+msgstr ""

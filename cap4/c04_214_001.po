@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C005_Oma__"
+msgid "<CLT=size2>Miu<CLT=size1> was"
+msgstr ""
+
+msgctxt "0002 | C005_Oma__"
+msgid "Miu was waiting for me to arrive..."
+msgstr ""
+
+msgctxt "0003 | C005_Oma__"
+msgid "<CLT=cltWEAK>waiting"
+msgstr ""
+
+msgctxt "0004 | C005_Oma__"
+msgid ""
+"<CLT=cltWEAK><CLT=size1>for me\n"
+"<CLT=cltNORMAL>to arrive..."
+msgstr ""
+
+msgctxt "0005 | C005_Oma__"
+msgid ""
+"I'm sure\n"
+"she was waiting on\n"
+"the <CLT=size2>rooftop\n"
+"<CLT=size1>of the <CLT=size2>mansion!"
+msgstr ""
+
+msgctxt "0006 | C005_Oma__"
+msgid ""
+"I'm sure she was waiting on\n"
+"the rooftop of the mansion!"
+msgstr ""
+
+msgctxt "0007 | C009_Yumen"
+msgid "No,"
+msgstr ""
+
+msgctxt "0008 | C009_Yumen"
+msgid "No, Miu should've been at the chapel..."
+msgstr ""
+
+msgctxt "0009 | C009_Yumen"
+msgid ""
+"<CLT=size2>Miu\n"
+"　"
+msgstr ""
+
+msgctxt "0010 | C009_Yumen"
+msgid "should've been"
+msgstr ""
+
+msgctxt "0011 | C009_Yumen"
+msgid "<CLT=cltWEAK>at the <CLT=size2>chapel<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0012 | C009_Yumen"
+msgid "If you look at where"
+msgstr ""
+
+msgctxt "0013 | C009_Yumen"
+msgid "If you look at where her avatar fell..."
+msgstr ""
+
+msgctxt "0014 | C009_Yumen"
+msgid "her <CLT=size2>avatar fell..."
+msgstr ""
+
+msgctxt "0015 | C009_Yumen"
+msgid ""
+"it's <CLT=size2><CLT=cltWEAK>right next<CLT=size1> to\n"
+"the <CLT=size2>chapel<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0016 | C009_Yumen"
+msgid "it's right next to the chapel."
+msgstr ""
+
+msgctxt "0017 | C010_Haruk"
+msgid ""
+"How would she have gotten\n"
+"to the <CLT=size2>mansion?"
+msgstr ""
+
+msgctxt "0018 | C010_Haruk"
+msgid "How would she have gotten to the mansion?"
+msgstr ""
+
+msgctxt "0019 | C010_Haruk"
+msgid "There was"
+msgstr ""
+
+msgctxt "0020 | C010_Haruk"
+msgid "There was no bridge over the river."
+msgstr ""
+
+msgctxt "0021 | C010_Haruk"
+msgid "<CLT=size1.5>no bridge<CLT=size1> over the <CLT=size1.5>river."
+msgstr ""
+
+msgctxt "0022 | C007_Ki-Bo"
+msgid ""
+"A bridge would be\n"
+"　\n"
+"　\n"
+"　\n"
+"　\n"
+"　\n"
+"<CLT=cltWEAK>the <CLT=size2>only way\n"
+"<CLT=size1>to <CLT=size2>get across<CLT=cltNORMAL><CLT=size1>."
+msgstr ""
+
+msgctxt "0023 | C007_Ki-Bo"
+msgid ""
+"A bridge would be the\n"
+"only way to get across."
+msgstr ""
+
+msgctxt "0024 | C001_Momot"
+msgid ""
+"So\n"
+"her <CLT=size2>meeting<CLT=size1> with <CLT=size2>Kokichi<CLT=size1>..."
+msgstr ""
+
+msgctxt "0025 | C001_Momot"
+msgid "So her meeting with Kokichi..."
+msgstr ""
+
+msgctxt "0026 | C005_Oma__"
+msgid "She"
+msgstr ""
+
+msgctxt "0027 | C005_Oma__"
+msgid "She stood me up!?"
+msgstr ""
+
+msgctxt "0028 | C005_Oma__"
+msgid "stood me up!?"
+msgstr ""
+
+msgctxt "0029 | C001_Momot"
+msgid "Maybe that's a lie."
+msgstr ""
+
+msgctxt "0030 | C007_Ki-Bo"
+msgid "No, I heard them talking."
+msgstr ""
+
+msgctxt "0031 | C007_Ki-Bo"
+msgid ""
+"She was investigating the\n"
+"outside of the chapel."
+msgstr ""
+
+msgctxt "0032 | C004_Gokuh"
+msgid "So she *was* at chapel!"
+msgstr ""
+
+msgctxt "0033 | C012_Shiro"
+msgid "Did she leave in the middle?"
+msgstr ""
+
+msgctxt "0034 | C005_Oma__"
+msgid "Who knows?"
+msgstr ""
+
+msgctxt "0035 | C009_Yumen"
+msgid "She dropped it..."
+msgstr ""
+
+msgctxt "0036 | C004_Gokuh"
+msgid "No can swim across?"
+msgstr ""
+
+msgctxt "0037 | C012_Shiro"
+msgid "Was there a substitute bridge?"
+msgstr ""
+
+msgctxt "0038 | C009_Yumen"
+msgid "Maybe she just forgot."
+msgstr ""
+
+msgctxt "0039 | C010_Haruk"
+msgid ""
+"Why were you guys even\n"
+"meeting to begin with?"
+msgstr ""

@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0002"
+msgid "No"
+msgstr ""
+
+msgctxt "0003"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0004"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0005"
+msgid "<CLT=cltSYSTEM>*knock, knock*"
+msgstr ""
+
+msgctxt "0006"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0007"
+msgid "<CLT=cltSYSTEM>*click*"
+msgstr ""
+
+msgctxt "0008"
+msgid "Oh, it's you Shuichi..."
+msgstr ""
+
+msgctxt "0009"
+msgid "Sorry, it's just..."
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"I'm pretty busy right now.\n"
+"Can you come by later?"
+msgstr ""
+
+msgctxt "0011"
+msgid "Sorry, man. See ya later."
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT=cltSYSTEM>*thump*"
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"<CLT=cltMIND>Kaito didn't look very good...\n"
+"is he okay?"
+msgstr ""
+
+msgctxt "0014"
+msgid "Ryoma..."
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT=cltMIND>You had...no one."
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"<CLT=cltMIND>You found out that awful truth\n"
+"and gave up your life for Kirumi."
+msgstr ""
+
+msgctxt "0017"
+msgid "<CLT=cltMIND>But...I..."
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"<CLT=cltMIND>Ryoma, you wanted to fight with us,\n"
+"didn't you?"
+msgstr ""
+
+msgctxt "0019"
+msgid "<CLT=cltMIND>Was that not enough reason to live?"
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"<CLT=cltMIND>You could've fought with us, we could've\n"
+"fought together...then you could have lived."
+msgstr ""
+
+msgctxt "0021"
+msgid "<CLT=cltMIND>We...couldn't have been your reason to live?"
+msgstr ""
+
+msgctxt "0022"
+msgid "...Maybe I'm just being arrogant."
+msgstr ""
+
+msgctxt "0023"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"<CLT=cltMIND>...It won't open.\n"
+"I suppose it's locked."
+msgstr ""
+
+msgctxt "0025"
+msgid ""
+"<CLT=cltMIND>This is...Gonta's room, huh?\n"
+"I don't have any business here right now."
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"<CLT=cltMIND>This is Kokichi's room, but...\n"
+"I don't have any business here right now."
+msgstr ""
+
+msgctxt "0027"
+msgid ""
+"<CLT=cltMIND>This is Kiyo's room,\n"
+"but I don't have any business here right now."
+msgstr ""
+
+msgctxt "0028"
+msgid ""
+"<CLT=cltMIND>This is Keebo's room...\n"
+"I don't have any business here right now."
+msgstr ""
+
+msgctxt "0029"
+msgid "..."
+msgstr "..."
+
+msgctxt "0030"
+msgid ""
+"<CLT=cltMIND>Kirumi's final moments... I can't get the image\n"
+"of her running for her life out of my head."
+msgstr ""
+
+msgctxt "0031"
+msgid ""
+"<CLT=cltMIND>I can still hear her...\n"
+"Her scream of defiance."
+msgstr ""
+
+msgctxt "0032"
+msgid ""
+"<CLT=cltMIND>Perhaps running isn't so bad...\n"
+"Perhaps we aren't strong enough to face it."
+msgstr ""
+
+msgctxt "0033"
+msgid "<CLT=cltMIND>In order to live until the <CLT=cltSTRONG>end<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0034"
+msgid ""
+"<CLT=cltMIND>This is Himiko's room.\n"
+"I don't have any business here right now."
+msgstr ""
+
+msgctxt "0035"
+msgid ""
+"<CLT=cltMIND>So this is Maki's room...\n"
+"I don't have any business here right now."
+msgstr ""
+
+msgctxt "0036"
+msgid ""
+"<CLT=cltMIND>This is Tenko's room.\n"
+"I don't have any business here right now."
+msgstr ""
+
+msgctxt "0037"
+msgid ""
+"<CLT=cltMIND>This is...Tsumugi's room.\n"
+"I don't have any business here right now."
+msgstr ""
+
+msgctxt "0038"
+msgid "<CLT=cltSYSTEM>*knock, knock*"
+msgstr ""
+
+msgctxt "0039"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0040"
+msgid "<CLT=cltSYSTEM>*click*"
+msgstr ""
+
+msgctxt "0041"
+msgid ""
+"<CLT=cltMIND>This is Miu's room,\n"
+"but I don't have any business here right now."
+msgstr ""
+
+msgctxt "0042"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0043"
+msgid ""
+"<CLT=cltMIND>...It won't open.\n"
+"I suppose it's locked."
+msgstr ""
+
+msgctxt "0044"
+msgid ""
+"<CLT=cltMIND>It's a monitor for communicating with us.\n"
+"There's nothing on the screen."
+msgstr ""
+
+msgctxt "0045"
+msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
+msgstr ""

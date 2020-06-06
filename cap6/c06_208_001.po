@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C023_Mfunn"
+msgid ""
+"<CLT=size2>What<CLT=size1> are we\n"
+"<CLT=size2>arguing<CLT=size1> about again!?"
+msgstr ""
+
+msgctxt "0002 | C023_Mfunn"
+msgid "What are we arguing about again!?"
+msgstr ""
+
+msgctxt "0003 | C022_Msuke"
+msgid "Th-The <CLT=size2>hidden camera!"
+msgstr ""
+
+msgctxt "0004 | C022_Msuke"
+msgid "Th-The hidden camera!"
+msgstr ""
+
+msgctxt "0005 | C022_Msuke"
+msgid "Isn't it <CLT=size2>weird"
+msgstr ""
+
+msgctxt "0006 | C022_Msuke"
+msgid ""
+"Isn't it weird that the mastermind's\n"
+"not in any photos!?"
+msgstr ""
+
+msgctxt "0007 | C022_Msuke"
+msgid "<CLT=size2>that<CLT=size1> the"
+msgstr ""
+
+msgctxt "0008 | C022_Msuke"
+msgid "mastermind's not"
+msgstr ""
+
+msgctxt "0009 | C022_Msuke"
+msgid "in any photos!?"
+msgstr ""
+
+msgctxt "0010 | C007_Ki-Bo"
+msgid "Unless <CLT=cltAGREE><CLT=size2>they used"
+msgstr ""
+
+msgctxt "0011 | C007_Ki-Bo"
+msgid "Unless they used the interval between shots."
+msgstr ""
+
+msgctxt "0012 | C007_Ki-Bo"
+msgid "<CLT=cltAGREE><CLT=size1>the <CLT=size2>interval<CLT=cltNORMAL><CLT=size1> between shots."
+msgstr ""
+
+msgctxt "0013 | C010_Haruk"
+msgid ""
+"The camera has a\n"
+"<CLT=size3>30<CLT=size1>second\n"
+"<CLT=size1>interval between shots..."
+msgstr ""
+
+msgctxt "0014 | C010_Haruk"
+msgid ""
+"The camera has a 30 second\n"
+"interval between shots..."
+msgstr ""
+
+msgctxt "0015 | C010_Haruk"
+msgid ""
+"That's <CLT=size2>enough<CLT=size1> time\n"
+"to <CLT=size2>take<CLT=size1> the Monopad\n"
+"from the body."
+msgstr ""
+
+msgctxt "0016 | C010_Haruk"
+msgid ""
+"That's enough time to take\n"
+"the Monopad from the body."
+msgstr ""
+
+msgctxt "0017 | C024_Mdam_"
+msgid "THEN-WHERE-"
+msgstr ""
+
+msgctxt "0018 | C024_Mdam_"
+msgid ""
+"THEN-WHERE-WAS-THE-\n"
+"MASTERMIND-HIDING?"
+msgstr ""
+
+msgctxt "0019 | C024_Mdam_"
+msgid "WAS-"
+msgstr ""
+
+msgctxt "0020 | C024_Mdam_"
+msgid "THE-"
+msgstr ""
+
+msgctxt "0021 | C024_Mdam_"
+msgid "MASTERMIND-"
+msgstr ""
+
+msgctxt "0022 | C024_Mdam_"
+msgid "HIDING"
+msgstr ""
+
+msgctxt "0023 | C024_Mdam_"
+msgid "?"
+msgstr "?"
+
+msgctxt "0024 | C009_Yumen"
+msgid "In the"
+msgstr ""
+
+msgctxt "0025 | C009_Yumen"
+msgid "In the hidden room, of course!"
+msgstr ""
+
+msgctxt "0026 | C009_Yumen"
+msgid "<CLT=size2>hidden room,"
+msgstr ""
+
+msgctxt "0027 | C009_Yumen"
+msgid "of course!"
+msgstr ""
+
+msgctxt "0028 | C009_Yumen"
+msgid "<CLT=cltAGREE><CLT=size2>hidden room,"
+msgstr ""
+
+msgctxt "0029 | C024_Mdam_"
+msgid "IF-THEY-"
+msgstr ""
+
+msgctxt "0030 | C024_Mdam_"
+msgid ""
+"IF-THEY-WERE-STILL-\n"
+"INSIDE-THE-HIDDEN-ROOM..."
+msgstr ""
+
+msgctxt "0031 | C024_Mdam_"
+msgid "WERE-"
+msgstr ""
+
+msgctxt "0032 | C024_Mdam_"
+msgid "<CLT=cltWEAK>STILL-"
+msgstr ""
+
+msgctxt "0033 | C024_Mdam_"
+msgid "<CLT=cltWEAK>INSIDE-"
+msgstr ""
+
+msgctxt "0034 | C024_Mdam_"
+msgid "THE-HIDDEN-ROOM..."
+msgstr ""
+
+msgctxt "0035 | C024_Mdam_"
+msgid "<CLT=cltWEAK>HOW-WOULD-"
+msgstr ""
+
+msgctxt "0036 | C024_Mdam_"
+msgid ""
+"HOW-WOULD-THEY-KNOW-WHAT-\n"
+"WAS-HAPPENING-IN-THE-LIBRARY?"
+msgstr ""
+
+msgctxt "0037 | C024_Mdam_"
+msgid "<CLT=cltWEAK>THEY-KNOW-WHAT-"
+msgstr ""
+
+msgctxt "0038 | C024_Mdam_"
+msgid "<CLT=cltWEAK>WAS-HAPPENING-"
+msgstr ""
+
+msgctxt "0039 | C024_Mdam_"
+msgid "<CLT=cltWEAK>IN-"
+msgstr ""
+
+msgctxt "0040 | C024_Mdam_"
+msgid "<CLT=cltWEAK>THE-LIBRARY"
+msgstr ""
+
+msgctxt "0041 | C024_Mdam_"
+msgid "?"
+msgstr "?"
+
+msgctxt "0042 | C022_Msuke"
+msgid ""
+"If you <CLT=size2>dunno\n"
+"when<CLT=size1> the <CLT=size2>camera\n"
+"<CLT=size1>went off..."
+msgstr ""
+
+msgctxt "0043 | C022_Msuke"
+msgid "If you dunno when the camera went off..."
+msgstr ""
+
+msgctxt "0044 | C022_Msuke"
+msgid ""
+"<CLT=size2>how<CLT=size1> would you <CLT=size2>know\n"
+"<CLT=size1>the interval timing!?"
+msgstr ""
+
+msgctxt "0045 | C022_Msuke"
+msgid ""
+"how would you know\n"
+"the interval timing!?"
+msgstr ""
+
+msgctxt "0046 | C023_Mfunn"
+msgid "<CLT=size2>Bravo Monodam!<CLT=size1> Wonderful objection!"
+msgstr ""
+
+msgctxt "0047 | C023_Mfunn"
+msgid "Bravo Monodam! Wonderful objection!"
+msgstr ""
+
+msgctxt "0048 | C021_Mtaro"
+msgid ""
+"Now we've escaped\n"
+"<CLT=size2>certain death!"
+msgstr ""
+
+msgctxt "0049 | C021_Mtaro"
+msgid "Now we've escaped certain death!"
+msgstr ""
+
+msgctxt "0050 | C023_Mfunn"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "0051 | C021_Mtaro"
+msgid "Eh? Is it really that weird?"
+msgstr ""
+
+msgctxt "0052 | C021_Mtaro"
+msgid "Interval? Wuzzat?"
+msgstr ""
+
+msgctxt "0053 | C022_Msuke"
+msgid "Y-You don't know that!"
+msgstr ""
+
+msgctxt "0054 | C021_Mtaro"
+msgid "Good point!"
+msgstr ""
+
+msgctxt "0055 | C023_Mfunn"
+msgid ""
+"Hey! Don't agree\n"
+"with her!"
+msgstr ""
+
+msgctxt "0056 | C022_Msuke"
+msgid ""
+"Kick her argument's\n"
+"ass, Monodam!"
+msgstr ""
+
+msgctxt "0057 | C020_Monok"
+msgid ""
+"Puhuhu!\n"
+"That's my boy!"
+msgstr ""
+
+msgctxt "0058 | C021_Mtaro"
+msgid ""
+"Hey! Father's\n"
+"praising Monodam!"
+msgstr ""
+
+msgctxt "0059 | C023_Mfunn"
+msgid "Yep, yep!"
+msgstr ""
+
+msgctxt "0060 | C022_Msuke"
+msgid "Monokid can still die, though!"
+msgstr ""

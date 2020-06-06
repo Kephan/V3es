@@ -1,0 +1,398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C012_Shiro"
+msgid "Is everyone here!? Guys, it's serious!"
+msgstr ""
+
+msgctxt "0002 | C001_Momot"
+msgid ""
+"Yeah, you found the <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>, \n"
+"didn't you? Let's use it already!"
+msgstr ""
+
+msgctxt "0003 | C012_Shiro"
+msgid "Oh...sorry. It's not the <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0004 | C007_Ki-Bo"
+msgid ""
+"...It's not? I honestly thought that's what\n"
+"all this was about."
+msgstr ""
+
+msgctxt "0005 | C009_Yumen"
+msgid ""
+"Then why did you call us all here!? \n"
+"I had to go to the bathroom!"
+msgstr ""
+
+msgctxt "0006 | C012_Shiro"
+msgid ""
+"I found...something pretty serious.\n"
+"I thought I should tell everyone right away..."
+msgstr ""
+
+msgctxt "0007 | chara_Blank"
+msgid "<CLT=cltMIND>Pretty serious?"
+msgstr ""
+
+msgctxt "0008 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0009 | C001_Momot"
+msgid "Hey...has anyone seen Kokichi?"
+msgstr ""
+
+msgctxt "0010 | C000_Saiha"
+msgid "N-No, I haven't, but..."
+msgstr ""
+
+msgctxt "0011 | C001_Momot"
+msgid "I see... Where could he have gone?"
+msgstr ""
+
+msgctxt "0012 | C001_Momot"
+msgid "..."
+msgstr "..."
+
+msgctxt "0013 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0014 | C001_Momot"
+msgid "..."
+msgstr "..."
+
+msgctxt "0015 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0016 | C007_Ki-Bo"
+msgid ""
+"Once again, I'm reminded of just how few of\n"
+"us are left..."
+msgstr ""
+
+msgctxt "0017 | C007_Ki-Bo"
+msgid ""
+"It used to take quite a bit of time for us all to\n"
+"gather. But that's not the case anymore..."
+msgstr ""
+
+msgctxt "0018 | C009_Yumen"
+msgid ""
+"Let's hurry up and get this over with.\n"
+"I-I gotta go to the bathroom."
+msgstr ""
+
+msgctxt "0019 | C010_Haruk"
+msgid ""
+"I don't know what this serious thing is\n"
+"that Tsumugi's talking about..."
+msgstr ""
+
+msgctxt "0020 | C010_Haruk"
+msgid ""
+"But it looks like no one found a <CLT=cltSTRONG>Flashback\n"
+"Light<CLT=cltNORMAL> yet."
+msgstr ""
+
+msgctxt "0021 | C000_Saiha"
+msgid "So what did you find?"
+msgstr ""
+
+msgctxt "0022 | C012_Shiro"
+msgid ""
+"Those letters Gonta found in the courtyard...\n"
+"There's more added to them again."
+msgstr ""
+
+msgctxt "0023 | C000_Saiha"
+msgid "The letters in the courtyard?"
+msgstr ""
+
+msgctxt "0024 | C012_Shiro"
+msgid ""
+"It looks like the message is complete now.\n"
+"We can finally read it."
+msgstr ""
+
+msgctxt "0025 | C012_Shiro"
+msgid "And it says..."
+msgstr ""
+
+msgctxt "0026 | C012_Shiro"
+msgid "\"This world is mine...\""
+msgstr ""
+
+msgctxt "0027 | C012_Shiro"
+msgid "\"This world is mine. Kokichi Oma\""
+msgstr ""
+
+msgctxt "0028 | C012_Shiro"
+msgid "That's what's written there."
+msgstr ""
+
+msgctxt "0029 | C010_Haruk"
+msgid "...This world is mine?"
+msgstr ""
+
+msgctxt "0030 | C009_Yumen"
+msgid ""
+"Wh-What's going on?\n"
+"Why is Kokichi's name—"
+msgstr ""
+
+msgctxt "0031 | C001_Momot"
+msgid ""
+"Heh, so that's what it means. It was all\n"
+"just a prank by Kokichi."
+msgstr ""
+
+msgctxt "0032 | C010_Haruk"
+msgid "...A prank?"
+msgstr ""
+
+msgctxt "0033 | C001_Momot"
+msgid ""
+"He kept adding to that message just so\n"
+"he could make fun of us."
+msgstr ""
+
+msgctxt "0034 | C001_Momot"
+msgid "Seriously...what a messed up guy."
+msgstr ""
+
+msgctxt "0035 | C009_Yumen"
+msgid ""
+"Nyeeeh...I see. That definitely seems like \n"
+"something Kokichi would do."
+msgstr ""
+
+msgctxt "0036 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>That is true, but...\n"
+"is that all there is to it?"
+msgstr ""
+
+msgctxt "0037 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>When Gonta had first found the\n"
+"writing, all it said was..."
+msgstr ""
+
+msgctxt "0038 | chara_Blank"
+msgid "<CLT=cltMIND>\"horse a\""
+msgstr ""
+
+msgctxt "0039 | chara_Blank"
+msgid "<CLT=cltMIND>Over time, more letters were added."
+msgstr ""
+
+msgctxt "0040 | chara_Blank"
+msgid "<CLT=cltMIND>Eventually, it read..."
+msgstr ""
+
+msgctxt "0041 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>\"This world is mine.\n"
+"Kokichi Oma\""
+msgstr ""
+
+msgctxt "0042 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Can we really just ascribe it\n"
+"to Kokichi's pranks?"
+msgstr ""
+
+msgctxt "0043 | C001_Momot"
+msgid ""
+"Well, who cares about Kokichi. More importantly,\n"
+"what about the <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>?"
+msgstr ""
+
+msgctxt "0044 | C007_Ki-Bo"
+msgid "It seems no one has found it yet."
+msgstr ""
+
+msgctxt "0045 | C009_Yumen"
+msgid ""
+"Maybe...that's Kokichi's fault, too?\n"
+"He probably found it first and hid it."
+msgstr ""
+
+msgctxt "0046 | C010_Haruk"
+msgid "Hm, that is possible."
+msgstr ""
+
+msgctxt "0047 | C012_Shiro"
+msgid "We need to do something and find him—"
+msgstr ""
+
+msgctxt "0048 | C001_Momot"
+msgid "No, there's no need to bother with him..."
+msgstr ""
+
+msgctxt "0049 | C001_Momot"
+msgid ""
+"The best way to deal with guys like him is\n"
+"to ignore them. So let's just leave him be."
+msgstr ""
+
+msgctxt "0050 | C010_Haruk"
+msgid ""
+"You say that, but you were the angriest\n"
+"out of all of us."
+msgstr ""
+
+msgctxt "0051 | C001_Momot"
+msgid ""
+"No...there was something I was\n"
+"just thinking about."
+msgstr ""
+
+msgctxt "0052 | C012_Shiro"
+msgid "Thinking about?"
+msgstr ""
+
+msgctxt "0053 | C001_Momot"
+msgid ""
+"It's still a little too early to tell \n"
+"you guys, but..."
+msgstr ""
+
+msgctxt "0054 | C001_Momot"
+msgid ""
+"Well, just leave it to me. There's no need\n"
+"for you guys to worry."
+msgstr ""
+
+msgctxt "0055 | C001_Momot"
+msgid "I'll figure it all out."
+msgstr ""
+
+msgctxt "0056 | C010_Haruk"
+msgid "Figure what out..?"
+msgstr ""
+
+msgctxt "0057 | C001_Momot"
+msgid "I mean, I'm gonna get you guys out of here."
+msgstr ""
+
+msgctxt "0058 | chara_Blank"
+msgid "<CLT=cltMIND>Kaito...is going to get us out of here?"
+msgstr ""
+
+msgctxt "0059 | C009_Yumen"
+msgid "Nyeeeh, there's that reckless confidence again."
+msgstr ""
+
+msgctxt "0060 | C001_Momot"
+msgid "Reckless?"
+msgstr ""
+
+msgctxt "0061 | C001_Momot"
+msgid ""
+"Heh, you guys just don't get it.\n"
+"Geez, heroes are always misunderstood."
+msgstr ""
+
+msgctxt "0062 | C010_Haruk"
+msgid ""
+"Hero or whatever, it doesn't matter...\n"
+"Just don't overdo it."
+msgstr ""
+
+msgctxt "0063 | C001_Momot"
+msgid "Yeah, leave it to me!"
+msgstr ""
+
+msgctxt "0064 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0065 | chara_Blank"
+msgid "<CLT=cltMIND>Perhaps Kaito's confidence is baseless..."
+msgstr ""
+
+msgctxt "0066 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>But it's sort of a relief to have someone\n"
+"so confident in a time like this."
+msgstr ""
+
+msgctxt "0067 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>A hero...\n"
+"He might really be one."
+msgstr ""
+
+msgctxt "0068 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>We weren't able to find the <CLT=cltSTRONG>Flashback Light<CLT=cltMIND>,\n"
+"so we all left the dining hall..."
+msgstr ""
+
+msgctxt "0069 | chara_Blank"
+msgid "<CLT=cltMIND>And returned to our rooms."
+msgstr ""
+
+msgctxt "0070 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Tsumugi said it was something serious.\n"
+"I should ask her about it."
+msgstr ""
+
+msgctxt "0071 | chara_Blank"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0072 | chara_Blank"
+msgid "No"
+msgstr ""
+
+msgctxt "0073 | chara_Blank"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0074 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0075 | chara_Blank"
+msgid "<CLT=cltSYSTEM>\"Dining Hall Rules\""
+msgstr ""
+
+msgctxt "0076 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>\"You may eat any food you\n"
+"find in the dining hall.\""
+msgstr ""
+
+msgctxt "0077 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>\"Please take responsibility for all utensils and\n"
+"dishes used and clean up after yourself.\""
+msgstr ""
+
+msgctxt "0078 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>\"The dining hall will be locked\n"
+"during nighttime.\""
+msgstr ""
+
+msgctxt "0079 | chara_Blank"
+msgid "<CLT=cltMIND>I should talk to Tsumugi."
+msgstr ""

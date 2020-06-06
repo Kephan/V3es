@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Angie's rise to domination..."
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"I feel like someone took all my stocks away...\n"
+"I'm a worthless <CLT=cltSTRONG>Ultimate Supreme Leader<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0003"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0004"
+msgid "No"
+msgstr ""
+
+msgctxt "0005"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0006"
+msgid "<CLT=cltMIND>Should I hang out with Kokichi for a while?"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"Well, cults are outside my area of expertise,\n"
+"and I don't like resorting to that either."
+msgstr ""
+
+msgctxt "0008"
+msgid "Oh, that's not a lie, okay?"
+msgstr ""
+
+msgctxt "0009"
+msgid "<CLT=cltMIND>I spent some time with Kokichi..."
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"<CLT=cltMIND>Kokichi and I grew a little closer today,\n"
+"despite my misgivings..."
+msgstr ""

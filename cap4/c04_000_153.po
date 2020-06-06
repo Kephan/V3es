@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0002 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Everything's back to normal...\n"
+"Even the wax effigies are gone."
+msgstr ""
+
+msgctxt "0003 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>But Angie, Tenko...and Kiyo...\n"
+"are still dead."
+msgstr ""
+
+msgctxt "0004 | chara_Blank"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0005 | chara_Blank"
+msgid "No"
+msgstr ""
+
+msgctxt "0006 | chara_Blank"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0007 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0008 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>It's a monitor for communicating with us,\n"
+"but why is it so...gaudy?"
+msgstr ""
+
+msgctxt "0009 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>And it's not just the monitor,\n"
+"it's this entire academy."
+msgstr ""
+
+msgctxt "0010 | chara_Blank"
+msgid "<CLT=cltMIND>What is going on here...?"
+msgstr ""
+
+msgctxt "0011 | chara_Blank"
+msgid "<CLT=cltMIND>There's a big pile of wax..."
+msgstr ""
+
+msgctxt "0012 | chara_Blank"
+msgid "<CLT=cltMIND>Angie used this to make effigies."
+msgstr ""
+
+msgctxt "0013 | chara_Blank"
+msgid "<CLT=cltMIND>But they didn't have <CLT=cltSTRONG>traces of a soul<CLT=cltMIND>."
+msgstr ""
+
+msgctxt "0014 | chara_Blank"
+msgid ""
+"<CLT=cltSTRONG>A soul<CLT=cltNORMAL> desperate to live,\n"
+"struggling, fighting for life..."
+msgstr ""
+
+msgctxt "0015 | chara_Blank"
+msgid "<CLT=cltMIND>That's something that can never be replicated."
+msgstr ""

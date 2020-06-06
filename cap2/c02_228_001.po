@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"<CLT=size2>I, of course,\n"
+"<CLT=size1>am not the <CLT=size2>criminal."
+msgstr ""
+
+msgctxt "0002"
+msgid "I, of course, am not the criminal."
+msgstr ""
+
+msgctxt "0003"
+msgid "The <CLT=size1>crime<CLT=size1> was committed at <CLT=size2>nighttime..."
+msgstr ""
+
+msgctxt "0004"
+msgid "The crime was committed at nighttime..."
+msgstr ""
+
+msgctxt "0005"
+msgid "and <CLT=size2>you<CLT=size1>"
+msgstr ""
+
+msgctxt "0006"
+msgid "And you don't have an alibi, do you?"
+msgstr ""
+
+msgctxt "0007"
+msgid "have no <CLT=size2>alibi,<CLT=size1> do you?"
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"An\n"
+"<CLT=size2>alibi\n"
+"<CLT=size1>for\n"
+"<CLT=size2>nighttime?"
+msgstr ""
+
+msgctxt "0009"
+msgid "An alibi for nighttime?"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"I believe\n"
+"<CLT=size2><CLT=cltWEAK>most<CLT=size1> of <CLT=size2>us\n"
+"do not\n"
+"have one<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0011"
+msgid "I believe most of us do not have one."
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT=size2>I...I have"
+msgstr ""
+
+msgctxt "0013"
+msgid "I...I have evidence that proves you're the culprit..."
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"<CLT=cltAGREE><CLT=size2>evidence\n"
+"that proves"
+msgstr ""
+
+msgctxt "0015"
+msgid "you're the <CLT=size2>c-culprit..."
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"Do you think\n"
+"we would"
+msgstr ""
+
+msgctxt "0017"
+msgid "Do you think we would fall for such nonsense?"
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"fall for such\n"
+"<CLT=size2>nonsense?"
+msgstr ""
+
+msgctxt "0019"
+msgid "The <CLT=size2>trick<CLT=size1> relied on"
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"The trick relied on complex mechanisms\n"
+"to work..."
+msgstr ""
+
+msgctxt "0021"
+msgid "<CLT=size2>complex mechanisms<CLT=size1> to work..."
+msgstr ""
+
+msgctxt "0022"
+msgid "But <CLT=cltAGREE>someone like <CLT=size2>you"
+msgstr ""
+
+msgctxt "0023"
+msgid "But someone like you could be skilled enough to pull it off."
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"<CLT=cltAGREE>could be\n"
+"<CLT=size2>skilled\n"
+"<CLT=size2>enough\n"
+"<CLT=cltNORMAL><CLT=size1>to pull it off."
+msgstr ""
+
+msgctxt "0025"
+msgid "<CLT=size2>Preposterous."
+msgstr ""
+
+msgctxt "0026"
+msgid "Preposterous. That could have been done by anyone."
+msgstr ""
+
+msgctxt "0027"
+msgid "That <CLT=cltWEAK><CLT=size2>could<CLT=size1> have been done by <CLT=size2>anyone<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0028"
+msgid ""
+"<CLT=size2>Kirumi<CLT=size1> is thin and\n"
+"has a <CLT=size2>nice body..."
+msgstr ""
+
+msgctxt "0029"
+msgid "Kirumi is thin and has a nice body..."
+msgstr ""
+
+msgctxt "0030"
+msgid ""
+"She and Ryoma could've\n"
+"<CLT=cltAGREE><CLT=size2>totally shared\n"
+"<CLT=cltNORMAL><CLT=size1>an inner tube!"
+msgstr ""
+
+msgctxt "0031"
+msgid "She and Ryoma could've totally shared an inner tube!"
+msgstr ""
+
+msgctxt "0032"
+msgid ""
+"We all <CLT=size3>could have,\n"
+"<CLT=size1>except perhaps Gonta."
+msgstr ""
+
+msgctxt "0033"
+msgid "We all could have, except perhaps Gonta."
+msgstr ""
+
+msgctxt "0034"
+msgid "Really...?"
+msgstr ""
+
+msgctxt "0035"
+msgid "How suspicious!"
+msgstr ""
+
+msgctxt "0036"
+msgid "That's a lie!"
+msgstr ""
+
+msgctxt "0037"
+msgid "Gonta not believe that..."
+msgstr ""
+
+msgctxt "0038"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "0039"
+msgid "Yeah! Give us an alibi!"
+msgstr ""
+
+msgctxt "0040"
+msgid "She has a point..."
+msgstr ""
+
+msgctxt "0041"
+msgid "She does?"
+msgstr ""
+
+msgctxt "0042"
+msgid "That stutter's not convincing..."
+msgstr ""
+
+msgctxt "0043"
+msgid "Kirumi does have the skill..."
+msgstr ""
+
+msgctxt "0044"
+msgid "Is it really possible for anyone?"
+msgstr ""
+
+msgctxt "0045"
+msgid "So am I!"
+msgstr ""
+
+msgctxt "0046"
+msgid "I could do that, too!"
+msgstr ""

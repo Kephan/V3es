@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | non"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0002 | non"
+msgid "No"
+msgstr ""
+
+msgctxt "0003 | non"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0004 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0005 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>This is OUTLAW RUN,\n"
+"A driving game."
+msgstr ""
+
+msgctxt "0006 | chara_Blank"
+msgid "<CLT=cltMIND>I guess it isn't ready to play yet..."
+msgstr ""
+
+msgctxt "0007 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>This is OUTLAW RUN,\n"
+"A driving game."
+msgstr ""
+
+msgctxt "0008 | chara_Blank"
+msgid "<CLT=cltMIND>Maybe I'll try this one..."
+msgstr ""
+
+msgctxt "0009 | chara_Blank"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0010 | chara_Blank"
+msgid "No"
+msgstr ""
+
+msgctxt "0011 | chara_Blank"
+msgid "Read the rules"
+msgstr ""
+
+msgctxt "0012 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>OUTLAW RUN\n"
+"Driver's Manual"
+msgstr ""
+
+msgctxt "0013 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Run over the targets with style\n"
+"and try to get the high score!"
+msgstr ""
+
+msgctxt "0014 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Get a bunch in a row, combos are stylin'!\n"
+"Monodam is a bonus and Monokid is a boost!"
+msgstr ""
+
+msgctxt "0015 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0016 | C000_Saiha"
+msgid "This has nothing to do with driving at all."
+msgstr ""
+
+msgctxt "0017 | C000_Saiha"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0018 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0019 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\n"
+"It's a game where you look for treasure..."
+msgstr ""
+
+msgctxt "0020 | chara_Blank"
+msgid "<CLT=cltMIND>I guess it isn't ready to play yet..."
+msgstr ""
+
+msgctxt "0021 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\n"
+"It's a game where you look for treasure..."
+msgstr ""
+
+msgctxt "0022 | chara_Blank"
+msgid "<CLT=cltMIND>Maybe I'll play it for a little while...?"
+msgstr ""
+
+msgctxt "0023 | chara_Blank"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0024 | chara_Blank"
+msgid "No"
+msgstr ""
+
+msgctxt "0025 | chara_Blank"
+msgid "Read the rules"
+msgstr ""
+
+msgctxt "0026 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>TREASURE HUNTER! MONOLITH\n"
+"Treasure Hunting Guide"
+msgstr ""
+
+msgctxt "0027 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Connect two or more of the same color!\n"
+"Uncover the hidden salmon fossils!"
+msgstr ""
+
+msgctxt "0028 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Try to find the rare Monokub statues!\n"
+"Dig them up whenever you see one!"
+msgstr ""
+
+msgctxt "0029 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0030 | C000_Saiha"
+msgid "Are salmon fossils treasure...?"
+msgstr ""
+
+msgctxt "0031 | C000_Saiha"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0032 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0033 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>SALMON FISHING!\n"
+"It's a game where you fish for salmon."
+msgstr ""
+
+msgctxt "0034 | chara_Blank"
+msgid "<CLT=cltMIND>Maybe I'll try this one..."
+msgstr ""
+
+msgctxt "0035 | chara_Blank"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0036 | chara_Blank"
+msgid "No"
+msgstr ""
+
+msgctxt "0037 | chara_Blank"
+msgid "Read the rules"
+msgstr ""
+
+msgctxt "0038 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>SALMON FISHING!\n"
+"Salmon Night"
+msgstr ""
+
+msgctxt "0039 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>On this night, the salmon come left and right.\n"
+"Use your Monokuma Eye to find them."
+msgstr ""
+
+msgctxt "0040 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Fish for the color Monokuma desires.\n"
+"In Monodam a bonus, but beware the mines."
+msgstr ""
+
+msgctxt "0041 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0042 | C000_Saiha"
+msgid "That was quite the poetic explanation..."
+msgstr ""
+
+msgctxt "0043 | C000_Saiha"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0044 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0045 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>MonoMono Slot...\n"
+"It looks like a slot machine game."
+msgstr ""
+
+msgctxt "0046 | chara_Blank"
+msgid "<CLT=cltMIND>Maybe I'll try this one..."
+msgstr ""
+
+msgctxt "0047 | chara_Blank"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0048 | chara_Blank"
+msgid "No"
+msgstr ""
+
+msgctxt "0049 | chara_Blank"
+msgid "Read the rules"
+msgstr ""
+
+msgctxt "0050 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>MonoMono Slot\n"
+"How to Win at Slots"
+msgstr ""
+
+msgctxt "0051 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Insert as many coins as you'd like.\n"
+"Then, spin the slots!"
+msgstr ""
+
+msgctxt "0052 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You have a 100% chance of winning if you\n"
+"never stop! Spin spin spin forever!"
+msgstr ""
+
+msgctxt "0053 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0054 | C000_Saiha"
+msgid "Well, that was nonsense."
+msgstr ""
+
+msgctxt "0055 | C000_Saiha"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0056 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0057 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>MonoMono Slot...\n"
+"It looks like a slot machine game."
+msgstr ""
+
+msgctxt "0058 | chara_Blank"
+msgid "<CLT=cltMIND>Maybe I'll try this one..."
+msgstr ""
+
+msgctxt "0059 | chara_Blank"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0060 | chara_Blank"
+msgid "No"
+msgstr ""
+
+msgctxt "0061 | chara_Blank"
+msgid "Read the rules"
+msgstr ""
+
+msgctxt "0062 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>MonoMono Slot\n"
+"How to Win at Slots"
+msgstr ""
+
+msgctxt "0063 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Insert as many coins as you'd like.\n"
+"Then, spin the slots!"
+msgstr ""
+
+msgctxt "0064 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You have a 100% chance of winning if you\n"
+"never stop! Spin spin spin forever!"
+msgstr ""
+
+msgctxt "0065 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0066 | C000_Saiha"
+msgid "Well, that was nonsense."
+msgstr ""
+
+msgctxt "0067 | C000_Saiha"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0068 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0069 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>MonoMono Slot...\n"
+"It looks like a slot machine game."
+msgstr ""
+
+msgctxt "0070 | chara_Blank"
+msgid "<CLT=cltMIND>Maybe I'll try this one..."
+msgstr ""
+
+msgctxt "0071 | chara_Blank"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0072 | chara_Blank"
+msgid "No"
+msgstr ""
+
+msgctxt "0073 | chara_Blank"
+msgid "Read the rules"
+msgstr ""
+
+msgctxt "0074 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>MonoMono Slot\n"
+"How to Win at Slots"
+msgstr ""
+
+msgctxt "0075 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Insert as many coins as you'd like.\n"
+"Then, spin the slots!"
+msgstr ""
+
+msgctxt "0076 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You have a 100% chance of winning if you\n"
+"never stop! Spin spin spin forever!"
+msgstr ""
+
+msgctxt "0077 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0078 | C000_Saiha"
+msgid "Well, that was nonsense."
+msgstr ""
+
+msgctxt "0079 | C000_Saiha"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0080 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0081 | chara_Blank"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0082 | chara_Blank"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0083 | chara_Blank"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0084 | chara_Blank"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0085 | chara_Blank"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0086 | chara_Blank"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0087 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>These monitors are everywhere,\n"
+"but I don't see any cameras."
+msgstr ""
+
+msgctxt "0088 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>How is the mastermind behind this\n"
+"killing game monitoring us?"
+msgstr ""
+
+msgctxt "0089 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Or...are we not really\n"
+"being watched at all?"
+msgstr ""

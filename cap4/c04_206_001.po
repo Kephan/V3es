@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C004_Gokuh"
+msgid ""
+"This no time\n"
+"for nonsense!"
+msgstr ""
+
+msgctxt "0002 | C004_Gokuh"
+msgid ""
+"This no time\n"
+"for nonsense!"
+msgstr ""
+
+msgctxt "0003 | C004_Gokuh"
+msgid ""
+"You no can\n"
+"use toilet\n"
+"paper..."
+msgstr ""
+
+msgctxt "0004 | C004_Gokuh"
+msgid "You no can use toilet paper"
+msgstr ""
+
+msgctxt "0005 | C004_Gokuh"
+msgid ""
+"in place\n"
+"of rope!"
+msgstr ""
+
+msgctxt "0006 | C004_Gokuh"
+msgid "in place of rope!"
+msgstr ""
+
+msgctxt "0007 | C004_Gokuh"
+msgid "Would"
+msgstr ""
+
+msgctxt "0008 | C004_Gokuh"
+msgid "Would tear too easy!"
+msgstr ""
+
+msgctxt "0009 | C004_Gokuh"
+msgid "<CLT=cltWEAK>tear"
+msgstr ""
+
+msgctxt "0010 | C004_Gokuh"
+msgid "too easy!"
+msgstr ""
+
+msgctxt "0011 | C004_Gokuh"
+msgid "Even Gonta know that,"
+msgstr ""
+
+msgctxt "0012 | C004_Gokuh"
+msgid "Even Gonta know that, and Gonta not smart!"
+msgstr ""
+
+msgctxt "0013 | C004_Gokuh"
+msgid "and Gonta"
+msgstr ""
+
+msgctxt "0014 | C004_Gokuh"
+msgid "not smart!"
+msgstr ""
+
+msgctxt "0015 | C000_Saiha"
+msgid "<CLT=size2>No,<CLT=size1> I'm positive"
+msgstr ""
+
+msgctxt "0016 | C000_Saiha"
+msgid ""
+"No, I'm positive toilet paper\n"
+"was used instead of rope!"
+msgstr ""
+
+msgctxt "0017 | C000_Saiha"
+msgid ""
+"<CLT=size2>toilet paper<CLT=size1> was used\n"
+"<CLT=size2>instead<CLT=size1> of <CLT=size2>rope!"
+msgstr ""
+
+msgctxt "0018 | C004_Gokuh"
+msgid "Miu died"
+msgstr ""
+
+msgctxt "0019 | C004_Gokuh"
+msgid "Miu died such an awful death..."
+msgstr ""
+
+msgctxt "0020 | C004_Gokuh"
+msgid "such an"
+msgstr ""
+
+msgctxt "0021 | C004_Gokuh"
+msgid "awful death..."
+msgstr ""
+
+msgctxt "0022 | C004_Gokuh"
+msgid "So why"
+msgstr ""
+
+msgctxt "0023 | C004_Gokuh"
+msgid "So why you not take this seriously!?"
+msgstr ""
+
+msgctxt "0024 | C004_Gokuh"
+msgid "you not take"
+msgstr ""
+
+msgctxt "0025 | C004_Gokuh"
+msgid "this seriously!?"
+msgstr ""
+
+msgctxt "0026 | C004_Gokuh"
+msgid ""
+"You call\n"
+"yourself\n"
+"Ultimate Detective!?"
+msgstr ""
+
+msgctxt "0027 | C004_Gokuh"
+msgid ""
+"You call\n"
+"yourself\n"
+"Ultimate Detective!?"
+msgstr ""
+
+msgctxt "0028 | C004_Gokuh"
+msgid "Use"
+msgstr ""
+
+msgctxt "0029 | C004_Gokuh"
+msgid "Use your head!"
+msgstr ""
+
+msgctxt "0030 | C004_Gokuh"
+msgid "your"
+msgstr ""
+
+msgctxt "0031 | C004_Gokuh"
+msgid "head!"
+msgstr ""
+
+msgctxt "0032 | C004_Gokuh"
+msgid ""
+"Figure out real\n"
+"murder weapon!"
+msgstr ""
+
+msgctxt "0033 | C004_Gokuh"
+msgid ""
+"Figure out real\n"
+"murder weapon!"
+msgstr ""
+
+msgctxt "0034 | C000_Saiha"
+msgid "No, I'm positive"
+msgstr ""
+
+msgctxt "0035 | C000_Saiha"
+msgid ""
+"No, I'm positive toilet paper\n"
+"was used instead of rope!"
+msgstr ""
+
+msgctxt "0036 | C000_Saiha"
+msgid ""
+"<CLT=size2>toilet paper<CLT=size1> was used<CLT=size2>\n"
+"<CLT=size2>instead<CLT=size1> of <CLT=size2>rope!"
+msgstr ""

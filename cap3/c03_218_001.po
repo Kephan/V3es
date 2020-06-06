@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "So far,"
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"So far, suicide seems to be\n"
+"the best explanation."
+msgstr ""
+
+msgctxt "0003"
+msgid "<CLT=size2>sui"
+msgstr ""
+
+msgctxt "0004"
+msgid "<CLT=size2>cide"
+msgstr ""
+
+msgctxt "0005"
+msgid "seems to be the <CLT=size2>best<CLT=size1> explanation."
+msgstr ""
+
+msgctxt "0006"
+msgid "Her plan was to"
+msgstr ""
+
+msgctxt "0007"
+msgid "Her plan was to take us down with her..."
+msgstr ""
+
+msgctxt "0008"
+msgid "<CLT=cltWEAK><CLT=size2>take<CLT=size1> us <CLT=size2>down"
+msgstr ""
+
+msgctxt "0009"
+msgid "<CLT=size1>with her..."
+msgstr ""
+
+msgctxt "0010"
+msgid "so she <CLT=size3>hid"
+msgstr ""
+
+msgctxt "0011"
+msgid "so she hid her true intentions."
+msgstr ""
+
+msgctxt "0012"
+msgid "her <CLT=size2>true<CLT=size1> intentions."
+msgstr ""
+
+msgctxt "0013"
+msgid "Tenko's <CLT=size1.5>not<CLT=size1> that <CLT=size1.5>kind<CLT=size1> of <CLT=size1.5>person!"
+msgstr ""
+
+msgctxt "0014"
+msgid "Tenko's not that kind of person!"
+msgstr ""
+
+msgctxt "0015"
+msgid "But if <CLT=size2>Tenko<CLT=size1> did commit <CLT=size2>suicide..."
+msgstr ""
+
+msgctxt "0016"
+msgid "But if Tenko did commit suicide..."
+msgstr ""
+
+msgctxt "0017"
+msgid "it <CLT=size1>would explain<CLT=size1> how <CLT=size1>she"
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"it would explain how she\n"
+"died during the seance."
+msgstr ""
+
+msgctxt "0019"
+msgid "<CLT=size4>died"
+msgstr ""
+
+msgctxt "0020"
+msgid "during the <CLT=size1>seance."
+msgstr ""
+
+msgctxt "0021"
+msgid "She could've <CLT=size2>secretly"
+msgstr ""
+
+msgctxt "0022"
+msgid "She could've secretly brought the sickle..."
+msgstr ""
+
+msgctxt "0023"
+msgid "<CLT=cltWEAK><CLT=size2>brought<CLT=size1> the <CLT=size2>sickle<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0024"
+msgid "<CLT=size2>and"
+msgstr ""
+
+msgctxt "0025"
+msgid "and then stabbed herself with it!"
+msgstr ""
+
+msgctxt "0026"
+msgid "<CLT=size2>then"
+msgstr ""
+
+msgctxt "0027"
+msgid "<CLT=size2>stabbed herself <CLT=size1>with it!"
+msgstr ""
+
+msgctxt "0028"
+msgid "Finally,"
+msgstr ""
+
+msgctxt "0029"
+msgid "Finally, with the last of her strength..."
+msgstr ""
+
+msgctxt "0030"
+msgid "<CLT=cltWEAK><CLT=size2>with the"
+msgstr ""
+
+msgctxt "0031"
+msgid "<CLT=cltWEAK><CLT=size2>last of her strength<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0032"
+msgid "<CLT=size2>she threw "
+msgstr ""
+
+msgctxt "0033"
+msgid "she threw the sickle underneath the floor."
+msgstr ""
+
+msgctxt "0034"
+msgid "the <CLT=size2>sickle"
+msgstr ""
+
+msgctxt "0035"
+msgid "<CLT=size2>underneath"
+msgstr ""
+
+msgctxt "0036"
+msgid "the floor."
+msgstr ""
+
+msgctxt "0037"
+msgid ""
+"All the\n"
+"pieces fit."
+msgstr ""
+
+msgctxt "0038"
+msgid "All the pieces fit."
+msgstr ""
+
+msgctxt "0039"
+msgid "It is possible."
+msgstr ""
+
+msgctxt "0040"
+msgid "That's a lie..."
+msgstr ""
+
+msgctxt "0041"
+msgid ""
+"Take us down\n"
+"with her!?"
+msgstr ""
+
+msgctxt "0042"
+msgid "Dick move!"
+msgstr ""
+
+msgctxt "0043"
+msgid "Can you say that for sure?"
+msgstr ""
+
+msgctxt "0044"
+msgid "Makes sense to Gonta..."
+msgstr ""
+
+msgctxt "0045"
+msgid "Or hide it under her clothes."
+msgstr ""
+
+msgctxt "0046"
+msgid "Consider..."
+msgstr ""

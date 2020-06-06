@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C010_Haruk"
+msgid "Even if her <CLT=size2>avatar"
+msgstr ""
+
+msgctxt "0002 | C010_Haruk"
+msgid "Even if her avatar slid off the roof..."
+msgstr ""
+
+msgctxt "0003 | C010_Haruk"
+msgid "slid off the roof..."
+msgstr ""
+
+msgctxt "0004 | C010_Haruk"
+msgid ""
+"Would it <CLT=size2>slide off\n"
+"<CLT=size1>that quickly?"
+msgstr ""
+
+msgctxt "0005 | C010_Haruk"
+msgid "Would it slide off that quickly?"
+msgstr ""
+
+msgctxt "0006 | C005_Oma__"
+msgid "<CLT=cltWEAK>Well duh, it would."
+msgstr ""
+
+msgctxt "0007 | C005_Oma__"
+msgid "Well duh, it would."
+msgstr ""
+
+msgctxt "0008 | C009_Yumen"
+msgid "If it made that much <CLT=size2>noise..."
+msgstr ""
+
+msgctxt "0009 | C009_Yumen"
+msgid "If it made that much noise..."
+msgstr ""
+
+msgctxt "0010 | C009_Yumen"
+msgid "it <CLT=size2>must<CLT=size1> have <CLT=size2>built up"
+msgstr ""
+
+msgctxt "0011 | C009_Yumen"
+msgid "it must have built up a lot of speed."
+msgstr ""
+
+msgctxt "0012 | C009_Yumen"
+msgid "a lot of speed."
+msgstr ""
+
+msgctxt "0013 | C004_Gokuh"
+msgid "Lots of <CLT=cltWEAK><CLT=size2>snow"
+msgstr ""
+
+msgctxt "0014 | C004_Gokuh"
+msgid "Lots of snow piled up on the roof..."
+msgstr ""
+
+msgctxt "0015 | C004_Gokuh"
+msgid "<CLT=cltWEAK><CLT=size2>piled up<CLT=cltNORMAL><CLT=size1> on roof..."
+msgstr ""
+
+msgctxt "0016 | C004_Gokuh"
+msgid ""
+"but not\n"
+"<CLT=size2>frozen solid,<CLT=size1> right?"
+msgstr ""
+
+msgctxt "0017 | C004_Gokuh"
+msgid "but not frozen solid, right?"
+msgstr ""
+
+msgctxt "0018 | C005_Oma__"
+msgid ""
+"You'd still slide,\n"
+"though."
+msgstr ""
+
+msgctxt "0019 | C005_Oma__"
+msgid "You'd still slide, though."
+msgstr ""
+
+msgctxt "0020 | C007_Ki-Bo"
+msgid ""
+"In the <CLT=size2>real world,\n"
+"<CLT=size1>it might be <CLT=size2>difficult..."
+msgstr ""
+
+msgctxt "0021 | C007_Ki-Bo"
+msgid "In the real world, it might be difficult..."
+msgstr ""
+
+msgctxt "0022 | C007_Ki-Bo"
+msgid "but in the"
+msgstr ""
+
+msgctxt "0023 | C007_Ki-Bo"
+msgid "but in the Virtual World, perhaps not..."
+msgstr ""
+
+msgctxt "0024 | C007_Ki-Bo"
+msgid "<CLT=cltAGREE><CLT=size2>Vi"
+msgstr ""
+
+msgctxt "0025 | C007_Ki-Bo"
+msgid "<CLT=cltAGREE><CLT=size2>rt"
+msgstr ""
+
+msgctxt "0026 | C007_Ki-Bo"
+msgid "<CLT=cltAGREE><CLT=size2>ua"
+msgstr ""
+
+msgctxt "0027 | C007_Ki-Bo"
+msgid "<CLT=cltAGREE><CLT=size2>l"
+msgstr ""
+
+msgctxt "0028 | C007_Ki-Bo"
+msgid "<CLT=cltAGREE><CLT=size2>Wo"
+msgstr ""
+
+msgctxt "0029 | C007_Ki-Bo"
+msgid "<CLT=cltAGREE><CLT=size2>rl"
+msgstr ""
+
+msgctxt "0030 | C007_Ki-Bo"
+msgid "<CLT=cltAGREE><CLT=size2>d,"
+msgstr ""
+
+msgctxt "0031 | C007_Ki-Bo"
+msgid "perhaps not."
+msgstr ""
+
+msgctxt "0032 | C005_Oma__"
+msgid "That's not the issue..."
+msgstr ""
+
+msgctxt "0033 | C005_Oma__"
+msgid "That's not the issue..."
+msgstr ""
+
+msgctxt "0034 | C005_Oma__"
+msgid ""
+"Sliding\n"
+"down\n"
+"snow is\n"
+"<CLT=size2>easy\n"
+"<CLT=size1>to do."
+msgstr ""
+
+msgctxt "0035 | C005_Oma__"
+msgid "Sliding down snow is easy to do."
+msgstr ""
+
+msgctxt "0036 | C005_Oma__"
+msgid "You just need"
+msgstr ""
+
+msgctxt "0037 | C005_Oma__"
+msgid "You just need a sled or skis to cut the friction!"
+msgstr ""
+
+msgctxt "0038 | C005_Oma__"
+msgid "a <CLT=size2>sled"
+msgstr ""
+
+msgctxt "0039 | C005_Oma__"
+msgid "or <CLT=size2>skis"
+msgstr ""
+
+msgctxt "0040 | C005_Oma__"
+msgid "to cut the friction!"
+msgstr ""
+
+msgctxt "0041 | C001_Momot"
+msgid ""
+"There was <CLT=cltWEAK><CLT=size2>nothing like that\n"
+"<CLT=size1>around<CLT=cltNORMAL>, though!"
+msgstr ""
+
+msgctxt "0042 | C001_Momot"
+msgid ""
+"There was nothing like that\n"
+"around, though!"
+msgstr ""
+
+msgctxt "0043 | C001_Momot"
+msgid "It's not possible!"
+msgstr ""
+
+msgctxt "0044 | C012_Shiro"
+msgid "You'd just roll down..."
+msgstr ""
+
+msgctxt "0045 | C005_Oma__"
+msgid "Woosh!"
+msgstr ""
+
+msgctxt "0046 | C012_Shiro"
+msgid "KUH-RASH!!!"
+msgstr ""
+
+msgctxt "0047 | C012_Shiro"
+msgid "...is what happened."
+msgstr ""
+
+msgctxt "0048 | C012_Shiro"
+msgid "Rolled up in a snowball!?"
+msgstr ""
+
+msgctxt "0049 | C001_Momot"
+msgid "It wasn't frozen..."
+msgstr ""
+
+msgctxt "0050 | C012_Shiro"
+msgid "But it still has real-world physics, right?"
+msgstr ""
+
+msgctxt "0051 | C009_Yumen"
+msgid "I didn't see any sleds or skis..."
+msgstr ""
+
+msgctxt "0052 | C007_Ki-Bo"
+msgid "Was there anything similar?"
+msgstr ""

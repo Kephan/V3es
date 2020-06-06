@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "First, let's"
+msgstr ""
+
+msgctxt "0002"
+msgid "First, let's establish the crime scene."
+msgstr ""
+
+msgctxt "0003"
+msgid "<CLT=size2>establish"
+msgstr ""
+
+msgctxt "0004"
+msgid "<CLT=size1>the <CLT=size2>crime scene."
+msgstr ""
+
+msgctxt "0005"
+msgid "Wasn't it the <CLT=size2>dorm room?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Wasn't it the dorm room?"
+msgstr ""
+
+msgctxt "0007"
+msgid "Ryoma was"
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"Ryoma was relaxing in his room\n"
+"when he got attacked."
+msgstr ""
+
+msgctxt "0009"
+msgid "<CLT=size2>relaxing"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"<CLT=size1>in his room\n"
+"when he got <CLT=size2>attacked."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"But the <CLT=size2>cause<CLT=size1> of <CLT=size2>death\n"
+"<CLT=size1>was <CLT=size2><CLT=cltWEAK>drowning<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0012"
+msgid "But the cause of death was drowning."
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"There is <CLT=size2>nothing<CLT=size1> in his <CLT=size2>room\n"
+"<CLT=size1> that could <CLT=size2>collect enough water."
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"There is nothing in his room\n"
+"that could collect enough water."
+msgstr ""
+
+msgctxt "0015"
+msgid "He's got a"
+msgstr ""
+
+msgctxt "0016"
+msgid "He's got a toilet, doesn't he!?"
+msgstr ""
+
+msgctxt "0017"
+msgid "<CLT=size4>toilet,<CLT=size1>doesn't he!?"
+msgstr ""
+
+msgctxt "0018"
+msgid "Drown in toilet? <CLT=size2>Unpossible!"
+msgstr ""
+
+msgctxt "0019"
+msgid "Drown in toilet? Unpossible!"
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"We should consider places\n"
+"where <CLT=size2>water<CLT=size1> is <CLT=size2>stored!"
+msgstr ""
+
+msgctxt "0021"
+msgid "We should consider places where water is stored!"
+msgstr ""
+
+msgctxt "0022"
+msgid ""
+"The <CLT=cltWEAK><CLT=size2>only<CLT=size1> place\n"
+"that fits is the <CLT=size2>pool<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0023"
+msgid "The only place that fits is the pool!"
+msgstr ""
+
+msgctxt "0024"
+msgid "<CLT=size4>Even"
+msgstr ""
+
+msgctxt "0025"
+msgid "There's no other way, even with magic!"
+msgstr ""
+
+msgctxt "0026"
+msgid "<CLT=size4>if you"
+msgstr ""
+
+msgctxt "0027"
+msgid "<CLT=size4>used"
+msgstr ""
+
+msgctxt "0028"
+msgid "<CLT=size2>magic,"
+msgstr ""
+
+msgctxt "0029"
+msgid "there's no other way!"
+msgstr ""
+
+msgctxt "0030"
+msgid "Welp, it <CLT=size2>must<CLT=size1> be the <CLT=size2>pool<CLT=size1> then!"
+msgstr ""
+
+msgctxt "0031"
+msgid "Welp, it must be the pool then!"
+msgstr ""
+
+msgctxt "0032"
+msgid "Nah, that"
+msgstr ""
+
+msgctxt "0033"
+msgid "Nah, that little turd drowned in the toilet!"
+msgstr ""
+
+msgctxt "0034"
+msgid "<CLT=size1>little"
+msgstr ""
+
+msgctxt "0035"
+msgid "<CLT=size3>turd"
+msgstr ""
+
+msgctxt "0036"
+msgid "<CLT=size1>drowned"
+msgstr ""
+
+msgctxt "0037"
+msgid "in"
+msgstr ""
+
+msgctxt "0038"
+msgid "the <CLT=size3>toilet!"
+msgstr ""
+
+msgctxt "0039"
+msgid "Shut your mouth, <CLT=size2>you noisy sow."
+msgstr ""
+
+msgctxt "0040"
+msgid "Shut your mouth, you noisy sow."
+msgstr ""
+
+msgctxt "0041"
+msgid "Nnnngh!"
+msgstr ""
+
+msgctxt "0042"
+msgid "Nnnngh! S-S-Sow!!!!?"
+msgstr ""
+
+msgctxt "0043"
+msgid "<CLT=cltAGREE><CLT=size4>S-"
+msgstr ""
+
+msgctxt "0044"
+msgid "<CLT=cltAGREE><CLT=size4>S-"
+msgstr ""
+
+msgctxt "0045"
+msgid "<CLT=cltAGREE><CLT=size4>S<CLT=size1>ow"
+msgstr ""
+
+msgctxt "0046"
+msgid "<CLT=cltAGREE><CLT=size4>!?"
+msgstr ""
+
+msgctxt "0047"
+msgid "　"
+msgstr "　"
+
+msgctxt "0048"
+msgid "The rooms all have locks though."
+msgstr ""
+
+msgctxt "0049"
+msgid "Oh, I see."
+msgstr ""
+
+msgctxt "0050"
+msgid "The toilet..."
+msgstr ""
+
+msgctxt "0051"
+msgid "Filthy..."
+msgstr ""
+
+msgctxt "0052"
+msgid "Bullshit! I could do it!"
+msgstr ""
+
+msgctxt "0053"
+msgid "As I recall, the pool..."
+msgstr ""
+
+msgctxt "0054"
+msgid "Real magic?"
+msgstr ""
+
+msgctxt "0055"
+msgid "No! It's the toilet, dammit!"
+msgstr ""
+
+msgctxt "0056"
+msgid "Geez. Are you obsessed with toilets?"
+msgstr ""
+
+msgctxt "0057"
+msgid "This is difficult to watch..."
+msgstr ""

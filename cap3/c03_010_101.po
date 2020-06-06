@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "WHAT-IS-THE-POINT-OF-HUMAN-LIFE?"
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"THEY'RE-BORN-AS-USELESS-BABIES-WHO-\n"
+"CAN'T-DO-ANYTHING..."
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"AND-70-YEARS-LATER, THEY'RE-USELESS-\n"
+"OLD-PEOPLE-WHO-CAN'T-DO-ANYTHING."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"HAIRLESS, TOOTHLESS, WEARING-DIAPERS...\n"
+"UNABLE-TO-TAKE-CARE-OF-THEMSELVES..."
+msgstr ""
+
+msgctxt "0005"
+msgid "IN-THE-END, IT'S-ALL-SO-MEANINGLESS."
+msgstr ""
+
+msgctxt "0006"
+msgid "..."
+msgstr "..."
+
+msgctxt "0007"
+msgid "..."
+msgstr "..."
+
+msgctxt "0008"
+msgid "..."
+msgstr "..."
+
+msgctxt "0009"
+msgid ""
+"<CLT=cltMIND>So that's the morning announcement, is it?\n"
+"It was a little creepy... I don't like this at all."
+msgstr ""
+
+msgctxt "0010"
+msgid "I suppose I'll go to the dining hall."
+msgstr ""
+
+msgctxt "0011"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0012"
+msgid "No"
+msgstr ""
+
+msgctxt "0013"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT=cltMIND>It's a monitor for communicating with us."
+msgstr ""
+
+msgctxt "0016"
+msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"<CLT=cltMIND>It's a normal bed.\n"
+"It was pretty comfortable."
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"<CLT=cltMIND>It's a pretty big light.\n"
+"It lights the room well..."
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"<CLT=cltMIND>My closet is filled with\n"
+"uniforms exactly like mine..."
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"<CLT=cltMIND>Do they plan for us to wear this forever?\n"
+"It makes it easier to tell us apart, I suppose..."
+msgstr ""

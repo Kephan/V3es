@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "<CLT=size2>　　　Angie<CLT=size1> was"
+msgstr ""
+
+msgctxt "0002"
+msgid "Angie was attacked in the empty room first..."
+msgstr ""
+
+msgctxt "0003"
+msgid "<CLT=size2>　　　attacked"
+msgstr ""
+
+msgctxt "0004"
+msgid "<CLT=size2>　　　<CLT=size1>in the empty room"
+msgstr ""
+
+msgctxt "0005"
+msgid "<CLT=size2>　　　first..."
+msgstr ""
+
+msgctxt "0006"
+msgid "And then<CLT=size2>　　　"
+msgstr ""
+
+msgctxt "0007"
+msgid "And then carried into the research lab?<CLT=size2>　　　"
+msgstr ""
+
+msgctxt "0008"
+msgid "<CLT=size2>carried　　　"
+msgstr ""
+
+msgctxt "0009"
+msgid "into the research lab?<CLT=size2>　　　"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"<CLT=size2>Impossible!\n"
+"<CLT=size3>　\n"
+"　\n"
+"　"
+msgstr ""
+
+msgctxt "0011"
+msgid "Impossible! Impossible!"
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"<CLT=size3>　\n"
+"　\n"
+"　\n"
+"<CLT=size2>Impossible!"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT=size2>　　<CLT=size1>That's"
+msgstr ""
+
+msgctxt "0014"
+msgid "That's nothing but a delusion!"
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT=size2>　　<CLT=size1>nothing"
+msgstr ""
+
+msgctxt "0016"
+msgid "<CLT=size2>　　<CLT=size1>but a delusion!"
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"You intend to <CLT=size2>poison\n"
+"<CLT=size1>our <CLT=size2>minds<CLT=size1> with\n"
+"your <CLT=size2>delusions!?"
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"You intend to poison our minds\n"
+"with your delusions!?"
+msgstr ""
+
+msgctxt "0019"
+msgid "It's no delusion."
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"It's no delusion.\n"
+"Angie's two external wounds\n"
+"tell the story."
+msgstr ""
+
+msgctxt "0021"
+msgid ""
+"Angie's <CLT=size2>two external wounds<CLT=size1>\n"
+"tell the story."
+msgstr ""
+
+msgctxt "0022"
+msgid ""
+"After she was <CLT=size2>struck\n"
+"<CLT=size1>in the <CLT=size2>empty room,"
+msgstr ""
+
+msgctxt "0023"
+msgid ""
+"After she was struck in the empty room,\n"
+"she was carried to the art research lab\n"
+"and then killed!"
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"she was carried to\n"
+"the <CLT=size2>art research lab<CLT=size1>\n"
+"and then <CLT=size2>killed!"
+msgstr ""
+
+msgctxt "0025"
+msgid "You say<CLT=size2>　　　"
+msgstr ""
+
+msgctxt "0026"
+msgid "You say the culprit carried Angie's body?<CLT=size2>　　　"
+msgstr ""
+
+msgctxt "0027"
+msgid "the <CLT=size2>culprit　　　"
+msgstr ""
+
+msgctxt "0028"
+msgid "carried<CLT=size2>　　　"
+msgstr ""
+
+msgctxt "0029"
+msgid "<CLT=size2>Angie's<CLT=size1> body?<CLT=size2>　　　"
+msgstr ""
+
+msgctxt "0030"
+msgid "<CLT=size2>　　　And"
+msgstr ""
+
+msgctxt "0031"
+msgid "And not a single drop of blood fell!?"
+msgstr ""
+
+msgctxt "0032"
+msgid "<CLT=size2>　　　not<CLT=size1> a"
+msgstr ""
+
+msgctxt "0033"
+msgid "<CLT=size2>　　　<CLT=size1>single drop"
+msgstr ""
+
+msgctxt "0034"
+msgid "<CLT=size2>　　　<CLT=size1>of <CLT=size2>blood<CLT=size1> fell!?"
+msgstr ""
+
+msgctxt "0035"
+msgid ""
+"The <CLT=size2>hallway<CLT=size1> and\n"
+"<CLT=size2>empty room<CLT=size1> had\n"
+"<CLT=size3>　\n"
+"　\n"
+"　"
+msgstr ""
+
+msgctxt "0036"
+msgid "The hallway and empty room had no bloodstains!"
+msgstr ""
+
+msgctxt "0037"
+msgid ""
+"<CLT=size3>　\n"
+"　\n"
+"　\n"
+"<CLT=cltWEAK><CLT=size1>no <CLT=size2>bloodstains!"
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"Even if you wiped\n"
+"them down later,"
+msgstr ""
+
+msgctxt "0039"
+msgid "Even if you wiped them down later,"
+msgstr ""
+
+msgctxt "0040"
+msgid "there'd still"
+msgstr ""
+
+msgctxt "0041"
+msgid "there'd still be traces of evidence left behind!"
+msgstr ""
+
+msgctxt "0042"
+msgid "be <CLT=size2>traces"
+msgstr ""
+
+msgctxt "0043"
+msgid "of <CLT=size2>evidence"
+msgstr ""
+
+msgctxt "0044"
+msgid "left behind!"
+msgstr ""
+
+msgctxt "0045"
+msgid "<CLT=size2>But"
+msgstr ""
+
+msgctxt "0046"
+msgid "But there was no evidence anywhere, was there, Shuichi!?"
+msgstr ""
+
+msgctxt "0047"
+msgid "<CLT=cltWEAK>there was no <CLT=size2>evidence<CLT=size1> anywhere,"
+msgstr ""
+
+msgctxt "0048"
+msgid "<CLT=size1>was there, <CLT=size2>Shuichi!?"
+msgstr ""
+
+msgctxt "0049"
+msgid ""
+"I'm sorry...\n"
+"Could you start over from the beginning?"
+msgstr ""

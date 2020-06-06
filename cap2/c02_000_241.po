@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0002"
+msgid "No"
+msgstr ""
+
+msgctxt "0003"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0004"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"<CLT=cltMIND>This is OUTLAW RUN,\n"
+"A driving game."
+msgstr ""
+
+msgctxt "0006"
+msgid "<CLT=cltMIND>I guess it isn't ready to play yet..."
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"<CLT=cltMIND>This is OUTLAW RUN,\n"
+"A driving game."
+msgstr ""
+
+msgctxt "0008"
+msgid "<CLT=cltMIND>Maybe I'll try this one..."
+msgstr ""
+
+msgctxt "0009"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0010"
+msgid "No"
+msgstr ""
+
+msgctxt "0011"
+msgid "Read the rules"
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"<CLT=cltSYSTEM>OUTLAW RUN\n"
+"Driver's Manual"
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"<CLT=cltSYSTEM>Run over the targets with style\n"
+"and try to get the high score!"
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"<CLT=cltSYSTEM>Get a bunch in a row, combos are stylin'!\n"
+"Monodam is a bonus and Monokid is a boost!"
+msgstr ""
+
+msgctxt "0015"
+msgid "..."
+msgstr "..."
+
+msgctxt "0016"
+msgid "This has nothing to do with driving at all."
+msgstr ""
+
+msgctxt "0017"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0018"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"<CLT=cltMIND>TREASURE HUNTER! MONOLITH.\n"
+"It's a treasure hunting game..."
+msgstr ""
+
+msgctxt "0020"
+msgid "<CLT=cltMIND>I guess it isn't ready to play yet..."
+msgstr ""
+
+msgctxt "0021"
+msgid ""
+"<CLT=cltMIND>TREASURE HUNTER! MONOLITH.\n"
+"It's a treasure hunting game..."
+msgstr ""
+
+msgctxt "0022"
+msgid "<CLT=cltMIND>Maybe I'll try this one..."
+msgstr ""
+
+msgctxt "0023"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0024"
+msgid "No"
+msgstr ""
+
+msgctxt "0025"
+msgid "Read the rules"
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"<CLT=cltSYSTEM>TREASURE HUNTER! MONOLITH\n"
+"Treasure Hunting Guide"
+msgstr ""
+
+msgctxt "0027"
+msgid ""
+"<CLT=cltSYSTEM>Connect two or more of the same color!\n"
+"Uncover the hidden salmon fossils!"
+msgstr ""
+
+msgctxt "0028"
+msgid ""
+"<CLT=cltSYSTEM>Try to find the rare Monokub statues!\n"
+"Dig them up whenever you see one!"
+msgstr ""
+
+msgctxt "0029"
+msgid "..."
+msgstr "..."
+
+msgctxt "0030"
+msgid "Are salmon fossils treasure...?"
+msgstr ""
+
+msgctxt "0031"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0032"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0033"
+msgid ""
+"<CLT=cltMIND>SALMON FISHING!\n"
+"It's a game where you fish for salmon."
+msgstr ""
+
+msgctxt "0034"
+msgid "<CLT=cltMIND>Maybe I'll try this one..."
+msgstr ""
+
+msgctxt "0035"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0036"
+msgid "No"
+msgstr ""
+
+msgctxt "0037"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0038"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"<CLT=cltMIND>MonoMono Slot...\n"
+"It looks like a slot machine game."
+msgstr ""
+
+msgctxt "0040"
+msgid "<CLT=cltMIND>Maybe I'll try this one..."
+msgstr ""
+
+msgctxt "0041"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0042"
+msgid "No"
+msgstr ""
+
+msgctxt "0043"
+msgid "Read the rules"
+msgstr ""
+
+msgctxt "0044"
+msgid ""
+"<CLT=cltSYSTEM>MonoMono Slot\n"
+"How to Win at Slots"
+msgstr ""
+
+msgctxt "0045"
+msgid ""
+"<CLT=cltSYSTEM>Insert as many coins as you'd like.\n"
+"Then, spin the slots!"
+msgstr ""
+
+msgctxt "0046"
+msgid ""
+"<CLT=cltSYSTEM>You have a 100% chance of winning if you\n"
+"never stop! Spin spin spin forever!"
+msgstr ""
+
+msgctxt "0047"
+msgid "..."
+msgstr "..."
+
+msgctxt "0048"
+msgid "Well, that was nonsense."
+msgstr ""
+
+msgctxt "0049"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0050"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0051"
+msgid ""
+"<CLT=cltMIND>MonoMono Slot...\n"
+"It looks like a slot machine game."
+msgstr ""
+
+msgctxt "0052"
+msgid "<CLT=cltMIND>Maybe I'll try this one..."
+msgstr ""
+
+msgctxt "0053"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0054"
+msgid "No"
+msgstr ""
+
+msgctxt "0055"
+msgid "Read the rules"
+msgstr ""
+
+msgctxt "0056"
+msgid ""
+"<CLT=cltSYSTEM>MonoMono Slot\n"
+"How to Win at Slots"
+msgstr ""
+
+msgctxt "0057"
+msgid ""
+"<CLT=cltSYSTEM>Insert as many coins as you'd like.\n"
+"Then, spin the slots!"
+msgstr ""
+
+msgctxt "0058"
+msgid ""
+"<CLT=cltSYSTEM>You have a 100% chance of winning if you\n"
+"never stop! Spin spin spin forever!"
+msgstr ""
+
+msgctxt "0059"
+msgid "..."
+msgstr "..."
+
+msgctxt "0060"
+msgid "Well, that was nonsense."
+msgstr ""
+
+msgctxt "0061"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0062"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0063"
+msgid ""
+"<CLT=cltMIND>MonoMono Slot...\n"
+"It looks like a slot machine game."
+msgstr ""
+
+msgctxt "0064"
+msgid "<CLT=cltMIND>Maybe I'll try this one..."
+msgstr ""
+
+msgctxt "0065"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0066"
+msgid "No"
+msgstr ""
+
+msgctxt "0067"
+msgid "Read the rules"
+msgstr ""
+
+msgctxt "0068"
+msgid ""
+"<CLT=cltSYSTEM>MonoMono Slot\n"
+"How to Win at Slots"
+msgstr ""
+
+msgctxt "0069"
+msgid ""
+"<CLT=cltSYSTEM>Insert as many coins as you'd like.\n"
+"Then, spin the slots!"
+msgstr ""
+
+msgctxt "0070"
+msgid ""
+"<CLT=cltSYSTEM>You have a 100% chance of winning if you\n"
+"never stop! Spin spin spin forever!"
+msgstr ""
+
+msgctxt "0071"
+msgid "..."
+msgstr "..."
+
+msgctxt "0072"
+msgid "Well, that was nonsense."
+msgstr ""
+
+msgctxt "0073"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0074"
+msgid "<CLT=cltSYSTEM>Would you like to play the game?"
+msgstr ""
+
+msgctxt "0075"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0076"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0077"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0078"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0079"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0080"
+msgid "<CLT=cltMIND>It looks like I can't play this right now..."
+msgstr ""
+
+msgctxt "0081"
+msgid "<CLT=cltMIND>It's a monitor for communicating with us."
+msgstr ""
+
+msgctxt "0082"
+msgid ""
+"<CLT=cltMIND>It's so clunky...\n"
+"I wonder if that's just what Monokuma likes."
+msgstr ""

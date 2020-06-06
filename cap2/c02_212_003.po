@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "<CLT=size2>I<CLT=size1> was <CLT=size2>running away<CLT=size1> from <CLT=size2>Gonta!"
+msgstr ""
+
+msgctxt "0002"
+msgid "I was running away from Gonta!"
+msgstr ""
+
+msgctxt "0003"
+msgid "I tried hiding in the classroom..."
+msgstr ""
+
+msgctxt "0004"
+msgid "I tried hiding in the classroom..."
+msgstr ""
+
+msgctxt "0005"
+msgid "<CLT=cltAGREE>I even tried hiding in"
+msgstr ""
+
+msgctxt "0006"
+msgid "I even tried hiding in the girls bathroom!"
+msgstr ""
+
+msgctxt "0007"
+msgid "<CLT=cltAGREE><CLT=size2>the girls bathroom<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"<CLT=size2>P-Pervert!\n"
+"<CLT=size1>Filthy male pervert!"
+msgstr ""
+
+msgctxt "0009"
+msgid "P-Pervert! Filthy male pervert!"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"Then, <CLT=size2>right before nighttime,\n"
+"<CLT=size1>I got tired and <CLT=size2>fell asleep."
+msgstr ""
+
+msgctxt "0011"
+msgid "Then, right before nighttime, I got tired and fell asleep."
+msgstr ""
+
+msgctxt "0012"
+msgid "In the <CLT=size2>girls bathroom!?"
+msgstr ""
+
+msgctxt "0013"
+msgid "In the girls bathroom!?"
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"What? No! \n"
+"In <CLT=size2>my own room!<CLT=size1> Geez!"
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"What? No!\n"
+"In my own room! Geez!"
+msgstr ""
+
+msgctxt "0016"
+msgid "A divine excuse!"
+msgstr ""
+
+msgctxt "0017"
+msgid "Don't enter a lady's sanctuary!"
+msgstr ""

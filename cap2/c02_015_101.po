@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "<CLT=cltMIND>Kokichi and Gonta..."
+msgstr ""
+
+msgctxt "0002"
+msgid "<CLT=cltMIND>Angie and Himiko..."
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"<CLT=cltMIND>And...Ryoma.\n"
+"And Maki, too."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"<CLT=cltMIND>Everyone's all over the place...\n"
+"But I shouldn't just leave them be."
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"<CLT=cltMIND>There has to be something I can do...\n"
+"Yes, I'm going to do something about this!"
+msgstr ""
+
+msgctxt "0006"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0007"
+msgid "No"
+msgstr ""
+
+msgctxt "0008"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0009"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0010"
+msgid "Dormitory"
+msgstr ""

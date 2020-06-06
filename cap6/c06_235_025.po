@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | modNicofarreData"
+msgid "Suck it, hope!"
+msgstr ""
+
+msgctxt "0002 | modNicofarreData"
+msgid "Keebo's not gonna lose!"
+msgstr ""
+
+msgctxt "0003 | modNicofarreData"
+msgid "Keebo is hope..."
+msgstr ""
+
+msgctxt "0004 | modNicofarreData"
+msgid "and hope lives on!"
+msgstr ""
+
+msgctxt "0005 | modNicofarreData"
+msgid "Shuichi is the cycle of despair?"
+msgstr ""
+
+msgctxt "0006 | modNicofarreData"
+msgid "Things are getting interesting."
+msgstr ""
+
+msgctxt "0007 | modNicofarreData"
+msgid "The fight's just starting!"
+msgstr ""
+
+msgctxt "0008 | modNicofarreData"
+msgid "No, that's wrong!"
+msgstr ""
+
+msgctxt "0009 | modNicofarreData"
+msgid "What are you saying, hat boy?"
+msgstr ""
+
+msgctxt "0010 | modNicofarreData"
+msgid "can't say anything now, scrub"
+msgstr ""
+
+msgctxt "0011 | modNicofarreData"
+msgid "He's not wearing a hat anymore."
+msgstr ""
+
+msgctxt "0012 | modNicofarreData"
+msgid "What if Shuichi is the mastermind?"
+msgstr ""
+
+msgctxt "0013 | modNicofarreData"
+msgid "I wonder who's gonna live."
+msgstr ""
+
+msgctxt "0014 | modNicofarreData"
+msgid "Hope always comes in waves."
+msgstr ""
+
+msgctxt "0015 | modNicofarreData"
+msgid "You're slipping up, detective."
+msgstr ""
+
+msgctxt "0016 | modNicofarreData"
+msgid "hurry up and vote"
+msgstr ""
+
+msgctxt "0017 | modNicofarreData"
+msgid "Show me hope."
+msgstr ""
+
+msgctxt "0018 | modNicofarreData"
+msgid "There's hope because there's despair."
+msgstr ""
+
+msgctxt "0019 | modNicofarreData"
+msgid "Fire, Keebo! I'll allow it!"
+msgstr ""
+
+msgctxt "0020 | modNicofarreData"
+msgid "Falling into despair?"
+msgstr ""
+
+msgctxt "0021 | modNicofarreData"
+msgid "What are you saying, detective?"
+msgstr ""
+
+msgctxt "0022 | modNicofarreData"
+msgid "Forget about Shuichi."
+msgstr ""
+
+msgctxt "0023 | modNicofarreData"
+msgid "You're in despair, right?"
+msgstr ""
+
+msgctxt "0024 | modNicofarreData"
+msgid "show me the despair ending"
+msgstr ""
+
+msgctxt "0025 | modNicofarreData"
+msgid "It's okay to feel despair sometimes..."
+msgstr ""
+
+msgctxt "0026 | modNicofarreData"
+msgid "Why have we been doing this...?"
+msgstr ""
+
+msgctxt "0027 | modNicofarreData"
+msgid "Hope doesn't turn back!"
+msgstr ""
+
+msgctxt "0028 | modNicofarreData"
+msgid "The big reveal, at last."
+msgstr ""
+
+msgctxt "0029 | modNicofarreData"
+msgid "And it was just getting interesting."
+msgstr ""
+
+msgctxt "0030 | modNicofarreData"
+msgid "We're the mastermind."
+msgstr ""
+
+msgctxt "0031 | modNicofarreData"
+msgid "Are they blaming us?"
+msgstr ""
+
+msgctxt "0032 | modNicofarreData"
+msgid "hurry up and refute it!"
+msgstr ""
+
+msgctxt "0033 | modNicofarreData"
+msgid "C'mon, Keebo! Attack!"
+msgstr ""
+
+msgctxt "0034 | modNicofarreData"
+msgid "Force hope through."
+msgstr ""
+
+msgctxt "0035 | modNicofarreData"
+msgid "something's different right?"
+msgstr ""
+
+msgctxt "0036 | modNicofarreData"
+msgid "C'mon, Keebo!"
+msgstr ""
+
+msgctxt "0037 | modNicofarreData"
+msgid "No, that's wrong!"
+msgstr ""
+
+msgctxt "0038 | modNicofarreData"
+msgid "No, that's wrong!"
+msgstr ""
+
+msgctxt "0039 | modNicofarreData"
+msgid "What's gonna happen?"
+msgstr ""
+
+msgctxt "0040 | modNicofarreData"
+msgid "mmm... Shuichi's eyes ^q^"
+msgstr ""
+
+msgctxt "0041 | modNicofarreData"
+msgid "[EMPTY_LINE]"
+msgstr ""

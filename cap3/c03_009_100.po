@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "..."
+msgstr "..."
+
+msgctxt "0002"
+msgid "Welcome back, Maki. You finally came."
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"Y'know, Maki, it's not okay to walk around\n"
+"at nighttime."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"Why? I'm not violating any school regulations,\n"
+"am I?"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"Nyahaha, Monokuma's regulations don't\n"
+"matter."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"But Kirumi's crime happened during\n"
+"nighttime, right?"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"If no one was allowed to walk around at \n"
+"nighttime, that case wouldn't have happened."
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"That's why the student council is trying\n"
+"to limit all nighttime activity."
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"\"Limit\"... So, basically, you want to take our\n"
+"freedom away, is that it?"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"Nyahaha! You're so odd, Maki. What's more\n"
+"important—freedom or a person's life?"
+msgstr ""
+
+msgctxt "0011"
+msgid "..."
+msgstr "..."
+
+msgctxt "0012"
+msgid ""
+"Umm, we need to remove all worry and doubt,\n"
+"so everyone can have a peaceful life here."
+msgstr ""
+
+msgctxt "0013"
+msgid "Cuz that's what Atua says."
+msgstr ""
+
+msgctxt "0014"
+msgid "That's what Atua says."
+msgstr ""
+
+msgctxt "0015"
+msgid "Atua says..."
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"People are afraid of you, Maki, so we'd prefer\n"
+"it if you were more careful."
+msgstr ""
+
+msgctxt "0017"
+msgid "It's for the peace of the academy..."
+msgstr ""
+
+msgctxt "0018"
+msgid "..."
+msgstr "..."
+
+msgctxt "0019"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0020"
+msgid "No"
+msgstr ""
+
+msgctxt "0021"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0022"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0023"
+msgid "Shuichi Saihara's room"
+msgstr ""
+
+msgctxt "0024"
+msgid "Kaito Momota's room"
+msgstr ""
+
+msgctxt "0025"
+msgid "Ryoma Hoshi's room"
+msgstr ""
+
+msgctxt "0026"
+msgid "Rantaro Amami's room"
+msgstr ""
+
+msgctxt "0027"
+msgid "Gonta Gokuhara's room"
+msgstr ""
+
+msgctxt "0028"
+msgid "Kokichi Oma's room"
+msgstr ""
+
+msgctxt "0029"
+msgid "Korekiyo Shinguji's room"
+msgstr ""
+
+msgctxt "0030"
+msgid "K1-B0's room"
+msgstr ""
+
+msgctxt "0031"
+msgid "Kirumi Tojo's room"
+msgstr ""
+
+msgctxt "0032"
+msgid "Himiko Yumeno's room"
+msgstr ""
+
+msgctxt "0033"
+msgid "Maki Harukawa's room"
+msgstr ""
+
+msgctxt "0034"
+msgid "Tenko Chabashira's room"
+msgstr ""
+
+msgctxt "0035"
+msgid "Tsumugi Shirogane's room"
+msgstr ""
+
+msgctxt "0036"
+msgid "Angie Yonaga's room"
+msgstr ""
+
+msgctxt "0037"
+msgid "Miu Iruma's room"
+msgstr ""
+
+msgctxt "0038"
+msgid "Kaede Akamatsu's room"
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"<CLT=cltMIND>It's a monitor for communicating with us.\n"
+"There's nothing on the screen."
+msgstr ""
+
+msgctxt "0040"
+msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
+msgstr ""

@@ -1,0 +1,518 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "<CLT=cltMIND>He finally came back..."
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"Ughhh! There are bugs everywhere!\n"
+"How nast—I mean, how nice!"
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"Oh, you come back, Kokichi!\n"
+"Come, we have fun!"
+msgstr ""
+
+msgctxt "0004"
+msgid "We gonna have so much fun!"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"Y'know, as much as I'd *love* to do that...\n"
+"maybe we should call it a day, hm?"
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"The bugs look really tired, and a gentleman\n"
+"knows to do things in moderation, y'know?"
+msgstr ""
+
+msgctxt "0007"
+msgid "Oh...Gonta understand..."
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"So you clean up while I take care of business\n"
+"with the others."
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"<CLT=cltMIND>Kokichi's hands were full of\n"
+"several Kubs Pads."
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"Well? Everyone have fun time meeting\n"
+"and greeting the bugs?"
+msgstr ""
+
+msgctxt "0011"
+msgid "Ah...y-yeah, I suppose I did...?"
+msgstr ""
+
+msgctxt "0012"
+msgid "Good! Now everyone like bugs!"
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"More bugs hatching real soon! Let's have\n"
+"fun time meeting and greeting new bugs!"
+msgstr ""
+
+msgctxt "0014"
+msgid "..."
+msgstr "..."
+
+msgctxt "0015"
+msgid ""
+"More bugs hatching real soon! Let's have\n"
+"fun time meeting and greeting new bugs!"
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"You guys okay? You all look like drowned\n"
+"sewer rats."
+msgstr ""
+
+msgctxt "0017"
+msgid "Cuz you're late!"
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"You said you'd be back by nighttime,\n"
+"but it's already 11 p.m. now."
+msgstr ""
+
+msgctxt "0019"
+msgid "Sorry, I ran into an unexpected snafu."
+msgstr ""
+
+msgctxt "0020"
+msgid "But, look."
+msgstr ""
+
+msgctxt "0021"
+msgid ""
+"Kubs Pads! Gotta catch 'em all! I even got the\n"
+"pads belonging to the people who aren't here!"
+msgstr ""
+
+msgctxt "0022"
+msgid ""
+"Nee-heehee... Now everyone can watch their\n"
+"<CLT=cltSTRONG>motive video<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0023"
+msgid "We said we don't want to."
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"Well, it's late and I'm getting sleepy!\n"
+"So let's start already."
+msgstr ""
+
+msgctxt "0025"
+msgid "...Start what?"
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"Oh, don't worry about it, Gonta. Just keep\n"
+"watch so these guys don't—"
+msgstr ""
+
+msgctxt "0027"
+msgid "That's it! I won't let you do as you please!"
+msgstr ""
+
+msgctxt "0028"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "0029"
+msgid ""
+"I didn't want to use this unless I absolutely\n"
+"had to. It eats up a lot of my electricity."
+msgstr ""
+
+msgctxt "0030"
+msgid ""
+"But that's neither here nor there!\n"
+"I will stop you right here, right now!"
+msgstr ""
+
+msgctxt "0031"
+msgid "Keebo...what are you going to do...?"
+msgstr ""
+
+msgctxt "0032"
+msgid "..."
+msgstr "..."
+
+msgctxt "0033"
+msgid ""
+"<CLT=cltMIND>Still glaring at Kokichi, Keebo slowly\n"
+"reached a hand behind his ear..."
+msgstr ""
+
+msgctxt "0034"
+msgid "<CLT=cltMIND>and spun the mechanical parts there."
+msgstr ""
+
+msgctxt "0035"
+msgid ""
+"He's lighting up!?\n"
+"Is he gonna self-destruct or—"
+msgstr ""
+
+msgctxt "0036"
+msgid "<CLT=cltMIND>*whirrr...*"
+msgstr ""
+
+msgctxt "0037"
+msgid "Huh? What's that sound?"
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"One moment please...\n"
+"I'm rewinding the tape right now."
+msgstr ""
+
+msgctxt "0039"
+msgid "The tape?"
+msgstr ""
+
+msgctxt "0040"
+msgid "Riiiight...there!"
+msgstr ""
+
+msgctxt "0041"
+msgid ""
+"<CLT=cltMIND>Keebo shouted out and pushed\n"
+"his palm against his ear."
+msgstr ""
+
+msgctxt "0042"
+msgid "<CLT=cltMIND>That's when..."
+msgstr ""
+
+msgctxt "0043"
+msgid ""
+"Is this your doing, Kokichi?\n"
+"Did you have Gonta kidnap us?"
+msgstr ""
+
+msgctxt "0044"
+msgid "<CLT=cltMIND>Was that...my voice?"
+msgstr ""
+
+msgctxt "0045"
+msgid "Nee-heehee...he's so simple-minded."
+msgstr ""
+
+msgctxt "0046"
+msgid ""
+"As soon as I told him that everyone who\n"
+"hates bugs was trying to get rid of them..."
+msgstr ""
+
+msgctxt "0047"
+msgid ""
+"...he started crying, and said that he would get\n"
+"you guys to love bugs...or something like that."
+msgstr ""
+
+msgctxt "0048"
+msgid "Could this be...?"
+msgstr ""
+
+msgctxt "0049"
+msgid ""
+"So, what do you think!? You just saw my\n"
+"<CLT=cltSTRONG>audio recording<CLT=cltNORMAL> function for the first time!"
+msgstr ""
+
+msgctxt "0050"
+msgid ""
+"Did he really just whip out an audio recorder\n"
+"like it's some kinda secret weapon!?"
+msgstr ""
+
+msgctxt "0051"
+msgid ""
+"Really? It's a cassette tape?\n"
+"In this day and age?"
+msgstr ""
+
+msgctxt "0052"
+msgid "But it's metal tape, you know!?"
+msgstr ""
+
+msgctxt "0053"
+msgid "The sound quality isn't the issue!"
+msgstr ""
+
+msgctxt "0054"
+msgid ""
+"L-Let's just put this aside now.\n"
+"More importantly, it seems to have worked."
+msgstr ""
+
+msgctxt "0055"
+msgid ""
+"Kokichi...what you mean?\n"
+"You...not like bugs?"
+msgstr ""
+
+msgctxt "0056"
+msgid "...Maaan, now it's boring."
+msgstr ""
+
+msgctxt "0057"
+msgid ""
+"You say we get them to understand how\n"
+"amazing bugs are... Was that lie?"
+msgstr ""
+
+msgctxt "0058"
+msgid ""
+"Haha, I wouldn't lie to you. I loooove bugs.\n"
+"From the bottom of my heart."
+msgstr ""
+
+msgctxt "0059"
+msgid ""
+"Oh... So it not a lie. Then Gonta happy...\n"
+"Let's have fun with bugs all night..."
+msgstr ""
+
+msgctxt "0060"
+msgid "Who want to pet more bugs!?"
+msgstr ""
+
+msgctxt "0061"
+msgid "Eh?"
+msgstr ""
+
+msgctxt "0062"
+msgid "We must run while we still can!"
+msgstr ""
+
+msgctxt "0063"
+msgid ""
+"Wait! We need to take back our Kubs Pads\n"
+"first!"
+msgstr ""
+
+msgctxt "0064"
+msgid ""
+"<CLT=cltMIND>Tenko snatched the Kubs Pads\n"
+"from Kokichi."
+msgstr ""
+
+msgctxt "0065"
+msgid "Awwww..."
+msgstr ""
+
+msgctxt "0066"
+msgid "<CLT=cltMIND>Then, we all ran out of the lab."
+msgstr ""
+
+msgctxt "0067"
+msgid "..."
+msgstr "..."
+
+msgctxt "0068"
+msgid ""
+"And so...we have escaped from the maw \n"
+"of hell itself, somehow..."
+msgstr ""
+
+msgctxt "0069"
+msgid ""
+"...Thank you for enduring it, everyone.\n"
+"This is the last chance."
+msgstr ""
+
+msgctxt "0070"
+msgid "Please leave the rest to me."
+msgstr ""
+
+msgctxt "0071"
+msgid ""
+"Nyeh? What's going on? The last thing I \n"
+"remember is Gonta releasing the bugs..."
+msgstr ""
+
+msgctxt "0072"
+msgid ""
+"<CLT=cltMIND>Did she pass out from fear...?\n"
+"Welp, I can understand that."
+msgstr ""
+
+msgctxt "0073"
+msgid "..."
+msgstr "..."
+
+msgctxt "0074"
+msgid "I-I'm still okay!"
+msgstr ""
+
+msgctxt "0075"
+msgid ""
+"As a disciple of Neo-Aikido, it'll take more\n"
+"than this to break my composure!"
+msgstr ""
+
+msgctxt "0076"
+msgid "Ah, Tenko! There's a big ol' bug on your back!"
+msgstr ""
+
+msgctxt "0077"
+msgid "GAAAAAAAAAAAAAAAHHHHHHHH!!!!!"
+msgstr ""
+
+msgctxt "0078"
+msgid "C-Calm down, Tenko!"
+msgstr ""
+
+msgctxt "0079"
+msgid "<CLT=cltMIND>I frantically swatted the bug off her."
+msgstr ""
+
+msgctxt "0080"
+msgid "..."
+msgstr "..."
+
+msgctxt "0081"
+msgid ""
+"I-It's okay, there were bugs everywhere,\n"
+"it's no wonder you—"
+msgstr ""
+
+msgctxt "0082"
+msgid "I-I don't need help from some male!"
+msgstr ""
+
+msgctxt "0083"
+msgid "Clearly, I haven't trained enough..."
+msgstr ""
+
+msgctxt "0084"
+msgid ""
+"As soon as I escape from this place, I will\n"
+"return to Master and resume my training!"
+msgstr ""
+
+msgctxt "0085"
+msgid "Clearly, I haven't trained enough..."
+msgstr ""
+
+msgctxt "0086"
+msgid ""
+"As soon as I escape from this place, I will\n"
+"return to Master and resume my training!"
+msgstr ""
+
+msgctxt "0087"
+msgid ""
+"Aww... So he really did go get \n"
+"the Kubs Pads..."
+msgstr ""
+
+msgctxt "0088"
+msgid "Nyahahaha! What a divine time!"
+msgstr ""
+
+msgctxt "0089"
+msgid ""
+"My island is full of creepy crawlers.\n"
+"This many bugs doesn't bug me."
+msgstr ""
+
+msgctxt "0090"
+msgid ""
+"Shuichi, where are you going?\n"
+"The main event is about to start."
+msgstr ""
+
+msgctxt "0091"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0092"
+msgid "No"
+msgstr ""
+
+msgctxt "0093"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0094"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0095"
+msgid "<CLT=cltMIND>It's a monitor for communicating with us."
+msgstr ""
+
+msgctxt "0096"
+msgid ""
+"<CLT=cltMIND>It's so clunky...\n"
+"I wonder if that's just what Monokuma likes."
+msgstr ""
+
+msgctxt "0097"
+msgid ""
+"<CLT=cltMIND>This is just a specimen...\n"
+"I know it's dead, but..."
+msgstr ""
+
+msgctxt "0098"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0099"
+msgid "<CLT=cltMIND>They're even in the books!"
+msgstr ""
+
+msgctxt "0100"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0101"
+msgid ""
+"<CLT=cltMIND>I don't want to see another bug\n"
+"for a very long time..."
+msgstr ""
+
+msgctxt "0102"
+msgid ""
+"Shuichi, where are you going?\n"
+"The main event is about to start."
+msgstr ""

@@ -1,0 +1,452 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0002 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I don't even remember how I\n"
+"got back to my room."
+msgstr ""
+
+msgctxt "0003 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>But before I knew it, I felt my\n"
+"body in the bed, numb."
+msgstr ""
+
+msgctxt "0004 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0005 | chara_Blank"
+msgid "<CLT=cltMIND>I didn't want to sleep."
+msgstr ""
+
+msgctxt "0006 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I just wanted to run away from the\n"
+"despair. But the sleep came anyway."
+msgstr ""
+
+msgctxt "0007 | C020_Monok"
+msgid ""
+"Did you know that when you talk to someone on\n"
+"a cell phone, you're not hearing their real voice?"
+msgstr ""
+
+msgctxt "0008 | C020_Monok"
+msgid ""
+"Their voice is converted to synthetic sound\n"
+"while you're both communicating."
+msgstr ""
+
+msgctxt "0009 | C020_Monok"
+msgid ""
+"By breaking down their voice into various\n"
+"waveform patterns..."
+msgstr ""
+
+msgctxt "0010 | C020_Monok"
+msgid ""
+"The phone reassembles those patterns to\n"
+"recreate characteristics of the speaker's voice."
+msgstr ""
+
+msgctxt "0011 | C020_Monok"
+msgid ""
+"This reduces the amount of voice data that\n"
+"needs to be sent to make the call possible."
+msgstr ""
+
+msgctxt "0012 | C020_Monok"
+msgid ""
+"Also, you know how shaved ice has flavored\n"
+"syrups such as strawberry, melon, and lemon?"
+msgstr ""
+
+msgctxt "0013 | C020_Monok"
+msgid ""
+"They're all the same flavor. The only difference\n"
+"is the aroma and the food coloring dye."
+msgstr ""
+
+msgctxt "0014 | C020_Monok"
+msgid ""
+"Do you think these facts are lies?\n"
+"Do you deny that these facts are lies?"
+msgstr ""
+
+msgctxt "0015 | C020_Monok"
+msgid ""
+"Puhuhu. What would the world be like if\n"
+"all lies were denied outright?"
+msgstr ""
+
+msgctxt "0016 | C020_Monok"
+msgid ""
+"I bet it would be a very lonesome world.\n"
+"Lies are what make the world go 'round."
+msgstr ""
+
+msgctxt "0017 | chara_Blank"
+msgid "..."
+msgstr "..."
+
+msgctxt "0018 | chara_Blank"
+msgid "..."
+msgstr "..."
+
+msgctxt "0019 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Monokuma must not be here anymore.\n"
+"There's no point to morning announcements now."
+msgstr ""
+
+msgctxt "0020 | chara_Blank"
+msgid "<CLT=cltMIND>So...it's really over."
+msgstr ""
+
+msgctxt "0021 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>There's no point to this\n"
+"killing game anymore."
+msgstr ""
+
+msgctxt "0022 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Because there's no reason\n"
+"to go outside."
+msgstr ""
+
+msgctxt "0023 | chara_Blank"
+msgid "<CLT=cltMIND>There's no reason...to keep living."
+msgstr ""
+
+msgctxt "0024 | chara_Blank"
+msgid "<CLT=cltMIND>There's no reason to live."
+msgstr ""
+
+msgctxt "0025 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>There's no reason to live. There's no\n"
+"reason to live. There's no reason to live."
+msgstr ""
+
+msgctxt "0026 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0027 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>This is an epilogue.\n"
+"All that's left...is to take up time."
+msgstr ""
+
+msgctxt "0028 | chara_Blank"
+msgid "<CLT=cltMIND>...What a boring story."
+msgstr ""
+
+msgctxt "0029 | chara_Blank"
+msgid "<CLT=cltMIND>There's nothing I can do anymore."
+msgstr ""
+
+msgctxt "0030 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0031 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0032 | chara_Blank"
+msgid "<CLT=cltMIND>I wonder..."
+msgstr ""
+
+msgctxt "0033 | chara_Blank"
+msgid "<CLT=cltMIND>what everyone else is doing..."
+msgstr ""
+
+msgctxt "0034 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0035 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0036 | chara_Blank"
+msgid "..."
+msgstr "..."
+
+msgctxt "0037 | chara_Blank"
+msgid "..."
+msgstr "..."
+
+msgctxt "0038 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0039 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I wonder...\n"
+"what Kaito is doing..."
+msgstr ""
+
+msgctxt "0040 | C000_Saiha"
+msgid ""
+"That's right...\n"
+"I wonder if...Kaito is okay...?"
+msgstr ""
+
+msgctxt "0041 | C000_Saiha"
+msgid "Is...he...?"
+msgstr ""
+
+msgctxt "0042 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0043 | chara_Blank"
+msgid "<CLT=cltMIND>It's no use."
+msgstr ""
+
+msgctxt "0044 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>My mind isn't...working...\n"
+"And my body..."
+msgstr ""
+
+msgctxt "0045 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0046 | C020_Monok"
+msgid ""
+"If you're searching for the meaning of life,\n"
+"you're already doing it wrong."
+msgstr ""
+
+msgctxt "0047 | C020_Monok"
+msgid ""
+"Your life doesn't need a <CLT=cltSTRONG>meaning<CLT=typeNORMAL>.\n"
+"It just needs a <CLT=cltSTRONG>purpose<CLT=typeNORMAL>."
+msgstr ""
+
+msgctxt "0048 | C020_Monok"
+msgid ""
+"In other words, you just need something\n"
+"to live for."
+msgstr ""
+
+msgctxt "0049 | C020_Monok"
+msgid ""
+"You can live for spending time with loved\n"
+"ones, or chasing dreams..."
+msgstr ""
+
+msgctxt "0050 | C020_Monok"
+msgid ""
+"You can even live for eating delicious food,\n"
+"or playing games..."
+msgstr ""
+
+msgctxt "0051 | C020_Monok"
+msgid ""
+"Most people can get by as long as they have\n"
+"something to live for."
+msgstr ""
+
+msgctxt "0052 | C020_Monok"
+msgid ""
+"If you say Danganronpa is your reason to live,\n"
+"I couldn't be happier."
+msgstr ""
+
+msgctxt "0053 | C020_Monok"
+msgid ""
+"Puhuhu... It's been a real pleasure doing\n"
+"business with you."
+msgstr ""
+
+msgctxt "0054 | chara_Blank"
+msgid "..."
+msgstr "..."
+
+msgctxt "0055 | chara_Blank"
+msgid "..."
+msgstr "..."
+
+msgctxt "0056 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0057 | chara_Blank"
+msgid "<CLT=cltMIND>It's morning..."
+msgstr ""
+
+msgctxt "0058 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0059 | chara_Blank"
+msgid "<CLT=cltMIND>How long have I been like this...?"
+msgstr ""
+
+msgctxt "0060 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I should...get up...\n"
+"Or I might not ever get up again."
+msgstr ""
+
+msgctxt "0061 | chara_Blank"
+msgid "<CLT=cltMIND>I..."
+msgstr ""
+
+msgctxt "0062 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0063 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I don't care.\n"
+"If I...just kill my—"
+msgstr ""
+
+msgctxt "0064 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*ding dong...ding dong!*"
+msgstr ""
+
+msgctxt "0065 | C000_Saiha"
+msgid "What?"
+msgstr ""
+
+msgctxt "0066 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>My body reacted reflexively\n"
+"as I heard the doorbell."
+msgstr ""
+
+msgctxt "0067 | C000_Saiha"
+msgid "...Ah."
+msgstr ""
+
+msgctxt "0068 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Somewhat surprised that I even managed\n"
+"to get out of bed, I went to the door."
+msgstr ""
+
+msgctxt "0069 | C000_Saiha"
+msgid "Who could it be...?"
+msgstr ""
+
+msgctxt "0070 | chara_Blank"
+msgid "<CLT=cltMIND>Who could it be...?"
+msgstr ""
+
+msgctxt "0071 | chara_Blank"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0072 | chara_Blank"
+msgid "No"
+msgstr ""
+
+msgctxt "0073 | chara_Blank"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0074 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0075 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>On my feet for the first time in a long\n"
+"while, I walked uneasily to the door."
+msgstr ""
+
+msgctxt "0076 | chara_Blank"
+msgid "<CLT=cltMIND>I slowly opened it, and..."
+msgstr ""
+
+msgctxt "0077 | C010_Haruk"
+msgid "You look terrible..."
+msgstr ""
+
+msgctxt "0078 | C000_Saiha"
+msgid "M-Maki?"
+msgstr ""
+
+msgctxt "0079 | C010_Haruk"
+msgid ""
+"Go take a shower or something.\n"
+"Anything to help your face."
+msgstr ""
+
+msgctxt "0080 | C010_Haruk"
+msgid "I'll be in the dining hall with everyone else."
+msgstr ""
+
+msgctxt "0081 | C000_Saiha"
+msgid "...Everyone?"
+msgstr ""
+
+msgctxt "0082 | C010_Haruk"
+msgid "...I'll be waiting, so hurry up."
+msgstr ""
+
+msgctxt "0083 | chara_Blank"
+msgid "<CLT=cltMIND>Maki spoke curtly and left."
+msgstr ""
+
+msgctxt "0084 | chara_Blank"
+msgid "<CLT=cltMIND>Everyone is waiting in the dining hall?"
+msgstr ""
+
+msgctxt "0085 | C000_Saiha"
+msgid "I...guess I should go."
+msgstr ""
+
+msgctxt "0086 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I hurried and took a hot shower,\n"
+"then left my room."
+msgstr ""
+
+msgctxt "0087 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>How many more nights do I have to\n"
+"sleep in this bed? I'm so...sick of it!"
+msgstr ""
+
+msgctxt "0088 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>It's a pretty big light.\n"
+"It lights the room well..."
+msgstr ""
+
+msgctxt "0089 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>My closet is filled with\n"
+"uniforms exactly like mine..."
+msgstr ""
+
+msgctxt "0090 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>They went through all this just for a\n"
+"killing game? What is their objective...?"
+msgstr ""

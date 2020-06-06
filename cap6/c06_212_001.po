@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C020_Monok"
+msgid "Can you <CLT=size1.5>guys"
+msgstr ""
+
+msgctxt "0002 | C020_Monok"
+msgid ""
+"Can you guys figure out the identity\n"
+"of the mastermind?"
+msgstr ""
+
+msgctxt "0003 | C020_Monok"
+msgid "figure out the <CLT=size1.5>identity<CLT=size1> of"
+msgstr ""
+
+msgctxt "0004 | C020_Monok"
+msgid "the <CLT=size1.5>mastermind?"
+msgstr ""
+
+msgctxt "0005 | C009_Yumen"
+msgid "Besides the"
+msgstr ""
+
+msgctxt "0006 | C009_Yumen"
+msgid "Besides the 16 of us at this school..."
+msgstr ""
+
+msgctxt "0007 | C009_Yumen"
+msgid "<CLT=size3>1"
+msgstr ""
+
+msgctxt "0008 | C009_Yumen"
+msgid "<CLT=size3>6"
+msgstr ""
+
+msgctxt "0009 | C009_Yumen"
+msgid "of us"
+msgstr ""
+
+msgctxt "0010 | C009_Yumen"
+msgid "at this school..."
+msgstr ""
+
+msgctxt "0011 | C009_Yumen"
+msgid "there was a"
+msgstr ""
+
+msgctxt "0012 | C009_Yumen"
+msgid "there was a 17th person, too!"
+msgstr ""
+
+msgctxt "0013 | C009_Yumen"
+msgid "<CLT=size3>7<CLT=size2>th"
+msgstr ""
+
+msgctxt "0014 | C009_Yumen"
+msgid "person, too!"
+msgstr ""
+
+msgctxt "0015 | C009_Yumen"
+msgid "That"
+msgstr ""
+
+msgctxt "0016 | C009_Yumen"
+msgid "That 17th person is the mastermind!"
+msgstr ""
+
+msgctxt "0017 | C009_Yumen"
+msgid "<CLT=cltWEAK><CLT=size3>1"
+msgstr ""
+
+msgctxt "0018 | C009_Yumen"
+msgid "<CLT=cltWEAK><CLT=size3>7"
+msgstr ""
+
+msgctxt "0019 | C009_Yumen"
+msgid "<CLT=cltWEAK><CLT=size2>th"
+msgstr ""
+
+msgctxt "0020 | C009_Yumen"
+msgid "<CLT=cltWEAK>person is"
+msgstr ""
+
+msgctxt "0021 | C009_Yumen"
+msgid "<CLT=cltWEAK>the mastermind<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0022 | C012_Shiro"
+msgid ""
+"It could be <CLT=size2>Kaede's\n"
+"younger twin sister..."
+msgstr ""
+
+msgctxt "0023 | C012_Shiro"
+msgid ""
+"It could be Kaede's\n"
+"younger twin sister..."
+msgstr ""
+
+msgctxt "0024 | C012_Shiro"
+msgid ""
+"Just like the previous\n"
+"<CLT=size2>killing game..."
+msgstr ""
+
+msgctxt "0025 | C012_Shiro"
+msgid "Just like the previous killing game..."
+msgstr ""
+
+msgctxt "0026 | C012_Shiro"
+msgid "The <CLT=size2>mastermind<CLT=size1> might have a <CLT=size2>twin"
+msgstr ""
+
+msgctxt "0027 | C012_Shiro"
+msgid ""
+"The mastermind might have a twin\n"
+"for this game, too!"
+msgstr ""
+
+msgctxt "0028 | C012_Shiro"
+msgid "The <CLT=size2>mastermind<CLT=size1> might have a <CLT=size2>twin"
+msgstr ""
+
+msgctxt "0029 | C012_Shiro"
+msgid "<CLT=cltAGREE>The <CLT=size2>mastermind<CLT=size1> might have a <CLT=size2>twin"
+msgstr ""
+
+msgctxt "0030 | C012_Shiro"
+msgid "for this game,"
+msgstr ""
+
+msgctxt "0031 | C012_Shiro"
+msgid "too!"
+msgstr ""
+
+msgctxt "0032 | C010_Haruk"
+msgid ""
+"If it really is the same as\n"
+"the previous killing game..."
+msgstr ""
+
+msgctxt "0033 | C010_Haruk"
+msgid ""
+"If it really is the same as\n"
+"the previous killing game..."
+msgstr ""
+
+msgctxt "0034 | C010_Haruk"
+msgid ""
+"then Kaede would\n"
+"still be alive..."
+msgstr ""
+
+msgctxt "0035 | C010_Haruk"
+msgid "then Kaede would still be alive..."
+msgstr ""
+
+msgctxt "0036 | C010_Haruk"
+msgid ""
+"and\n"
+"she could\n"
+"potentially be\n"
+"the mastermind."
+msgstr ""
+
+msgctxt "0037 | C010_Haruk"
+msgid ""
+"and she could potentially\n"
+"be the mastermind."
+msgstr ""
+
+msgctxt "0038 | C020_Monok"
+msgid ""
+"Who cares!?\n"
+"You're still <CLT=size2>no closer<CLT=size1> to the <CLT=size2>answer!"
+msgstr ""
+
+msgctxt "0039 | C020_Monok"
+msgid ""
+"Who cares!?\n"
+"You're still no closer to the answer!"
+msgstr ""
+
+msgctxt "0040 | C022_Msuke"
+msgid "<CLT=size2>No leaving<CLT=size1> while the trial's"
+msgstr ""
+
+msgctxt "0041 | C022_Msuke"
+msgid ""
+"No leaving while the trial's\n"
+"in session!"
+msgstr ""
+
+msgctxt "0042 | C022_Msuke"
+msgid "<CLT=size2>in session!"
+msgstr ""
+
+msgctxt "0043 | C010_Haruk"
+msgid "Like the previous killing game."
+msgstr ""
+
+msgctxt "0044 | C007_Ki-Bo"
+msgid ""
+"They're probably\n"
+"still in hiding."
+msgstr ""
+
+msgctxt "0045 | C012_Shiro"
+msgid "That's possible!"
+msgstr ""
+
+msgctxt "0046 | C010_Haruk"
+msgid "Could Kaede be...?"
+msgstr ""
+
+msgctxt "0047 | C007_Ki-Bo"
+msgid "A twin sister..."
+msgstr ""
+
+msgctxt "0048 | C007_Ki-Bo"
+msgid "It is hard to refute."
+msgstr ""
+
+msgctxt "0049 | C020_Monok"
+msgid ""
+"Your brains are\n"
+"all over the place!"
+msgstr ""
+
+msgctxt "0050 | C007_Ki-Bo"
+msgid "Kaede...alive...?"
+msgstr ""
+
+msgctxt "0051 | C009_Yumen"
+msgid ""
+"I don't think\n"
+"Kaede is the mastermind!"
+msgstr ""
+
+msgctxt "0052 | C009_Yumen"
+msgid ""
+"Nyeeeh!\n"
+"That's so annoying!"
+msgstr ""
+
+msgctxt "0053 | C009_Yumen"
+msgid "×"
+msgstr "×"

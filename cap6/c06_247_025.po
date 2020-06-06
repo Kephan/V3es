@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | modNicofarreData"
+msgid "Well this is unexpected."
+msgstr ""
+
+msgctxt "0002 | modNicofarreData"
+msgid "The ultimate real fiction LOL"
+msgstr ""
+
+msgctxt "0003 | modNicofarreData"
+msgid "omg management, do your job"
+msgstr ""
+
+msgctxt "0004 | modNicofarreData"
+msgid "Don't abandon the game!"
+msgstr ""
+
+msgctxt "0005 | modNicofarreData"
+msgid "My killing game..."
+msgstr ""
+
+msgctxt "0006 | modNicofarreData"
+msgid "Don't be a party pooper."
+msgstr ""
+
+msgctxt "0007 | modNicofarreData"
+msgid "This is a bad batch of survivors."
+msgstr ""
+
+msgctxt "0008 | modNicofarreData"
+msgid "But I want to see hope and despair."
+msgstr ""
+
+msgctxt "0009 | modNicofarreData"
+msgid "Is this really ok...?"
+msgstr ""
+
+msgctxt "0010 | modNicofarreData"
+msgid "we've become a spectacle LOL"
+msgstr ""
+
+msgctxt "0011 | modNicofarreData"
+msgid "This is why I wanted Kaede to live..."
+msgstr ""
+
+msgctxt "0012 | modNicofarreData"
+msgid "This was totally miscast."
+msgstr ""
+
+msgctxt "0013 | modNicofarreData"
+msgid "management sucks."
+msgstr ""
+
+msgctxt "0014 | modNicofarreData"
+msgid "I don't care as long as Himiko lives!"
+msgstr ""
+
+msgctxt "0015 | modNicofarreData"
+msgid "Can't they just not kill?"
+msgstr ""
+
+msgctxt "0016 | modNicofarreData"
+msgid "But you're real-world players."
+msgstr ""
+
+msgctxt "0017 | modNicofarreData"
+msgid "Make everyone die."
+msgstr ""
+
+msgctxt "0018 | modNicofarreData"
+msgid "way to piss off your audience..."
+msgstr ""
+
+msgctxt "0019 | modNicofarreData"
+msgid "I paid to see the punishments!"
+msgstr ""
+
+msgctxt "0020 | modNicofarreData"
+msgid "Shuichi is mine! <3"
+msgstr ""
+
+msgctxt "0021 | modNicofarreData"
+msgid "Obviously, they'd be erased."
+msgstr ""
+
+msgctxt "0022 | modNicofarreData"
+msgid "look at all this salt"
+msgstr ""
+
+msgctxt "0023 | modNicofarreData"
+msgid "question taaaaimu!!!"
+msgstr ""
+
+msgctxt "0024 | modNicofarreData"
+msgid "Let's get this back on track."
+msgstr ""
+
+msgctxt "0025 | modNicofarreData"
+msgid "100％ out of 100％."
+msgstr ""
+
+msgctxt "0026 | modNicofarreData"
+msgid "dangit grandpas"
+msgstr ""
+
+msgctxt "0027 | modNicofarreData"
+msgid "Is this really okay?"
+msgstr ""
+
+msgctxt "0028 | modNicofarreData"
+msgid "It's management's fault."
+msgstr ""
+
+msgctxt "0029 | modNicofarreData"
+msgid "From now on, I'm hope."
+msgstr ""
+
+msgctxt "0030 | modNicofarreData"
+msgid "Let's defeat despair together!"
+msgstr ""
+
+msgctxt "0031 | modNicofarreData"
+msgid "Life ends in a flash LOL"
+msgstr ""
+
+msgctxt "0032 | modNicofarreData"
+msgid "Too much destruction"
+msgstr ""
+
+msgctxt "0033 | modNicofarreData"
+msgid "CTRL+ALT+KEEBO"
+msgstr ""
+
+msgctxt "0034 | modNicofarreData"
+msgid "Maybe we're wrong...?"
+msgstr ""
+
+msgctxt "0035 | modNicofarreData"
+msgid "We wanna see a killing game."
+msgstr ""
+
+msgctxt "0036 | modNicofarreData"
+msgid "cya later, hope robot..."
+msgstr ""
+
+msgctxt "0037 | modNicofarreData"
+msgid "Let's shoot for the hope ending."
+msgstr ""
+
+msgctxt "0038 | modNicofarreData"
+msgid "Totally getting erased."
+msgstr ""
+
+msgctxt "0039 | modNicofarreData"
+msgid "Hold off on suicide for now."
+msgstr ""
+
+msgctxt "0040 | modNicofarreData"
+msgid "Shuichi isn't a character <3"
+msgstr ""
+
+msgctxt "0041 | modNicofarreData"
+msgid "[EMPTY_LINE]"
+msgstr ""

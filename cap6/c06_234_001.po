@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C000_Saiha"
+msgid "<CLT=size2>Hope<CLT=size1> itself is the <CLT=size2>villain<CLT=size1> here."
+msgstr ""
+
+msgctxt "0002 | C000_Saiha"
+msgid "Hope itself is the villain here."
+msgstr ""
+
+msgctxt "0003 | C000_Saiha"
+msgid "We <CLT=size2>suffer<CLT=size1> because of <CLT=size2>hope."
+msgstr ""
+
+msgctxt "0004 | C000_Saiha"
+msgid "We suffer because of hope."
+msgstr ""
+
+msgctxt "0005 | C000_Saiha"
+msgid "Tsumugi isn't trying"
+msgstr ""
+
+msgctxt "0006 | C000_Saiha"
+msgid "Tsumugi isn't trying to make us despair..."
+msgstr ""
+
+msgctxt "0007 | C000_Saiha"
+msgid "to make us <CLT=size2>despair..."
+msgstr ""
+
+msgctxt "0008 | C000_Saiha"
+msgid "She wants us to"
+msgstr ""
+
+msgctxt "0009 | C000_Saiha"
+msgid "She wants us to trust in hope!"
+msgstr ""
+
+msgctxt "0010 | C000_Saiha"
+msgid "trust in <CLT=size2>hope!"
+msgstr ""
+
+msgctxt "0011 | C000_Saiha"
+msgid ""
+"So I\n"
+"<CLT=size2>say no!\n"
+"<CLT=size1>I reject that <CLT=size2>hope!"
+msgstr ""
+
+msgctxt "0012 | C000_Saiha"
+msgid "So I say no! I reject that hope!"
+msgstr ""
+
+msgctxt "0013 | C007_Ki-Bo"
+msgid ""
+"Tsumugi wants us\n"
+"to <CLT=size2>trust<CLT=size1> in <CLT=size2>hope?"
+msgstr ""
+
+msgctxt "0014 | C007_Ki-Bo"
+msgid ""
+"Tsumugi wants us to trust in hope?\n"
+"What do you mean?"
+msgstr ""
+
+msgctxt "0015 | C007_Ki-Bo"
+msgid "What does <CLT=size2>that<CLT=size1> mean?"
+msgstr ""
+
+msgctxt "0016 | C000_Saiha"
+msgid ""
+"The reason this madness\n"
+"has gone on <CLT=size2>53<CLT=size1> times..."
+msgstr ""
+
+msgctxt "0017 | C000_Saiha"
+msgid "The reason this madness has gone on 53 times..."
+msgstr ""
+
+msgctxt "0018 | C000_Saiha"
+msgid "It's <CLT=size2>because<CLT=size1> of <CLT=size2>hope."
+msgstr ""
+
+msgctxt "0019 | C000_Saiha"
+msgid "It's because of hope."
+msgstr ""
+
+msgctxt "0020 | C000_Saiha"
+msgid ""
+"It's because the audience\n"
+"<CLT=size2>wants hope."
+msgstr ""
+
+msgctxt "0021 | C000_Saiha"
+msgid "It's because the audience wants hope."
+msgstr ""
+
+msgctxt "0022 | C000_Saiha"
+msgid "They want to see <CLT=size2>hope<CLT=size1>"
+msgstr ""
+
+msgctxt "0023 | C000_Saiha"
+msgid ""
+"They want to see hope\n"
+"defeat despair in the end!"
+msgstr ""
+
+msgctxt "0024 | C000_Saiha"
+msgid "defeat <CLT=size2>despair<CLT=size1> in the <CLT=size2>end!"
+msgstr ""
+
+msgctxt "0025 | C000_Saiha"
+msgid ""
+"It's\n"
+"<CLT=size2>Hope's Peak Academy\n"
+"<CLT=size1>all over again!"
+msgstr ""
+
+msgctxt "0026 | C000_Saiha"
+msgid "It's Hope's Peak Academy all over again!"
+msgstr ""
+
+msgctxt "0027 | C000_Saiha"
+msgid "So if we fight for <CLT=size2>hope..."
+msgstr ""
+
+msgctxt "0028 | C000_Saiha"
+msgid "So if we fight for hope..."
+msgstr ""
+
+msgctxt "0029 | C000_Saiha"
+msgid ""
+"We'd just be <CLT=size2>giving them\n"
+"<CLT=size1>what <CLT=size2>they want!"
+msgstr ""
+
+msgctxt "0030 | C000_Saiha"
+msgid "We'd just be giving them what they want!"
+msgstr ""
+
+msgctxt "0031 | C000_Saiha"
+msgid "And the <CLT=size2>killings<CLT=size1> will <CLT=size2>never end!"
+msgstr ""
+
+msgctxt "0032 | C000_Saiha"
+msgid "And the killings will never end!"
+msgstr ""
+
+msgctxt "0033 | C000_Saiha"
+msgid "Don't you see?"
+msgstr ""
+
+msgctxt "0034 | C000_Saiha"
+msgid "Don't you see? Despair is the only choice."
+msgstr ""
+
+msgctxt "0035 | C000_Saiha"
+msgid "<CLT=cltWEAK><CLT=size3>Despair<CLT=cltNORMAL>"
+msgstr ""
+
+msgctxt "0036 | C000_Saiha"
+msgid "is the only choice."
+msgstr ""
+
+msgctxt "0037 | C007_Ki-Bo"
+msgid ""
+"Shuichi...\n"
+"Please share your thoughts with me again."
+msgstr ""

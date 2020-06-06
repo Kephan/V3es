@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | modNicofarreData"
+msgid "my darling assassin ;_;"
+msgstr ""
+
+msgctxt "0002 | modNicofarreData"
+msgid "Well said!"
+msgstr ""
+
+msgctxt "0003 | modNicofarreData"
+msgid "Hope must go on!"
+msgstr ""
+
+msgctxt "0004 | modNicofarreData"
+msgid "my darling assassin ;_;"
+msgstr ""
+
+msgctxt "0005 | modNicofarreData"
+msgid "Well said!"
+msgstr ""
+
+msgctxt "0006 | modNicofarreData"
+msgid "Hope must go on!"
+msgstr ""
+
+msgctxt "0007 | modNicofarreData"
+msgid "my darling assassin ;_;"
+msgstr ""
+
+msgctxt "0008 | modNicofarreData"
+msgid "Well said!"
+msgstr ""
+
+msgctxt "0009 | modNicofarreData"
+msgid "Hope must go on!"
+msgstr ""
+
+msgctxt "0010 | modNicofarreData"
+msgid "my darling assassin ;_;"
+msgstr ""
+
+msgctxt "0011 | modNicofarreData"
+msgid "Killing Harmony"
+msgstr ""
+
+msgctxt "0012 | modNicofarreData"
+msgid "fuck yeah real fiction"
+msgstr ""
+
+msgctxt "0013 | modNicofarreData"
+msgid "we're dangan fans!"
+msgstr ""
+
+msgctxt "0014 | modNicofarreData"
+msgid "i waited 3 years for the new season dammit"
+msgstr ""
+
+msgctxt "0015 | modNicofarreData"
+msgid "puhuhuhuhuhu"
+msgstr ""
+
+msgctxt "0016 | modNicofarreData"
+msgid "Roo-keebo"
+msgstr ""
+
+msgctxt "0017 | modNicofarreData"
+msgid "That char brings back memories"
+msgstr ""
+
+msgctxt "0018 | modNicofarreData"
+msgid "*shwing*"
+msgstr ""
+
+msgctxt "0019 | modNicofarreData"
+msgid "This is real despair..."
+msgstr ""
+
+msgctxt "0020 | modNicofarreData"
+msgid "Shuichi you can do it!"
+msgstr ""
+
+msgctxt "0021 | modNicofarreData"
+msgid "53"
+msgstr ""
+
+msgctxt "0022 | modNicofarreData"
+msgid "53"
+msgstr ""
+
+msgctxt "0023 | modNicofarreData"
+msgid "omg it lasted this long..."
+msgstr ""
+
+msgctxt "0024 | modNicofarreData"
+msgid "53"
+msgstr ""
+
+msgctxt "0025 | modNicofarreData"
+msgid "53"
+msgstr ""
+
+msgctxt "0026 | modNicofarreData"
+msgid "53"
+msgstr ""
+
+msgctxt "0027 | modNicofarreData"
+msgid "53"
+msgstr ""
+
+msgctxt "0028 | modNicofarreData"
+msgid "53=trash"
+msgstr ""
+
+msgctxt "0029 | modNicofarreData"
+msgid "don't call it trash"
+msgstr ""
+
+msgctxt "0030 | modNicofarreData"
+msgid "I luv Shuichi!"
+msgstr ""
+
+msgctxt "0031 | modNicofarreData"
+msgid "53rd season"
+msgstr ""
+
+msgctxt "0032 | modNicofarreData"
+msgid "nice reaction"
+msgstr ""
+
+msgctxt "0033 | modNicofarreData"
+msgid "11037 still hasn't changed."
+msgstr ""
+
+msgctxt "0034 | modNicofarreData"
+msgid "useful comment!"
+msgstr ""
+
+msgctxt "0035 | modNicofarreData"
+msgid "I wanna participate in this too."
+msgstr ""
+
+msgctxt "0036 | modNicofarreData"
+msgid "Despaaaaaaaaaaair!"
+msgstr ""
+
+msgctxt "0037 | modNicofarreData"
+msgid "this show's been goin on for awhile"
+msgstr ""
+
+msgctxt "0038 | modNicofarreData"
+msgid "yah thanks to all of you guys"
+msgstr ""
+
+msgctxt "0039 | modNicofarreData"
+msgid "show Maki Roll goddammit"
+msgstr ""
+
+msgctxt "0040 | modNicofarreData"
+msgid "shuichi is so cute."
+msgstr ""
+
+msgctxt "0041 | modNicofarreData"
+msgid "Hi, I'm the mastermind."
+msgstr ""
+
+msgctxt "0042 | modNicofarreData"
+msgid "omg da mastermind"
+msgstr ""
+
+msgctxt "0043 | modNicofarreData"
+msgid "Yah, I'm the mastermind. What of it?"
+msgstr ""
+
+msgctxt "0044 | modNicofarreData"
+msgid "just the mastermind."
+msgstr ""
+
+msgctxt "0045 | modNicofarreData"
+msgid "But I'm the anti-mastermind."
+msgstr ""
+
+msgctxt "0046 | modNicofarreData"
+msgid "maybe they're all the mastermind"
+msgstr ""
+
+msgctxt "0047 | modNicofarreData"
+msgid "All of them are the masterminds."
+msgstr ""
+
+msgctxt "0048 | modNicofarreData"
+msgid "i'm the blackendest"
+msgstr ""
+
+msgctxt "0049 | modNicofarreData"
+msgid "mastermind? more like mastur—"
+msgstr ""
+
+msgctxt "0050 | modNicofarreData"
+msgid "Mmm...shuichi's nose..."
+msgstr ""
+
+msgctxt "0051 | modNicofarreData"
+msgid "team dangerroomba! team dangerroomba!"
+msgstr ""
+
+msgctxt "0052 | modNicofarreData"
+msgid "Team Danganronpa?"
+msgstr ""
+
+msgctxt "0053 | modNicofarreData"
+msgid "more like team dangitgrandpa"
+msgstr ""
+
+msgctxt "0054 | modNicofarreData"
+msgid "I wanna join team danganronpa"
+msgstr ""
+
+msgctxt "0055 | modNicofarreData"
+msgid "every season is the same tho"
+msgstr ""
+
+msgctxt "0056 | modNicofarreData"
+msgid "sell the rights to somewhere else alrdy"
+msgstr ""
+
+msgctxt "0057 | modNicofarreData"
+msgid "New Danganronpa V3"
+msgstr ""
+
+msgctxt "0058 | modNicofarreData"
+msgid "Team Danganronpa is the best."
+msgstr ""
+
+msgctxt "0059 | modNicofarreData"
+msgid "team dangerroomba members kthx"
+msgstr ""
+
+msgctxt "0060 | modNicofarreData"
+msgid "shuichi's ears look cold"
+msgstr ""
+
+msgctxt "0061 | modNicofarreData"
+msgid "git rekt"
+msgstr ""
+
+msgctxt "0062 | modNicofarreData"
+msgid "AAAAAAAAAAAHHHHHHHHH"
+msgstr ""
+
+msgctxt "0063 | modNicofarreData"
+msgid "Just win, Maki"
+msgstr ""
+
+msgctxt "0064 | modNicofarreData"
+msgid "despair is here"
+msgstr ""
+
+msgctxt "0065 | modNicofarreData"
+msgid "Please survive, Himiko"
+msgstr ""
+
+msgctxt "0066 | modNicofarreData"
+msgid "Fic fic fic fiction!"
+msgstr ""
+
+msgctxt "0067 | modNicofarreData"
+msgid "geez danganronpa is so"
+msgstr ""
+
+msgctxt "0068 | modNicofarreData"
+msgid "oohhhh i'm getting hyped"
+msgstr ""
+
+msgctxt "0069 | modNicofarreData"
+msgid "Nonfiction doesn't exist here anymore."
+msgstr ""
+
+msgctxt "0070 | modNicofarreData"
+msgid "shuichi's got girl fingers"
+msgstr ""

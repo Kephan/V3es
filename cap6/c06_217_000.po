@@ -1,0 +1,498 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C000_Saiha"
+msgid ""
+"Before being destroyed, <CLT=cltSTRONG>Motherkuma<CLT=cltNORMAL>\n"
+"told us something."
+msgstr ""
+
+msgctxt "0002 | C034_Mmono"
+msgid ""
+"I have a built-in <CLT=cltSTRONG>voiceprint authentication\n"
+"system<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0003 | C034_Mmono"
+msgid ""
+"I can't birth Monokumas unless the designated\n"
+"person specifically says the word \"birth\"..."
+msgstr ""
+
+msgctxt "0004 | C000_Saiha"
+msgid "That individual is, of course, the <CLT=cltSTRONG>mastermind<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0005 | C010_Haruk"
+msgid ""
+"When the mastermind commands Motherkuma\n"
+"to <CLT=cltSTRONG>give birth<CLT=cltNORMAL>, it makes a spare."
+msgstr ""
+
+msgctxt "0006 | C009_Yumen"
+msgid "We all tried it out."
+msgstr ""
+
+msgctxt "0007 | C012_Shiro"
+msgid "Ah! But Keebo wasn't there, was he!?"
+msgstr ""
+
+msgctxt "0008 | C007_Ki-Bo"
+msgid "R-Right... Because I was fighting the Exisals."
+msgstr ""
+
+msgctxt "0009 | C012_Shiro"
+msgid ""
+"Did you hear that!? Keebo didn't try giving\n"
+"Motherkuma a command!"
+msgstr ""
+
+msgctxt "0010 | C012_Shiro"
+msgid "So the real mastermind is—"
+msgstr ""
+
+msgctxt "0011 | C000_Saiha"
+msgid ""
+"Tsumugi was the only one who didn't say\n"
+"\"give birth.\""
+msgstr ""
+
+msgctxt "0012 | C012_Shiro"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0013 | C000_Saiha"
+msgid "Everyone else said \"<CLT=cltSTRONG>give birth<CLT=cltNORMAL>.\""
+msgstr ""
+
+msgctxt "0014 | C009_Yumen"
+msgid "Whatever, just give birth to a Monokuma!"
+msgstr ""
+
+msgctxt "0015 | C000_Saiha"
+msgid ""
+"...Are you listening?\n"
+"We said to give birth to a new Monokuma."
+msgstr ""
+
+msgctxt "0016 | C010_Haruk"
+msgid "...Hurry up and give birth to a Monokuma."
+msgstr ""
+
+msgctxt "0017 | C000_Saiha"
+msgid "Tsumugi specifically used a different phrase."
+msgstr ""
+
+msgctxt "0018 | C012_Shiro"
+msgid "Yeah! Try and make a new Monokuma!"
+msgstr ""
+
+msgctxt "0019 | C000_Saiha"
+msgid "You didn't say \"give birth,\" you said \"<CLT=cltSTRONG>make<CLT=cltNORMAL>.\""
+msgstr ""
+
+msgctxt "0020 | C012_Shiro"
+msgid "Ah!"
+msgstr ""
+
+msgctxt "0021 | C000_Saiha"
+msgid ""
+"You knew how to get Motherkuma\n"
+"to create a spare, didn't you?"
+msgstr ""
+
+msgctxt "0022 | C000_Saiha"
+msgid "That's why you specifically said \"<CLT=cltSTRONG>make<CLT=cltNORMAL>.\""
+msgstr ""
+
+msgctxt "0023 | C000_Saiha"
+msgid ""
+"If you had said \"give birth,\" Motherkuma would\n"
+"have made a spare."
+msgstr ""
+
+msgctxt "0024 | C000_Saiha"
+msgid "Am I right, Tsumugi?"
+msgstr ""
+
+msgctxt "0025 | C012_Shiro"
+msgid "..."
+msgstr "..."
+
+msgctxt "0026 | C012_Shiro"
+msgid "Hey... Come on... What's wrong?"
+msgstr ""
+
+msgctxt "0027 | C012_Shiro"
+msgid ""
+"Don't be like that, Shuichi.\n"
+"Do you...really think I'm the mastermind?"
+msgstr ""
+
+msgctxt "0028 | C012_Shiro"
+msgid "Th-There's just no way!"
+msgstr ""
+
+msgctxt "0029 | C012_Shiro"
+msgid ""
+"Hey everyone, say something! I'm not \n"
+"the mastermind! That's crazy, right!?"
+msgstr ""
+
+msgctxt "0030 | C010_Haruk"
+msgid "Then refute it. We're waiting."
+msgstr ""
+
+msgctxt "0031 | C012_Shiro"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0032 | C000_Saiha"
+msgid ""
+"I...don't want to believe it either. That one\n"
+"of our friends, the survivors...could do this."
+msgstr ""
+
+msgctxt "0033 | C000_Saiha"
+msgid ""
+"That's why I'm begging, Tsumugi. I'm begging\n"
+"you to refute me. I might be wrong, I..."
+msgstr ""
+
+msgctxt "0034 | C000_Saiha"
+msgid "I was wrong before, about Kaede..."
+msgstr ""
+
+msgctxt "0035 | C000_Saiha"
+msgid "That's why I need everyone's help!"
+msgstr ""
+
+msgctxt "0036 | C000_Saiha"
+msgid ""
+"I don't care if my detective work is\n"
+"wrong, I want to hear your argument!"
+msgstr ""
+
+msgctxt "0037 | C000_Saiha"
+msgid ""
+"Reaching the truth *together* is what\n"
+"cooperation means to me!"
+msgstr ""
+
+msgctxt "0038 | C012_Shiro"
+msgid "..."
+msgstr "..."
+
+msgctxt "0039 | C007_Ki-Bo"
+msgid "Tsumugi, please."
+msgstr ""
+
+msgctxt "0040 | C009_Yumen"
+msgid "Tsumugi...please!"
+msgstr ""
+
+msgctxt "0041 | C012_Shiro"
+msgid "..."
+msgstr "..."
+
+msgctxt "0042 | C010_Haruk"
+msgid ""
+"...What's the matter?\n"
+"You can't argue back after hearing that?"
+msgstr ""
+
+msgctxt "0043 | C022_Msuke"
+msgid "Whoa! Hold on!"
+msgstr ""
+
+msgctxt "0044 | C022_Msuke"
+msgid ""
+"I dunno what's going on right now, but\n"
+"just hold on a sec!"
+msgstr ""
+
+msgctxt "0045 | C021_Mtaro"
+msgid ""
+"Oh, Monosuke's infamous impatience rears\n"
+"its ugly head!"
+msgstr ""
+
+msgctxt "0046 | C023_Mfunn"
+msgid "And what an ugly head it is..."
+msgstr ""
+
+msgctxt "0047 | C022_Msuke"
+msgid ""
+"I...I don't think friends should blame each\n"
+"other like this, y'know!?"
+msgstr ""
+
+msgctxt "0048 | C022_Msuke"
+msgid ""
+"C'mon, smile everyone! I know, we could\n"
+"watch a comedy special so we can all smi—"
+msgstr ""
+
+msgctxt "0049 | C020_Monok"
+msgid "Geez, you're noisy."
+msgstr ""
+
+msgctxt "0050 | C021_Mtaro"
+msgid "Waaah! Monosuke!"
+msgstr ""
+
+msgctxt "0051 | C023_Mfunn"
+msgid "BLRBGLRBLGRBLRLBL!"
+msgstr ""
+
+msgctxt "0052 | C021_Mtaro"
+msgid "F-Father...why? You loved Monosuke so much!"
+msgstr ""
+
+msgctxt "0053 | C020_Monok"
+msgid ""
+"...Oh yeah, you're right.\n"
+"But we're at the good part now."
+msgstr ""
+
+msgctxt "0054 | C020_Monok"
+msgid "So be quiet and watch like good little cubs."
+msgstr ""
+
+msgctxt "0055 | C021_Mtaro"
+msgid "F-Father...?"
+msgstr ""
+
+msgctxt "0056 | C020_Monok"
+msgid ""
+"Puhuhuhuhuhuhuhu...\n"
+"See? It's getting exciting."
+msgstr ""
+
+msgctxt "0057 | C020_Monok"
+msgid ""
+"Shuichi is trying to reveal the mastermind...\n"
+"Trying to overcome <CLT=cltSTRONG>despair<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0058 | C020_Monok"
+msgid "It's so...heart-pounding..."
+msgstr ""
+
+msgctxt "0059 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0060 | C000_Saiha"
+msgid ""
+"<CLT=cltMIND>We have the mastermind cornered,\n"
+"why is Monokuma so calm?"
+msgstr ""
+
+msgctxt "0061 | C000_Saiha"
+msgid ""
+"<CLT=cltMIND>He should be feeling\n"
+"cornered as well..."
+msgstr ""
+
+msgctxt "0062 | C000_Saiha"
+msgid ""
+"<CLT=cltMIND>...Forget it.\n"
+"We're on the offensive here."
+msgstr ""
+
+msgctxt "0063 | C000_Saiha"
+msgid ""
+"<CLT=cltMIND>If we make the mastermind's identity\n"
+"clear, all this will be settled."
+msgstr ""
+
+msgctxt "0064 | C020_Monok"
+msgid ""
+"Puhuhu... What's wrong?\n"
+"Hurry up and say it!"
+msgstr ""
+
+msgctxt "0065 | C012_Shiro"
+msgid "..."
+msgstr "..."
+
+msgctxt "0066 | C000_Saiha"
+msgid ""
+"<CLT=cltMIND>I don't want to believe it either...\n"
+"But I have to face the truth!\n"
+"<CLT=cltNORMAL>"
+msgstr ""
+
+msgctxt "0067 | C020_Monok"
+msgid ""
+"Huh? Isn't that wrong? Hurry up and\n"
+"say who the mastermind is."
+msgstr ""
+
+msgctxt "0068 | C012_Shiro"
+msgid "..."
+msgstr "..."
+
+msgctxt "0069 | C000_Saiha"
+msgid ""
+"<CLT=cltMIND>I don't want to believe it either...\n"
+"But I have to face the truth!\n"
+"<CLT=cltNORMAL>"
+msgstr ""
+
+msgctxt "0070 | C000_Saiha"
+msgid "Who is the mastermind?"
+msgstr ""
+
+msgctxt "0071 | C000_Saiha"
+msgid ""
+"The mastermind of this killing game, and\n"
+"the culprit who killed Rantaro..."
+msgstr ""
+
+msgctxt "0072 | C000_Saiha"
+msgid ""
+"...is you, Tsumugi.\n"
+"There are no other possibilities."
+msgstr ""
+
+msgctxt "0073 | C012_Shiro"
+msgid "..."
+msgstr "..."
+
+msgctxt "0074 | C000_Saiha"
+msgid "You don't have anything to say...?"
+msgstr ""
+
+msgctxt "0075 | C012_Shiro"
+msgid "A-Anything to say...?"
+msgstr ""
+
+msgctxt "0076 | C012_Shiro"
+msgid ""
+"Even if you keep saying all that stuff...\n"
+"I...still don't get it..."
+msgstr ""
+
+msgctxt "0077 | C012_Shiro"
+msgid ""
+"Hey, let's stop this already!\n"
+"You're mistaken!"
+msgstr ""
+
+msgctxt "0078 | C012_Shiro"
+msgid "C-Cuz we're all friends, right!?"
+msgstr ""
+
+msgctxt "0079 | C012_Shiro"
+msgid ""
+"Weren't we going to work together\n"
+"to end this killing game!?"
+msgstr ""
+
+msgctxt "0080 | C000_Saiha"
+msgid "This is a <CLT=cltSTRONG>class trial<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0081 | C012_Shiro"
+msgid "Ah...!"
+msgstr ""
+
+msgctxt "0082 | C000_Saiha"
+msgid ""
+"Although we were forced into these class trials\n"
+"by the mastermind, that's how we survived!"
+msgstr ""
+
+msgctxt "0083 | C000_Saiha"
+msgid ""
+"It was the only way...\n"
+"It was the only way we could survive!"
+msgstr ""
+
+msgctxt "0084 | C000_Saiha"
+msgid ""
+"So please, Tsumugi, refute the evidence!\n"
+"Say something! Your life depends on it..."
+msgstr ""
+
+msgctxt "0085 | C000_Saiha"
+msgid "Please..."
+msgstr ""
+
+msgctxt "0086 | C012_Shiro"
+msgid "..."
+msgstr "..."
+
+msgctxt "0087 | C009_Yumen"
+msgid ""
+"Tsumugi...I don't wanna suspect you...\n"
+"I wanna believe in you."
+msgstr ""
+
+msgctxt "0088 | C009_Yumen"
+msgid ""
+"I want the mastermind to be somewhere\n"
+"else like in the previous killing games..."
+msgstr ""
+
+msgctxt "0089 | C009_Yumen"
+msgid ""
+"So...if you're really not the mastermind\n"
+"then don't give up! I'll cheer you on!"
+msgstr ""
+
+msgctxt "0090 | C012_Shiro"
+msgid "E-Even...if you say that..."
+msgstr ""
+
+msgctxt "0091 | C012_Shiro"
+msgid "..."
+msgstr "..."
+
+msgctxt "0092 | C020_Monok"
+msgid ""
+"Puhuhu... Tsumugi is taking her sweet time,\n"
+"but waiting around is so boring..."
+msgstr ""
+
+msgctxt "0093 | C020_Monok"
+msgid ""
+"Hey, Shuichi. Why don't we look over\n"
+"the case again?"
+msgstr ""
+
+msgctxt "0094 | C000_Saiha"
+msgid "What?"
+msgstr ""
+
+msgctxt "0095 | C020_Monok"
+msgid ""
+"C'mon, that's, like, your thing.\n"
+"Present the truth and end this."
+msgstr ""
+
+msgctxt "0096 | C020_Monok"
+msgid ""
+"Cuz there are people who don't know what the\n"
+"heck is going on until we get to this part!"
+msgstr ""
+
+msgctxt "0097 | C020_Monok"
+msgid "Now then, let's start!"
+msgstr ""
+
+msgctxt "0098 | C000_Saiha"
+msgid "..."
+msgstr "..."

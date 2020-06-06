@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C001_Momot"
+msgid "What we gotta "
+msgstr ""
+
+msgctxt "0002 | C001_Momot"
+msgid "What we gotta figure out..."
+msgstr ""
+
+msgctxt "0003 | C001_Momot"
+msgid "<CLT=size2>figure out..."
+msgstr ""
+
+msgctxt "0004 | C001_Momot"
+msgid ""
+"is <CLT=size2>how<CLT=size1> Miu got from\n"
+"the <CLT=size2>chapel<CLT=size1> to\n"
+"the <CLT=size2>mansion,\n"
+"<CLT=size1>right?"
+msgstr ""
+
+msgctxt "0005 | C001_Momot"
+msgid ""
+"is how Miu got from\n"
+"the chapel to the mansion, right?"
+msgstr ""
+
+msgctxt "0006 | C001_Momot"
+msgid "So why waste time"
+msgstr ""
+
+msgctxt "0007 | C001_Momot"
+msgid "So why waste time talking about the impossible?"
+msgstr ""
+
+msgctxt "0008 | C001_Momot"
+msgid "talking about the impossible?"
+msgstr ""
+
+msgctxt "0009 | C001_Momot"
+msgid "It's <CLT=size2>pointless!"
+msgstr ""
+
+msgctxt "0010 | C001_Momot"
+msgid "It's pointless!"
+msgstr ""
+
+msgctxt "0011 | C001_Momot"
+msgid "<CLT=size2>We gotta"
+msgstr ""
+
+msgctxt "0012 | C001_Momot"
+msgid "We gotta take a whole new approach here!"
+msgstr ""
+
+msgctxt "0013 | C001_Momot"
+msgid "take a whole <CLT=size2>new"
+msgstr ""
+
+msgctxt "0014 | C001_Momot"
+msgid "<CLT=size2>approach<CLT=size1> here!"
+msgstr ""
+
+msgctxt "0015 | C000_Saiha"
+msgid "<CLT=size2>Now wait<CLT=size1> just a <CLT=size2>second!"
+msgstr ""
+
+msgctxt "0016 | C000_Saiha"
+msgid ""
+"Now wait just a second!\n"
+"It's not actually impossible at all!"
+msgstr ""
+
+msgctxt "0017 | C000_Saiha"
+msgid ""
+"It's <CLT=size2>not actually\n"
+"<CLT=size2>impossible<CLT=size1> at all!"
+msgstr ""
+
+msgctxt "0018 | C001_Momot"
+msgid "But you "
+msgstr ""
+
+msgctxt "0019 | C001_Momot"
+msgid "But you just said so, didn't you?"
+msgstr ""
+
+msgctxt "0020 | C001_Momot"
+msgid "<CLT=size1>just <CLT=size2>said so,<CLT=size1> didn't you?"
+msgstr ""
+
+msgctxt "0021 | C001_Momot"
+msgid "<CLT=size2>That"
+msgstr ""
+
+msgctxt "0022 | C001_Momot"
+msgid "That wall Miu set up..."
+msgstr ""
+
+msgctxt "0023 | C001_Momot"
+msgid "<CLT=cltWEAK><CLT=size2>wall<CLT=size1> Miu <CLT=size2>set up..."
+msgstr ""
+
+msgctxt "0024 | C001_Momot"
+msgid "<CLT=size2>only lets"
+msgstr ""
+
+msgctxt "0025 | C001_Momot"
+msgid "only lets non-human objects go through it!"
+msgstr ""
+
+msgctxt "0026 | C001_Momot"
+msgid "<CLT=size2>non-human<CLT=size1> objects"
+msgstr ""
+
+msgctxt "0027 | C001_Momot"
+msgid "go <CLT=size2>through it!"
+msgstr ""
+
+msgctxt "0028 | C001_Momot"
+msgid ""
+"<CLT=size2>Humans<CLT=size1> aren't able to\n"
+"<CLT=size2> pass through."
+msgstr ""
+
+msgctxt "0029 | C001_Momot"
+msgid "Humans aren't able to pass through."
+msgstr ""
+
+msgctxt "0030 | C001_Momot"
+msgid "So <CLT=size2>Miu<CLT=size1> obviously "
+msgstr ""
+
+msgctxt "0031 | C001_Momot"
+msgid "So Miu obviously wouldn't be able to go through that wall!"
+msgstr ""
+
+msgctxt "0032 | C001_Momot"
+msgid "wouldn't be able to"
+msgstr ""
+
+msgctxt "0033 | C001_Momot"
+msgid "go <CLT=size2>through"
+msgstr ""
+
+msgctxt "0034 | C001_Momot"
+msgid "that <CLT=size2>wall!"
+msgstr ""
+
+msgctxt "0035 | C001_Momot"
+msgid ""
+"<CLT=cltWEAK><CLT=size1>She's <CLT=size2>not\n"
+"<CLT=size1>just an <CLT=size2>object,"
+msgstr ""
+
+msgctxt "0036 | C001_Momot"
+msgid "She's not just an object, after all!"
+msgstr ""
+
+msgctxt "0037 | C001_Momot"
+msgid "after all!"
+msgstr ""
+
+msgctxt "0038 | C001_Momot"
+msgid "<CLT=size2>You get it?"
+msgstr ""
+
+msgctxt "0039 | C001_Momot"
+msgid "You get it? So let's go through this one more time."
+msgstr ""
+
+msgctxt "0040 | C001_Momot"
+msgid "So let's go through this"
+msgstr ""
+
+msgctxt "0041 | C001_Momot"
+msgid "<CLT=size2>one more time."
+msgstr ""
+
+msgctxt "0042 | C000_Saiha"
+msgid ""
+"I'm sorry...\n"
+"Could you start over from the beginning?"
+msgstr ""

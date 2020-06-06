@@ -1,0 +1,462 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | chara_Blank"
+msgid "<CLT=cltMIND>Later that night..."
+msgstr ""
+
+msgctxt "0002 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I found myself standing\n"
+"in that one spot in the courtyard."
+msgstr ""
+
+msgctxt "0003 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>The place where Kaito\n"
+"and I would train together..."
+msgstr ""
+
+msgctxt "0004 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>My heart...felt crushed. All the loss\n"
+"and guilt and helplessness...sinking in my chest."
+msgstr ""
+
+msgctxt "0005 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>But still I...\n"
+"I stood there."
+msgstr ""
+
+msgctxt "0006 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0007 | C010_Haruk"
+msgid "...What are you doing?"
+msgstr ""
+
+msgctxt "0008 | C000_Saiha"
+msgid "Ah, Maki..."
+msgstr ""
+
+msgctxt "0009 | C010_Haruk"
+msgid "...So, you came too."
+msgstr ""
+
+msgctxt "0010 | C000_Saiha"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "0011 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0012 | C000_Saiha"
+msgid "Maki...I'm sorry."
+msgstr ""
+
+msgctxt "0013 | C010_Haruk"
+msgid "For what?"
+msgstr ""
+
+msgctxt "0014 | C000_Saiha"
+msgid ""
+"I was the one who drove Kaito\n"
+"into a corner..."
+msgstr ""
+
+msgctxt "0015 | C000_Saiha"
+msgid ""
+"Just like Kaede, I...I end up betraying\n"
+"everyone important to me..."
+msgstr ""
+
+msgctxt "0016 | C000_Saiha"
+msgid "It's all my fault."
+msgstr ""
+
+msgctxt "0017 | C010_Haruk"
+msgid "..."
+msgstr "..."
+
+msgctxt "0018 | C010_Haruk"
+msgid "...Are you feeling lonely?"
+msgstr ""
+
+msgctxt "0019 | C000_Saiha"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "0020 | C010_Haruk"
+msgid "Are you lonely...now that Kaito is gone?"
+msgstr ""
+
+msgctxt "0021 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0022 | C000_Saiha"
+msgid "Yeah...lonely."
+msgstr ""
+
+msgctxt "0023 | C000_Saiha"
+msgid ""
+"I... I feel so lonely, and so sad I...\n"
+"I don't know what to do..."
+msgstr ""
+
+msgctxt "0024 | C000_Saiha"
+msgid ""
+"The only reason I'm still alive\n"
+"right now is because of Kaito."
+msgstr ""
+
+msgctxt "0025 | C000_Saiha"
+msgid ""
+"If he hadn't have been\n"
+"my friend, I would be..."
+msgstr ""
+
+msgctxt "0026 | C010_Haruk"
+msgid "...Me too."
+msgstr ""
+
+msgctxt "0027 | C010_Haruk"
+msgid ""
+"I can't remember the last time I ever cried\n"
+"that hard. I wonder how long it's been..."
+msgstr ""
+
+msgctxt "0028 | C010_Haruk"
+msgid "But, I won't cry anymore."
+msgstr ""
+
+msgctxt "0029 | C010_Haruk"
+msgid "I'm sad, but...I'm grateful to Kaito."
+msgstr ""
+
+msgctxt "0030 | C000_Saiha"
+msgid "Grateful?"
+msgstr ""
+
+msgctxt "0031 | C010_Haruk"
+msgid ""
+"Yeah. I want to tell him that rather than\n"
+"being sad or lonely..."
+msgstr ""
+
+msgctxt "0032 | C010_Haruk"
+msgid "...I'm grateful to him."
+msgstr ""
+
+msgctxt "0033 | C010_Haruk"
+msgid "..."
+msgstr "..."
+
+msgctxt "0034 | C010_Haruk"
+msgid ""
+"That's why...I won't cry anymore.\n"
+"I'm not going to wallow in pity."
+msgstr ""
+
+msgctxt "0035 | C010_Haruk"
+msgid ""
+"I want to show him how much I appreciate\n"
+"all the things he did."
+msgstr ""
+
+msgctxt "0036 | C000_Saiha"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "0037 | C000_Saiha"
+msgid ""
+"Yeah, I guess it's the same for me.\n"
+"I want to show my appreciation, too."
+msgstr ""
+
+msgctxt "0038 | C000_Saiha"
+msgid ""
+"I'm sure that our friends who've passed\n"
+"on...don't want to see us miserable."
+msgstr ""
+
+msgctxt "0039 | C000_Saiha"
+msgid "...Thanks."
+msgstr ""
+
+msgctxt "0040 | C010_Haruk"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "0041 | C012_Shiro"
+msgid "Ah, so you guys were here after all."
+msgstr ""
+
+msgctxt "0042 | C012_Shiro"
+msgid "Just like I thought."
+msgstr ""
+
+msgctxt "0043 | C009_Yumen"
+msgid ""
+"I knew you guys would be here\n"
+"cuz I cast a spell to find you."
+msgstr ""
+
+msgctxt "0044 | C000_Saiha"
+msgid "Tsumugi? Himiko?"
+msgstr ""
+
+msgctxt "0045 | C012_Shiro"
+msgid ""
+"Umm... If you don't mind, can we\n"
+"join you in your training?"
+msgstr ""
+
+msgctxt "0046 | C000_Saiha"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "0047 | C009_Yumen"
+msgid ""
+"I'll train you all from the ground up so \n"
+"we can end this killing game together."
+msgstr ""
+
+msgctxt "0048 | C010_Haruk"
+msgid "We're...going to end this together?"
+msgstr ""
+
+msgctxt "0049 | C012_Shiro"
+msgid "Himiko and I promised Kaito."
+msgstr ""
+
+msgctxt "0050 | C009_Yumen"
+msgid ""
+"Yeah. We're gonna do what we promised\n"
+"and work together to end this killing game."
+msgstr ""
+
+msgctxt "0051 | C012_Shiro"
+msgid "We can't afford to lose to <CLT=cltSTRONG>despair<CLT=typeNORMAL>!"
+msgstr ""
+
+msgctxt "0052 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0053 | C000_Saiha"
+msgid "Yeah... Absolutely."
+msgstr ""
+
+msgctxt "0054 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Monokuma said that there's\n"
+"no <CLT=cltSTRONG>hope<CLT=cltMIND> anywhere..."
+msgstr ""
+
+msgctxt "0055 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>But he's wrong.\n"
+"There is <CLT=cltSTRONG>hope<CLT=cltMIND>."
+msgstr ""
+
+msgctxt "0056 | chara_Blank"
+msgid "<CLT=cltMIND>My friends are my <CLT=cltSTRONG>hope<CLT=cltMIND>."
+msgstr ""
+
+msgctxt "0057 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Kaito said it best...\n"
+"I'm not alone."
+msgstr ""
+
+msgctxt "0058 | chara_Blank"
+msgid "<CLT=cltMIND>That's right. I have friends."
+msgstr ""
+
+msgctxt "0059 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Not just my friends here,\n"
+"but also friends who have died..."
+msgstr ""
+
+msgctxt "0060 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>They all gave us their\n"
+"<CLT=cltSTRONG>hope<CLT=cltMIND> too."
+msgstr ""
+
+msgctxt "0061 | chara_Blank"
+msgid "<CLT=cltMIND>That's why...I'm going to live."
+msgstr ""
+
+msgctxt "0062 | chara_Blank"
+msgid "<CLT=cltMIND>I want to live for everyone who died."
+msgstr ""
+
+msgctxt "0063 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Despair cannot defeat me.\n"
+"I will hold on, and survive no matter what."
+msgstr ""
+
+msgctxt "0064 | chara_Blank"
+msgid "<CLT=cltMIND>..."
+msgstr ""
+
+msgctxt "0065 | chara_Blank"
+msgid "<CLT=cltMIND>Thank you...Kaito."
+msgstr ""
+
+msgctxt "0066 | C001_Momot"
+msgid ""
+"Let your sweat wash away all your\n"
+"sadness, fear, worry, and hardships."
+msgstr ""
+
+msgctxt "0067 | C001_Momot"
+msgid ""
+"Just start moving your body and your pain \n"
+"will become memories before you know it."
+msgstr ""
+
+msgctxt "0068 | C010_Haruk"
+msgid "...Then you should train, too."
+msgstr ""
+
+msgctxt "0069 | C001_Momot"
+msgid ""
+"Well, I don't have anything \n"
+"to worry about."
+msgstr ""
+
+msgctxt "0070 | C001_Momot"
+msgid ""
+"Cuz, I mean... I'm Kaito Momota!\n"
+"Luminary of the Stars!"
+msgstr ""
+
+msgctxt "0071 | C000_Saiha"
+msgid "Hey! No fair, Kaito!"
+msgstr ""
+
+msgctxt "0072 | C012_Shiro"
+msgid "Oh, by the way..."
+msgstr ""
+
+msgctxt "0073 | C012_Shiro"
+msgid ""
+"What happened to Keebo? \n"
+"Do you know where he went?"
+msgstr ""
+
+msgctxt "0074 | C000_Saiha"
+msgid ""
+"Keebo?\n"
+"Ah, I don't know..."
+msgstr ""
+
+msgctxt "0075 | C009_Yumen"
+msgid ""
+"Nyeh... \n"
+"What is that guy off doing?"
+msgstr ""
+
+msgctxt "0076 | C010_Haruk"
+msgid ""
+"I don't think a robot really needs to do\n"
+"any training..."
+msgstr ""
+
+msgctxt "0077 | C012_Shiro"
+msgid ""
+"But the rest of us are here.\n"
+"I kinda wish he'd come, too..."
+msgstr ""
+
+msgctxt "0078 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0079 | chara_Hatena"
+msgid "It's quiet..."
+msgstr ""
+
+msgctxt "0080 | chara_Hatena"
+msgid "Too quiet..."
+msgstr ""
+
+msgctxt "0081 | chara_Hatena"
+msgid "And yet, this silence is quite refreshing."
+msgstr ""
+
+msgctxt "0082 | C007_Ki-Bo"
+msgid ""
+"I used to hear my inner voice with\n"
+"perfect clarity..."
+msgstr ""
+
+msgctxt "0083 | C007_Ki-Bo"
+msgid ""
+"It would fill me the power of <CLT=cltSTRONG>hope<CLT=typeNORMAL>...\n"
+"Guide me along the right path..."
+msgstr ""
+
+msgctxt "0084 | C007_Ki-Bo"
+msgid "...I can't hear it anymore."
+msgstr ""
+
+msgctxt "0085 | C007_Ki-Bo"
+msgid "All I hear now...is silence."
+msgstr ""
+
+msgctxt "0086 | C007_Ki-Bo"
+msgid ""
+"That silence means my will\n"
+"is now my own."
+msgstr ""
+
+msgctxt "0087 | C007_Ki-Bo"
+msgid "Even if <CLT=cltSTRONG>despair<CLT=typeNORMAL> is all we have to choose..."
+msgstr ""
+
+msgctxt "0088 | C007_Ki-Bo"
+msgid "Even if <CLT=cltSTRONG>hope<CLT=typeNORMAL> no longer exists..."
+msgstr ""
+
+msgctxt "0089 | C007_Ki-Bo"
+msgid "I will never give in to despair!"
+msgstr ""
+
+msgctxt "0090 | C007_Ki-Bo"
+msgid "I...I will end this."
+msgstr ""
+
+msgctxt "0091 | C007_Ki-Bo"
+msgid ""
+"No matter what, I will force this\n"
+"to end."
+msgstr ""
+
+msgctxt "0092 | C007_Ki-Bo"
+msgid ""
+"This school, this Ultimate Academy for Gifted\n"
+"Juveniles, is steeped in despair..."
+msgstr ""
+
+msgctxt "0093 | C007_Ki-Bo"
+msgid "...And I will destroy it."
+msgstr ""

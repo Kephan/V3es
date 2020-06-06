@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "The culprit used a <CLT=size3>katana"
+msgstr ""
+
+msgctxt "0002"
+msgid "The culprit used a katana to kill Angie!"
+msgstr ""
+
+msgctxt "0003"
+msgid "to <CLT=size2>kill Angie!"
+msgstr ""
+
+msgctxt "0004"
+msgid "And it was <CLT=size2>found<CLT=size1> in"
+msgstr ""
+
+msgctxt "0005"
+msgid "And it was found in Kiyo's research lab!"
+msgstr ""
+
+msgctxt "0006"
+msgid "<CLT=cltAGREE><CLT=size2>Kiyo's research lab<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0007"
+msgid "Which makes you, <CLT=size2>Kiyo,"
+msgstr ""
+
+msgctxt "0008"
+msgid "Which makes you, Kiyo, automatically suspicious!"
+msgstr ""
+
+msgctxt "0009"
+msgid "automatically suspicious!"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"But <CLT=size2>anyone<CLT=size1> could have <CLT=size2>taken<CLT=size1>\n"
+"that <CLT=size2>katana,<CLT=size1> you see."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"But anyone could have taken\n"
+"that katana, you see."
+msgstr ""
+
+msgctxt "0012"
+msgid "So that"
+msgstr ""
+
+msgctxt "0013"
+msgid "So that rusty katana was the weapon..."
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT=size2>rusty katana"
+msgstr ""
+
+msgctxt "0015"
+msgid "was the <CLT=size2>murder weapon..."
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"You were the <CLT=size2>only one<CLT=size1> who\n"
+"cared about that thing, <CLT=size2>Kiyo!"
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"You were the only one who\n"
+"cared about that thing, Kiyo!"
+msgstr ""
+
+msgctxt "0018"
+msgid "<CLT=size2>I <CLT=cltWEAK>did not care<CLT=size1> about<CLT=cltNORMAL> some katana..."
+msgstr ""
+
+msgctxt "0019"
+msgid "I did not care about some katana..."
+msgstr ""
+
+msgctxt "0020"
+msgid "Just admit it, ya"
+msgstr ""
+
+msgctxt "0021"
+msgid "Just admit it, ya shit-eatin' worm!"
+msgstr ""
+
+msgctxt "0022"
+msgid "shit-"
+msgstr ""
+
+msgctxt "0023"
+msgid "eating"
+msgstr ""
+
+msgctxt "0024"
+msgid "worm!"
+msgstr ""
+
+msgctxt "0025"
+msgid "<CLT=size2>You<CLT=size1> went to the"
+msgstr ""
+
+msgctxt "0026"
+msgid "You went to the classroom, broke in..."
+msgstr ""
+
+msgctxt "0027"
+msgid ""
+"<CLT=size2>class\n"
+"room,"
+msgstr ""
+
+msgctxt "0028"
+msgid "<CLT=cltWEAK><CLT=size2>broke in<CLT=size1><CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0029"
+msgid ""
+"and <CLT=size2>murdered<CLT=size1>\n"
+"　\n"
+"　\n"
+"　\n"
+"　\n"
+"　\n"
+"　\n"
+"the fuck outta <CLT=size2>Angie!"
+msgstr ""
+
+msgctxt "0030"
+msgid "and murdered the fuck outta Angie!"
+msgstr ""
+
+msgctxt "0031"
+msgid "<CLT=size2>Hoo yeah!"
+msgstr ""
+
+msgctxt "0032"
+msgid "Hoo yeah! I'm a fuckin' GENIUS!"
+msgstr ""
+
+msgctxt "0033"
+msgid "<CLT=size2>I'm<CLT=size1> a "
+msgstr ""
+
+msgctxt "0034"
+msgid "fuckin' <CLT=size2>GENIUS!"
+msgstr ""
+
+msgctxt "0035"
+msgid "Not the doggie statue?"
+msgstr ""
+
+msgctxt "0036"
+msgid "You mean the iron cage?"
+msgstr ""
+
+msgctxt "0037"
+msgid "No, it's the other thing."
+msgstr ""
+
+msgctxt "0038"
+msgid "That is suspicious..."
+msgstr ""
+
+msgctxt "0039"
+msgid "Did he care that much?"
+msgstr ""
+
+msgctxt "0040"
+msgid "He was obsessed with it!"
+msgstr ""
+
+msgctxt "0041"
+msgid "Cuz it's the murder weapon!"
+msgstr ""
+
+msgctxt "0042"
+msgid "But it was locked, yes?"
+msgstr ""
+
+msgctxt "0043"
+msgid "It'd be easy with that katana!"
+msgstr ""
+
+msgctxt "0044"
+msgid "Did he really break in?"
+msgstr ""

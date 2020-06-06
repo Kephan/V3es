@@ -1,0 +1,287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"So, <CLT=size2>what<CLT=size1> made \n"
+"the <CLT=size2>floorboard<CLT=size1> come <CLT=size2>loose!?"
+msgstr ""
+
+msgctxt "0002"
+msgid "So, what made the floorboard come loose!?"
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"Judging from the\n"
+"<CLT=size2>sound,"
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"Judging from the sound,\n"
+"there must\n"
+"have been\n"
+"considerable force..."
+msgstr ""
+
+msgctxt "0005"
+msgid "there must have been"
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"considerable\n"
+"<CLT=size4>force..."
+msgstr ""
+
+msgctxt "0007"
+msgid "<CLT=size2>Someone<CLT=size1> who <CLT=size2>participated<CLT=size1> in the <CLT=size2>seance..."
+msgstr ""
+
+msgctxt "0008"
+msgid "Someone who participated in the seance..."
+msgstr ""
+
+msgctxt "0009"
+msgid "maybe that person"
+msgstr ""
+
+msgctxt "0010"
+msgid "maybe that person tore off the floorboard?"
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT=cltAGREE>tore            "
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT=cltAGREE>off the "
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT=cltAGREE>floorboard<CLT=cltNORMAL>?"
+msgstr ""
+
+msgctxt "0014"
+msgid "That wouldn't make"
+msgstr ""
+
+msgctxt "0015"
+msgid "That wouldn't make such a loud crash!"
+msgstr ""
+
+msgctxt "0016"
+msgid "such a loud"
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"<CLT=size2>crashing\n"
+"sound!"
+msgstr ""
+
+msgctxt "0018"
+msgid "Maybe the"
+msgstr ""
+
+msgctxt "0019"
+msgid "Maybe the wooden statue fell over."
+msgstr ""
+
+msgctxt "0020"
+msgid "<CLT=cltAGREE>wooden statue"
+msgstr ""
+
+msgctxt "0021"
+msgid "<CLT=cltAGREE>fell <CLT=size2>over<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0022"
+msgid ""
+"But that statue was still\n"
+"<CLT=size1>on <CLT=size2>top<CLT=size1> of the <CLT=size2>cage!"
+msgstr ""
+
+msgctxt "0023"
+msgid "But that statue was still on top of the cage!"
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"<CLT=size2>Culprit<CLT=size1> hide\n"
+"<CLT=size2>under floor..."
+msgstr ""
+
+msgctxt "0025"
+msgid "Culprit hide under floor..."
+msgstr ""
+
+msgctxt "0026"
+msgid "<CLT=size2>then"
+msgstr ""
+
+msgctxt "0027"
+msgid "then stood up, with such might!"
+msgstr ""
+
+msgctxt "0028"
+msgid "<CLT=cltAGREE><CLT=size2>stood up<CLT=cltNORMAL>,<CLT=size1> with such might!"
+msgstr ""
+
+msgctxt "0029"
+msgid ""
+"But we already said\n"
+"there was <CLT=size2>no one\n"
+"<CLT=size1>under the floor!"
+msgstr ""
+
+msgctxt "0030"
+msgid ""
+"But we already said there was \n"
+"no one under the floor!"
+msgstr ""
+
+msgctxt "0031"
+msgid "<CLT=size3>Some<CLT=size1>one"
+msgstr ""
+
+msgctxt "0032"
+msgid ""
+"Someone must have stomped\n"
+"through the floorboard!"
+msgstr ""
+
+msgctxt "0033"
+msgid "must have"
+msgstr ""
+
+msgctxt "0034"
+msgid ""
+"<CLT=cltAGREE>stomped through\n"
+"the floorboard"
+msgstr ""
+
+msgctxt "0035"
+msgid "!"
+msgstr "!"
+
+msgctxt "0036"
+msgid ""
+"A floorboard that comes loose when\n"
+"you step on it is <CLT=size2>dangerous!"
+msgstr ""
+
+msgctxt "0037"
+msgid ""
+"A floorboard that's loose enough\n"
+"to stomp through is dangerous!"
+msgstr ""
+
+msgctxt "0038"
+msgid "God, it's like I'm the <CLT=size2>only<CLT=size1> one"
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"God, it's like I'm the only one\n"
+"here who's staying on the ball!"
+msgstr ""
+
+msgctxt "0040"
+msgid "here who's <CLT=size2>staying<CLT=size1>"
+msgstr ""
+
+msgctxt "0041"
+msgid "on the ball!"
+msgstr ""
+
+msgctxt "0042"
+msgid ""
+"You hardly have any experience\n"
+"with <CLT=size2>balls<CLT=size1> to say that, Miu."
+msgstr ""
+
+msgctxt "0043"
+msgid ""
+"You hardly have any experience\n"
+"with balls to say that, Miu."
+msgstr ""
+
+msgctxt "0044"
+msgid "<CLT=size2>D...Don't be"
+msgstr ""
+
+msgctxt "0045"
+msgid "Gh!! I-Idiot..."
+msgstr ""
+
+msgctxt "0046"
+msgid "<CLT=size2>stupid..."
+msgstr ""
+
+msgctxt "0047"
+msgid "Don'tcha know!?"
+msgstr ""
+
+msgctxt "0048"
+msgid "Don'tcha know!? Me and balls are the best of friends!"
+msgstr ""
+
+msgctxt "0049"
+msgid "<CLT=cltAGREE><CLT=size1.5>Me<CLT=size1> and <CLT=size1.5>Balls<CLT=size1> are the best of <CLT=size1.5>friends!"
+msgstr ""
+
+msgctxt "0050"
+msgid "Come on guys, let's work together!"
+msgstr ""
+
+msgctxt "0051"
+msgid "I wonder what that was."
+msgstr ""
+
+msgctxt "0052"
+msgid "Considerable force?"
+msgstr ""
+
+msgctxt "0053"
+msgid "That's hard to imagine."
+msgstr ""
+
+msgctxt "0054"
+msgid "Did it fall?"
+msgstr ""
+
+msgctxt "0055"
+msgid "How surreal."
+msgstr ""
+
+msgctxt "0056"
+msgid "Someone? Who?"
+msgstr ""
+
+msgctxt "0057"
+msgid "Oh my... Here it comes..."
+msgstr ""
+
+msgctxt "0058"
+msgid "Eh? A dirty joke!?"
+msgstr ""
+
+msgctxt "0059"
+msgid "Why are you so"
+msgstr ""
+
+msgctxt "0060"
+msgid "proud of that!?"
+msgstr ""

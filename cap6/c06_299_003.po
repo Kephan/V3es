@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C010_Haruk"
+msgid "<CLT=cltMIND>What...should I believe in...?"
+msgstr ""
+
+msgctxt "0002 | C010_Haruk"
+msgid "<CLT=cltMIND>In the end, everything is fictional..."
+msgstr ""
+
+msgctxt "0003 | C012_Shiro"
+msgid "Everyone wants despair, after all."
+msgstr ""
+
+msgctxt "0004 | C020_Monok"
+msgid "The killing games will last forver."
+msgstr ""
+
+msgctxt "0005 | C020_Monok"
+msgid "Puhuhuhuhuhu...!"
+msgstr ""
+
+msgctxt "0006 | C010_Haruk"
+msgid "If we end it here...then we'll..."
+msgstr ""
+
+msgctxt "0007 | C010_Haruk"
+msgid "Retry"
+msgstr ""
+
+msgctxt "0008 | C010_Haruk"
+msgid "We can't let it end like this!"
+msgstr ""
+
+msgctxt "0009 | C010_Haruk"
+msgid "Make preparations and retry"
+msgstr ""
+
+msgctxt "0010 | C010_Haruk"
+msgid "We can't let it end like this!"
+msgstr ""
+
+msgctxt "0011 | C010_Haruk"
+msgid "Quit"
+msgstr ""
+
+msgctxt "0012 | C010_Haruk"
+msgid "Would you like to retry?"
+msgstr ""

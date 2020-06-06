@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C005_Oma__"
+msgid "<CLT=size2>Kaito"
+msgstr ""
+
+msgctxt "0002 | C005_Oma__"
+msgid "Kaito logged out first, by himself..."
+msgstr ""
+
+msgctxt "0003 | C005_Oma__"
+msgid "<CLT=size2>logged out<CLT=size1> first,"
+msgstr ""
+
+msgctxt "0004 | C005_Oma__"
+msgid "by <CLT=size2>himself..."
+msgstr ""
+
+msgctxt "0005 | C005_Oma__"
+msgid "<CLT=cltWEAK><CLT=size2>Miu<CLT=size1> was still <CLT=size2>logged in,"
+msgstr ""
+
+msgctxt "0006 | C005_Oma__"
+msgid "Miu was still logged in, though..."
+msgstr ""
+
+msgctxt "0007 | C005_Oma__"
+msgid "<CLT=size2>though..."
+msgstr ""
+
+msgctxt "0008 | C005_Oma__"
+msgid ""
+"That's when you\n"
+"<CLT=size2>poisoned "
+msgstr ""
+
+msgctxt "0009 | C005_Oma__"
+msgid "That's when you poisoned her, right Kaito?"
+msgstr ""
+
+msgctxt "0010 | C005_Oma__"
+msgid "<CLT=cltWEAK><CLT=size2>her<CLT=cltNORMAL>,<CLT=size1> right Kaito?"
+msgstr ""
+
+msgctxt "0011 | C005_Oma__"
+msgid ""
+"That's when you\n"
+"<CLT=cltWEAK><CLT=size2>poisoned "
+msgstr ""
+
+msgctxt "0012 | C004_Gokuh"
+msgid ""
+"<CLT=size2>Kaito...culprit!?\n"
+"<CLT=size3>Unpossible!"
+msgstr ""
+
+msgctxt "0013 | C004_Gokuh"
+msgid ""
+"Kaito...culprit!?\n"
+"Unpossible!"
+msgstr ""
+
+msgctxt "0014 | C001_Momot"
+msgid ""
+"Of course it's \"unpossible\"!\n"
+"<CLT=size2>Cuz I didn't do it!"
+msgstr ""
+
+msgctxt "0015 | C001_Momot"
+msgid ""
+"Of course it's \"unpossible\"!\n"
+"Cuz I didn't do it!"
+msgstr ""
+
+msgctxt "0016 | C001_Momot"
+msgid "I mean, we found that <CLT=size2>bottle<CLT=size1> of <CLT=size2>poison..."
+msgstr ""
+
+msgctxt "0017 | C001_Momot"
+msgid "I mean, we found that bottle of poison..."
+msgstr ""
+
+msgctxt "0018 | C001_Momot"
+msgid "<CLT=cltWEAK>on <CLT=size2>Kokichi's"
+msgstr ""
+
+msgctxt "0019 | C001_Momot"
+msgid "on Kokichi's seat didn't we!?"
+msgstr ""
+
+msgctxt "0020 | C001_Momot"
+msgid "<CLT=cltWEAK><CLT=size3>seat,"
+msgstr ""
+
+msgctxt "0021 | C001_Momot"
+msgid "didn't we!?"
+msgstr ""
+
+msgctxt "0022 | C005_Oma__"
+msgid "The culprit was trying"
+msgstr ""
+
+msgctxt "0023 | C005_Oma__"
+msgid ""
+"The culprit was trying\n"
+"to pin the blame on me..."
+msgstr ""
+
+msgctxt "0024 | C005_Oma__"
+msgid "to pin the <CLT=size3>blame<CLT=size1> on me..."
+msgstr ""
+
+msgctxt "0025 | C005_Oma__"
+msgid ""
+"That\n"
+"<CLT=size2>diversion\n"
+"<CLT=size1>was"
+msgstr ""
+
+msgctxt "0026 | C005_Oma__"
+msgid "That diversion was part of your plan, right Kaito?"
+msgstr ""
+
+msgctxt "0027 | C005_Oma__"
+msgid ""
+"part of your plan,\n"
+"right <CLT=size2>Kaito?"
+msgstr ""
+
+msgctxt "0028 | C009_Yumen"
+msgid ""
+"Well, Kaito?\n"
+"Any\n"
+"<CLT=size2>last words?"
+msgstr ""
+
+msgctxt "0029 | C009_Yumen"
+msgid ""
+"Well, Kaito?\n"
+"Any last words?"
+msgstr ""
+
+msgctxt "0030 | C001_Momot"
+msgid ""
+"What do you mean,\n"
+"last words!?"
+msgstr ""
+
+msgctxt "0031 | C001_Momot"
+msgid "What do you mean, last words!?"
+msgstr ""
+
+msgctxt "0032 | C007_Ki-Bo"
+msgid "That is rather suspicious..."
+msgstr ""
+
+msgctxt "0033 | C009_Yumen"
+msgid "Kaito did it!"
+msgstr ""
+
+msgctxt "0034 | C001_Momot"
+msgid "It's not me!"
+msgstr ""
+
+msgctxt "0035 | C005_Oma__"
+msgid "That's the spirit!"
+msgstr ""
+
+msgctxt "0036 | C009_Yumen"
+msgid "Is that true...?"
+msgstr ""
+
+msgctxt "0037 | C005_Oma__"
+msgid "Is that your argument, Kaito?"
+msgstr ""
+
+msgctxt "0038 | C004_Gokuh"
+msgid "What!? Really!?"
+msgstr ""

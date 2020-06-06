@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C001_Momot"
+msgid "In the <CLT=size2>Virtual World,<CLT=size1> Miu was"
+msgstr ""
+
+msgctxt "0002 | C001_Momot"
+msgid "In the Virtual World, Miu was fatally injured..."
+msgstr ""
+
+msgctxt "0003 | C001_Momot"
+msgid "<CLT=size2>fa"
+msgstr ""
+
+msgctxt "0004 | C001_Momot"
+msgid "<CLT=size2>ta"
+msgstr ""
+
+msgctxt "0005 | C001_Momot"
+msgid "<CLT=size2>lly"
+msgstr ""
+
+msgctxt "0006 | C001_Momot"
+msgid "<CLT=size2>inju"
+msgstr ""
+
+msgctxt "0007 | C001_Momot"
+msgid "<CLT=size2>red..."
+msgstr ""
+
+msgctxt "0008 | C001_Momot"
+msgid ""
+"So let's <CLT=size2>focus<CLT=size1> our efforts\n"
+"on that <CLT=size2>first."
+msgstr ""
+
+msgctxt "0009 | C001_Momot"
+msgid "So let's focus our efforts on that first."
+msgstr ""
+
+msgctxt "0010 | C009_Yumen"
+msgid ""
+"Whatever\n"
+"<CLT=size2>did that<CLT=size1>\n"
+"to Miu..."
+msgstr ""
+
+msgctxt "0011 | C009_Yumen"
+msgid "Whatever did that to Miu..."
+msgstr ""
+
+msgctxt "0012 | C009_Yumen"
+msgid ""
+"was <CLT=size2>dropped<CLT=size1>\n"
+"right next to her <CLT=size2>avatar."
+msgstr ""
+
+msgctxt "0013 | C009_Yumen"
+msgid "was dropped right next to her avatar."
+msgstr ""
+
+msgctxt "0014 | C009_Yumen"
+msgid "<CLT=cltAGREE><CLT=size2>It has to <CLT=size4>be"
+msgstr ""
+
+msgctxt "0015 | C009_Yumen"
+msgid "It has to be the hammer!"
+msgstr ""
+
+msgctxt "0016 | C009_Yumen"
+msgid ""
+"<CLT=size4>　\n"
+"　\n"
+"　\n"
+"<CLT=size2><CLT=cltAGREE>the <CLT=size4>hammer<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0017 | C005_Oma__"
+msgid "Or Gonta <CLT=cltAGREE><CLT=size2>beat<CLT=size1> her"
+msgstr ""
+
+msgctxt "0018 | C005_Oma__"
+msgid "Or Gonta beat her with his bare hands."
+msgstr ""
+
+msgctxt "0019 | C005_Oma__"
+msgid ""
+"<CLT=cltAGREE>with his bare\n"
+"<CLT=size2>hands<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0020 | C010_Haruk"
+msgid ""
+"Are we <CLT=size2>certain<CLT=size1>\n"
+"that blunt force was involved?"
+msgstr ""
+
+msgctxt "0021 | C010_Haruk"
+msgid "Are we certain that blunt force was involved?"
+msgstr ""
+
+msgctxt "0022 | C010_Haruk"
+msgid "<CLT=size2>I<CLT=size1> think"
+msgstr ""
+
+msgctxt "0023 | C010_Haruk"
+msgid "I think strangulation is more likely."
+msgstr ""
+
+msgctxt "0024 | C010_Haruk"
+msgid "<CLT=cltAGREE><CLT=size2>strangulation"
+msgstr ""
+
+msgctxt "0025 | C010_Haruk"
+msgid "is more likely."
+msgstr ""
+
+msgctxt "0026 | C007_Ki-Bo"
+msgid "It's <CLT=size1>possible"
+msgstr ""
+
+msgctxt "0027 | C007_Ki-Bo"
+msgid "It's possible she was pushed from a great height!"
+msgstr ""
+
+msgctxt "0028 | C007_Ki-Bo"
+msgid "<CLT=cltAGREE><CLT=size2>she was pushed"
+msgstr ""
+
+msgctxt "0029 | C007_Ki-Bo"
+msgid "from a <CLT=size2>great height!"
+msgstr ""
+
+msgctxt "0030 | C012_Shiro"
+msgid ""
+"Could she have\n"
+"<CLT=size2><CLT=cltAGREE>drowned?"
+msgstr ""
+
+msgctxt "0031 | C012_Shiro"
+msgid "Could she have drowned?"
+msgstr ""
+
+msgctxt "0032 | C007_Ki-Bo"
+msgid "Fatal injury..."
+msgstr ""
+
+msgctxt "0033 | C012_Shiro"
+msgid "What could've caused it?"
+msgstr ""
+
+msgctxt "0034 | C004_Gokuh"
+msgid "What was on ground?"
+msgstr ""
+
+msgctxt "0035 | C012_Shiro"
+msgid "That's just plain wrong, isn't it?"
+msgstr ""
+
+msgctxt "0036 | C007_Ki-Bo"
+msgid "I do not think that is possible."
+msgstr ""
+
+msgctxt "0037 | C004_Gokuh"
+msgid "Gonta NEVER hit lady!"
+msgstr ""
+
+msgctxt "0038 | C005_Oma__"
+msgid "That's an expert opinion!"
+msgstr ""
+
+msgctxt "0039 | C012_Shiro"
+msgid "It's just plain possible!"
+msgstr ""
+
+msgctxt "0040 | C007_Ki-Bo"
+msgid "There *was* a river..."
+msgstr ""

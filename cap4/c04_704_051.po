@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C004_Gokuh"
+msgid ""
+"Miu say she take us to world with no\n"
+"killing game, right?"
+msgstr ""
+
+msgctxt "0002 | C004_Gokuh"
+msgid ""
+"Did Miu find way out of here? How come\n"
+"she not tell us?"
+msgstr ""
+
+msgctxt "0003 | C004_Gokuh"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0004 | C004_Gokuh"
+msgid "No"
+msgstr ""
+
+msgctxt "0005 | C004_Gokuh"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0006 | chara_Blank"
+msgid "<CLT=cltMIND>Should I hang out with Gonta for a while?"
+msgstr ""
+
+msgctxt "0007 | C004_Gokuh"
+msgid "Miu maybe have plan..."
+msgstr ""
+
+msgctxt "0008 | C004_Gokuh"
+msgid ""
+"Gonta not good at plans... Instead, Gonta\n"
+"just protect everyone when we escape!"
+msgstr ""
+
+msgctxt "0009 | chara_Blank"
+msgid "<CLT=cltMIND>I spent some time with Gonta..."
+msgstr ""
+
+msgctxt "0010 | chara_Blank"
+msgid "<CLT=cltMIND>Gonta and I grew a little closer today."
+msgstr ""

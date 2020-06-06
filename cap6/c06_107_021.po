@@ -1,0 +1,398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | chara_Blank"
+msgid "<CLT=cltMIND>When we left the hidden room..."
+msgstr ""
+
+msgctxt "0002 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>we saw Keebo and the Exisal\n"
+"in a fierce battle!"
+msgstr ""
+
+msgctxt "0003 | C000_Saiha"
+msgid "Ah! Ugh..."
+msgstr ""
+
+msgctxt "0004 | C007_Ki-Bo"
+msgid "Are you alright!? Are either of you injured!?"
+msgstr ""
+
+msgctxt "0005 | C000_Saiha"
+msgid "I-I'm okay..."
+msgstr ""
+
+msgctxt "0006 | C000_Saiha"
+msgid "Wh-What!?"
+msgstr ""
+
+msgctxt "0007 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>The hidden door has been\n"
+"blocked by rubble!"
+msgstr ""
+
+msgctxt "0008 | C000_Saiha"
+msgid "H-Himiko!"
+msgstr ""
+
+msgctxt "0009 | C007_Ki-Bo"
+msgid ""
+"I'm sorry! I'm relieved that you two are not\n"
+"hurt."
+msgstr ""
+
+msgctxt "0010 | C012_Shiro"
+msgid "H-Hold on... Himiko is...!"
+msgstr ""
+
+msgctxt "0011 | chara_Blank"
+msgid "<CLT=cltMIND>H-Himiko!"
+msgstr ""
+
+msgctxt "0012 | chara_Blank"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0013 | chara_Blank"
+msgid "No"
+msgstr ""
+
+msgctxt "0014 | chara_Blank"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0015 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0016 | chara_Blank"
+msgid "<CLT=cltMIND>H-Himiko!"
+msgstr ""
+
+msgctxt "0017 | chara_Blank"
+msgid "<CLT=cltMIND>H-Himiko!"
+msgstr ""
+
+msgctxt "0018 | chara_Blank"
+msgid "<CLT=cltMIND>H-Himiko!"
+msgstr ""
+
+msgctxt "0019 | chara_Blank"
+msgid "<CLT=cltMIND>H-Himiko!"
+msgstr ""
+
+msgctxt "0020 | chara_Blank"
+msgid "<CLT=cltMIND>H-Himiko!"
+msgstr ""
+
+msgctxt "0021 | chara_Blank"
+msgid "<CLT=cltMIND>H-Himiko!"
+msgstr ""
+
+msgctxt "0022 | chara_Blank"
+msgid "..."
+msgstr "..."
+
+msgctxt "0023 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I have an idea...\n"
+"I know how to find the mastermind!"
+msgstr ""
+
+msgctxt "0024 | chara_Blank"
+msgid "<CLT=cltMIND>H-Himiko!"
+msgstr ""
+
+msgctxt "0025 | chara_Blank"
+msgid "<CLT=cltMIND>H-Himiko!"
+msgstr ""
+
+msgctxt "0026 | chara_Blank"
+msgid "<CLT=cltMIND>H-Himiko!"
+msgstr ""
+
+msgctxt "0027 | chara_Blank"
+msgid "<CLT=cltMIND>I can't get through the rubble!"
+msgstr ""
+
+msgctxt "0028 | chara_Blank"
+msgid "<CLT=cltMIND>H-Himiko!"
+msgstr ""
+
+msgctxt "0029 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>The hidden door has been blocked\n"
+"by rubble! We can't get in or out!"
+msgstr ""
+
+msgctxt "0030 | C012_Shiro"
+msgid "I-Is...Himiko trapped?"
+msgstr ""
+
+msgctxt "0031 | C000_Saiha"
+msgid "I-I think so..."
+msgstr ""
+
+msgctxt "0032 | C000_Saiha"
+msgid "Keebo, can you do something!?"
+msgstr ""
+
+msgctxt "0033 | C007_Ki-Bo"
+msgid ""
+"I can destroy the debris, but without knowing\n"
+"Himiko's status..."
+msgstr ""
+
+msgctxt "0034 | C007_Ki-Bo"
+msgid ""
+"It could be dangerous for me to just\n"
+"recklessly attack it."
+msgstr ""
+
+msgctxt "0035 | C012_Shiro"
+msgid ""
+"Th-Then...are you saying we should \n"
+"just leave her there?"
+msgstr ""
+
+msgctxt "0036 | C012_Shiro"
+msgid "I couldn't do such a thing! We're friends!"
+msgstr ""
+
+msgctxt "0037 | C007_Ki-Bo"
+msgid ""
+"But I'm not strong enough to lift the\n"
+"debris..."
+msgstr ""
+
+msgctxt "0038 | C000_Saiha"
+msgid "...Let's use the Exisal."
+msgstr ""
+
+msgctxt "0039 | C007_Ki-Bo"
+msgid "What?"
+msgstr ""
+
+msgctxt "0040 | C012_Shiro"
+msgid "Use the Exisal...? How?"
+msgstr ""
+
+msgctxt "0041 | C012_Shiro"
+msgid ""
+"We don't have any more of Miu's inventions,\n"
+"and the Monokubs are in the Exisals—"
+msgstr ""
+
+msgctxt "0042 | C000_Saiha"
+msgid ""
+"Exactly. We're going to get Monokuma\n"
+"and the Monokubs to do it."
+msgstr ""
+
+msgctxt "0043 | C007_Ki-Bo"
+msgid "...Monokuma and the Monokubs?"
+msgstr ""
+
+msgctxt "0044 | C000_Saiha"
+msgid ""
+"They don't want this either. Their objective\n"
+"is to continue the killing game..."
+msgstr ""
+
+msgctxt "0045 | C007_Ki-Bo"
+msgid ""
+"Are you suggesting that we surrender to\n"
+"them, and continue the killing game!?"
+msgstr ""
+
+msgctxt "0046 | C012_Shiro"
+msgid ""
+"But Himiko is in danger! Rescuing her \n"
+"should be our first—"
+msgstr ""
+
+msgctxt "0047 | C000_Saiha"
+msgid ""
+"No. We're going to *end* this\n"
+"killing game."
+msgstr ""
+
+msgctxt "0048 | C007_Ki-Bo"
+msgid ""
+"...What do you mean? Do you have a plan\n"
+"of some sort?"
+msgstr ""
+
+msgctxt "0049 | C000_Saiha"
+msgid ""
+"Yes, I do. It just requires a little bit\n"
+"of detective work..."
+msgstr ""
+
+msgctxt "0050 | C000_Saiha"
+msgid "We need to investigate some more."
+msgstr ""
+
+msgctxt "0051 | C012_Shiro"
+msgid "Huh? What about Himiko?"
+msgstr ""
+
+msgctxt "0052 | C000_Saiha"
+msgid ""
+"...I'm worried about her, but we have to\n"
+"trust that she's okay right now."
+msgstr ""
+
+msgctxt "0053 | C000_Saiha"
+msgid ""
+"We trusted her when she said to\n"
+"leave everything to her."
+msgstr ""
+
+msgctxt "0054 | C000_Saiha"
+msgid ""
+"If we just stand around here,\n"
+"we're not respecting her wishes."
+msgstr ""
+
+msgctxt "0055 | C012_Shiro"
+msgid "..."
+msgstr "..."
+
+msgctxt "0056 | C012_Shiro"
+msgid "O-Okay... Himiko is the <CLT=cltSTRONG>Ultimate Magician<CLT=typeNORMAL>..."
+msgstr ""
+
+msgctxt "0057 | C012_Shiro"
+msgid ""
+"I bet she'll use her magic to find a clue\n"
+"in that room that's just plain amazing."
+msgstr ""
+
+msgctxt "0058 | C000_Saiha"
+msgid "Yeah, I'm sure Himiko is okay."
+msgstr ""
+
+msgctxt "0059 | C007_Ki-Bo"
+msgid "..."
+msgstr "..."
+
+msgctxt "0060 | C007_Ki-Bo"
+msgid ""
+"If you're in search of clues, I would\n"
+"investigate the classroom on the 2nd floor..."
+msgstr ""
+
+msgctxt "0061 | C000_Saiha"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "0062 | C007_Ki-Bo"
+msgid ""
+"I caught a glimpse of something odd there\n"
+"while battling the Exisals in the courtyard."
+msgstr ""
+
+msgctxt "0063 | C007_Ki-Bo"
+msgid ""
+"Whatever clue you're looking for may be\n"
+"there."
+msgstr ""
+
+msgctxt "0064 | C000_Saiha"
+msgid "Something odd..."
+msgstr ""
+
+msgctxt "0065 | C007_Ki-Bo"
+msgid ""
+"Just hurry! You don't have much time!\n"
+"It's nearly dawn."
+msgstr ""
+
+msgctxt "0066 | C007_Ki-Bo"
+msgid "And...I'm worried about Himiko."
+msgstr ""
+
+msgctxt "0067 | C000_Saiha"
+msgid "Keebo..."
+msgstr ""
+
+msgctxt "0068 | C012_Shiro"
+msgid "But you won't change the time limit...will you?"
+msgstr ""
+
+msgctxt "0069 | C007_Ki-Bo"
+msgid ""
+"I can't keep evading the Exisals' attacks\n"
+"beyond that time limit."
+msgstr ""
+
+msgctxt "0070 | C007_Ki-Bo"
+msgid "If we don't settle this soon, I'll be destroyed."
+msgstr ""
+
+msgctxt "0071 | C007_Ki-Bo"
+msgid ""
+"And if that happens, we'll lose the chance\n"
+"to destroy the Ultimate Academy..."
+msgstr ""
+
+msgctxt "0072 | C007_Ki-Bo"
+msgid ""
+"That would be the worst ending...\n"
+"No..."
+msgstr ""
+
+msgctxt "0073 | C007_Ki-Bo"
+msgid "...It would be an ending of pure despair."
+msgstr ""
+
+msgctxt "0074 | chara_Blank"
+msgid "<CLT=cltMIND>Keebo..."
+msgstr ""
+
+msgctxt "0075 | C000_Saiha"
+msgid "Tsumugi, I'm going to the second floor."
+msgstr ""
+
+msgctxt "0076 | C012_Shiro"
+msgid ""
+"I don't know if I can get to all of them,\n"
+"but I'll do what I can!"
+msgstr ""
+
+msgctxt "0077 | C012_Shiro"
+msgid "I'll see you later!"
+msgstr ""
+
+msgctxt "0078 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>With confident steps, Tsumugi\n"
+"ran out of the library."
+msgstr ""
+
+msgctxt "0079 | chara_Blank"
+msgid "<CLT=cltMIND>Himiko...just a little longer..."
+msgstr ""
+
+msgctxt "0080 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You have increased your <CLT=cltSTRONG>bond<CLT=cltSYSTEM>!\n"
+"You can move more debris than before."
+msgstr ""
+
+msgctxt "0081 | chara_Blank"
+msgid "<CLT=cltMIND>Himiko...just a little longer..."
+msgstr ""

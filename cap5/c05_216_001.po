@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C005_Oma__"
+msgid ""
+"When the <CLT=size2>crossbow\n"
+"fired..."
+msgstr ""
+
+msgctxt "0002 | C005_Oma__"
+msgid "When the crossbow fired..."
+msgstr ""
+
+msgctxt "0003 | C005_Oma__"
+msgid "what was even <CLT=size2>going on!?"
+msgstr ""
+
+msgctxt "0004 | C005_Oma__"
+msgid "what was even going on!?"
+msgstr ""
+
+msgctxt "0005 | C009_Yumen"
+msgid ""
+"As if you need to ask!\n"
+"<CLT=size2>You were there!"
+msgstr ""
+
+msgctxt "0006 | C009_Yumen"
+msgid "As if you need to ask! You were there!"
+msgstr ""
+
+msgctxt "0007 | C012_Shiro"
+msgid "The cro"
+msgstr ""
+
+msgctxt "0008 | C012_Shiro"
+msgid "The crossbow was in Kaito's possession, first..."
+msgstr ""
+
+msgctxt "0009 | C012_Shiro"
+msgid "ss"
+msgstr ""
+
+msgctxt "0010 | C012_Shiro"
+msgid "bow was"
+msgstr ""
+
+msgctxt "0011 | C012_Shiro"
+msgid "<CLT=cltWEAK>in Kaito's possession<CLT=cltNORMAL> first..."
+msgstr ""
+
+msgctxt "0012 | C012_Shiro"
+msgid "<CLT=size2>He<CLT=size1> probably"
+msgstr ""
+
+msgctxt "0013 | C012_Shiro"
+msgid "He probably fired the first shot at Kokichi, too."
+msgstr ""
+
+msgctxt "0014 | C012_Shiro"
+msgid "fired the <CLT=size1.5>first shot"
+msgstr ""
+
+msgctxt "0015 | C012_Shiro"
+msgid "at <CLT=size2>Kokichi,<CLT=size1> too."
+msgstr ""
+
+msgctxt "0016 | C007_Ki-Bo"
+msgid "Then <CLT=size2>Kokichi"
+msgstr ""
+
+msgctxt "0017 | C007_Ki-Bo"
+msgid ""
+"Then Kokichi disarmed Kaito,\n"
+"took the crossbow..."
+msgstr ""
+
+msgctxt "0018 | C007_Ki-Bo"
+msgid "<CLT=size2>disarmed Kaito,"
+msgstr ""
+
+msgctxt "0019 | C007_Ki-Bo"
+msgid "<CLT=cltWEAK>took the <CLT=size2>crossbow..."
+msgstr ""
+
+msgctxt "0020 | C007_Ki-Bo"
+msgid "and <CLT=size2>returned fire."
+msgstr ""
+
+msgctxt "0021 | C007_Ki-Bo"
+msgid "and returned fire."
+msgstr ""
+
+msgctxt "0022 | C005_Oma__"
+msgid "I didn't take the <CLT=size2>crossbow"
+msgstr ""
+
+msgctxt "0023 | C005_Oma__"
+msgid "I didn't take the crossbow from Kaito..."
+msgstr ""
+
+msgctxt "0024 | C005_Oma__"
+msgid "from <CLT=size2>Kaito..."
+msgstr ""
+
+msgctxt "0025 | C005_Oma__"
+msgid "<CLT=size2>I<CLT=size1> secretly"
+msgstr ""
+
+msgctxt "0026 | C005_Oma__"
+msgid "I secretly brought a different one!"
+msgstr ""
+
+msgctxt "0027 | C005_Oma__"
+msgid "brought a <CLT=size2>different one!"
+msgstr ""
+
+msgctxt "0028 | C010_Haruk"
+msgid "But <CLT=cltWEAK>only <CLT=size2>one"
+msgstr ""
+
+msgctxt "0029 | C010_Haruk"
+msgid "But only one crossbow was taken."
+msgstr ""
+
+msgctxt "0030 | C010_Haruk"
+msgid "<CLT=cltWEAK><CLT=size2>crossbow"
+msgstr ""
+
+msgctxt "0031 | C010_Haruk"
+msgid "was taken."
+msgstr ""
+
+msgctxt "0032 | C010_Haruk"
+msgid ""
+"The <CLT=size2>other two<CLT=size1> are still\n"
+"in my <CLT=size2>research lab."
+msgstr ""
+
+msgctxt "0033 | C010_Haruk"
+msgid ""
+"The other two are still\n"
+"in my research lab."
+msgstr ""
+
+msgctxt "0034 | C009_Yumen"
+msgid "Still,"
+msgstr ""
+
+msgctxt "0035 | C009_Yumen"
+msgid "Still, only one arrow was fired..."
+msgstr ""
+
+msgctxt "0036 | C009_Yumen"
+msgid "<CLT=cltWEAK>only <CLT=size2>one arrow<CLT=size1>"
+msgstr ""
+
+msgctxt "0037 | C009_Yumen"
+msgid "was fired..."
+msgstr ""
+
+msgctxt "0038 | C009_Yumen"
+msgid "So how could they"
+msgstr ""
+
+msgctxt "0039 | C009_Yumen"
+msgid "So how did they both shoot each other?"
+msgstr ""
+
+msgctxt "0040 | C009_Yumen"
+msgid "<CLT=size2>both shoot"
+msgstr ""
+
+msgctxt "0041 | C009_Yumen"
+msgid "<CLT=size2>each other?"
+msgstr ""
+
+msgctxt "0042 | C005_Oma__"
+msgid ""
+"By the way,\n"
+"<CLT=cltWEAK><CLT=size2>crossbow shots\n"
+"hurt<CLT=cltNORMAL><CLT=size1> a looot."
+msgstr ""
+
+msgctxt "0043 | C005_Oma__"
+msgid "By the way, crossbow shots hurt a looot."
+msgstr ""
+
+msgctxt "0044 | C005_Oma__"
+msgid ""
+"<CLT=size2>My\n"
+"<CLT=size1>wound\n"
+"is"
+msgstr ""
+
+msgctxt "0045 | C005_Oma__"
+msgid "My wound is still aching something fierce."
+msgstr ""
+
+msgctxt "0046 | C005_Oma__"
+msgid ""
+"<CLT=size2>still\n"
+"aching"
+msgstr ""
+
+msgctxt "0047 | C005_Oma__"
+msgid ""
+"something\n"
+"fierce."
+msgstr ""
+
+msgctxt "0048 | C010_Haruk"
+msgid "How annoying..."
+msgstr ""
+
+msgctxt "0049 | C007_Ki-Bo"
+msgid ""
+"You're not really\n"
+"clearing things up..."
+msgstr ""
+
+msgctxt "0050 | C001_Momot"
+msgid ""
+"Yes! I, Kaito Momota,\n"
+"Luminary of the Stars, had it!"
+msgstr ""
+
+msgctxt "0051 | C001_Momot"
+msgid "Yeah! That's exactly it!"
+msgstr ""
+
+msgctxt "0052 | C001_Momot"
+msgid "I really messed that up..."
+msgstr ""
+
+msgctxt "0053 | C010_Haruk"
+msgid "Shut up already!"
+msgstr ""
+
+msgctxt "0054 | C007_Ki-Bo"
+msgid ""
+"Secretly...?\n"
+"Is that even possible?"
+msgstr ""
+
+msgctxt "0055 | C010_Haruk"
+msgid "crossbow"
+msgstr ""
+
+msgctxt "0056 | C005_Oma__"
+msgid ""
+"Crap!\n"
+"She testified!"
+msgstr ""
+
+msgctxt "0057 | C007_Ki-Bo"
+msgid "Just one?"
+msgstr ""
+
+msgctxt "0058 | C012_Shiro"
+msgid "Huh? Only one?"
+msgstr ""
+
+msgctxt "0059 | C010_Haruk"
+msgid "What the...?"
+msgstr ""
+
+msgctxt "0060 | C007_Ki-Bo"
+msgid ""
+"Was there just one\n"
+"arrow after all?"
+msgstr ""
+
+msgctxt "0061 | C010_Haruk"
+msgid ""
+"Shall I put you out\n"
+"of your misery, then?"
+msgstr ""

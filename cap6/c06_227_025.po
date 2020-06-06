@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | modNicofarreData"
+msgid "It's onnnnn!"
+msgstr ""
+
+msgctxt "0002 | modNicofarreData"
+msgid "first!"
+msgstr ""
+
+msgctxt "0003 | modNicofarreData"
+msgid "Bring on the spoilers!"
+msgstr ""
+
+msgctxt "0004 | modNicofarreData"
+msgid "My husbando Shuichi!!!"
+msgstr ""
+
+msgctxt "0005 | modNicofarreData"
+msgid "Kyoko is my waifu."
+msgstr ""
+
+msgctxt "0006 | modNicofarreData"
+msgid "Sakura is my muscle waifu."
+msgstr ""
+
+msgctxt "0007 | modNicofarreData"
+msgid "LOL dude you watching?"
+msgstr ""
+
+msgctxt "0008 | modNicofarreData"
+msgid "Wow, Himiko is still alive."
+msgstr ""
+
+msgctxt "0009 | modNicofarreData"
+msgid "she's shaking"
+msgstr ""
+
+msgctxt "0010 | modNicofarreData"
+msgid "Viewers get to participate now!"
+msgstr ""
+
+msgctxt "0011 | modNicofarreData"
+msgid "I feel like I'm participating, too!"
+msgstr ""
+
+msgctxt "0012 | modNicofarreData"
+msgid "Real fiction is where it's at!"
+msgstr ""
+
+msgctxt "0013 | modNicofarreData"
+msgid "Wow it's on LOL"
+msgstr ""
+
+msgctxt "0014 | modNicofarreData"
+msgid "Too bad, I'm a viewer."
+msgstr ""
+
+msgctxt "0015 | modNicofarreData"
+msgid "Chiaki #1 waifu"
+msgstr ""
+
+msgctxt "0016 | modNicofarreData"
+msgid "I believe in Keebs."
+msgstr ""
+
+msgctxt "0017 | modNicofarreData"
+msgid "That cosplay is incredible."
+msgstr ""
+
+msgctxt "0018 | modNicofarreData"
+msgid "Puhuhuhuhu LOL"
+msgstr ""
+
+msgctxt "0019 | modNicofarreData"
+msgid "omg like totally despair"
+msgstr ""
+
+msgctxt "0020 | modNicofarreData"
+msgid "You can do it, Shuichi!"
+msgstr ""
+
+msgctxt "0021 | modNicofarreData"
+msgid "Okay, time for applause."
+msgstr ""
+
+msgctxt "0022 | modNicofarreData"
+msgid "*clap clap clap clap clap*"
+msgstr ""
+
+msgctxt "0023 | modNicofarreData"
+msgid "Killing Harmony! I just got it! LOL"
+msgstr ""
+
+msgctxt "0024 | modNicofarreData"
+msgid "What a happy occasion!"
+msgstr ""
+
+msgctxt "0025 | modNicofarreData"
+msgid "*clap clap clap*"
+msgstr ""
+
+msgctxt "0026 | modNicofarreData"
+msgid "I've waited three years for this."
+msgstr ""
+
+msgctxt "0027 | modNicofarreData"
+msgid "*clap clap clap clap clap*"
+msgstr ""
+
+msgctxt "0028 | modNicofarreData"
+msgid "Get to the punishment already!"
+msgstr ""
+
+msgctxt "0029 | modNicofarreData"
+msgid "I thought the franchise was done."
+msgstr ""
+
+msgctxt "0030 | modNicofarreData"
+msgid "*clap clap clap*"
+msgstr ""
+
+msgctxt "0031 | modNicofarreData"
+msgid "*clap clap clap clap clap*"
+msgstr ""
+
+msgctxt "0032 | modNicofarreData"
+msgid "I love the killing games."
+msgstr ""
+
+msgctxt "0033 | modNicofarreData"
+msgid "*clap clap*"
+msgstr ""
+
+msgctxt "0034 | modNicofarreData"
+msgid "Google it up, shitlord."
+msgstr ""
+
+msgctxt "0035 | modNicofarreData"
+msgid "*clap clap clap clap*"
+msgstr ""
+
+msgctxt "0036 | modNicofarreData"
+msgid "I'm all clapped out."
+msgstr ""
+
+msgctxt "0037 | modNicofarreData"
+msgid "Congrats on the new game!"
+msgstr ""
+
+msgctxt "0038 | modNicofarreData"
+msgid "We're Dangan fans!"
+msgstr ""
+
+msgctxt "0039 | modNicofarreData"
+msgid "*clap clap clap clap clap*"
+msgstr ""
+
+msgctxt "0040 | modNicofarreData"
+msgid "Shuichi, look this way! <3"
+msgstr ""

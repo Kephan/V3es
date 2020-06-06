@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "This <CLT=size2>crime<CLT=size1> was"
+msgstr ""
+
+msgctxt "0002"
+msgid "This crime was committed by the recently deceased."
+msgstr ""
+
+msgctxt "0003"
+msgid "<CLT=size2>committed<CLT=size1> by"
+msgstr ""
+
+msgctxt "0004"
+msgid "the <CLT=size2>recently deceased."
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"They <CLT=size2>came back<CLT=size1> to life\n"
+"and <CLT=size2>killed two<CLT=size1> of\n"
+"<CLT=size2>our classmates!"
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"They came back to life\n"
+"and killed two of our classmates!"
+msgstr ""
+
+msgctxt "0007"
+msgid "<CLT=size4>N"
+msgstr ""
+
+msgctxt "0008"
+msgid "NOOOOO!!!"
+msgstr ""
+
+msgctxt "0009"
+msgid "<CLT=size4>O"
+msgstr ""
+
+msgctxt "0010"
+msgid "<CLT=size4>O<CLT=size1> O"
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT=size1>O <CLT=size2>O"
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT=size2>!"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT=size3>!"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT=size3>!"
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"So ritual\n"
+"<CLT=size2><CLT=cltWEAK>did work<CLT=cltNORMAL>!?"
+msgstr ""
+
+msgctxt "0016"
+msgid "So ritual did work!?"
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"<CLT=size2>Who<CLT=size1> was <CLT=size2>resurrected,\n"
+"<CLT=size1>I wonder..."
+msgstr ""
+
+msgctxt "0018"
+msgid "Who was resurrected, I wonder..."
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"Angie did say she was\n"
+"gonna <CLT=size2><CLT=cltWEAK>bring Rantaro back<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"Angie did say she was\n"
+"gonna bring Rantaro back!"
+msgstr ""
+
+msgctxt "0021"
+msgid "Yes..."
+msgstr ""
+
+msgctxt "0022"
+msgid "Yes... Rantaro was resurrected..."
+msgstr ""
+
+msgctxt "0023"
+msgid "Rantaro was"
+msgstr ""
+
+msgctxt "0024"
+msgid "resurrected..."
+msgstr ""
+
+msgctxt "0025"
+msgid "The <CLT=size2>culprit<CLT=size1> is"
+msgstr ""
+
+msgctxt "0026"
+msgid "The culprit is the late Rantaro Amami!"
+msgstr ""
+
+msgctxt "0027"
+msgid "the <CLT=size2>late<CLT=size1> Rantaro Amami!"
+msgstr ""
+
+msgctxt "0028"
+msgid "<CLT=size3>PLEASE!"
+msgstr ""
+
+msgctxt "0029"
+msgid "PLEASE! STOP IT!!!!!"
+msgstr ""
+
+msgctxt "0030"
+msgid "<CLT=size3>ST"
+msgstr ""
+
+msgctxt "0031"
+msgid "<CLT=size2>OP"
+msgstr ""
+
+msgctxt "0032"
+msgid "<CLT=size4>IT"
+msgstr ""
+
+msgctxt "0033"
+msgid "<CLT=size2>!"
+msgstr ""
+
+msgctxt "0034"
+msgid "<CLT=size2>!"
+msgstr ""
+
+msgctxt "0035"
+msgid "<CLT=size3>!"
+msgstr ""
+
+msgctxt "0036"
+msgid "<CLT=size3>!"
+msgstr ""
+
+msgctxt "0037"
+msgid "Who killed them...?"
+msgstr ""
+
+msgctxt "0038"
+msgid "I love zombies!"
+msgstr ""
+
+msgctxt "0039"
+msgid "C-Come on..."
+msgstr ""
+
+msgctxt "0040"
+msgid "I said stop..."
+msgstr ""
+
+msgctxt "0041"
+msgid "Resurrected!?"
+msgstr ""
+
+msgctxt "0042"
+msgid "Y-You gotta be kidding me!"
+msgstr ""
+
+msgctxt "0043"
+msgid "Guys?"
+msgstr ""
+
+msgctxt "0044"
+msgid "Come on, be serious..."
+msgstr ""
+
+msgctxt "0045"
+msgid "This can't be happening!"
+msgstr ""
+
+msgctxt "0046"
+msgid "So stop it, stop it!"
+msgstr ""
+
+msgctxt "0047"
+msgid "Shuichi, say something."
+msgstr ""

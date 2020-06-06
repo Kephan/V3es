@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C012_Shiro"
+msgid "This isn't everyone...right?"
+msgstr ""
+
+msgctxt "0002 | C000_Saiha"
+msgid "...Kaito and Kokichi aren't here."
+msgstr ""
+
+msgctxt "0003 | C010_Haruk"
+msgid "...I bet Kokichi is already there."
+msgstr ""
+
+msgctxt "0004 | C010_Haruk"
+msgid ""
+"As the mastermind of the killing game,\n"
+"he's waiting for us to arrive."
+msgstr ""
+
+msgctxt "0005 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0006 | C000_Saiha"
+msgid ""
+"We...don't know that yet.\n"
+"There's still a chance Kaito is alive."
+msgstr ""
+
+msgctxt "0007 | C010_Haruk"
+msgid "...Cut it out. Do you want to die?"
+msgstr ""
+
+msgctxt "0008 | C000_Saiha"
+msgid "Maki..."
+msgstr ""
+
+msgctxt "0009 | C010_Haruk"
+msgid ""
+"This is a battle between <CLT=cltSTRONG>hope<CLT=typeNORMAL> and <CLT=cltSTRONG>despair<CLT=typeNORMAL>. If I\n"
+"show any weakness like you are..."
+msgstr ""
+
+msgctxt "0010 | C010_Haruk"
+msgid "...then I know I'll lose to <CLT=cltSTRONG>despair<CLT=typeNORMAL>."
+msgstr ""
+
+msgctxt "0011 | chara_Blank"
+msgid "<CLT=cltMIND>Lose to despair..."
+msgstr ""
+
+msgctxt "0012 | C010_Haruk"
+msgid ""
+"Six of us will participate, and one of us will\n"
+"die after this class trial..."
+msgstr ""
+
+msgctxt "0013 | C010_Haruk"
+msgid "Then only five will be left. Only...five..."
+msgstr ""
+
+msgctxt "0014 | C009_Yumen"
+msgid "Th-That's right... We're...the only ones left..."
+msgstr ""
+
+msgctxt "0015 | C010_Haruk"
+msgid ""
+"But we can't lose to <CLT=cltSTRONG>despair<CLT=typeNORMAL>. Even if we\n"
+"have no future, we need to win."
+msgstr ""
+
+msgctxt "0016 | C010_Haruk"
+msgid "That is...the whole point of this class trial."
+msgstr ""
+
+msgctxt "0017 | C010_Haruk"
+msgid ""
+"I will defeat Kokichi, no matter what I\n"
+"have to sacrifice."
+msgstr ""
+
+msgctxt "0018 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>No matter what she has\n"
+"to sacrifice?"
+msgstr ""
+
+msgctxt "0019 | chara_Blank"
+msgid "<CLT=cltMIND>Are you sure about that, Maki?"
+msgstr ""
+
+msgctxt "0020 | chara_Blank"
+msgid "<CLT=cltMIND>Is that what you call \"<CLT=cltSTRONG>hope<CLT=cltMIND>\"?"
+msgstr ""
+
+msgctxt "0021 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0022 | chara_Blank"
+msgid "<CLT=cltMIND>I know that we can't lose to <CLT=cltSTRONG>despair<CLT=cltMIND>."
+msgstr ""
+
+msgctxt "0023 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>But...something is wrong.\n"
+"Something doesn't feel right."
+msgstr ""
+
+msgctxt "0024 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I wonder what Kaito would say\n"
+"at a time like this."
+msgstr ""
+
+msgctxt "0025 | chara_Blank"
+msgid "<CLT=cltMIND>What would he say to us?"
+msgstr ""
+
+msgctxt "0026 | chara_Blank"
+msgid "<CLT=cltMIND>If it was Kaito..."
+msgstr ""
+
+msgctxt "0027 | C007_Ki-Bo"
+msgid "Let's go."
+msgstr ""
+
+msgctxt "0028 | C007_Ki-Bo"
+msgid ""
+"No matter what Kokichi is scheming, there's\n"
+"no way we can lose."
+msgstr ""
+
+msgctxt "0029 | C007_Ki-Bo"
+msgid ""
+"...After all, we're students of Hope's Peak\n"
+"Academy."
+msgstr ""
+
+msgctxt "0030 | C009_Yumen"
+msgid "I-I'm fine. I'll be on my guard the whole time."
+msgstr ""
+
+msgctxt "0031 | C009_Yumen"
+msgid ""
+"I'm filled with the combined power of\n"
+"<CLT=cltSTRONG>hope<CLT=cltNORMAL> and magic right now!"
+msgstr ""
+
+msgctxt "0032 | C010_Haruk"
+msgid ""
+"I'll defeat Kokichi, no matter what I have\n"
+"to sacrifice. We can't lose..."
+msgstr ""
+
+msgctxt "0033 | C012_Shiro"
+msgid ""
+"Shuichi...I understand you don't want\n"
+"to believe it, but..."
+msgstr ""
+
+msgctxt "0034 | C012_Shiro"
+msgid "Kaito's...not here anymore."
+msgstr ""
+
+msgctxt "0035 | chara_Blank"
+msgid "<CLT=cltMIND>I know that we can't lose to <CLT=cltSTRONG>despair<CLT=cltMIND>."
+msgstr ""
+
+msgctxt "0036 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>But...something is wrong.\n"
+"Something doesn't feel right."
+msgstr ""
+
+msgctxt "0037 | chara_Blank"
+msgid "<CLT=cltMIND>...What is hope?"
+msgstr ""
+
+msgctxt "0038 | chara_Blank"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0039 | chara_Blank"
+msgid "No"
+msgstr ""
+
+msgctxt "0040 | chara_Blank"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0041 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0042 | chara_Blank"
+msgid "<CLT=cltMIND>I know that we can't lose to <CLT=cltSTRONG>despair<CLT=cltMIND>."
+msgstr ""
+
+msgctxt "0043 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>But...something is wrong.\n"
+"Something doesn't feel right."
+msgstr ""
+
+msgctxt "0044 | chara_Blank"
+msgid "<CLT=cltMIND>...What is hope?"
+msgstr ""
+
+msgctxt "0045 | chara_Blank"
+msgid "<CLT=cltSYSTEM>"
+msgstr ""
+
+msgctxt "0046 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*rumble rumble rumble!*"
+msgstr ""
+
+msgctxt "0047 | chara_Blank"
+msgid "<CLT=cltMIND>We didn't say a word to one another."
+msgstr ""
+
+msgctxt "0048 | C012_Shiro"
+msgid ""
+"<CLT=cltMIND>Silent as a tomb, we stepped\n"
+"into those open doors."
+msgstr ""
+
+msgctxt "0049 | C012_Shiro"
+msgid ""
+"<CLT=cltMIND>We had lost the will to live, knowing what\n"
+"we know about the outside world."
+msgstr ""
+
+msgctxt "0050 | C012_Shiro"
+msgid ""
+"<CLT=cltMIND>But somehow...despite that despair,\n"
+"we had found a new reason to live."
+msgstr ""
+
+msgctxt "0051 | C012_Shiro"
+msgid "<CLT=cltMIND>To win <CLT=cltSTRONG>the battle between hope and despair<CLT=cltMIND>."
+msgstr ""
+
+msgctxt "0052 | C012_Shiro"
+msgid ""
+"<CLT=cltMIND>But now...\n"
+"What do we know?"
+msgstr ""
+
+msgctxt "0053 | C012_Shiro"
+msgid ""
+"<CLT=cltMIND>We don't know what <CLT=cltSTRONG>hope<CLT=cltMIND>\n"
+"means to us anymore."
+msgstr ""
+
+msgctxt "0054 | C012_Shiro"
+msgid ""
+"<CLT=cltMIND>What is <CLT=cltSTRONG>hope<CLT=cltMIND>...?\n"
+"A burden you bear?"
+msgstr ""
+
+msgctxt "0055 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>As those thoughts pierced my\n"
+"mind, I suddenly stopped."
+msgstr ""
+
+msgctxt "0056 | chara_Blank"
+msgid "<CLT=cltMIND>I can't think about things like that anymore."
+msgstr ""
+
+msgctxt "0057 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>The only thing I need to think about...\n"
+"is survival."
+msgstr ""
+
+msgctxt "0058 | chara_Blank"
+msgid "2"
+msgstr "2"
+
+msgctxt "0059 | chara_Blank"
+msgid "3"
+msgstr "3"
+
+msgctxt "0060 | chara_Blank"
+msgid "4"
+msgstr "4"
+
+msgctxt "0061 | chara_Blank"
+msgid "5"
+msgstr "5"
+
+msgctxt "0062 | chara_Blank"
+msgid "6"
+msgstr "6"
+
+msgctxt "0063 | chara_Blank"
+msgid "7"
+msgstr "7"
+
+msgctxt "0064 | chara_Blank"
+msgid "8"
+msgstr "8"
+
+msgctxt "0065 | chara_Blank"
+msgid "9"
+msgstr "9"

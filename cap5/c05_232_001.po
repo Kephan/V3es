@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C009_Yumen"
+msgid ""
+"There must be \n"
+"some <CLT=size2>trick<CLT=size1> \n"
+"to that <CLT=size2>video!"
+msgstr ""
+
+msgctxt "0002 | C009_Yumen"
+msgid ""
+"There must be some trick\n"
+"to that video!"
+msgstr ""
+
+msgctxt "0003 | C020_Monok"
+msgid "That's what <CLT=size2>you<CLT=size1> all"
+msgstr ""
+
+msgctxt "0004 | C020_Monok"
+msgid "That's what you all gotta figure out!"
+msgstr ""
+
+msgctxt "0005 | C020_Monok"
+msgid "gotta <CLT=size2>figure out!"
+msgstr ""
+
+msgctxt "0006 | C041_ExOma"
+msgid "There is <CLT=size2>no trick."
+msgstr ""
+
+msgctxt "0007 | C041_ExOma"
+msgid "There is no trick."
+msgstr ""
+
+msgctxt "0008 | C041_ExOma"
+msgid "You can check, but there's"
+msgstr ""
+
+msgctxt "0009 | C041_ExOma"
+msgid "You can check, but there's no editing function in that camera."
+msgstr ""
+
+msgctxt "0010 | C041_ExOma"
+msgid "<CLT=cltWEAK><CLT=size2>no"
+msgstr ""
+
+msgctxt "0011 | C041_ExOma"
+msgid "<CLT=cltWEAK><CLT=size2>ed"
+msgstr ""
+
+msgctxt "0012 | C041_ExOma"
+msgid "<CLT=cltWEAK><CLT=size2>iti"
+msgstr ""
+
+msgctxt "0013 | C041_ExOma"
+msgid "<CLT=cltWEAK><CLT=size2>ng"
+msgstr ""
+
+msgctxt "0014 | C041_ExOma"
+msgid ""
+"<CLT=cltWEAK><CLT=size2>function<CLT=cltNORMAL>\n"
+"<CLT=size1>in that <CLT=size2>camera."
+msgstr ""
+
+msgctxt "0015 | C012_Shiro"
+msgid ""
+"Did the placement of\n"
+"that camera seem\n"
+"<CLT=size2>suspicious\n"
+"<CLT=size1>to <CLT=size2>any<CLT=size1> of <CLT=size2>you?"
+msgstr ""
+
+msgctxt "0016 | C012_Shiro"
+msgid ""
+"Did the placement of that camera\n"
+"seem suspicious to any of you?"
+msgstr ""
+
+msgctxt "0017 | C012_Shiro"
+msgid "The filming <CLT=cltAGREE><CLT=size2>angle<CLT=size1> seemed"
+msgstr ""
+
+msgctxt "0018 | C012_Shiro"
+msgid ""
+"The filming angle seemed\n"
+"unnatural, don't you think?"
+msgstr ""
+
+msgctxt "0019 | C012_Shiro"
+msgid "<CLT=cltAGREE><CLT=size2>unnatural,<CLT=cltNORMAL><CLT=size1> don't you think?"
+msgstr ""
+
+msgctxt "0020 | C010_Haruk"
+msgid "The <CLT=size2>person<CLT=size1> in that <CLT=size2>video..."
+msgstr ""
+
+msgctxt "0021 | C010_Haruk"
+msgid "The person in that video..."
+msgstr ""
+
+msgctxt "0022 | C010_Haruk"
+msgid "Was it <CLT=size2>really Kaito?"
+msgstr ""
+
+msgctxt "0023 | C010_Haruk"
+msgid "Was it really Kaito?"
+msgstr ""
+
+msgctxt "0024 | C007_Ki-Bo"
+msgid ""
+"Something\n"
+"<CLT=size2>seemed off<CLT=size1> about that video to me..."
+msgstr ""
+
+msgctxt "0025 | C007_Ki-Bo"
+msgid ""
+"Something seemed off\n"
+"about that video to me..."
+msgstr ""
+
+msgctxt "0026 | C007_Ki-Bo"
+msgid ""
+"When the\n"
+"<CLT=cltAGREE><CLT=size2>hydraulic\n"
+"<CLT=size2>press"
+msgstr ""
+
+msgctxt "0027 | C007_Ki-Bo"
+msgid ""
+"When the hydraulic press stopped\n"
+"for a brief moment."
+msgstr ""
+
+msgctxt "0028 | C007_Ki-Bo"
+msgid "<CLT=cltAGREE><CLT=size2>stopped<CLT=cltNORMAL><CLT=size1> for a brief moment."
+msgstr ""
+
+msgctxt "0029 | C009_Yumen"
+msgid "Could <CLT=size2>it<CLT=size1> be..."
+msgstr ""
+
+msgctxt "0030 | C009_Yumen"
+msgid "Could it be..."
+msgstr ""
+
+msgctxt "0031 | C009_Yumen"
+msgid ""
+"that the\n"
+"<CLT=size2>video<CLT=size1> was"
+msgstr ""
+
+msgctxt "0032 | C009_Yumen"
+msgid "that the video was shot at another location!?"
+msgstr ""
+
+msgctxt "0033 | C009_Yumen"
+msgid "<CLT=cltAGREE><CLT=size2>shot"
+msgstr ""
+
+msgctxt "0034 | C009_Yumen"
+msgid ""
+"<CLT=cltAGREE><CLT=size1>at <CLT=size2>another\n"
+"location<CLT=cltNORMAL>!?"
+msgstr ""
+
+msgctxt "0035 | C020_Monok"
+msgid "Any other <CLT=size2>bright ideas?"
+msgstr ""
+
+msgctxt "0036 | C020_Monok"
+msgid "Any other bright ideas?"
+msgstr ""
+
+msgctxt "0037 | C020_Monok"
+msgid ""
+"Come on,\n"
+"everybody!\n"
+"Speak up!"
+msgstr ""
+
+msgctxt "0038 | C020_Monok"
+msgid "Come on, everybody! Speak up!"
+msgstr ""
+
+msgctxt "0039 | C005_Oma__"
+msgid "There's nothing like that."
+msgstr ""
+
+msgctxt "0040 | C007_Ki-Bo"
+msgid "I think she's on to something!"
+msgstr ""
+
+msgctxt "0041 | C009_Yumen"
+msgid "I see you're fitting in just fine!"
+msgstr ""
+
+msgctxt "0042 | C012_Shiro"
+msgid ""
+"Could you only play,\n"
+"record, and pause?"
+msgstr ""
+
+msgctxt "0043 | C005_Oma__"
+msgid "Cosplayers have an eye for detail!"
+msgstr ""
+
+msgctxt "0044 | C009_Yumen"
+msgid ""
+"Good argument\n"
+"from a cosplayer!"
+msgstr ""
+
+msgctxt "0045 | C007_Ki-Bo"
+msgid ""
+"Now that you mention it,\n"
+"something seems suspicious..."
+msgstr ""
+
+msgctxt "0046 | C012_Shiro"
+msgid "Did it malfunction?"
+msgstr ""
+
+msgctxt "0047 | C009_Yumen"
+msgid "If you look closely, it does stop..."
+msgstr ""
+
+msgctxt "0048 | C012_Shiro"
+msgid "That's certainly possible!"
+msgstr ""
+
+msgctxt "0049 | C007_Ki-Bo"
+msgid "Another location where?"
+msgstr ""
+
+msgctxt "0050 | C012_Shiro"
+msgid "Someone say something..."
+msgstr ""
+
+msgctxt "0051 | C009_Yumen"
+msgid "Awww! That's so cuuute!"
+msgstr ""

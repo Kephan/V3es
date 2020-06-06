@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C009_Yumen"
+msgid ""
+"<CLT=cltMIND>N-No...\n"
+"I can't make up my mind..."
+msgstr ""
+
+msgctxt "0002 | C009_Yumen"
+msgid "<CLT=cltMIND>I'm sorry...everyone..."
+msgstr ""
+
+msgctxt "0003 | C012_Shiro"
+msgid "Everyone wants despair, after all."
+msgstr ""
+
+msgctxt "0004 | C020_Monok"
+msgid "The killing games will last forver."
+msgstr ""
+
+msgctxt "0005 | C020_Monok"
+msgid "Puhuhuhuhuhu...!"
+msgstr ""
+
+msgctxt "0006 | C009_Yumen"
+msgid ""
+"Am I...really okay with \n"
+"this sort of ending?"
+msgstr ""
+
+msgctxt "0007 | C009_Yumen"
+msgid "Retry"
+msgstr ""
+
+msgctxt "0008 | C009_Yumen"
+msgid "I'm gonna live life facing forward!"
+msgstr ""
+
+msgctxt "0009 | C009_Yumen"
+msgid "Make preparations and retry"
+msgstr ""
+
+msgctxt "0010 | C009_Yumen"
+msgid "I'm gonna live life facing forward!"
+msgstr ""
+
+msgctxt "0011 | C009_Yumen"
+msgid "Quit"
+msgstr ""
+
+msgctxt "0012 | C009_Yumen"
+msgid "Would you like to retry?"
+msgstr ""

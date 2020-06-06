@@ -1,0 +1,416 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C000_Saiha"
+msgid "Ah, sorry I'm late..."
+msgstr ""
+
+msgctxt "0002 | C001_Momot"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "0003 | C001_Momot"
+msgid "O-Oh...so you came, too..."
+msgstr ""
+
+msgctxt "0004 | C000_Saiha"
+msgid "Y-Yeah..."
+msgstr ""
+
+msgctxt "0005 | C001_Momot"
+msgid "..."
+msgstr "..."
+
+msgctxt "0006 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0007 | chara_Blank"
+msgid "<CLT=cltMIND>Silence."
+msgstr ""
+
+msgctxt "0008 | C010_Haruk"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "0009 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>As if utterly bored by the painful\n"
+"silence, Maki started up a conversation."
+msgstr ""
+
+msgctxt "0010 | C010_Haruk"
+msgid ""
+"Why did you ask to see my research lab\n"
+"so suddenly, Kaito?"
+msgstr ""
+
+msgctxt "0011 | C001_Momot"
+msgid ""
+"Well...I just wanted to see what kind \n"
+"of weapons were here."
+msgstr ""
+
+msgctxt "0012 | C010_Haruk"
+msgid "What? Why would you want to see my weap—"
+msgstr ""
+
+msgctxt "0013 | C001_Momot"
+msgid ""
+"But wow! There's a ton of stuff here!\n"
+"Can you use all these, Maki Roll?"
+msgstr ""
+
+msgctxt "0014 | C010_Haruk"
+msgid "Yes, more or less..."
+msgstr ""
+
+msgctxt "0015 | C001_Momot"
+msgid "But no swords or katanas, right?"
+msgstr ""
+
+msgctxt "0016 | C010_Haruk"
+msgid ""
+"I don't use swords of any type. Not after I\n"
+"botched a mission with a katana."
+msgstr ""
+
+msgctxt "0017 | C010_Haruk"
+msgid "...You actually remembered."
+msgstr ""
+
+msgctxt "0018 | C001_Momot"
+msgid ""
+"Of course! Didn't I tell you that I take\n"
+"responsibility for my sidekicks' failures?"
+msgstr ""
+
+msgctxt "0019 | C001_Momot"
+msgid ""
+"Either way, I don't feel like weapons \n"
+"really suit women."
+msgstr ""
+
+msgctxt "0020 | C001_Momot"
+msgid ""
+"But there's no swords of any kind here—\n"
+"Japanese or western—right?"
+msgstr ""
+
+msgctxt "0021 | C010_Haruk"
+msgid ""
+"I don't use swords of any type. Not after I\n"
+"botched a mission with a katana."
+msgstr ""
+
+msgctxt "0022 | C001_Momot"
+msgid "Hmm... I see..."
+msgstr ""
+
+msgctxt "0023 | C001_Momot"
+msgid ""
+"Either way, I don't feel like weapons \n"
+"really suit women."
+msgstr ""
+
+msgctxt "0024 | C010_Haruk"
+msgid "..."
+msgstr "..."
+
+msgctxt "0025 | C010_Haruk"
+msgid ""
+"Care to explain why you wanted to see\n"
+"my weapons?"
+msgstr ""
+
+msgctxt "0026 | C001_Momot"
+msgid ""
+"Didn't I tell you this morning?\n"
+"I've got a plan figured out."
+msgstr ""
+
+msgctxt "0027 | C001_Momot"
+msgid "Oh! What's in that black case over there?"
+msgstr ""
+
+msgctxt "0028 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>As if backing away from the conversation,\n"
+"Kaito headed to the far bookcase..."
+msgstr ""
+
+msgctxt "0029 | C001_Momot"
+msgid "What's in it? Is it some kinda weapon?"
+msgstr ""
+
+msgctxt "0030 | C010_Haruk"
+msgid "...If you want to know, why don't you open it?"
+msgstr ""
+
+msgctxt "0031 | C001_Momot"
+msgid "Hmm... Let's see..."
+msgstr ""
+
+msgctxt "0032 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>And then, Kaito pulled something\n"
+"from the black case..."
+msgstr ""
+
+msgctxt "0033 | C001_Momot"
+msgid "What's this? It's a bunch of parts?"
+msgstr ""
+
+msgctxt "0034 | C010_Haruk"
+msgid "It's a disassembled crossbow."
+msgstr ""
+
+msgctxt "0035 | C001_Momot"
+msgid ""
+"Hmm, so when you put them together, \n"
+"they become a crossbow. Looks interesting."
+msgstr ""
+
+msgctxt "0036 | C001_Momot"
+msgid ""
+"Hey Maki Roll...can you teach me how \n"
+"to put it together?"
+msgstr ""
+
+msgctxt "0037 | C010_Haruk"
+msgid "Sure...I don't mind."
+msgstr ""
+
+msgctxt "0038 | C010_Haruk"
+msgid "Put this...and this together..."
+msgstr ""
+
+msgctxt "0039 | C001_Momot"
+msgid "Umm...like this?"
+msgstr ""
+
+msgctxt "0040 | C010_Haruk"
+msgid ""
+"And then, put that other part in the\n"
+"opposite way..."
+msgstr ""
+
+msgctxt "0041 | C010_Haruk"
+msgid "...Ah, wait. That's wrong."
+msgstr ""
+
+msgctxt "0042 | C001_Momot"
+msgid "Oh, my bad. It goes this way."
+msgstr ""
+
+msgctxt "0043 | C010_Haruk"
+msgid "Mmhm. Then, next it's—"
+msgstr ""
+
+msgctxt "0044 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0045 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>While watching those two, the memory\n"
+"of a similar scene came to my mind."
+msgstr ""
+
+msgctxt "0046 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Kaito struggling while Maki\n"
+"gave him instructions..."
+msgstr ""
+
+msgctxt "0047 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Eventually, they succeeded in\n"
+"putting together the crossbow."
+msgstr ""
+
+msgctxt "0048 | C001_Momot"
+msgid ""
+"Whoa, since I built it, it became \n"
+"an extra-cool crossbow!"
+msgstr ""
+
+msgctxt "0049 | C010_Haruk"
+msgid "It doesn't matter who builds it, though..."
+msgstr ""
+
+msgctxt "0050 | C001_Momot"
+msgid ""
+"It seems like it's a bit complicated...but I \n"
+"think I can do it by myself next time."
+msgstr ""
+
+msgctxt "0051 | C010_Haruk"
+msgid "...Shuichi, do you want to learn, too?"
+msgstr ""
+
+msgctxt "0052 | C000_Saiha"
+msgid ""
+"Ah, no, that's alright...\n"
+"I sort of understand from watching anyway."
+msgstr ""
+
+msgctxt "0053 | C010_Haruk"
+msgid ""
+"Then let's put it away. You can easily take it\n"
+"apart by reversing the steps."
+msgstr ""
+
+msgctxt "0054 | C001_Momot"
+msgid "Wait, do I have to do it!?"
+msgstr ""
+
+msgctxt "0055 | C010_Haruk"
+msgid "Who else is going to do it?"
+msgstr ""
+
+msgctxt "0056 | C001_Momot"
+msgid ""
+"Yeah...s-sorry...\n"
+"I don't...feel too good again..."
+msgstr ""
+
+msgctxt "0057 | C010_Haruk"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "0058 | C001_Momot"
+msgid ""
+"It seems like I'm not at 100%!\n"
+"So I'm gonna go back first!"
+msgstr ""
+
+msgctxt "0059 | C010_Haruk"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "0060 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>Ignoring Maki trying to stop him,\n"
+"Kaito fled the room."
+msgstr ""
+
+msgctxt "0061 | C010_Haruk"
+msgid "..."
+msgstr "..."
+
+msgctxt "0062 | C010_Haruk"
+msgid ""
+"I knew he wasn't the type to clean up, but I\n"
+"never thought he'd run away with a crappy lie..."
+msgstr ""
+
+msgctxt "0063 | C010_Haruk"
+msgid "...How frustrating. He's the worst."
+msgstr ""
+
+msgctxt "0064 | C000_Saiha"
+msgid "Ah, well, that's just Kaito..."
+msgstr ""
+
+msgctxt "0065 | C010_Haruk"
+msgid "...You're the worst, too."
+msgstr ""
+
+msgctxt "0066 | C000_Saiha"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "0067 | C010_Haruk"
+msgid "I'm sure you know why I invited you, right?"
+msgstr ""
+
+msgctxt "0068 | C000_Saiha"
+msgid ""
+"Y-Yeah...I do. You were trying to get\n"
+"Kaito and I to make up."
+msgstr ""
+
+msgctxt "0069 | C010_Haruk"
+msgid ""
+"It's not like he hates you or anything.\n"
+"He's just being stubborn."
+msgstr ""
+
+msgctxt "0070 | C000_Saiha"
+msgid "But...I just don't know what to say to him."
+msgstr ""
+
+msgctxt "0071 | C000_Saiha"
+msgid ""
+"I-I had no choice! Gonta... If I didn't do\n"
+"something, everyone would have died..."
+msgstr ""
+
+msgctxt "0072 | C000_Saiha"
+msgid ""
+"I... I don't think it'd be right to\n"
+"apologize for that..."
+msgstr ""
+
+msgctxt "0073 | C000_Saiha"
+msgid "..."
+msgstr "..."
+
+msgctxt "0074 | C000_Saiha"
+msgid ""
+"I'm sorry, Maki.\n"
+"I just...need more time..."
+msgstr ""
+
+msgctxt "0075 | C010_Haruk"
+msgid ""
+"*sigh* I didn't realize you two would require\n"
+"such high maintenance."
+msgstr ""
+
+msgctxt "0076 | C000_Saiha"
+msgid "S-Sorry..."
+msgstr ""
+
+msgctxt "0077 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>But now that she mentions it,\n"
+"I didn't realize it either."
+msgstr ""
+
+msgctxt "0078 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I didn't realize...Maki would be\n"
+"so concerned about us."
+msgstr ""
+
+msgctxt "0079 | C000_Saiha"
+msgid "...Thank you, Maki."
+msgstr ""
+
+msgctxt "0080 | C010_Haruk"
+msgid "..."
+msgstr "..."
+
+msgctxt "0081 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>In the end, I was the one who ended\n"
+"up disassembling the crossbow."
+msgstr ""
+
+msgctxt "0082 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>After I had finished,\n"
+"I returned to my room."
+msgstr ""

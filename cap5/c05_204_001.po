@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C010_Haruk"
+msgid "The coat <CLT=size2>sleeve"
+msgstr ""
+
+msgctxt "0002 | C010_Haruk"
+msgid ""
+"The coat sleeve sticking out of\n"
+"the hydraulic press..."
+msgstr ""
+
+msgctxt "0003 | C010_Haruk"
+msgid "<CLT=size2>sticking<CLT=size1> out of the"
+msgstr ""
+
+msgctxt "0004 | C010_Haruk"
+msgid "hydraulic <CLT=size2>press..."
+msgstr ""
+
+msgctxt "0005 | C010_Haruk"
+msgid ""
+"is\n"
+"<CLT=size2>rather\n"
+"<CLT=size1>telling."
+msgstr ""
+
+msgctxt "0006 | C010_Haruk"
+msgid "is rather telling."
+msgstr ""
+
+msgctxt "0007 | C010_Haruk"
+msgid "It <CLT=size2>couldn't"
+msgstr ""
+
+msgctxt "0008 | C010_Haruk"
+msgid "It couldn't have been anyone else..."
+msgstr ""
+
+msgctxt "0009 | C010_Haruk"
+msgid "have been <CLT=size2>anyone"
+msgstr ""
+
+msgctxt "0010 | C010_Haruk"
+msgid "else..."
+msgstr ""
+
+msgctxt "0011 | C010_Haruk"
+msgid "but <CLT=size2>Kaito."
+msgstr ""
+
+msgctxt "0012 | C010_Haruk"
+msgid "but Kaito."
+msgstr ""
+
+msgctxt "0013 | C010_Haruk"
+msgid "If <CLT=size2>you"
+msgstr ""
+
+msgctxt "0014 | C010_Haruk"
+msgid "If you couldn't see that..."
+msgstr ""
+
+msgctxt "0015 | C010_Haruk"
+msgid "can't see"
+msgstr ""
+
+msgctxt "0016 | C010_Haruk"
+msgid "that..."
+msgstr ""
+
+msgctxt "0017 | C010_Haruk"
+msgid ""
+"then you <CLT=size2>weren't\n"
+"looking<CLT=size1> hard enough."
+msgstr ""
+
+msgctxt "0018 | C010_Haruk"
+msgid "then you weren't looking hard enough."
+msgstr ""
+
+msgctxt "0019 | C000_Saiha"
+msgid "I wasn't <CLT=size2>looking hard enough?"
+msgstr ""
+
+msgctxt "0020 | C000_Saiha"
+msgid ""
+"I wasn't looking hard enough?\n"
+"What do you mean?"
+msgstr ""
+
+msgctxt "0021 | C000_Saiha"
+msgid "What do you <CLT=size2>mean?"
+msgstr ""
+
+msgctxt "0022 | C010_Haruk"
+msgid "He always"
+msgstr ""
+
+msgctxt "0023 | C010_Haruk"
+msgid ""
+"He always dressed himself\n"
+"in a rather odd manner."
+msgstr ""
+
+msgctxt "0024 | C010_Haruk"
+msgid "<CLT=size2>dressed<CLT=size1> himself"
+msgstr ""
+
+msgctxt "0025 | C010_Haruk"
+msgid "in a <CLT=size2>rather"
+msgstr ""
+
+msgctxt "0026 | C010_Haruk"
+msgid "odd manner."
+msgstr ""
+
+msgctxt "0027 | C010_Haruk"
+msgid "He never"
+msgstr ""
+
+msgctxt "0028 | C010_Haruk"
+msgid ""
+"He never put his arms\n"
+"through his coat sleeves."
+msgstr ""
+
+msgctxt "0029 | C010_Haruk"
+msgid "<CLT=cltWEAK><CLT=size2>put<CLT=size1> his <CLT=size2>arms<CLT=size1> through"
+msgstr ""
+
+msgctxt "0030 | C010_Haruk"
+msgid "his coat sleeves."
+msgstr ""
+
+msgctxt "0031 | C010_Haruk"
+msgid "So when"
+msgstr ""
+
+msgctxt "0032 | C010_Haruk"
+msgid ""
+"So when the hydraulic press\n"
+"crushed him..."
+msgstr ""
+
+msgctxt "0033 | C010_Haruk"
+msgid "the hydraulic <CLT=size2>press"
+msgstr ""
+
+msgctxt "0034 | C010_Haruk"
+msgid "<CLT=size2>crushed<CLT=size1> him..."
+msgstr ""
+
+msgctxt "0035 | C010_Haruk"
+msgid "<CLT=size2>all<CLT=size1> that"
+msgstr ""
+
+msgctxt "0036 | C010_Haruk"
+msgid "all that stuck out was his coat sleeve."
+msgstr ""
+
+msgctxt "0037 | C010_Haruk"
+msgid "<CLT=size2>stuck<CLT=size1> out"
+msgstr ""
+
+msgctxt "0038 | C010_Haruk"
+msgid "<CLT=size2>was"
+msgstr ""
+
+msgctxt "0039 | C010_Haruk"
+msgid "his coat <CLT=size2>sleeve."
+msgstr ""
+
+msgctxt "0040 | C010_Haruk"
+msgid ""
+"If you\n"
+"understand,\n"
+"<CLT=size2>then\n"
+"be\n"
+"quiet\n"
+"already."
+msgstr ""
+
+msgctxt "0041 | C010_Haruk"
+msgid ""
+"If you understand,\n"
+"then be quiet already."
+msgstr ""
+
+msgctxt "0042 | C010_Haruk"
+msgid ""
+"Otherwise,\n"
+"you're\n"
+"<CLT=size2>getting\n"
+"<CLT=size1>in the way."
+msgstr ""
+
+msgctxt "0043 | C010_Haruk"
+msgid ""
+"Otherwise, you're getting\n"
+"in the way."
+msgstr ""
+
+msgctxt "0044 | C000_Saiha"
+msgid ""
+"I'm sorry...\n"
+"Could you start over from the beginning?"
+msgstr ""

@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C005_Oma__"
+msgid ""
+"I'm the number one\n"
+"<CLT=size2>suspect,\n"
+"<CLT=size1>cuz I was in the hangar!"
+msgstr ""
+
+msgctxt "0002 | C005_Oma__"
+msgid ""
+"I'm the number one suspect,\n"
+"cuz I was in the hangar!"
+msgstr ""
+
+msgctxt "0003 | C007_Ki-Bo"
+msgid "If <CLT=size2>you<CLT=size1> are the <CLT=size2>culprit..."
+msgstr ""
+
+msgctxt "0004 | C007_Ki-Bo"
+msgid "If you are the culprit..."
+msgstr ""
+
+msgctxt "0005 | C007_Ki-Bo"
+msgid ""
+"then explain\n"
+"the crossbow."
+msgstr ""
+
+msgctxt "0006 | C007_Ki-Bo"
+msgid "then explain the crossbow."
+msgstr ""
+
+msgctxt "0007 | C005_Oma__"
+msgid "That thing doesn't"
+msgstr ""
+
+msgctxt "0008 | C005_Oma__"
+msgid "That thing doesn't matter at all..."
+msgstr ""
+
+msgctxt "0009 | C005_Oma__"
+msgid "<CLT=size2>matter<CLT=size1> at all..."
+msgstr ""
+
+msgctxt "0010 | C005_Oma__"
+msgid "<CLT=size2>I'm<CLT=size1> the number"
+msgstr ""
+
+msgctxt "0011 | C005_Oma__"
+msgid "I'm the number one suspect!"
+msgstr ""
+
+msgctxt "0012 | C005_Oma__"
+msgid "one <CLT=size2>suspect!"
+msgstr ""
+
+msgctxt "0013 | C005_Oma__"
+msgid ""
+"I'm <CLT=size2>the one<CLT=size1> who\n"
+"<CLT=size2>shot Kaito!"
+msgstr ""
+
+msgctxt "0014 | C005_Oma__"
+msgid "I'm the one who shot Kaito!"
+msgstr ""
+
+msgctxt "0015 | C012_Shiro"
+msgid "You're always suspicious!"
+msgstr ""
+
+msgctxt "0016 | C007_Ki-Bo"
+msgid "...Then explain the crossbow!"
+msgstr ""

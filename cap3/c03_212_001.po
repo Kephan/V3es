@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"The culprit\n"
+"sneaked"
+msgstr ""
+
+msgctxt "0002"
+msgid "The culprit sneaked in during the seance..."
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"in during\n"
+"the seance..."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"by crawling\n"
+"under the floor."
+msgstr ""
+
+msgctxt "0005"
+msgid "by crawling under the floor."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"But it was pitch\n"
+"<CLT=size2>black<CLT=size1> during<CLT=size2>　　　　<CLT=size1>the <CLT=size2>seance."
+msgstr ""
+
+msgctxt "0007"
+msgid "But it was pitch black during the seance."
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"How could they even see \n"
+"if they were\n"
+"<CLT=size2>under<CLT=size1> the <CLT=size2>floor?"
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"How could they even see\n"
+"if they were under the floor?"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"Because it\n"
+"<CLT=size2>wasn't dark\n"
+"<CLT=size2>under<CLT=size1> the <CLT=size2>floor."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"Because it wasn't dark\n"
+"under the floor."
+msgstr ""
+
+msgctxt "0012"
+msgid "You see,"
+msgstr ""
+
+msgctxt "0013"
+msgid "You see, our villain had a light."
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT=cltWEAK><CLT=size2>our "
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT=cltWEAK><CLT=size2>villain"
+msgstr ""
+
+msgctxt "0016"
+msgid "<CLT=cltWEAK><CLT=size2>had<CLT=size1> a <CLT=size2>light<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0017"
+msgid "<CLT=size2>Light?<CLT=size1> You mean <CLT=cltAGREE>candle<CLT=cltNORMAL>?"
+msgstr ""
+
+msgctxt "0018"
+msgid "Light? You mean candle?"
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"I mean... Keebo's\n"
+"<CLT=size3>flashlight function."
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"I mean...\n"
+"Keebo's flashlight function."
+msgstr ""
+
+msgctxt "0021"
+msgid "<CLT=size3>Huh?"
+msgstr ""
+
+msgctxt "0022"
+msgid "Huh? Now hold on a second..."
+msgstr ""
+
+msgctxt "0023"
+msgid "Now hold on a second..."
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"Keebo could've <CLT=cltWEAK><CLT=size2>used\n"
+"<CLT=size1>that <CLT=size2>function<CLT=size1> to get\n"
+"<CLT=size2>under<CLT=size1> the <CLT=size2>floor<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0025"
+msgid ""
+"Keebo could've used that\n"
+"function to get under the floor..."
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"and <CLT=size2>sneak into\n"
+"<CLT=size1> the <CLT=size2>empty room"
+msgstr ""
+
+msgctxt "0027"
+msgid "and sneak into the empty room during the seance!"
+msgstr ""
+
+msgctxt "0028"
+msgid "during the <CLT=size2>seance!"
+msgstr ""
+
+msgctxt "0029"
+msgid "<CLT=size2>I said,"
+msgstr ""
+
+msgctxt "0030"
+msgid "I said, hold on a second!"
+msgstr ""
+
+msgctxt "0031"
+msgid "<CLT=size2>hold on<CLT=size1> a <CLT=size2>second!"
+msgstr ""
+
+msgctxt "0032"
+msgid ""
+"He used his\n"
+"<CLT=size2>robot functions\n"
+"<CLT=size1>to commit the murders!"
+msgstr ""
+
+msgctxt "0033"
+msgid ""
+"He used his\n"
+"robot functions\n"
+"to commit the murders!"
+msgstr ""
+
+msgctxt "0034"
+msgid "<CLT=size3>HOLD ON"
+msgstr ""
+
+msgctxt "0035"
+msgid "HOLD ON A SECOND!!!"
+msgstr ""
+
+msgctxt "0036"
+msgid "<CLT=size3>A SECOND!!!"
+msgstr ""
+
+msgctxt "0037"
+msgid "Dark under floor, too?"
+msgstr ""
+
+msgctxt "0038"
+msgid "There were no lights."
+msgstr ""
+
+msgctxt "0039"
+msgid "Whatcha mean?"
+msgstr ""
+
+msgctxt "0040"
+msgid "What light...?"
+msgstr ""
+
+msgctxt "0041"
+msgid "Was there evidence of that?"
+msgstr ""
+
+msgctxt "0042"
+msgid "Keebo...?"
+msgstr ""
+
+msgctxt "0043"
+msgid ""
+"No way Keebo'd do \n"
+"something like that!"
+msgstr ""
+
+msgctxt "0044"
+msgid ""
+"He was certainly\n"
+"capable..."
+msgstr ""
+
+msgctxt "0045"
+msgid "Keebo killing someone..."
+msgstr ""
+
+msgctxt "0046"
+msgid "So he's an evil robot..."
+msgstr ""

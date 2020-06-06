@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C007_Ki-Bo"
+msgid ""
+"Let's assume\n"
+"that <CLT=size2>Miu"
+msgstr ""
+
+msgctxt "0002 | C007_Ki-Bo"
+msgid "Let's assume that Miu brought the hammer..."
+msgstr ""
+
+msgctxt "0003 | C007_Ki-Bo"
+msgid ""
+"brought\n"
+"the <CLT=size2>hammer..."
+msgstr ""
+
+msgctxt "0004 | C007_Ki-Bo"
+msgid ""
+"<CLT=size2>What<CLT=size1> was\n"
+"she planning to <CLT=size2>do with it?"
+msgstr ""
+
+msgctxt "0005 | C007_Ki-Bo"
+msgid "What was she planning to do with it?"
+msgstr ""
+
+msgctxt "0006 | C012_Shiro"
+msgid "Maybe <CLT=size2>use it"
+msgstr ""
+
+msgctxt "0007 | C012_Shiro"
+msgid "Maybe use it to break down a wall?"
+msgstr ""
+
+msgctxt "0008 | C012_Shiro"
+msgid "<CLT=cltAGREE>to break"
+msgstr ""
+
+msgctxt "0009 | C012_Shiro"
+msgid "<CLT=cltAGREE>down"
+msgstr ""
+
+msgctxt "0010 | C012_Shiro"
+msgid "<CLT=cltAGREE>a wall"
+msgstr ""
+
+msgctxt "0011 | C012_Shiro"
+msgid "?"
+msgstr "?"
+
+msgctxt "0012 | C004_Gokuh"
+msgid "<CLT=size2>Uses<CLT=size1> for a <CLT=size2>hammer..."
+msgstr ""
+
+msgctxt "0013 | C004_Gokuh"
+msgid "Uses for hammer..."
+msgstr ""
+
+msgctxt "0014 | C004_Gokuh"
+msgid "Gonta know! Miu gonna"
+msgstr ""
+
+msgctxt "0015 | C004_Gokuh"
+msgid "Gonta know! Miu gonna build stuff with hammer!"
+msgstr ""
+
+msgctxt "0016 | C004_Gokuh"
+msgid "<CLT=size2>build"
+msgstr ""
+
+msgctxt "0017 | C004_Gokuh"
+msgid "<CLT=size2>stuff"
+msgstr ""
+
+msgctxt "0018 | C004_Gokuh"
+msgid "with hammer!"
+msgstr ""
+
+msgctxt "0019 | C001_Momot"
+msgid ""
+"She probably just brought it\n"
+"for <CLT=size2>self-defense."
+msgstr ""
+
+msgctxt "0020 | C001_Momot"
+msgid ""
+"She probably just brought it\n"
+"for self-defense."
+msgstr ""
+
+msgctxt "0021 | C005_Oma__"
+msgid "Or, she <CLT=size2>secretly"
+msgstr ""
+
+msgctxt "0022 | C005_Oma__"
+msgid "Or, she secretly met up with someone..."
+msgstr ""
+
+msgctxt "0023 | C005_Oma__"
+msgid "<CLT=cltAGREE><CLT=size2>met up<CLT=size1> with someone<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0024 | C005_Oma__"
+msgid "and tried"
+msgstr ""
+
+msgctxt "0025 | C005_Oma__"
+msgid "and tried to kill them with it!"
+msgstr ""
+
+msgctxt "0026 | C005_Oma__"
+msgid "to <CLT=size4>kill<CLT=size1> them with it!"
+msgstr ""
+
+msgctxt "0027 | C009_Yumen"
+msgid "<CLT=size3>You idiot!"
+msgstr ""
+
+msgctxt "0028 | C009_Yumen"
+msgid "You idiot! She was the victim!"
+msgstr ""
+
+msgctxt "0029 | C009_Yumen"
+msgid "<CLT=cltWEAK><CLT=size2>She<CLT=size1> was the <CLT=size2>victim<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0030 | C001_Momot"
+msgid "So she was using it?"
+msgstr ""
+
+msgctxt "0031 | C009_Yumen"
+msgid "Was it planted?"
+msgstr ""
+
+msgctxt "0032 | C001_Momot"
+msgid "Which wall was it?"
+msgstr ""
+
+msgctxt "0033 | C005_Oma__"
+msgid "Like a chair?"
+msgstr ""
+
+msgctxt "0034 | C005_Oma__"
+msgid "Like a desk?"
+msgstr ""
+
+msgctxt "0035 | C009_Yumen"
+msgid "A DIY project!"
+msgstr ""
+
+msgctxt "0036 | C007_Ki-Bo"
+msgid "Secretly...?"
+msgstr ""
+
+msgctxt "0037 | C004_Gokuh"
+msgid "Miu!?"
+msgstr ""
+
+msgctxt "0038 | C009_Yumen"
+msgid "Is the killer!?"
+msgstr ""
+
+msgctxt "0039 | C010_Haruk"
+msgid ""
+"Does it really matter that\n"
+"she was the victim?"
+msgstr ""

@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C000_Saiha"
+msgid "If we <CLT=size2>refuse<CLT=size1> to <CLT=size2>vote..."
+msgstr ""
+
+msgctxt "0002 | C000_Saiha"
+msgid "If we refuse to vote..."
+msgstr ""
+
+msgctxt "0003 | C000_Saiha"
+msgid "<CLT=size2>we all die."
+msgstr ""
+
+msgctxt "0004 | C000_Saiha"
+msgid "we all die."
+msgstr ""
+
+msgctxt "0005 | C123_Tanak"
+msgid "To <CLT=size2>choose death<CLT=size1> is to"
+msgstr ""
+
+msgctxt "0006 | C123_Tanak"
+msgid ""
+"To choose death is to\n"
+"blaspheme against life itself!"
+msgstr ""
+
+msgctxt "0007 | C123_Tanak"
+msgid "<CLT=cltAGREE><CLT=size2>blaspheme<CLT=size1> against <CLT=size2>life<CLT=cltNORMAL><CLT=size1> itself!"
+msgstr ""
+
+msgctxt "0008 | C000_Saiha"
+msgid "<CLT=size2>Hope"
+msgstr ""
+
+msgctxt "0009 | C000_Saiha"
+msgid "Hope and despair, neither the victor..."
+msgstr ""
+
+msgctxt "0010 | C000_Saiha"
+msgid "and <CLT=size2>despair,"
+msgstr ""
+
+msgctxt "0011 | C000_Saiha"
+msgid "neither the victor..."
+msgstr ""
+
+msgctxt "0012 | C000_Saiha"
+msgid "<CLT=size2>No one<CLT=size1> would want"
+msgstr ""
+
+msgctxt "0013 | C000_Saiha"
+msgid "No one would want an ending like that."
+msgstr ""
+
+msgctxt "0014 | C000_Saiha"
+msgid "an <CLT=size2>ending<CLT=size1> like that."
+msgstr ""
+
+msgctxt "0015 | C135_Pekoy"
+msgid ""
+"You would\n"
+"<CLT=size2>throw<CLT=size1> your <CLT=size2>life away\n"
+"<CLT=size1>for that?"
+msgstr ""
+
+msgctxt "0016 | C135_Pekoy"
+msgid ""
+"You would throw your\n"
+"life away for that?"
+msgstr ""
+
+msgctxt "0017 | C113_Ogami"
+msgid ""
+"That would be\n"
+"a <CLT=cltAGREE><CLT=size2>meaningless\n"
+"<CLT=size1>death<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0018 | C113_Ogami"
+msgid "That would be a meaningless death."
+msgstr ""
+
+msgctxt "0019 | C000_Saiha"
+msgid "No, it wouldn't!"
+msgstr ""
+
+msgctxt "0020 | C000_Saiha"
+msgid "No, it wouldn't!"
+msgstr ""
+
+msgctxt "0021 | C000_Saiha"
+msgid ""
+"<CLT=size2>Our lives<CLT=size1> are\n"
+"our strongest <CLT=size2>weapons!"
+msgstr ""
+
+msgctxt "0022 | C000_Saiha"
+msgid "Our lives are our strongest weapons!"
+msgstr ""
+
+msgctxt "0023 | C000_Saiha"
+msgid "And with these <CLT=size1.5>weapons,"
+msgstr ""
+
+msgctxt "0024 | C000_Saiha"
+msgid ""
+"And with these weapons,\n"
+"we revolt against the outside world!"
+msgstr ""
+
+msgctxt "0025 | C000_Saiha"
+msgid "<CLT=cltAGREE><CLT=size1.5>we revolt<CLT=size1> against"
+msgstr ""
+
+msgctxt "0026 | C000_Saiha"
+msgid "<CLT=cltAGREE>the <CLT=size1.5>outside world!"
+msgstr ""

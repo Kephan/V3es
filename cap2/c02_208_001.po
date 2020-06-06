@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"The <CLT=size2>only<CLT=size1> one who could've\n"
+"<CLT=size2>switched<CLT=size1> out <CLT=size2>Ryoma's<CLT=size1> body..."
+msgstr ""
+
+msgctxt "0002"
+msgid "The only one who could've switched out Ryoma's body..."
+msgstr ""
+
+msgctxt "0003"
+msgid "is <CLT=cltWEAK><CLT=size2>Himiko herself<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0004"
+msgid "is Himiko herself."
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"When <CLT=size2>Himiko<CLT=size1> was <CLT=size2>escaping<CLT=size1>\n"
+"the <CLT=size2>tank..."
+msgstr ""
+
+msgctxt "0006"
+msgid "When Himiko was escaping the tank..."
+msgstr ""
+
+msgctxt "0007"
+msgid "she <CLT=cltWEAK><CLT=size2>dragged<CLT=size1> out the <CLT=size2>body<CLT=cltNORMAL><CLT=size1> hidden in the <CLT=size2>stairs..."
+msgstr ""
+
+msgctxt "0008"
+msgid "she dragged out the body hidden in the stairs..."
+msgstr ""
+
+msgctxt "0009"
+msgid "and simply <CLT=size2>switched places<CLT=size1> with it."
+msgstr ""
+
+msgctxt "0010"
+msgid "and simply switched places with it."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"Are you <CLT=size2>telling me<CLT=size1>\n"
+"<CLT=size2>　\n"
+"　"
+msgstr ""
+
+msgctxt "0012"
+msgid "Are you telling me you saw that happen!?"
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"<CLT=size2>　\n"
+"　\n"
+"you saw<CLT=size1> that happen!?"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT=size2>No one<CLT=size1> could have <CLT=size2>seen<CLT=size1> that."
+msgstr ""
+
+msgctxt "0015"
+msgid "No one could have seen that."
+msgstr ""
+
+msgctxt "0016"
+msgid "It would have occurred in the"
+msgstr ""
+
+msgctxt "0017"
+msgid "It would have occurred in the middle of the show..."
+msgstr ""
+
+msgctxt "0018"
+msgid "middle of the <CLT=size1>show<CLT=size1>..."
+msgstr ""
+
+msgctxt "0019"
+msgid "when <CLT=size1>the <CLT=size1>tank<CLT=size1>"
+msgstr ""
+
+msgctxt "0020"
+msgid "when the tank was covered with a curtain."
+msgstr ""
+
+msgctxt "0021"
+msgid "was <CLT=size2>covered<CLT=size1> with a <CLT=size2>curtain."
+msgstr ""
+
+msgctxt "0022"
+msgid "So basically,"
+msgstr ""
+
+msgctxt "0023"
+msgid "So basically, no one saw anything."
+msgstr ""
+
+msgctxt "0024"
+msgid "<CLT=cltWEAK><CLT=size2>no one"
+msgstr ""
+
+msgctxt "0025"
+msgid "<CLT=cltWEAK><CLT=size2>saw<CLT=size1> anything<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0026"
+msgid "<CLT=size2>I-I<CLT=size1>"
+msgstr ""
+
+msgctxt "0027"
+msgid "I-I didn't do it! I swear!"
+msgstr ""
+
+msgctxt "0028"
+msgid "<CLT=size2>didn't"
+msgstr ""
+
+msgctxt "0029"
+msgid "<CLT=size2>do it!"
+msgstr ""
+
+msgctxt "0030"
+msgid "I"
+msgstr "I"
+
+msgctxt "0031"
+msgid "<CLT=size2>swear!"
+msgstr ""
+
+msgctxt "0032"
+msgid ""
+"Ryoma's <CLT=size2>corpse<CLT=size1> wasn't\n"
+"<CLT=size2>in<CLT=size1> the <CLT=size2>staircase..."
+msgstr ""
+
+msgctxt "0033"
+msgid "Ryoma's corpse wasn't in the staircase..."
+msgstr ""
+
+msgctxt "0034"
+msgid "Oh, <CLT=size1>quit <CLT=size3>lying!"
+msgstr ""
+
+msgctxt "0035"
+msgid "Oh, quit lying! Ya donkey-lipped con artist!"
+msgstr ""
+
+msgctxt "0036"
+msgid ""
+"<CLT=size1>Ya donkey-lipped\n"
+"<CLT=size3>con artist!"
+msgstr ""
+
+msgctxt "0037"
+msgid "<CLT=cltAGREE>She's not lying!"
+msgstr ""
+
+msgctxt "0038"
+msgid "She's not lying!"
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"She's not a\n"
+"<CLT=size1>con <CLT=size2>artist<CLT=size1>"
+msgstr ""
+
+msgctxt "0040"
+msgid "She's not a con artist and she doesn't have donkey lips!"
+msgstr ""
+
+msgctxt "0041"
+msgid ""
+"and she\n"
+"<CLT=size2>doesn't<CLT=size1>"
+msgstr ""
+
+msgctxt "0042"
+msgid ""
+"have\n"
+"<CLT=size2>donkey lips!"
+msgstr ""
+
+msgctxt "0043"
+msgid "That could be true..."
+msgstr ""
+
+msgctxt "0044"
+msgid "You sure?"
+msgstr ""
+
+msgctxt "0045"
+msgid "Mm-hm, mm-hm..."
+msgstr ""
+
+msgctxt "0046"
+msgid "Huh? Go inside stairs?"
+msgstr ""
+
+msgctxt "0047"
+msgid "Why so worked up, Tenko?"
+msgstr ""
+
+msgctxt "0048"
+msgid "So it could be anyone?"
+msgstr ""
+
+msgctxt "0049"
+msgid "If only we could see through things..."
+msgstr ""
+
+msgctxt "0050"
+msgid "She's sweatin' bullets!"
+msgstr ""
+
+msgctxt "0051"
+msgid "My, the stories we tell..."
+msgstr ""
+
+msgctxt "0052"
+msgid "Fuckin' liar!"
+msgstr ""
+
+msgctxt "0053"
+msgid "Donkey-lipped...?"
+msgstr ""

@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | modNicofarreData"
+msgid "Huh? It's hope?"
+msgstr ""
+
+msgctxt "0002 | modNicofarreData"
+msgid "What are you doing, Keebo?"
+msgstr ""
+
+msgctxt "0003 | modNicofarreData"
+msgid "Don't give up hope!"
+msgstr ""
+
+msgctxt "0004 | modNicofarreData"
+msgid "Hope! Hope! Hope!"
+msgstr ""
+
+msgctxt "0005 | modNicofarreData"
+msgid "Please side with hope."
+msgstr ""
+
+msgctxt "0006 | modNicofarreData"
+msgid "1 vote for hope!"
+msgstr ""
+
+msgctxt "0007 | modNicofarreData"
+msgid "I bet the mastermind is shocked."
+msgstr ""
+
+msgctxt "0008 | modNicofarreData"
+msgid "Hurry up and show me hope."
+msgstr ""
+
+msgctxt "0009 | modNicofarreData"
+msgid "HOPE!"
+msgstr ""
+
+msgctxt "0010 | modNicofarreData"
+msgid "COME BACK HOOOPE"
+msgstr ""
+
+msgctxt "0011 | modNicofarreData"
+msgid "Hope counter!"
+msgstr ""
+
+msgctxt "0012 | modNicofarreData"
+msgid "show us maki roll!"
+msgstr ""
+
+msgctxt "0013 | modNicofarreData"
+msgid "It's unanimous hope."
+msgstr ""
+
+msgctxt "0014 | modNicofarreData"
+msgid "Hope hasn't lost yet."
+msgstr ""
+
+msgctxt "0015 | modNicofarreData"
+msgid "Defeat despair!"
+msgstr ""
+
+msgctxt "0016 | modNicofarreData"
+msgid "cmon it's hope again, right?"
+msgstr ""
+
+msgctxt "0017 | modNicofarreData"
+msgid "I'm rooting for despair so *shrugs*"
+msgstr ""
+
+msgctxt "0018 | modNicofarreData"
+msgid "I got 10 bucks riding on hope."
+msgstr ""
+
+msgctxt "0019 | modNicofarreData"
+msgid "I'm on the side of hope, so..."
+msgstr ""
+
+msgctxt "0020 | modNicofarreData"
+msgid "i wanna break Shuichi's fingers <3"
+msgstr ""
+
+msgctxt "0021 | modNicofarreData"
+msgid "Dude, chill out."
+msgstr ""
+
+msgctxt "0022 | modNicofarreData"
+msgid "Betrayal lol"
+msgstr ""
+
+msgctxt "0023 | modNicofarreData"
+msgid "The questionnaires were pointless."
+msgstr ""
+
+msgctxt "0024 | modNicofarreData"
+msgid "What's gonna happen now?"
+msgstr ""
+
+msgctxt "0025 | modNicofarreData"
+msgid "Keebo?"
+msgstr ""
+
+msgctxt "0026 | modNicofarreData"
+msgid "I wanna see hope and despair."
+msgstr ""
+
+msgctxt "0027 | modNicofarreData"
+msgid "Shuichi has a point."
+msgstr ""
+
+msgctxt "0028 | modNicofarreData"
+msgid "That robot's got heart."
+msgstr ""
+
+msgctxt "0029 | modNicofarreData"
+msgid "Am I gonna get my money back?"
+msgstr ""
+
+msgctxt "0030 | modNicofarreData"
+msgid "LOL did Keebo break?"
+msgstr ""
+
+msgctxt "0031 | modNicofarreData"
+msgid "this is making me salty…"
+msgstr ""
+
+msgctxt "0032 | modNicofarreData"
+msgid "What's management doing?"
+msgstr ""
+
+msgctxt "0033 | modNicofarreData"
+msgid "WTF? You already killed each other?"
+msgstr ""
+
+msgctxt "0034 | modNicofarreData"
+msgid "Synch rate dropping like crazy!"
+msgstr ""
+
+msgctxt "0035 | modNicofarreData"
+msgid "It's weird if you think about it."
+msgstr ""
+
+msgctxt "0036 | modNicofarreData"
+msgid "Management, do your job!"
+msgstr ""
+
+msgctxt "0037 | modNicofarreData"
+msgid "You're having fun, too."
+msgstr ""
+
+msgctxt "0038 | modNicofarreData"
+msgid "I'm gonna dismantle you, Keebo."
+msgstr ""
+
+msgctxt "0039 | modNicofarreData"
+msgid "Calm down and have some tea."
+msgstr ""
+
+msgctxt "0040 | modNicofarreData"
+msgid "At least get the despair ending."
+msgstr ""
+
+msgctxt "0041 | modNicofarreData"
+msgid "[EMPTY_LINE]"
+msgstr ""

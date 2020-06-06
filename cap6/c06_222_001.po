@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C007_Ki-Bo"
+msgid ""
+"<CLT=size2>The Biggest, Most Awful,\n"
+"Most Tragic Event in Human History\n"
+"<CLT=size1>happened..."
+msgstr ""
+
+msgctxt "0002 | C007_Ki-Bo"
+msgid ""
+"The Biggest, Most Awful, Most Tragic\n"
+"Event in Human History happened..."
+msgstr ""
+
+msgctxt "0003 | C007_Ki-Bo"
+msgid ""
+"because <CLT=size2>Junko\n"
+"<CLT=size1>had prepared countless <CLT=size2>ways\n"
+"<CLT=size1>of spreading <CLT=size2>despair."
+msgstr ""
+
+msgctxt "0004 | C007_Ki-Bo"
+msgid ""
+"because Junko had prepared\n"
+"countless ways of spreading despair."
+msgstr ""
+
+msgctxt "0005 | C009_Yumen"
+msgid ""
+"Like the <CLT=cltWEAK><CLT=size2>killing game<CLT=size1> of<CLT=size2>\n"
+"\n"
+"　\n"
+"　\n"
+"　\n"
+"　\n"
+"<CLT=size1>the <CLT=size2>78th class<CLT=cltNORMAL><CLT=size1>\n"
+"of Hope's Peak Academy."
+msgstr ""
+
+msgctxt "0006 | C009_Yumen"
+msgid "Like the killing game of the 78th class of Hope's Peak Academy."
+msgstr ""
+
+msgctxt "0007 | C010_Haruk"
+msgid "<CLT=size2>They"
+msgstr ""
+
+msgctxt "0008 | C010_Haruk"
+msgid ""
+"They were held prisoner\n"
+"by the Ultimate Despair..."
+msgstr ""
+
+msgctxt "0009 | C010_Haruk"
+msgid "the <CLT=cltWEAK>Ultimate"
+msgstr ""
+
+msgctxt "0010 | C010_Haruk"
+msgid "<CLT=cltWEAK>Despair"
+msgstr ""
+
+msgctxt "0011 | C010_Haruk"
+msgid "were held"
+msgstr ""
+
+msgctxt "0012 | C010_Haruk"
+msgid "prisoner by"
+msgstr ""
+
+msgctxt "0013 | C010_Haruk"
+msgid ""
+"and <CLT=size2>forced<CLT=size1>\n"
+"into the killing game."
+msgstr ""
+
+msgctxt "0014 | C010_Haruk"
+msgid "and forced into the killing game."
+msgstr ""
+
+msgctxt "0015 | C042_Eno53"
+msgid ""
+"Oh, I have\n"
+"some <CLT=size2>bad news<CLT=size1> about that..."
+msgstr ""
+
+msgctxt "0016 | C042_Eno53"
+msgid "Oh, I have some bad news about that..."
+msgstr ""
+
+msgctxt "0017 | C042_Eno53"
+msgid "<CLT=size2>The"
+msgstr ""
+
+msgctxt "0018 | C042_Eno53"
+msgid "The events that my death set in motion..."
+msgstr ""
+
+msgctxt "0019 | C042_Eno53"
+msgid "<CLT=size2>events"
+msgstr ""
+
+msgctxt "0020 | C042_Eno53"
+msgid "<CLT=size2>that"
+msgstr ""
+
+msgctxt "0021 | C042_Eno53"
+msgid "<CLT=size2>my"
+msgstr ""
+
+msgctxt "0022 | C042_Eno53"
+msgid "　"
+msgstr "　"
+
+msgctxt "0023 | C042_Eno53"
+msgid "<CLT=size3>death"
+msgstr ""
+
+msgctxt "0024 | C042_Eno53"
+msgid "set in motion..."
+msgstr ""
+
+msgctxt "0025 | C042_Eno53"
+msgid ""
+"are <CLT=size2>only now<CLT=size1>\n"
+"reaching their <CLT=size2>climax."
+msgstr ""
+
+msgctxt "0026 | C042_Eno53"
+msgid "are only now reaching their climax."
+msgstr ""
+
+msgctxt "0027 | C010_Haruk"
+msgid ""
+"So\n"
+"<CLT=cltWEAK><CLT=size1>the <CLT=size2>Remnants\n"
+"<CLT=size1>of <CLT=size2>Despair<CLT=size1> and"
+msgstr ""
+
+msgctxt "0028 | C010_Haruk"
+msgid ""
+"So the Remnants of Despair and the\n"
+"Future Foundation are still fighting..."
+msgstr ""
+
+msgctxt "0029 | C010_Haruk"
+msgid ""
+"<CLT=cltWEAK>the <CLT=size2>Future\n"
+"Foundation"
+msgstr ""
+
+msgctxt "0030 | C010_Haruk"
+msgid "are still fighting..."
+msgstr ""
+
+msgctxt "0031 | C010_Haruk"
+msgid ""
+"But for now,\n"
+"we've <CLT=size2>avoided<CLT=size1> the <CLT=size2>worst<CLT=size1> of <CLT=size2>it."
+msgstr ""
+
+msgctxt "0032 | C010_Haruk"
+msgid "But for now, we've avoided the worst of it."
+msgstr ""
+
+msgctxt "0033 | C020_Monok"
+msgid "Oh, that sounds bad!"
+msgstr ""
+
+msgctxt "0034 | C020_Monok"
+msgid "She did no such thing!"
+msgstr ""
+
+msgctxt "0035 | C020_Monok"
+msgid "Oh, maybe she did..."
+msgstr ""
+
+msgctxt "0036 | C020_Monok"
+msgid "The 78th class, right?"
+msgstr ""
+
+msgctxt "0037 | C020_Monok"
+msgid "Were they really prisoners?"
+msgstr ""
+
+msgctxt "0038 | C020_Monok"
+msgid "But I wanted more despair! More!"
+msgstr ""
+
+msgctxt "0039 | C020_Monok"
+msgid "It's been going on that long?"
+msgstr ""
+
+msgctxt "0040 | C020_Monok"
+msgid "Looks alright to me!"
+msgstr ""

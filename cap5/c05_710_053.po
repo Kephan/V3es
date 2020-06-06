@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C010_Haruk"
+msgid "Tonight, huh...?"
+msgstr ""
+
+msgctxt "0002 | C010_Haruk"
+msgid ""
+"I don't know what'll happen, but I'll do what\n"
+"I can."
+msgstr ""
+
+msgctxt "0003 | C010_Haruk"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0004 | C010_Haruk"
+msgid "No"
+msgstr ""
+
+msgctxt "0005 | C010_Haruk"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0006 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Should I hang out with Maki for a while?"
+msgstr ""
+
+msgctxt "0007 | C010_Haruk"
+msgid "Then let's do some stretches."
+msgstr ""
+
+msgctxt "0008 | C010_Haruk"
+msgid "...You'll need it."
+msgstr ""
+
+msgctxt "0009 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>With Maki leading us, we spent\n"
+"some time training..."
+msgstr ""
+
+msgctxt "0010 | chara_Blank"
+msgid "<CLT=cltMIND>Maki and I grew a little closer today."
+msgstr ""

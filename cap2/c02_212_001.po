@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"<CLT=size2>I<CLT=size1> have\n"
+"an <CLT=size2>alibi!"
+msgstr ""
+
+msgctxt "0002"
+msgid "I have an alibi!"
+msgstr ""
+
+msgctxt "0003"
+msgid "What is your <CLT=size2>alibi?"
+msgstr ""
+
+msgctxt "0004"
+msgid "What is your alibi?"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"When I was\n"
+"<CLT=size2>running<CLT=size1> from <CLT=size2>Gonta<CLT=size1>..."
+msgstr ""
+
+msgctxt "0006"
+msgid "When I was running from Gonta..."
+msgstr ""
+
+msgctxt "0007"
+msgid "Things got a little..."
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"Things got a little...heated,\n"
+"if ya catch my drift."
+msgstr ""
+
+msgctxt "0009"
+msgid "<CLT=size2>he"
+msgstr ""
+
+msgctxt "0010"
+msgid "<CLT=size2>at"
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT=size2>ed"
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT=size2>,"
+msgstr ""
+
+msgctxt "0013"
+msgid "if ya catch my drift."
+msgstr ""
+
+msgctxt "0014"
+msgid "What's Maki's alibi?"
+msgstr ""
+
+msgctxt "0015"
+msgid "What's Maki's alibi?"
+msgstr ""
+
+msgctxt "0016"
+msgid "<CLT=size2>I didn't run<CLT=size1> into <CLT=size2>anyone."
+msgstr ""
+
+msgctxt "0017"
+msgid "I didn't run into anyone."
+msgstr ""
+
+msgctxt "0018"
+msgid "I was in my research lab"
+msgstr ""
+
+msgctxt "0019"
+msgid "I was in my research lab the whole time."
+msgstr ""
+
+msgctxt "0020"
+msgid "the whole time."
+msgstr ""
+
+msgctxt "0021"
+msgid "Probably another lie!"
+msgstr ""
+
+msgctxt "0022"
+msgid "Gonta embarrassed..."
+msgstr ""

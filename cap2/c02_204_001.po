@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 27/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "<CLT=size4>How<CLT=size3> did"
+msgstr ""
+
+msgctxt "0002"
+msgid "How did Himiko escape the water tank...?"
+msgstr ""
+
+msgctxt "0003"
+msgid "<CLT=size4>Himiko"
+msgstr ""
+
+msgctxt "0004"
+msgid "<CLT=size4>escape<CLT=size2> the"
+msgstr ""
+
+msgctxt "0005"
+msgid "<CLT=size2>water <CLT=size3>tank...?"
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"Maybe she just <CLT=size2>climbed out \n"
+"<CLT=size1>and <CLT=size2>no one<CLT=size1> noticed."
+msgstr ""
+
+msgctxt "0007"
+msgid "Maybe she just climbed out and no one noticed."
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"Nah, she <CLT=size2>definitely<CLT=size1>\n"
+"would've been caught."
+msgstr ""
+
+msgctxt "0009"
+msgid "Nah, she definitely would've been caught."
+msgstr ""
+
+msgctxt "0010"
+msgid "Perhaps some <CLT=cltWEAK><CLT=size2>mechanism<CLT=size1>"
+msgstr ""
+
+msgctxt "0011"
+msgid "Perhaps some mechanism was set up on the stage."
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT=cltNORMAL>was set up on the <CLT=size2>stage."
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"The <CLT=size2>curtain covering\n"
+"<CLT=size1>the <CLT=size2>tank <CLT=size1>was\n"
+"certainly suspicious."
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"The curtain covering the tank\n"
+"was certainly suspicious."
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"What about that square\n"
+"<CLT=size2>pane of glass<CLT=size1>\n"
+"we <CLT=size2>found<CLT=size1> in the <CLT=size2>tank?"
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"What about that square pane of glass\n"
+"we found in the tank?"
+msgstr ""
+
+msgctxt "0017"
+msgid "<CLT=size1>Maybe<CLT=size1> the <CLT=size2>tank<CLT=size1>"
+msgstr ""
+
+msgctxt "0018"
+msgid "Maybe the tank had a secret hatch?"
+msgstr ""
+
+msgctxt "0019"
+msgid "had a"
+msgstr ""
+
+msgctxt "0020"
+msgid "<CLT=cltAGREE><CLT=size2>secret hatch<CLT=cltNORMAL>?"
+msgstr ""
+
+msgctxt "0021"
+msgid "It must be <CLT=size2>real magic!"
+msgstr ""
+
+msgctxt "0022"
+msgid "It must be real magic!"
+msgstr ""
+
+msgctxt "0023"
+msgid "<CLT=size3>Yeah!"
+msgstr ""
+
+msgctxt "0024"
+msgid "Yeah! Real escape magic!!"
+msgstr ""
+
+msgctxt "0025"
+msgid "Real <CLT=size3>escape <CLT=size2>magic!"
+msgstr ""
+
+msgctxt "0026"
+msgid "<CLT=size2>Maybe<CLT=size1> there were"
+msgstr ""
+
+msgctxt "0027"
+msgid "Maybe there were two Himikos!"
+msgstr ""
+
+msgctxt "0028"
+msgid "<CLT=size2>two Himikos"
+msgstr ""
+
+msgctxt "0029"
+msgid "<CLT=size2>!"
+msgstr ""
+
+msgctxt "0030"
+msgid "<CLT=cltAGREE><CLT=size2>two Himikos"
+msgstr ""
+
+msgctxt "0031"
+msgid "And one of 'em was <CLT=size2>Tsumugi<CLT=size1> in <CLT=size2>disguise!"
+msgstr ""
+
+msgctxt "0032"
+msgid "And one of 'em was Tsumugi in disguise!"
+msgstr ""
+
+msgctxt "0033"
+msgid ""
+"Hey! My <CLT=size2>costumes\n"
+"<CLT=size1> aren't <CLT=size2>\"disguises.\""
+msgstr ""
+
+msgctxt "0034"
+msgid ""
+"Hey! My costumes\n"
+"aren't \"disguises.\""
+msgstr ""
+
+msgctxt "0035"
+msgid "Is it that simple?"
+msgstr ""
+
+msgctxt "0036"
+msgid "Maybe..."
+msgstr ""
+
+msgctxt "0037"
+msgid "Probably."
+msgstr ""
+
+msgctxt "0038"
+msgid "I agree..."
+msgstr ""
+
+msgctxt "0039"
+msgid "The floor?"
+msgstr ""
+
+msgctxt "0040"
+msgid "The wall?"
+msgstr ""
+
+msgctxt "0041"
+msgid "Probably the tank itself."
+msgstr ""
+
+msgctxt "0042"
+msgid "The water would have come out!"
+msgstr ""
+
+msgctxt "0043"
+msgid "Bullshit!"
+msgstr ""
+
+msgctxt "0044"
+msgid "Enough about magic..."
+msgstr ""
+
+msgctxt "0045"
+msgid "Maybe there's two Himikos!?"
+msgstr ""
+
+msgctxt "0046"
+msgid "This isn't a mystery novel!"
+msgstr ""
+
+msgctxt "0047"
+msgid "Such a pro!"
+msgstr ""
