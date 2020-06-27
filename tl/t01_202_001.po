@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 25/02/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. 殺されたのは
+#. <CLT=size2>葉隠康比呂<CLT=size1>クン…
+msgctxt "0001 | C100_Naegi"
+msgid ""
+"The victim was \n"
+"<CLT=size2>Yasuhiro Hagakure..."
+msgstr ""
+"La vîctima es\n"
+"<CLT=size2>Yasuhiro Hagakure..."
+
+#. 殺されたのは葉隠康比呂クン…
+msgctxt "0002 | C100_Naegi"
+msgid "The victim was Yasuhiro Hagakure..."
+msgstr "La víctima es Yasuhiro Hagakure..."
+
+#. ボクの<CLT=size2>クラスメイト<CLT=size1>だ。
+msgctxt "0003 | C100_Naegi"
+msgid ""
+"He was a <CLT=size2>\n"
+"classmate<CLT=size1> of mine."
+msgstr ""
+"Él fue uno de mis <CLT=size2>\n"
+"compañeros de clase."
+
+#. ボクのクラスメイトだ。
+msgctxt "0004 | C100_Naegi"
+msgid "He was a classmate of mine."
+msgstr "Él fue uno de mis compañeros de clase."
+
+#. つまり<CLT=size2>被害者<CLT=size1>の
+msgctxt "0005 | C013_Yonag"
+msgid "Sounds like the <CLT=size2>victim,"
+msgstr "Me ha parecido oír que <CLT=size2>la vîctima,"
+
+#. つまり被害者の康比呂と…
+msgctxt "0006 | C013_Yonag"
+msgid "Sounds like the victim, Yasuhiro..."
+msgstr "Me ha parecido oír que la víctima, Hagakure..."
+
+#. <CLT=size2>康比呂<CLT=size1>と…
+msgctxt "0007 | C013_Yonag"
+msgid "<CLT=size2>Yasuhiro..."
+msgstr "<CLT=size2>Hagakure..."
+
+#. <CLT=size2>容疑者<CLT=size1>の<CLT=size2>誠<CLT=size1>は
+msgctxt "0008 | C013_Yonag"
+msgid "and the <CLT=size1.5>suspect,"
+msgstr "... y el <CLT=size1.3>sospechoso,"
+
+#. 容疑者の誠は知り合いだったんだー。
+msgctxt "0009 | C013_Yonag"
+msgid "and the suspect, Makoto, knew each other."
+msgstr "... y el sospechoso, Naegi, se conocían."
+
+#. <CLT=size2>知り合い<CLT=size1>だったんだー。
+msgctxt "0010 | C013_Yonag"
+msgid "<CLT=size1.5>Makoto,<CLT=size1> knew each other."
+msgstr "<CLT=size1.3>Naegi,<CLT=size1> se conocîan."
+
+#. ここにいる<CLT=size2>全員<CLT=size1>が<CLT=size2>容疑者<CLT=size1>だぞ。
+msgctxt "0011 | C120_Hinat"
+msgid ""
+"<CLT=size2>Everyone<CLT=size1> here is\n"
+"a potential <CLT=size2>suspect..."
+msgstr ""
+"Ol final. <CLT=size2>todos<CLT=size1> los wue\n"
+"estamos awuk somos <CLT=size2>sospechosos<CLT=size1> potenciales..."
+
+#. ここにいる全員が容疑者だぞ。
+msgctxt "0012 | C120_Hinat"
+msgid "Everyone here is a potential suspect..."
+msgstr ""
+"Al final, todos los que estamos aquí somos\n"
+"sospechosos potenciales..."
+
+#. 殺人が起きたのって…
+msgctxt "0013 | C012_Shiro"
+msgid "The murder happened..."
+msgstr "El asesinato fue..."
+
+#. 殺人が起きたのって…
+msgctxt "0014 | C012_Shiro"
+msgid "The murder happened..."
+msgstr "El asesinato fue..."
+
+#. <CLT=size2>赤松<CLT=size1>さんの<CLT=size2>部屋<CLT=size1>なんだよね。
+msgctxt "0015 | C012_Shiro"
+msgid "in <CLT=size2>Kaede's room,<CLT=size1> right?"
+msgstr "... en la <CLT=size1.2>habitaciôn de Akamatsu,<CLT=size1> êverdad?"
+
+#. 赤松さんの部屋なんだよね。
+msgctxt "0016 | C012_Shiro"
+msgid "in Kaede's room, right?"
+msgstr "... en la habitación de Akamatsu, ¿verdad?"
+
+#. <CLT=size2>正確<CLT=size1>には
+msgctxt "0017 | C000_Saiha"
+msgid "More precisely, in"
+msgstr "<CLT=size0.9>Para ser exactos, en la de"
+
+#. 正確には赤松さんと苗木さんと日向さん…
+msgctxt "0018 | C000_Saiha"
+msgid "More precisely, in Kaede, Makoto, and Hajime's."
+msgstr "Para ser exactos, en la de Akamatsu, Naegi y Hinata."
+
+#. <CLT=size2>赤松<CLT=size1>さんと
+msgctxt "0019 | C000_Saiha"
+msgid "<CLT=size2>Kaede,"
+msgstr "<CLT=size2>Akamatsu,"
+
+#. <CLT=size2>苗木<CLT=size1>さんと
+msgctxt "0020 | C000_Saiha"
+msgid "<CLT=size2>Makoto,<CLT=size1> and"
+msgstr "<CLT=size2>Naegi<CLT=size1> y"
+
+#. <CLT=size2>日向<CLT=size1>さん…
+msgctxt "0021 | C000_Saiha"
+msgid "<CLT=size2>Hajime's."
+msgstr "<CLT=size2>Hinata."
+
+#. <CLT=size2><CLT=cltWEAK>３人<CLT=size1>の
+#. <CLT=size2>主人公<CLT=size1>の<CLT=size2>部屋
+#. <CLT=size1><CLT=cltNORMAL>だったよね。
+msgctxt "0022 | C000_Saiha"
+msgid ""
+"<CLT=size2>The <CLT=cltWEAK>three\n"
+"<CLT=size2>main characters'<CLT=size1> room."
+msgstr ""
+"<CLT=size1>La habitaciôn de los\n"
+"<CLT=cltWEAK>tres <CLT=size2>protagonistas."
+
+#. ３人の主人公の部屋だったよね。
+msgctxt "0023 | C000_Saiha"
+msgid "The three main characters' room."
+msgstr "La habitación de los tres protagonistas."
+
+#. フン…
+msgctxt "0024 | C002_Hoshi"
+msgid "Hmph..."
+msgstr "Tsk..."
+
+#. フン…もっと言えば…
+msgctxt "0025 | C002_Hoshi"
+msgid "Hmph... Even more precisely..."
+msgstr "Tsk... Y siendo aún más exactos..."
+
+#. もっと言えば…
+msgctxt "0026 | C002_Hoshi"
+msgid "Even more precisely..."
+msgstr "Y siendo aùn màs exactos..."
+
+#. その<CLT=size2>シャワールーム<CLT=size1>だったな。
+msgctxt "0027 | C002_Hoshi"
+msgid "It was in the <CLT=size2>bathroom."
+msgstr "En el <CLT=size2>cuarto de baûo."
+
+#. そのシャワールームだったな。
+msgctxt "0028 | C002_Hoshi"
+msgid "It was in the bathroom..."
+msgstr "En el cuarto de baño..."
+
+#. あの<CLT=size2>葉隠<CLT=size1>って<CLT=size2>ヤツ<CLT=size1>は…
+msgctxt "0029 | C001_Momot"
+msgid "So that <CLT=size2>Hiro<CLT=size2> guy..."
+msgstr "Pues al tal <CLT=size2>Hagakure <CLT=size1> ese..."
+
+#. あの葉隠ってヤツは…
+msgctxt "0030 | C001_Momot"
+msgid "So that Hiro guy..."
+msgstr "Pues al tal Hagakure ese..."
+
+#. シャワールームにいる所を
+#. <CLT=size2>いきなり
+#. 襲われて…
+msgctxt "0031 | C001_Momot"
+msgid ""
+"musta been taken by <CLT=size2>surprise \n"
+"<CLT=size1>while he was in the bathroom..."
+msgstr ""
+"... lo tuvieron que pillar por<CLT=size2> sorpresa\n"
+"<CLT=size1> mientras estaba en el baûo..."
+
+#. シャワールームにいる所をいきなり襲われて…
+msgctxt "0032 | C001_Momot"
+msgid "musta been taken by surprise while he was in the bathroom..."
+msgstr "... lo tuvieron que pillar por sorpresa mientras estaba en el baño..."
+
+#. <CLT=cltWEAK><CLT=size2>抵抗<CLT=size1>する<CLT=size2>間もなく
+#. <CLT=cltNORMAL><CLT=size1>殺されたんだな！
+msgctxt "0033 | C001_Momot"
+msgid ""
+"He <CLT=cltWEAK>didn't even have\n"
+"<CLT=cltWEAK>a <CLT=size2>chance<CLT=size1> to <CLT=size2>resist!"
+msgstr ""
+"èSi es que <CLT=cltWEAK>ni siquiera tuvo\n"
+"<CLT=size2>oportunidad <CLT=size1> de defenderse!"
+
+#. 抵抗する間もなく殺されたんだな！
+msgctxt "0034 | C001_Momot"
+msgid "He didn't even have a chance to resist!"
+msgstr "¡Si es que ni siquiera tuvo oportunidad de defenderse!"
+
+#. 全員が容疑者なの！？
+msgctxt "0035 | C004_Gokuh"
+msgid "Everyone is suspect?"
+msgstr "êTodos somos sospechosos?"
+
+#. 転子は違いますよ！
+msgctxt "0036 | C011_Chaba"
+msgid "Not me though!"
+msgstr "èPues yo no soy!"
+
+#. ウチだって違うわい。
+msgctxt "0037 | C009_Yumen"
+msgid "Not me either!"
+msgstr "èYo tampoco!"
+
+#. じゃあ、赤松ちゃんが犯人だねー！
+msgctxt "0038 | C005_Oma__"
+msgid "Then Kaede is the culprit!"
+msgstr "èEntonces fue Akamatsu!"
+
+#. 容疑者は３人だネ…
+msgctxt "0039 | C006_Shing"
+msgid "We have three suspects..."
+msgstr "Hay tres sospechosos..."
+
+#. 葉隠クンは何回死ぬんだろうね！
+msgctxt "0040 | C020_Monok"
+msgid "How many times is Yasuhiro gonna die!?"
+msgstr "èêCuàntas veces la va a palmar Hagakure?!"

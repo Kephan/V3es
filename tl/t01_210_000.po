@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 25/02/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. 苗木さんを見かけた人は他にいないから、
+#. オレの発言が唯一の証言になるんだよ？
+msgctxt "0001 | C005_Oma__"
+msgid ""
+"No one else saw Makoto, so my statement\n"
+"is the only testimony, riiiight?"
+msgstr ""
+"Como nadie vio a Naegi, mi declaración\n"
+"es el único testimonio, ¿verdad que síííí?"
+
+#. …誰かが、嘘の証言をしない限りはね。
+msgctxt "0002 | C005_Oma__"
+msgid "...Unless someone *lies* about seeing him."
+msgstr "... A no ser que alguien *mienta* y diga que lo vio."
+
+#. <CLT=cltMIND>間違えちゃった…
+#. もう１度よく考えないと…！
+#. <CLT=cltNORMAL>
+msgctxt "0003 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>I screwed up! \n"
+"I need to think about it more clearly!\n"
+"<CLT=cltNORMAL>"
+msgstr ""
+"<CLT=cltMIND>¡He metido la pata!\n"
+"¡Tengo que pensarlo mejor!"
+
+#. <CLT=cltMIND>体育館の前で別れてから、事件現場で再会するまで…
+#. 苗木さんを見かけた人はいない…
+msgctxt "0004 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>Makoto has no alibi for where he was after we\n"
+"split up, and only appeared after the murder..."
+msgstr ""
+"<CLT=cltMIND>Es verdad que Naegi no tiene coartada para\n"
+"después de habernos separado..."
+
+#. <CLT=cltMIND>でも、私は…彼を信じたい…
+msgctxt "0005 | C015_Akama"
+msgid "<CLT=cltMIND>But I want to believe in him..."
+msgstr "<CLT-cltMIND>Pero quiero creer en él..."
+
+#. <CLT=cltMIND>だから…苗木さんがいなかった事を、
+#. “嘘”に変えるしかない…！
+msgctxt "0006 | chara_015"
+msgid ""
+"<CLT=cltMIND>So...I have to *lie* about Makoto never\n"
+"being there!"
+msgstr ""
+"<CLT=cltMIND>¡De modo que... voy a tener que *mentir* sobre\n"
+"no haberle visto allí!"
+
+#. <CLT=cltMIND>体育館の前で別れてから、事件現場で再会するまで…
+#. 苗木さんを見かけた人はいない…
+msgctxt "0007 | chara_015"
+msgid ""
+"<CLT=cltMIND>Makoto has no alibi for where he was after we\n"
+"split up, and only appeared after the murder..."
+msgstr ""
+"<CLT=cltMIND>Es verdad que Naegi no tiene coartada para\n"
+"después de habernos separado..."
+
+#. <CLT=cltMIND>でも、私は…彼を信じたい…
+msgctxt "0008 | chara_015"
+msgid "<CLT=cltMIND>But I want to believe in him..."
+msgstr "<CLT-cltMIND>Pero quiero creer en él..."
+
+#. <CLT=cltMIND>だから…苗木さんがいなかった事を、
+#. “嘘”に変えるしかない…！
+msgctxt "0009 | chara_015"
+msgid ""
+"<CLT=cltMIND>So...I have to *lie* about Makoto never\n"
+"being there!"
+msgstr ""
+"<CLT=cltMIND>¡De modo que... voy a tener que *mentir* sobre\n"
+"no haberle visto allí!"
+
+#. <CLT=cltMIND>体育館の前で別れてから、事件現場で再会するまで…
+#. 苗木さんを見かけた人はいない…
+msgctxt "0010 | chara_015"
+msgid ""
+"<CLT=cltMIND>Makoto has no alibi for where he was after we\n"
+"split up, and only appeared after the murder..."
+msgstr ""
+"<CLT=cltMIND>Es verdad que Naegi no tiene coartada para\n"
+"después de habernos separado..."
+
+#. <CLT=cltMIND>でも、私は…彼を信じたい…
+msgctxt "0011 | chara_015"
+msgid "<CLT=cltMIND>But I want to believe in him..."
+msgstr "<CLT-cltMIND>Pero quiero creer en él..."
+
+#. <CLT=cltMIND>だから…苗木さんがいなかった事を、
+#. “嘘”に変えるしかない…！
+msgctxt "0012 | chara_015"
+msgid ""
+"<CLT=cltMIND>So...I have to *lie* about Makoto never\n"
+"being there!"
+msgstr ""
+"<CLT=cltMIND>¡De modo que... voy a tener que *mentir* sobre\n"
+"no haberle visto allí!"

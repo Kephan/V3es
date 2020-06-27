@@ -1,0 +1,646 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 25/02/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: <CLT=cltMIND>\n"
+
+#. あのね…私はこの学園で目が覚めてから、
+#. 死体発見アナウンスを聞くまで…
+msgctxt "0001 | C015_Akama"
+msgid ""
+"Well, ever since I woke up in the academy, and\n"
+"up until the body discovery announcement..."
+msgstr ""
+"Pues, a ver, yo desde que me desperté aquí\n"
+"he estado con él hasta el descubrimiento de cadáver."
+
+#. 苗木さんと、ずっと一緒に行動してたんだ。
+#. だから王馬くんが見たのは、苗木さんじゃないよ。
+msgctxt "0002 | C015_Akama"
+msgid ""
+"...I was with Makoto the entire time.\n"
+"So Kokichi couldn't have seen him."
+msgstr ""
+"Es decir, que he estado con él todo el tiempo,\n"
+"así que es imposible que Ouma lo haya visto."
+
+#. ………………
+msgctxt "0003 | C008_Tojo_"
+msgid "..."
+msgstr "..."
+
+#. ふーん…赤松ちゃんは真実より、
+#. 苗木さんを守る嘘を選ぶんだ？
+msgctxt "0004 | C005_Oma__"
+msgid ""
+"Hmmm... Kaede, you'd rather choose a lie\n"
+"than the truth, just to protect Makoto?"
+msgstr ""
+"Vaya... ¿Es que prefieres mentir a decir la verdad\n"
+"solo para proteger a Naegi?"
+
+#. …王馬くんの証言に、何か証拠はあるの？
+msgctxt "0005 | C015_Akama"
+msgid ""
+"Do you have any proof to show that I'm lying,\n"
+"Kokichi?"
+msgstr ""
+"¿Acaso tienes alguna prueba de que lo que digo\n"
+"es mentira, Ouma?"
+
+#. ううん、ある訳ないよ。
+#. オレが苗木さんを見たっていうのは<CLT=cltSTRONG>嘘<CLT=cltNORMAL>だからね。
+msgctxt "0006 | C005_Oma__"
+msgid ""
+"Nope, none at all.\n"
+"I <CLT=cltSTRONG>lied<CLT=cltNORMAL> about seeing Makoto."
+msgstr ""
+"Pues no, para qué engañarnos.\n"
+"Os he <CLT=cltSTRONG>mentido<CLT=cltNORMAL> con lo de Naegi."
+
+#. おい…テメー、ふざけてんのか！？
+msgctxt "0007 | C001_Momot"
+msgid "Why you...? Don't mess with us!"
+msgstr "¡Serás...! ¡Deja de vacilarnos!"
+
+#. みんなの命がかかっている場面で、
+#. 嘘の証言をするのは…感心しないわね。
+msgctxt "0008 | C008_Tojo_"
+msgid ""
+"For you to make a false statement when\n"
+"our lives are at risk... I am not amused."
+msgstr ""
+"Hacer esa declaración falsa con nuestras vidas\n"
+"en juego... no es algo inteligente por tu parte."
+
+#. 苗木さんに喋ってほしくて、
+#. ちょっとカマをかけてみただけだよー。
+msgctxt "0009 | C005_Oma__"
+msgid ""
+"I just wanted Makoto to talk, so I simply\n"
+"tricked him into speaking."
+msgstr ""
+"Solo quería que hablara Naegi, y eso es lo que\n"
+"he intentado."
+
+#. あぁ？　なんでそんな回りくどい事する
+#. 必要があんだよ？
+msgctxt "0010 | C001_Momot"
+msgid "Why beat around the bush like that?"
+msgstr "¿Y para qué te andas con tantos rodeos?"
+
+#. だって、苗木さんが事件前後にどこにいたのか
+#. はっきりしていないよね？
+msgctxt "0011 | C005_Oma__"
+msgid ""
+"Cuz it's still not clear where Makoto was\n"
+"before and after the incident, right?"
+msgstr ""
+"Pues porque aún no hemos determinado dónde\n"
+"estaba Naegi antes y después del incidente, ¿o no?"
+
+#. あーあ…本気で疑われたら、
+#. 苗木さんも口を開いてくれると思ったんだけどなー。
+msgctxt "0012 | C005_Oma__"
+msgid ""
+"Aw maaan... I totally thought Makoto\n"
+"would talk if we started accusing him."
+msgstr ""
+"Jolín, tííío... Y yo que creía que iba a conseguir\n"
+"que cantara si le poníamos contra las cuerdas."
+
+#. ………………
+msgctxt "0013 | C100_Naegi"
+msgid "..."
+msgstr "..."
+
+#. まぁ、見えすいた嘘に見えすいた嘘で返すのも
+#. どうかと思うけど。
+msgctxt "0014 | C010_Haruk"
+msgid ""
+"Responding to an obvious lie with another\n"
+"obvious lie? I don't know about that..."
+msgstr ""
+"Pero responder con la misma arma no sé\n"
+"si es buena idea..."
+
+#. そうだっ！　オレ様が死体発見アナウンスを聞いて
+#. テメーらの部屋に行った時…
+msgctxt "0015 | C014_Iruma"
+msgid ""
+"Oh yeah! After I heard the body discovery\n"
+"announcement, I checked out the rooms..."
+msgstr ""
+"¡Ah, sí! Yo fui a revisar todas las demás habitaciones\n"
+"después del anuncio..."
+
+#. バカ松は１人で、
+#. シナビ木はいなかったじゃねーか！
+msgctxt "0016 | C014_Iruma"
+msgid ""
+"Kaediot was all by herself, and Muckoto\n"
+"wasn't even there!"
+msgstr ""
+"¡Y ahí estaba Pelmatsu, toda solita; no había\n"
+"ni rastro de Naegi!"
+
+#. 死体発見アナウンスを聞くまで一緒だったなら、
+#. それからバラバラになるのは変だよねー。
+msgctxt "0017 | C013_Yonag"
+msgid ""
+"It's weird that they would split up after they\n"
+"found out a body had been discovered."
+msgstr ""
+"Mira que es raro que se hayan separado justo\n"
+"después de haberse encontrado un cadáver."
+
+#. おかしいなー。なんでかなー。
+#. 楓は答えられるー？
+msgctxt "0018 | C013_Yonag"
+msgid ""
+"I don't get why you would do that...\n"
+"Can you explain, Kaede?"
+msgstr ""
+"No sé, no me entra en la cabeza por qué\n"
+"haríais algo así. ¿Me lo explicas, Akamatsu?"
+
+#. 苗木さんを助けたかった…
+#. その想いは美しいものだけれど…
+msgctxt "0019 | C006_Shing"
+msgid ""
+"You wished to protect Makoto...\n"
+"There is beauty in such a wish..."
+msgstr ""
+"Tu deseo de proteger a Naegi...\n"
+"es de gran belleza para mí..."
+
+#. 赤松さん…君の嘘は、
+#. 誰かを守るにはあまりに脆く儚いものだったヨ。
+msgctxt "0020 | C006_Shing"
+msgid ""
+"But Kaede...your lie is far too fragile \n"
+"and fleeting to protect anyone."
+msgstr ""
+"Pero, Akamatsu..., tu engaño es demasiado pobre\n"
+"y fugaz como para proteger a nadie."
+
+#. うっ…ごめん…
+msgctxt "0021 | C015_Akama"
+msgid "Ah! Sorry..."
+msgstr ""
+"¡Es que...! \n"
+"Lo siento..."
+
+#. えっ？　赤松さん、嘘をついたのっ？
+msgctxt "0022 | C004_Gokuh"
+msgid "Huh? Kaede...tell lie?"
+msgstr "¿Cómo? ¿Akamatsu... ha mentido?"
+
+#. …気付いてなかったんだね。
+msgctxt "0023 | C012_Shiro"
+msgid "You didn't notice, huh...?"
+msgstr "¿No te has dado cuenta?"
+
+#. えっと、赤松さん…
+#. ボクを信じようとしてくれてありがとう。
+msgctxt "0024 | C100_Naegi"
+msgid "Um, thanks for believing in me, Kaede."
+msgstr "Esto, gracias por confiar en mí, Akamatsu."
+
+#. <CLT=cltMIND>みんなの言う通り…ちょっと無理があったよね。
+#. 信じて貰いたいなら、もっと考えないと…
+msgctxt "0025 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>Everyone thought my lie was too weak. I need to\n"
+"be more convincing if I want them to believe me."
+msgstr ""
+"<CLT=cltMIND>Todos creen que mi mentira es demasiado pobre.\n"
+"Tendré que ser más convincente si quiero que me crean."
+
+#. <CLT=cltMIND>…もしもまた、嘘をつく必要がある時が来たら。
+msgctxt "0026 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>I'll remember that next time I need\n"
+"to lie..."
+msgstr ""
+"<CLT=cltMIND>Lo tendré en cuenta la próxima vez\n"
+"que necesite mentir..."
+
+#. <CLT=cltMIND>もちろん、そんな時は来ない方がいいんだけど。
+msgctxt "0027 | C015_Akama"
+msgid "<CLT=cltMIND>Of course, I hope that time never comes."
+msgstr "<CLT=cltMIND>Aunque espero que ese momento no llegue nunca."
+
+#. つーか、王馬の嘘に振り回されただけで…
+#. 結局何もわからねーままじゃねーか！
+msgctxt "0028 | C001_Momot"
+msgid ""
+"We just got dragged around by Kokichi's \n"
+"lies... We didn't clear a single thing up!"
+msgstr ""
+"¡Lo que pasa es que Ouma nos ha liado con\n"
+"su mentira y no hemos avanzado nada!"
+
+#. そうこうしている間にも…
+#. 残された時間は刻一刻と短くなっていくわね。
+msgctxt "0029 | C023_Mfunn"
+msgid ""
+"Meanwhile...your remaining time is slowly\n"
+"but surely dwindling!"
+msgstr ""
+"¡Y mientras tanto, poco a poco, el tiempo\n"
+"que os queda se va consumiendo!"
+
+#. えっ？　裁判に時間制限なんてあったっけ？
+msgctxt "0030 | C021_Mtaro"
+msgid "Huh? There's a time limit, too?"
+msgstr "Espera, ¿tenemos un límite de tiempo?"
+
+#. そりゃあるやろ…議論を続けて時間稼ぎなんて
+#. グダグダ展開、誰も望んでおらへんからな。
+msgctxt "0031 | C022_Msuke"
+msgid ""
+"Of course there is... No one wants to watch\n"
+"a literal nonstop debate. That shit's boring."
+msgstr ""
+"Pues claro... Nadie quiere ver un debate continuo\n"
+"que sea eterno. Es que no me jodas, qué aburrido."
+
+#. そうなったらキサマラをグッチャグチャにして、
+#. 地獄っぽい光景で誤魔化すけどな！
+msgctxt "0032 | C025_Mkid_"
+msgid ""
+"Hell yeah! We'd have to rip and tear into your\n"
+"huge guts just to make it entertaining!"
+msgstr ""
+"¡Joder que sí! ¡Nos tendríamos que cagar en tus\n"
+"circuitos para conseguir que fuera entretenido!"
+
+#. ………………
+msgctxt "0033 | C024_Mdam_"
+msgid "..."
+msgstr "..."
+
+#. これまでにわかったのは、
+#. 凶器である包丁を持ち出したのは葉隠さんで…
+msgctxt "0034 | C008_Tojo_"
+msgid ""
+"We know that Hiro brought the murder\n"
+"weapon, the kitchen knife..."
+msgstr ""
+"Hasta ahora, sabemos que fue Hagakure\n"
+"quien llevó el arma homicida..."
+
+#. 彼は赤松さん達の部屋で犯人と争い、
+#. 凶器を奪われて殺害されたという事ね。
+msgctxt "0035 | C008_Tojo_"
+msgid ""
+"...and fought the culprit in Kaede's room, where\n"
+"the culprit took the knife and killed Hiro."
+msgstr ""
+"... y que se peleó con el asesino en la habitación\n"
+"de Akamatsu, y ahí le quitó el cuchillo y lo mató."
+
+#. 容疑者は全然絞れてないけど…
+msgctxt "0036 | C010_Haruk"
+msgid "We haven't narrowed down the suspects at all."
+msgstr ""
+"Es que aún no hemos llegado a aclarar quién\n"
+"es sospechoso de verdad..."
+
+#. 特に怪しいのは赤松達３人。
+#. それは変わらないよ。
+msgctxt "0037 | C010_Haruk"
+msgid ""
+"Kaede and the other two are still suspicious.\n"
+"That hasn't changed yet."
+msgstr ""
+"... y Akamatsu y los otros dos aún no han\n"
+"\vdemostrado nada para librarse."
+
+#. んあー、めんどいのぅ…
+#. 赤松、もう自白してはどうじゃ。
+msgctxt "0038 | C009_Yumen"
+msgid ""
+"Nyeeeh, what a pain...\n"
+"Kaede, just confess already."
+msgstr ""
+"Nhaa, qué pereza...\n"
+"¡Canta ya, Akamatsu!"
+
+#. 自白する事なんてないよ！
+#. 面倒だからって終わらせようとしないでっ！
+msgctxt "0039 | C015_Akama"
+msgid ""
+"I don't need to confess just \n"
+"because it's a pain for you!"
+msgstr ""
+"¡Que no voy a cantar nada solo porque\n"
+"te esté dando pereza!"
+
+#. 主は言いました…
+#. 楓が犯人、もうそんな流れでどうかと。
+msgctxt "0040 | C013_Yonag"
+msgid ""
+"Atua says that Kaede is the culprit.\n"
+"I think we should listen to Him."
+msgstr ""
+"Pues Dios dice que Akamatsu es la asesina\n"
+"y creo que deberíamos hacerle caso."
+
+#. <CLT=cltMIND>流れで犯人にされる訳にはいかないよ。
+#. でも、ここでただ私じゃないって言っても…
+msgctxt "0041 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>No way am I gonna let them pin me as the culprit\n"
+"for that reason. But if I tell them I'm not..."
+msgstr ""
+"<CLT=cltMIND>No pienso aceptar que me voten como la asesina\n"
+"solo por eso. Pero si les digo que no lo soy..."
+
+#. <CLT=cltMIND>…また苗木さんが疑われるだけかもしれない。
+msgctxt "0042 | C015_Akama"
+msgid "<CLT=cltMIND>...then they might suspect Makoto, instead."
+msgstr "<CLT=cltMIND>... entonces irán a sospechar de Naegi."
+
+#. <CLT=cltMIND>とにかく、もっと話し合ってみないと。
+#. でも…他にどんな手掛かりがあるかな…
+msgctxt "0043 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>Anyway, we have to discuss this even further.\n"
+"But what other clues are there?"
+msgstr ""
+"<CLT=cltMIND>Y de todos modos, aún deberíamos debatir más.\n"
+"Pero ¿qué más nos queda por hablar?"
+
+#. こんな形で終わっちゃダメだ。
+#. それじゃ誰も満足しないよ。
+msgctxt "0044 | C100_Naegi"
+msgid ""
+"It can't end like this.\n"
+"No one wants an ending like that."
+msgstr ""
+"Esto no se puede acabar así.\n"
+"Nadie desea este final."
+
+#. だから、日向クン…
+msgctxt "0045 | C100_Naegi"
+msgid "So, Hajime..."
+msgstr "Adelante, Hinata..."
+
+#. そうだな…ここは俺に任せてくれ。
+msgctxt "0046 | C120_Hinat"
+msgid "Leave this to me..."
+msgstr "Déjamelo a mí..."
+
+#. みんな、聞いてくれ！
+#. さっきも言った通り、赤松は犯人じゃないんだ！
+msgctxt "0047 | C120_Hinat"
+msgid ""
+"Everyone, listen up!\n"
+"Like we said, Kaede isn't the culprit!"
+msgstr ""
+"¡Bien, escuchadme todos! ¡Como hemos estado\n"
+"diciendo, Akamatsu no es la asesina!"
+
+#. …何か赤松さんの容疑を晴らせるような証拠が？
+msgctxt "0048 | C000_Saiha"
+msgid ""
+"Do you have evidence that\n"
+"proves that?"
+msgstr "Pero ¿tienes alguna prueba que lo demuestre?"
+
+#. また男死が嘘をつこうとしているなら、
+#. 転子が承知しませんよ？
+msgctxt "0049 | C011_Chaba"
+msgid ""
+"Also, I don't tolerate lies from anyone, but\n"
+"especially not from degenerate males! Got it!?"
+msgstr ""
+"Que te dejes ya de mentiras, que nos las tolero,\n"
+"y aún menos las de un degenerado, ¿te enteras?"
+
+#. いや、嘘じゃない…確実な証拠があるんだ。
+msgctxt "0050 | C120_Hinat"
+msgid "It's no lie. I have the evidence."
+msgstr "No es ninguna mentira. Tengo pruebas."
+
+#. 現場になったあの部屋には、
+#. ある物が落ちていた…そうだよな、東条？
+msgctxt "0051 | C120_Hinat"
+msgid ""
+"Something was dropped at the scene\n"
+"of the crime...right, Kirumi?"
+msgstr ""
+"Había algo tirado en el suelo en la escena\n"
+"del crimen..., ¿verdad, Toujou?"
+
+#. …貴方が言っているのは<CLT=cltSTRONG>“あれ”<CLT=cltNORMAL>の事かしら。
+#. 確かに落ちていたけれど…それがどうしたの？
+msgctxt "0052 | C008_Tojo_"
+msgid ""
+"I think I know what you're referring to.\n"
+"<CLT=cltSTRONG>It<CLT=cltNORMAL> was on the ground...but what about it?"
+msgstr ""
+"Creo que sé a qué te refieres. ¿Ocurre algo respecto\n"
+"a lo que <CLT=cltSTRONG>estaba<CLT=cltSTRONG> en el suelo?"
+
+#. それともう１つ、重要な事がある。
+msgctxt "0053 | C120_Hinat"
+msgid "And there's something else."
+msgstr "Y aún tengo más."
+
+#. 赤松…お前は気付いてるんじゃないか？
+#. あの殺人現場に、<CLT=cltSTRONG>違和感<CLT=cltNORMAL>があった事にな。
+msgctxt "0054 | C120_Hinat"
+msgid ""
+"Kaede, you know what I'm talking about,\n"
+"right? Something <CLT=cltSTRONG>off<CLT=cltNORMAL> about the crime scene?"
+msgstr ""
+"Ya sabes a lo que me refiero, ¿verdad, Akamatsu?\n"
+"Eso que no <CLT=cltSTRONG>cuadraba<CLT=cltNORMAL> con la escena del crimen."
+
+#. <CLT=cltMIND>…違和感？
+msgctxt "0055 | C015_Akama"
+msgid "<CLT=cltMIND>Something off...?"
+msgstr "<CLT=cltMIND>¿Que no cuadraba...?"
+
+#. 俺達の部屋に落ちていたもの…
+#. そして、ある大きな違和感…
+msgctxt "0056 | C120_Hinat"
+msgid ""
+"That thing left on the ground, and the fact that\n"
+"something was off about the crime scene."
+msgstr ""
+"La cosa que había tirada en el suelo y el hecho de que\n"
+"había algo que no cuadraba en la escena del crimen."
+
+#. それらを合わせる事で、
+#. 見えてくる事実があるんだ。
+msgctxt "0057 | C120_Hinat"
+msgid ""
+"If we put those two things together,\n"
+"we'll have all the facts."
+msgstr ""
+"Si juntamos ambas cosas, ya tenemos todos\n"
+"los hechos."
+
+#. あっ！　それって、もしかして…
+msgctxt "0058 | C015_Akama"
+msgid ""
+"Ah!\n"
+"Is that...?"
+msgstr "¿Eh? ¿No será...?"
+
+#. …ちょっと待って！
+msgctxt "0059 | C020_Monok"
+msgid "...Wait!"
+msgstr "¡Parad!"
+
+#. そこまでだよ！
+#. それ以上はさせないよ！
+msgctxt "0060 | C020_Monok"
+msgid "That's it! I won't let you go any further!"
+msgstr "¡Se acabó! ¡Hasta aquí habéis llegado!"
+
+#. だって、だって…
+msgctxt "0061 | C020_Monok"
+msgid "Why?"
+msgstr "¿Que por qué?"
+
+#. だって、
+#. これって<CLT=cltSTRONG>体験版<CLT=cltNORMAL>なんだから！！
+msgctxt "0062 | C020_Monok"
+msgid "Cuz this is just the <CLT=cltSTRONG>demo version<CLT=cltNORMAL>!"
+msgstr ""
+"¡Pues porque esto solo es la <CLT=cltSTRONG>versión\n"
+"de prueba<CLT=cltNORMAL>!"
+
+#. うぷぷ…
+#. オマエラのご入学を心よりお待ちしてますよ…
+msgctxt "0063 | C020_Monok"
+msgid ""
+"Puhuhu... I look forward to seeing you guys\n"
+"start your real killing game semester..."
+msgstr ""
+"Upupu... Os estaré esperando con ganas en\n"
+"el verdadero semestre mortal..."
+
+#. アーッハッハッハ！！
+msgctxt "0064 | C020_Monok"
+msgid "Ah-hahahahaha!"
+msgstr "¡Ja, ja, ja, ja, ja, ja!"
+
+#. ねぇ、ボク達の演技…どうだったかな？
+msgctxt "0065 | C100_Naegi"
+msgid "Hey, how was...our acting?"
+msgstr "Eh, ¿qué tal... lo hemos hecho?"
+
+#. うぷぷ、悪くなかったと思うよ！
+msgctxt "0066 | C020_Monok"
+msgid "Puhuhu, it wasn't too shabby!"
+msgstr "¡Upupu, pues ni tan mal!"
+
+#. 最後、もうちょっとありそうでないという
+#. 無意味なヒキもね！
+msgctxt "0067 | C020_Monok"
+msgid ""
+"I especially liked how convincingly you\n"
+"wasted everyone's time!"
+msgstr ""
+"¡Lo que más me ha gustado es como de bien\n"
+"habéis malgastado el tiempo de todos!"
+
+#. 最後に上手く盛り上げられるか、
+#. ちょっとヒヤっとしたけどな。
+msgctxt "0068 | C120_Hinat"
+msgid ""
+"I was a little worried about the end there...\n"
+"Hope it was exciting enough."
+msgstr ""
+"A mí me daba cosa eso de acabarlo ahí...\n"
+"Pero espero que haya sido emocionante."
+
+#. なんとか無事に終われたし…
+#. 今日のところはこれで解散だな。
+msgctxt "0069 | C120_Hinat"
+msgid ""
+"Welp, since we got through it smoothly,\n"
+"that's it for today!"
+msgstr ""
+"¡Bueno, dado que ha ido bastante bien,\n"
+"ya hemos acabado por hoy!"
+
+#. ばーいなら！
+msgctxt "0070 | C020_Monok"
+msgid "Smell ya later!"
+msgstr "¡Nos vemoso más adelante!"
+
+#. みんな、お疲れ様！
+msgctxt "0071 | C100_Naegi"
+msgid "Good job, everyone!"
+msgstr "¡Gran trabajo, gente!"
+
+#. あぁ、お疲れ。またな！
+msgctxt "0072 | C120_Hinat"
+msgid "Good job! See ya!"
+msgstr "¡Sí, gran trabajo! ¡Nos vemos!"
+
+#. おーい、待ってくれってー！
+msgctxt "0073 | C106_Hagak"
+msgid "Heeey! Wait for meee!"
+msgstr "¡Ey! ¡Esperadme!"
+
+#. …って、まだ終わったらアカン！
+#. 大事な事を言い忘れとるやないか！
+msgctxt "0074 | C022_Msuke"
+msgid ""
+"...Wait, it can't end yet! We forget to tell 'em\n"
+"the most important part!"
+msgstr ""
+"¡No os vayáis aún, que todavía no hemos acabado!\n"
+"¡Se nos ha olvidado decirles lo más importante!"
+
+#. あっ！　そうだった！
+msgctxt "0075 | C021_Mtaro"
+msgid "Oh! That's right!"
+msgstr "¡Ah, es verdad!"
+
+#. お知らせでーす！
+msgctxt "0076 | C027_Mono5"
+msgid "This is an announcement!"
+msgstr "¡Tenemos un anuncio importante!"
+
+#. 体験版のセーブデータを、製品版でロードすると、
+#. キサマラに<CLT=cltSTRONG>豪華特典<CLT=cltNORMAL>をあげちゃうわ！
+msgctxt "0077 | C023_Mfunn"
+msgid ""
+"Load this demo save data into the full version\n"
+"of the game, and you'll get a <CLT=cltSTRONG>special reward<CLT=cltNORMAL>!"
+msgstr ""
+"¡Si cargas los datos de guardado de la versión de prueba\n"
+"en el juego completo, ¡recibirás una <CLT=cltSTRONG>recompensa especial<CLT=cltNORMAL>!"
+
+#. ヘルイェー！　絶対にセーブしろよッ！
+msgctxt "0078 | C025_Mkid_"
+msgid "Hell yeah! So you better save it!"
+msgstr "¡Joder que sí! ¡Más os vale guardar!"
+
+#. ………………
+msgctxt "0079 | C024_Mdam_"
+msgid "..."
+msgstr "..."
+
+#. ばーいくまー！
+msgctxt "0080 | C027_Mono5"
+msgid "So long! Bear-well!"
+msgstr "¡Nos vemoso!"

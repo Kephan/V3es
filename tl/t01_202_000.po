@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 25/02/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. 赤松さん、日向さん、苗木さんは３人１部屋だったよね。
+#. …どこか間違っていたかな…？
+msgctxt "0001 | C000_Saiha"
+msgid ""
+"Kaede, Hajime, and Makoto. The three\n"
+"of them shared a room, correct?"
+msgstr ""
+"Akamatsu, Hinata y Naegi, vosotros tres\n"
+"compartíais habitación, ¿estoy en lo cierto?"
+
+#. それにしても、美人すぎるオレ様じゃなくて、
+#. 色気のねーバカ松で良かったなぁ！
+msgctxt "0002 | C014_Iruma"
+msgid ""
+"Phew, good thing it was plain ol' Kaediot\n"
+"instead of a smokin' hottie like me!"
+msgstr ""
+"Uf, ¡estamos de suerte de que haya sido la inútil\n"
+"de Pelmatsu y no la buenorra de mí!"
+
+#. オレ様が同じ部屋にいたら、理性が持たねぇからなぁ！
+#. ひゃっひゃっひゃっ！
+msgctxt "0003 | C014_Iruma"
+msgid ""
+"Who knows what might happen if you get me\n"
+"alone with those two boys! Hah-haha!"
+msgstr ""
+"¡No queréis saber lo que habría pasado si me\n"
+"hubieseis dejado sola con esos dos! ¡Ja, ja, ja!"
+
+#. ………………
+msgctxt "0004 | C100_Naegi"
+msgid "..."
+msgstr "..."
+
+#. ………………
+msgctxt "0005 | C120_Hinat"
+msgid "..."
+msgstr "..."
+
+#. 無視が一番堪えるだろうがよぉ…！
+#. 元はと言えば赤松が言い出した事なのにぃ…！
+msgctxt "0006 | C014_Iruma"
+msgid ""
+"Ignore me all you want! It doesn't change the\n"
+"fact that Kaede mentioned it first!"
+msgstr ""
+"¡Sí, sí, pasad de mí todo lo que queráis, que eso no\n"
+"va a cambiar que Akamatsu lo haya dicho antes!"
+
+#. <CLT=cltMIND>間違えちゃった…
+#. もう１度よく考えないと…！
+#. <CLT=cltNORMAL>
+msgctxt "0007 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>I screwed up! \n"
+"I need to think about it more clearly!\n"
+"<CLT=cltNORMAL>"
+msgstr ""
+"<CLT=cltMIND>¡He metido la pata!\n"
+"¡Tengo que pensármelo mejor!"
+
+#. なんだよ、葉隠は抵抗したってのか？
+#. そんな証拠でもあんのかよ？
+msgctxt "0008 | C001_Momot"
+msgid ""
+"Did Hiro really resist? Is there any\n"
+"proof he did?"
+msgstr ""
+"¿Seguro que Hagakure intentó defenderse?\n"
+"¿Hay alguna prueba que lo demuestre?"
+
+#. 少なくとも…
+#. そんな証拠じゃ、オレは納得できねーぜ！？
+msgctxt "0009 | C001_Momot"
+msgid "You're not gonna persuade me without proof!"
+msgstr ""
+"¡Porque no vas a convencerme\n"
+"si no tienes ninguna!"
+
+#. <CLT=cltMIND>間違えちゃった…
+#. もう１度よく考えないと…！
+#. <CLT=cltNORMAL>
+msgctxt "0010 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>I screwed up! \n"
+"I need to think about it more clearly!\n"
+"<CLT=cltNORMAL>"
+msgstr ""
+"<CLT=cltMIND>¡He metido la pata!\n"
+"¡Tengo que pensármelo mejor!"
+
+#. <CLT=cltMIND>私達の部屋は、明らかに争った形跡があったよね。
+msgctxt "0011 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>It's obvious a struggle happened in our\n"
+"room, right?"
+msgstr ""
+"<CLT=cltMIND>Es más que obvio que se pelearon en\n"
+"nuestra habitación, ¿verdad?"
+
+#. <CLT=cltMIND>だとしたら、
+#. 今の発言は矛盾しているんじゃないかな…？
+msgctxt "0012 | C015_Akama"
+msgid "<CLT=cltMIND>Then, that statement contradicts itself."
+msgstr "<CLT=cltMIND>Entonces esa declaración se está contradiciendo."
+
+#. <CLT=cltMIND>その矛盾に、正しい情報をぶつければ、
+#. この状況が変えられるかも知れない…
+msgctxt "0013 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>If I shoot that contradiction with the correct\n"
+"evidence, then I can change this situation..."
+msgstr ""
+"<CLT=cltMIND>Si disparo a la contradicción con la prueba\n"
+"adecuada, seré capaz de girar las tornas..."
+
+#. <CLT=cltMIND>私達の部屋は、明らかに争った形跡があったよね。
+msgctxt "0014 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>It's obvious a struggle happened in our\n"
+"room, right?"
+msgstr ""
+"<CLT=cltMIND>Es más que obvio que se pelearon en\n"
+"nuestra habitación, ¿verdad?"
+
+#. <CLT=cltMIND>だとしたら、
+#. 今の発言は矛盾しているんじゃないかな…？
+msgctxt "0015 | C015_Akama"
+msgid "<CLT=cltMIND>Then, that statement contradicts itself."
+msgstr "<CLT=cltMIND>Entonces esa declaración se está contradiciendo."
+
+#. <CLT=cltMIND>その矛盾に、正しい情報をぶつければ、
+#. この状況が変えられるかも知れない…
+msgctxt "0016 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>If I shoot that contradiction with the correct\n"
+"evidence, then I can change this situation..."
+msgstr ""
+"<CLT=cltMIND>Si disparo a la contradicción con la prueba\n"
+"adecuada, seré capaz de girar las tornas..."
+
+#. <CLT=cltMIND>私達の部屋は、明らかに争った形跡があったよね。
+msgctxt "0017 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>It's obvious a struggle happened in our\n"
+"room, right?"
+msgstr ""
+"<CLT=cltMIND>Es más que obvio que se pelearon en\n"
+"nuestra habitación, ¿verdad?"
+
+#. <CLT=cltMIND>だとしたら、
+#. 今の発言は矛盾しているんじゃないかな…？
+msgctxt "0018 | C015_Akama"
+msgid "<CLT=cltMIND>Then, that statement contradicts itself."
+msgstr "<CLT=cltMIND>Entonces esa declaración se está contradiciendo."
+
+#. <CLT=cltMIND>その矛盾に、正しい情報をぶつければ、
+#. この状況が変えられるかも知れない…
+msgctxt "0019 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>If I shoot that contradiction with the correct\n"
+"evidence, then I can change this situation..."
+msgstr ""
+"<CLT=cltMIND>Si disparo a la contradicción con la prueba\n"
+"adecuada, seré capaz de girar las tornas..."

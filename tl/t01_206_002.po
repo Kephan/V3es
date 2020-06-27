@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 25/02/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. 俺は<CLT=size2>厨房<CLT=size1>には
+#. １度も行ってないぞ。
+msgctxt "0001 | C120_Hinat"
+msgid ""
+"I never\n"
+"went to the \n"
+"<CLT=size2>kitchen."
+msgstr ""
+"Yo nunca\n"
+"fui a la\n"
+"<CLT=size2>cocina."
+
+#. 俺は厨房には１度も行ってないぞ。
+msgctxt "0002 | C120_Hinat"
+msgid "I never went to the kitchen."
+msgstr "Yo nunca fui a la cocina."
+
+#. だから<CLT=size2>包丁<CLT=size1>を
+msgctxt "0003 | C120_Hinat"
+msgid "So there's <CLT=size1.5>no way"
+msgstr "Asî que es <CLT=size1.2>imposible"
+
+#. だから包丁を持ち出す事はできない。
+msgctxt "0004 | C120_Hinat"
+msgid ""
+"So there's no way I could've gotten the\n"
+"knife."
+msgstr ""
+"Así que es imposible que haya sido\n"
+"yo el que cogió el cuchillo."
+
+#. <CLT=size2>持ち出す<CLT=size1>事はできない。
+msgctxt "0005 | C120_Hinat"
+msgid "I could've gotten the <CLT=size1.5>knife."
+msgstr ""
+"que haya sido yo el que cogiô\n"
+"el <CLT=size1.2>cuchillo."
+
+#. それを<CLT=size2>証明<CLT=size1>する<CLT=size2>証拠<CLT=size1>は？
+msgctxt "0006 | C000_Saiha"
+msgid ""
+"And where is\n"
+"the <CLT=size2>evidence\n"
+"<CLT=size1>that <CLT=size2>proves<CLT=size1> that?"
+msgstr ""
+"<CLT=size0.7>êY no tienes\n"
+"alguna <CLT=size1.6>prueba\n"
+"<CLT=size1>que lo <CLT=size1.8>demuestre?"
+
+#. それを証明する証拠は？
+msgctxt "0007 | C000_Saiha"
+msgid ""
+"And where is the evidence\n"
+"that proves that?"
+msgstr ""
+"¿Y no tienes alguna prueba\n"
+"que lo demuestre?"
+
+#. 証拠はないけど…
+msgctxt "0008 | C120_Hinat"
+msgid ""
+"There is no \n"
+"evidence, but..."
+msgstr ""
+"Pues no tengo ninguna,\n"
+"pero aun asî..."
+
+#. 証拠はないけど…
+msgctxt "0009 | C120_Hinat"
+msgid "There is no evidence, but..."
+msgstr "Pues no tengo ninguna, pero aun así..."
+
+#. もし<CLT=size2>食堂<CLT=size1>に<CLT=size2>誰かいた<CLT=size1>なら…
+msgctxt "0010 | C120_Hinat"
+msgid ""
+"<CLT=size1.2>if <CLT=size2>someone\n"
+"<CLT=size1.2> was in the \n"
+"<CLT=size2>dining hall..."
+msgstr ""
+"<CLT=size1.2>Si <CLT=size2>alguien\n"
+"<CLT=size1.2> estuvo en la\n"
+"<CLT=size2>cafeterîa..."
+
+#. もし食堂に誰かいたなら…
+msgctxt "0011 | C120_Hinat"
+msgid "if someone was in the dining hall..."
+msgstr "Si alguien estuvo en la cafetería..."
+
+#. 包丁を<CLT=size2>持ち出した人間<CLT=size1>を
+#. <CLT=size2>見てる<CLT=size1>んじゃないか？
+msgctxt "0012 | C120_Hinat"
+msgid ""
+"maybe\n"
+"they <CLT=size2>saw who\n"
+"<CLT=size1>took the <CLT=size2>knife?"
+msgstr ""
+"... quizá\n"
+"haya podido <CLT=size2>ver quién\n"
+"<CLT=size1>se llevô el <CLT=size2>cuchillo, êno?"
+
+#. 包丁を持ち出した人間を見てるんじゃないか？
+msgctxt "0013 | C120_Hinat"
+msgid "maybe they saw who took the knife?"
+msgstr ""
+"... quizá haya podido ver quién\n"
+"se llevó el cuchillo, ¿no?"

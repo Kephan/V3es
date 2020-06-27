@@ -1,0 +1,681 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 25/02/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. 葉隠さんの腹部に刺さっていたのは、
+#. ナイフじゃなくて…
+msgctxt "0001 | C015_Akama"
+msgid ""
+"The culprit didn't stab Hiro in the stomach\n"
+"with just any knife..."
+msgstr ""
+"El asesino no apuñaló a Hagakure con un\n"
+"cuchillo cualquiera...,"
+
+#. <CLT=cltSTRONG>包丁<CLT=cltNORMAL>だった…そうだよね？
+msgctxt "0002 | C015_Akama"
+msgid "But specifically...a <CLT=cltSTRONG>kitchen knife<CLT=cltNORMAL>, right?"
+msgstr ""
+"... sino que usó un <CLT=cltSTRONG>cuchillo de cocina<CLT=cltNORMAL>,\n"
+"¿verdad?"
+
+#. えっ？　そ…そうなの？
+msgctxt "0003 | C014_Iruma"
+msgid "Eh? R-Really...?"
+msgstr "¿Eh? ¿L-lo dices en serio?"
+
+#. そうだな、オレもちっと見てみたが…
+#. あれは確かに包丁だったぜ。
+msgctxt "0004 | C001_Momot"
+msgid ""
+"Yeah, I caught a glimpse of it too...\n"
+"That was definitely a kitchen knife."
+msgstr ""
+"Ya ves que sí, yo también lo vi y eso\n"
+"era un cuchillo de cocina seguro."
+
+#. 怪しいのぅ…
+#. お主の見間違いではないだろうな？
+msgctxt "0005 | C009_Yumen"
+msgid ""
+"That's pretty suspicious...\n"
+"Maybe you just saw it wrong."
+msgstr ""
+"Eso es bastante sospechoso...\n"
+"Quizá no lo viste bien."
+
+#. 包丁を他のモンと見間違える方が
+#. 難しいだろーが！
+msgctxt "0006 | C001_Momot"
+msgid ""
+"How could I see a kitchen knife wrong?\n"
+"Everyone knows what those look like!"
+msgstr ""
+"¿Cómo no voy a haberlo visto bien?\n"
+"¡Que solo es un cuchillo de cocina!"
+
+#. 包丁か…確か、厨房に置かれていたよね。
+#. あれが凶器になったんだろうね。
+msgctxt "0007 | C000_Saiha"
+msgid ""
+"A knife... I do remember seeing a knife\n"
+"in the kitchen. That could be it."
+msgstr ""
+"Un cuchillo... Si mal no recuerdo, había uno\n"
+"en la cocina. Podría ser ese."
+
+#. なるなるー、さすが<CLT=cltSTRONG>“超高校級の探偵”<CLT=cltNORMAL>だねー。
+#. 名推理だよー。
+msgctxt "0008 | C013_Yonag"
+msgid ""
+"I see, I see... An excellent deduction from\n"
+"the <CLT=cltSTRONG>Ultimate Detective<CLT=cltNORMAL>. Well done."
+msgstr ""
+"Vaya, vayita... Qué gran deducción ha hecho\n"
+"el <CLT=cltSTRONG>Estudiante Detective Definitivo<CLT=cltNORMAL>. Buen trabajo."
+
+#. …別に探偵だからって訳じゃないよ。
+#. 僕が探偵として認められたのはたまたまだし…
+msgctxt "0009 | C000_Saiha"
+msgid ""
+"Ah, it's not because I'm a detective...\n"
+"I'm still in training..."
+msgstr ""
+"N-no es porque sea detective...\n"
+"Yo aún sigo estudiando..."
+
+#. そもそも包丁の出所が厨房って事くらい、
+#. 探偵じゃなくても想像できる。
+msgctxt "0010 | C010_Haruk"
+msgid ""
+"You really don't need to be a detective to\n"
+"know that the knife came from the kitchen."
+msgstr ""
+"Tampoco es que te haga falta ser detective\n"
+"para averiguar de dónde ha salido ese cuchillo."
+
+#. なんにせよ、最原くんの言う通りだと思うよ。
+#. 厨房の包丁は、１本なくなってたしね。
+msgctxt "0011 | C015_Akama"
+msgid ""
+"Either way, it's exactly what Shuichi said.\n"
+"One kitchen knife is gone from the kitchen."
+msgstr ""
+"Olvidad eso, lo importante es que Saihara\n"
+"tiene razón: en la cocina faltaba un cuchillo."
+
+#. なら、厨房の包丁を持っていったヤツが怪しいな！
+msgctxt "0012 | C001_Momot"
+msgid ""
+"Then the one who took the knife from \n"
+"the kitchen is our culprit!"
+msgstr ""
+"¡Pues el que sea que lo haya cogido\n"
+"es el asesino!"
+
+#. ねぇ、凶器なんてどうでもよくない？
+msgctxt "0013 | C005_Oma__"
+msgid "Geez, who cares about the murder weapon?"
+msgstr ""
+"Qué pesadilla, ¿a quién le importa cuál\n"
+"fue el arma homicida?"
+
+#. あぁ！？　どうでもよくはねーだろ！
+msgctxt "0014 | C001_Momot"
+msgid "What do you mean, \"who cares\"!?"
+msgstr "¡¿Cómo que «a quién le importa»?!"
+
+#. だって、容疑者は簡単に絞れちゃうじゃん。
+#. 特大のヒントがあるんだからさー。
+msgctxt "0015 | C005_Oma__"
+msgid ""
+"We can already guess who the culprit is.\n"
+"There's a super-duper huge hint already."
+msgstr ""
+"Pues que ya podemos saber quién fue,\n"
+"tenemos una pista enoorme."
+
+#. それ、<CLT=cltSTRONG>殺人現場<CLT=cltNORMAL>の事を言ってるの？
+msgctxt "0016 | C010_Haruk"
+msgid "Are you talking about the <CLT=cltSTRONG>murder scene<CLT=cltNORMAL>?"
+msgstr "¿Te refieres a <CLT=cltSTRONG>la escena del crimen<CLT=cltNORMAL>?"
+
+#. えっ？
+msgctxt "0017 | C015_Akama"
+msgid "What?"
+msgstr "¿Qué dices?"
+
+#. 犯人は<CLT=cltSTRONG>康比呂が殺された部屋の主<CLT=cltNORMAL>で決まりだよ。
+#. 神さまもそう言ってるよー。
+msgctxt "0018 | C013_Yonag"
+msgid ""
+"Atua says the <CLT=cltSTRONG>occupant of the room where\n"
+"Yasuhiro was killed<CLT=cltNORMAL> is the culprit."
+msgstr ""
+"Dios dice que el <CLT=cltSTRONG>dueño de la habitación\n"
+"en la que murió Hagakure<CLT=cltNORMAL> es el culpable."
+
+#. あの部屋の主って言うと…
+#. 苗木さん、日向さん、赤松さんの３人だよね。
+msgctxt "0019 | C012_Shiro"
+msgid ""
+"Well, you say \"the occupant,\" but Makoto, \n"
+"Hajime, and Kaede were all in that room."
+msgstr ""
+"Vale, puede que diga eso, pero recuerda\n"
+"que esa habitación tiene tres dueños."
+
+#. わ、私達を疑うの？
+msgctxt "0020 | C015_Akama"
+msgid "W-Wait, you're suspecting us?"
+msgstr ""
+"U-un momento...\n"
+"¿Acaso estáis sospechando de nosotros?"
+
+#. 殺人現場になったのが俺達の部屋である以上…
+#. 俺達を疑いたくなるのは仕方ない。
+msgctxt "0021 | C120_Hinat"
+msgid ""
+"Well, the murder did take place in our room.\n"
+"It's understandable that you'd suspect us..."
+msgstr ""
+"Si el crimen fue en nuestra habitación, es\n"
+"normal que lo hagan..."
+
+#. でも、俺はやってない。
+msgctxt "0022 | C120_Hinat"
+msgid "But I didn't do it."
+msgstr "Pero yo no he sido."
+
+#. 俺達の部屋って言うけど、
+#. 事件より前に入った事もないしな。
+msgctxt "0023 | C120_Hinat"
+msgid ""
+"It might have been our room, but I never\n"
+"even went inside before the murder."
+msgstr ""
+"Vale que haya podido ser en nuestra habitación,\n"
+"pero no entré hasta que pasó lo del asesinato."
+
+#. …ボクもやってないよ。
+msgctxt "0024 | C100_Naegi"
+msgid "I didn't either..."
+msgstr "Ni yo tampoco..."
+
+#. 赤松…あんたはどうなの？
+msgctxt "0025 | C010_Haruk"
+msgid "Well, Kaede...did you?"
+msgstr "¿Y tú, Akamatsu?"
+
+#. 私だって違うよ！
+msgctxt "0026 | C015_Akama"
+msgid "I definitely didn't do it!"
+msgstr "¡Bajo ningún concepto!"
+
+#. モノクマに言われて、初めてあの部屋に行ったら…
+#. 葉隠さんが死んでたんだから！
+msgctxt "0027 | C015_Akama"
+msgid ""
+"After Monokuma told us, I went into that room\n"
+"for the first time...and saw Hiro dead!"
+msgstr ""
+"¡Yo no fui hasta que nos lo dijo Monokuma, y ahí\n"
+"fue cuando me encontré a Hagakure muerto!"
+
+#. でも、殺人現場は赤松達の部屋で…
+#. 第一発見者も赤松…
+msgctxt "0028 | C010_Haruk"
+msgid ""
+"The murder scene was in yours and the others'\n"
+"room. Also, you were the first witness."
+msgstr ""
+"El asesinato tuvo lugar en vuestra habitación.\n"
+"Y además, tú fuiste la primera en encontrarlo."
+
+#. 何か犯人じゃないって言える根拠がないと、
+#. あんたは疑われ続けるんじゃない？
+msgctxt "0029 | C010_Haruk"
+msgid ""
+"If you don't have evidence to prove you're\n"
+"not the culprit, then you're still suspicious."
+msgstr ""
+"Así que, si no tienes ninguna prueba que demuestre\n"
+"lo contrario, sigues siendo sospechosa."
+
+#. そ、そんな…
+msgctxt "0030 | C015_Akama"
+msgid "N-No way..."
+msgstr "N-no me lo puedo creer..."
+
+#. もー、赤松ちゃんは違うって言ってるのに、
+#. 頭から疑ってかかったら可哀想じゃん！
+msgctxt "0031 | C005_Oma__"
+msgid ""
+"Ugh, I already told you it's not Kaede.\n"
+"Suspecting her right off the bat is so mean!"
+msgstr ""
+"Por Dios, ya os he dicho que no ha sido Akamatsu.\n"
+"¡Esto de sospechar de ella por la cara no mola!"
+
+#. おい！　そもそもテメーが言い出した事だろ！
+msgctxt "0032 | C001_Momot"
+msgid "Hey! You're the one who brought it up!"
+msgstr ""
+"¡Pero si has sido tú quien la ha puesto en\n"
+"el punto de mira!"
+
+#. オレは赤松ちゃんが犯人だなんて言ってないよ？
+msgctxt "0033 | C005_Oma__"
+msgid "Did I ever say Kaede's the culprit?"
+msgstr ""
+"Yo no recuerdo haber dicho nunca\n"
+"que ella haya matado a nadie."
+
+#. 第一発見者を疑うのはセオリーかもしれないけど…
+msgctxt "0034 | C120_Hinat"
+msgid ""
+"It makes sense to suspect the first witness\n"
+"as the culprit..."
+msgstr ""
+"Es normal creer que la primera persona que\n"
+"ve el cadáver es el asesino..."
+
+#. 短絡的に結論を出そうとしても、
+#. 望む結果には繋がらないんじゃないか。
+msgctxt "0035 | C120_Hinat"
+msgid ""
+"...but taking shortcuts like that won't get us\n"
+"the best result."
+msgstr ""
+"... pero si intentamos ir a lo fácil, vamos a\n"
+"conseguir que nos maten."
+
+#. もっともらしい話じゃが…
+#. 容疑者の言葉では説得力に欠けるのぅ。
+msgctxt "0036 | C009_Yumen"
+msgid ""
+"Maybe...but coming from a suspect,\n"
+"it still sounds suspicious."
+msgstr ""
+"Puede..., pero tú eres un sospechoso,\n"
+"así que no podemos fiarnos de ti."
+
+#. でも、日向クンの言う通りだよ。
+#. 先入観にとらわれずに…
+msgctxt "0037 | C100_Naegi"
+msgid ""
+"But like Hajime said, we can't afford \n"
+"to get caught up in assumptions..."
+msgstr ""
+"Tenemos que hacer caso a Hinata, no nos podemos\n"
+"permitir caer en suposiciones..."
+
+#. もっと議論を重ねて、真実を解き明かさないと。
+#. キミ達は、試されているんだから。
+msgctxt "0038 | C100_Naegi"
+msgid ""
+"We need to talk this over more to \n"
+"uncover the truth. This is a test."
+msgstr ""
+"Recordad que estamos a prueba. Si queremos\n"
+"descubrir la verdad, tenemos que debatir más."
+
+#. …えっ？
+msgctxt "0039 | C015_Akama"
+msgid "Huh?"
+msgstr "¿Cómo dices?"
+
+#. <CLT=cltMIND>試されているって…何に？
+msgctxt "0040 | C015_Akama"
+msgid "<CLT=cltMIND>This is a test...?"
+msgstr "<CLT=cltMIND>¿Estamos a prueba...?"
+
+#. 私は日向さん達に賛成よ。
+#. 事件について、まだまだ疑問が残っているもの。
+msgctxt "0041 | C008_Tojo_"
+msgid ""
+"I agree with Hajime. We still have many \n"
+"questions about this incident."
+msgstr ""
+"Hinata tiene mi apoyo. Todavía tenemos demasiadas\n"
+"preguntas sin respuesta sobre este incidente."
+
+#. 『議論の余地がある以上、容疑者を絞るのは早計だ』
+#. 僕からも、そう言わせて貰うヨ。
+msgctxt "0042 | C006_Shing"
+msgid ""
+"As long as there is room for debate,\n"
+"it is rash to decide upon the culprit."
+msgstr ""
+"Hasta que no lo hayamos cubierto todo, es\n"
+"precipitado decidir quién fue el asesino."
+
+#. わかるよ。
+#. 諦めたらそこで学級裁判終了、なんだね。
+msgctxt "0043 | C012_Shiro"
+msgid ""
+"That's right. If we give up now, the\n"
+"class trial will end."
+msgstr ""
+"Tenéis razón, si nos rindiéramos ahora,\n"
+"el juicio terminaría."
+
+#. ゴン太、難しい話はわからないけど…
+#. みんなと一緒に頑張るよっ！
+msgctxt "0044 | C004_Gokuh"
+msgid ""
+"Gonta not good at tough subjects...but\n"
+"Gonta will work hard for everyone's sake!"
+msgstr ""
+"A mí no se me dan bien las cosas complicadas...,\n"
+"¡pero me esforzaré al máximo por el bien de todos!"
+
+#. そうだよ…みんなで協力して、
+#. この学級裁判を乗り越えよう！
+msgctxt "0045 | C015_Akama"
+msgid ""
+"That's right! We need to work together\n"
+"so we can overcome this class trial!"
+msgstr ""
+"¡No lo habría dicho mejor! ¡Tenemos que trabajar\n"
+"en equipo si queremos superar el Juicio escolar!"
+
+#. ………………
+msgctxt "0046 | C100_Naegi"
+msgid "..."
+msgstr "..."
+
+#. ここまでは順調に進んでる…でも…
+msgctxt "0047 | C100_Naegi"
+msgid "Everything's gone smoothly so far, but..."
+msgstr ""
+"De momento no ha surgido ninguna complicación,\n"
+"pero..."
+
+#. えっ？　苗木さん…何か言った？
+msgctxt "0048 | C015_Akama"
+msgid "Huh? Did you say something, Makoto?"
+msgstr "¿Eh? ¿Decías algo, Naegi?"
+
+#. …ううん、なんでもないよ。
+msgctxt "0049 | C100_Naegi"
+msgid "No...it's nothing."
+msgstr "Eh, no... Olvídalo."
+
+#. いずれにせよ、疑わしいのは３人…
+msgctxt "0050 | C002_Hoshi"
+msgid ""
+"Either way, we've got three \n"
+"main suspects now..."
+msgstr ""
+"Retomando lo anterior, ahora tenemos\n"
+"a tres sospechosos en la cuerda floja..."
+
+#. 犯人と決め付ける気はないけど…
+#. 疑惑は未だ覆らないネ。
+msgctxt "0051 | C006_Shing"
+msgid ""
+"The culprit is not necessarily among \n"
+"them, but they remain suspicious."
+msgstr ""
+"Y aunque puede que no haya sido ninguno de ellos,\n"
+"siguen siendo sospechosos."
+
+#. 赤松達じゃねーよ！
+#. オレはこいつらを信じるぜ！
+msgctxt "0052 | C001_Momot"
+msgid ""
+"It's not any of them!\n"
+"I believe in these guys!"
+msgstr ""
+"Pero ¡¿cómo van a ser ellos, chicos?!\n"
+"¡Yo confío en esos tres!"
+
+#. 現時点では、あくまでも可能性が高いというだけだ。
+msgctxt "0053 | C002_Hoshi"
+msgid ""
+"Well, right now, they're the \n"
+"most likely culprits."
+msgstr ""
+"Muy bien, pero por ahora siguen siendo\n"
+"sospechosos."
+
+#. でもでもー、３人の中の誰かが
+#. 厨房から包丁を持ち出してたりしてー！
+msgctxt "0054 | C013_Yonag"
+msgid ""
+"Oh, oh! Maybe one of them took the\n"
+"knife from the kitchen?"
+msgstr ""
+"¡Tengo una idea, ideíta! ¿No habrá sido uno\n"
+"de ellos quien cogió el cuchillo de la cocina?"
+
+#. もしそうなら、いよいよ怪しくなってくるね。
+msgctxt "0055 | C010_Haruk"
+msgid ""
+"If that's the case, that would\n"
+"be pretty suspicious..."
+msgstr "Pues si así fuera, sería bastante sospechoso..."
+
+#. 凶器である包丁…これを誰が持ち出し、
+#. 殺人現場に持っていったのか…
+msgctxt "0056 | C000_Saiha"
+msgid ""
+"If we can determine who took\n"
+"the murder weapon from the kitchen..."
+msgstr ""
+"Si tan solo pudiéramos determinar quién cogió\n"
+"el arma homicida de la cocina..."
+
+#. それを明らかにすれば、
+#. 赤松さん達の容疑も晴れるかもしれない。
+msgctxt "0057 | C000_Saiha"
+msgid "that would clear Kaede of suspicion."
+msgstr "... podríamos librar a Akamatsu de toda sospecha."
+
+#. まずは…赤松さん達３人に、
+#. それぞれの言い分を主張して貰ってはどう？
+msgctxt "0058 | C008_Tojo_"
+msgid ""
+"First, we should listen to Kaede and \n"
+"the others' testimonies."
+msgstr ""
+"Primero, deberíamos escuchar su testimonio\n"
+"y el de los demás."
+
+#. それが妥当だネ。
+#. 彼らも語る機会を待ち望んでいるはずだヨ。
+msgctxt "0059 | C006_Shing"
+msgid ""
+"That would be best. I'm certain they've \n"
+"been longing for the chance to speak."
+msgstr ""
+"Sería lo mejor. Seguro que están\n"
+"deseando poder explicarse."
+
+#. そうだね…
+#. 赤松さんも、それでいい？
+msgctxt "0060 | C100_Naegi"
+msgid ""
+"That's right. Kaede, are you okay \n"
+"with that, too?"
+msgstr "Tenéis razón. ¿A ti qué te parece, Akamatsu?"
+
+#. うん…やってみるしかないよね。
+msgctxt "0061 | C015_Akama"
+msgid "Yeah, we have to at least try."
+msgstr "Claro, no está de más intentarlo."
+
+#. いやいや、ちょっと待って！
+msgctxt "0062 | C020_Monok"
+msgid "Whoa, whoa! Wait a second!"
+msgstr "¡Ey, ey! ¡No tan rápido!"
+
+#. 青年の主張をして貰うのはオッケーだけど、
+#. 一番疑わしい赤松さんにはやらせないよ？
+msgctxt "0063 | C020_Monok"
+msgid ""
+"I'm all for lively debate, but I won't allow\n"
+"cagey Kaede to participate."
+msgstr ""
+"Ya sabéis que me encantan los debates animados,\n"
+"pero no permitiré que participe Akamatsu."
+
+#. えっ？　どうして？
+msgctxt "0064 | C015_Akama"
+msgid "What? Why?"
+msgstr "¿Qué? ¿Por qué?"
+
+#. <CLT=cltSTRONG>ＮＳＭ<CLT=cltNORMAL>だよ！
+msgctxt "0065 | C021_Mtaro"
+msgid "Cuz <CLT=cltSTRONG>S-T-F-U<CLT=cltNORMAL>, that's why!"
+msgstr ""
+"¡¿Eh?! ¡¿Se puede saber quién ha puesto\n"
+"un chiste en alemán en este punto?!"
+
+#. な…何それ？
+msgctxt "0066 | C015_Akama"
+msgid "Wh-What does that mean?"
+msgstr "¿E-en alemán?"
+
+#. 「なんか」「その方が」「盛り上がるかな」ってね。
+msgctxt "0067 | C021_Mtaro"
+msgid "It means it'll \"Stir The Fun Up!\" Get it?"
+msgstr ""
+"Sí, ¿alguien en esta sala sabe alemán?"
+"Porque yo no."
+
+#. ………………
+msgctxt "0068 | C024_Mdam_"
+msgid "..."
+msgstr "..."
+
+#. …盛り下がっとるやないか。
+msgctxt "0069 | C022_Msuke"
+msgid "...Right now, the fun's just simmering."
+msgstr ""
+"En fin, tras esta interrupción, continuemos\n"
+"con el juicio, que está en su punto álgido."
+
+#. とにかく、一番疑わしい赤松さんの代わりに…
+msgctxt "0070 | C021_Mtaro"
+msgid "Anyway, instead of cagey Kaede..."
+msgstr ""
+"De todos modos, en vez de la reservada\n"
+"de Akamatsu..."
+
+#. 今回は、第三者のこの人に主張して貰いまーす！
+msgctxt "0071 | C023_Mfunn"
+msgid ""
+"We're gonna have someone else deliver\n"
+"their testimony instead!"
+msgstr "¡Será otra persona quien cuente su testimonio!"
+
+#. …んあ？　ウチか？
+msgctxt "0072 | C009_Yumen"
+msgid "Nyeh? Me?"
+msgstr "¿Nhaa? ¿Te refieres a mí?"
+
+#. 自分以外が犯人だって主張を、
+#. ガンガンぶちかまし合えよなー！
+msgctxt "0073 | C025_Mkid_"
+msgid ""
+"Just make a shit-ton of excuses for why\n"
+"you're not the culprit!"
+msgstr ""
+"¡Tú solo invéntate un cojón de excusas\n"
+"de por qué no eres la asesina y tirando!"
+
+#. ぶちかますも何も…
+#. ウチは何をすればいいんじゃ？
+msgctxt "0074 | C009_Yumen"
+msgid ""
+"Okay, but before all that...\n"
+"what am I supposed to do?"
+msgstr ""
+"Vale, pero ¿qué se supone que tengo\n"
+"que hacer?"
+
+#. …魔法か？
+#. 必殺の魔法をぶちかませばよいのか？
+msgctxt "0075 | C009_Yumen"
+msgid ""
+"Is it magic? Do you want me to \n"
+"unleash a deadly explosion spell?"
+msgstr ""
+"¿Magia? ¿Queréis que desate una explosión\n"
+"mortal con algún hechizo?"
+
+#. いや、魔法じゃなくて…そうだな、
+#. 問題になってるのは凶器になった包丁だから…
+msgctxt "0076 | C120_Hinat"
+msgid ""
+"No, I don't think we need magic.\n"
+"We need to talk about the kitchen knife."
+msgstr ""
+"No creo que haga falta llegar a la magia.\n"
+"Lo que hay que hacer es hablar del cuchillo."
+
+#. 包丁を見たかどうかとか、厨房や食堂であった事とか…
+#. 何か話せる事があれば、主張して貰えるか？
+msgctxt "0077 | C120_Hinat"
+msgid ""
+"Like, did you see that knife? What happened\n"
+"in the kitchen and dining hall? Anything?"
+msgstr ""
+"Puedes hablar de si viste el cuchillo, de si sabes\n"
+"qué paso en la cafetería..., lo que sea."
+
+#. それなら…なんとかなるかもしれん。
+#. 仕方ない、やってやるわい。
+msgctxt "0078 | C009_Yumen"
+msgid ""
+"Oh...maybe I can help.\n"
+"Alright, I guess I'll just do it then."
+msgstr ""
+"Ah... Pues con eso tal vez puedo ayudar.\n"
+"Vale, supongo que tendré que hacerlo."
+
+#. 赤松さん…キミに任せたよ。
+#. ボク達の声を、<CLT=cltSTRONG>よく聞き分けて<CLT=cltNORMAL>欲しいんだ。
+msgctxt "0079 | C100_Naegi"
+msgid ""
+"Kaede...I'll leave this to you.\n"
+"I want you to <CLT=cltSTRONG>discern our voices<CLT=cltNORMAL>."
+msgstr ""
+"Bueno, Akamatsu..., te lo dejo a ti. Necesito\n"
+"que <CLT=cltSTRONG>distingas nuestras voces<CLT=cltNORMAL>."
+
+#. じゃあ、新システム…<CLT=cltSTRONG>パニック議論<CLT=cltNORMAL>の始まりだよー！
+msgctxt "0080 | C021_Mtaro"
+msgid ""
+"Now it's time for a new segment to begin...\n"
+"The <CLT=cltSTRONG>Mass Panic Debate<CLT=cltNORMAL>!"
+msgstr ""
+"Y ahora toca que empiece un nuevo acto...\n"
+"¡El <CLT=cltSTRONG>Debate desenfrenado<CLT=cltNORMAL>!"
+
+#. ボクは犯人じゃないよ。
+msgctxt "0081 | C100_Naegi"
+msgid "I'm not the culprit."
+msgstr "Yo no soy el asesino."
+
+#. 俺は犯人じゃないぞ。
+msgctxt "0082 | C120_Hinat"
+msgid "I'm not the culprit."
+msgstr "Yo no soy el asesino."
+
+#. んあー…やっぱりめんどいのぅ。
+msgctxt "0083 | C009_Yumen"
+msgid "Nyeeeh... This is gonna be a pain after all, huh?"
+msgstr "Nhaa... Qué pereza todo esto, ¿no?"

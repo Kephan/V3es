@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 25/02/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. ウチは<CLT=size2>茶柱<CLT=size1>と<CLT=size2>一緒<CLT=size1>に…
+msgctxt "0001 | C009_Yumen"
+msgid "<CLT=size1.2>I was with <CLT=size2>Tenko..."
+msgstr "<CLT=size0.8>Yo estuve con <CLT=size1.8>Chabashira..."
+
+#. ウチは茶柱と一緒に…
+msgctxt "0002 | C009_Yumen"
+msgid "I was with Tenko..."
+msgstr "Yo estaba con Chabashira..."
+
+#. <CLT=size2>食堂<CLT=size1>にいたんじゃ。
+msgctxt "0003 | C009_Yumen"
+msgid ""
+"<CLT=size1.2>in the \n"
+"<CLT=size2>dining hall."
+msgstr ""
+"<CLT=size1.2>... en la\n"
+"<CLT=size2>cafeterîa"
+
+#. 食堂にいたんじゃ。
+msgctxt "0004 | C009_Yumen"
+msgid "in the dining hall."
+msgstr "... en la cafetería"
+
+#. <CLT=size2>魔法<CLT=size1>と<CLT=size2>マジック<CLT=size1>の
+#. 違いを教えて頂きました！
+msgctxt "0005 | C011_Chaba"
+msgid ""
+"She was teaching me the \n"
+"difference between\n"
+"<CLT=size1.5>real magic<CLT=size1> and a \n"
+"<CLT=size1.5>magic trick!<CLT=size1>"
+msgstr ""
+"¡Me estuvo explicando\n"
+"la diferencia entre\n"
+"la <CLT=size1.5>magia de verdad <CLT=size1>y\n"
+"<CLT=size1>un <CLT=size1.5>truco de magia!"
+
+#. 魔法とマジックの違いを教えて頂きました！
+msgctxt "0006 | C011_Chaba"
+msgid ""
+"She was teaching me the difference between\n"
+"real magic and a magic trick!"
+msgstr ""
+"¡Me estuvo explicando la diferencia entre la magia\n"
+"de verdad y un truco de magia!"
+
+#. 講義中は
+#. <CLT=cltWEAK><CLT=size2>ずっと２人だけ<CLT=cltNORMAL>
+#. <CLT=size1>じゃったな…
+msgctxt "0007 | C009_Yumen"
+msgid ""
+"It was \n"
+"<CLT=cltWEAK><CLT=size2>just<CLT=size1> the <CLT=size2>two<CLT=size1> of <CLT=size2>us<CLT=cltNORMAL> \n"
+"<CLT=size1>there for my lecture..."
+msgstr ""
+"Y que solo estuvimos\n"
+"<CLT=cltWEAK><CLT=size2>nosotras dos<CLT=cltNORMAL> <CLT=size1>solas\n"
+"<CLT=size1>durante mi funciôn..."
+
+#. 講義中はずっと２人だけじゃったな…
+msgctxt "0008 | C009_Yumen"
+msgid "It was just the two of us there for my lecture..."
+msgstr ""
+"Y que solo estábamos nosotras dos solas durante\n"
+"mi función..."
+
+#. <CLT=size2>魔法<CLT=size1>と
+#. <CLT=size2>マジック<CLT=size1>の
+#. 違いは<CLT=size2>常識<CLT=size1>じゃぞ。
+msgctxt "0009 | C009_Yumen"
+msgid ""
+"Cuz\n"
+"everybody knows\n"
+"the <CLT=size2>difference\n"
+"<CLT=size1>between <CLT=size2>magic\n"
+"<CLT=size1>and a <CLT=size2>trick."
+msgstr ""
+"éPorque\n"
+"todo el mundo sabe\n"
+"la <CLT=size2>diferencia\n"
+"<CLT=size1>entre la <CLT=size2>magia <CLT=size1>de verdad\n"
+"<CLT=size1>y simples <CLT=size2>trucos!"
+
+#. 魔法とマジックの違いは常識じゃぞ。
+msgctxt "0010 | C009_Yumen"
+msgid ""
+"Cuz everybody knows the difference \n"
+"between magic and \n"
+"a trick."
+msgstr ""
+"¡Porque todo el mundo sabe la diferencia\n"
+"entre la magia de verdad y simples trucos!"
+
+#. 転子が淹れたのは
+#. <CLT=size2>紅茶<CLT=size1>でしたよ！
+msgctxt "0011 | C011_Chaba"
+msgid ""
+"Also,\n"
+"I was making <CLT=size2>tea!"
+msgstr ""
+"éY ademàs,\n"
+"yo estaba haciendo <CLT=size2>té!"
+
+#. 転子が淹れたのは紅茶でしたよ！
+msgctxt "0012 | C011_Chaba"
+msgid "Also, I was making tea!"
+msgstr "¡Y además, yo estaba haciendo té!"

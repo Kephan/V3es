@@ -1,0 +1,462 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 06/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001 | C100_Naegi"
+msgid "Oh, he's the <CLT=cltSTRONG>Ultimate Tennis Pro<CLT=cltNORMAL>..."
+msgstr ""
+
+msgctxt "0002 | C002_Hoshi"
+msgid "Hmph...that's an old story."
+msgstr ""
+
+msgctxt "0003 | C002_Hoshi"
+msgid ""
+"Ryoma Hoshi, the man called the\n"
+"<CLT=cltSTRONG>Ultimate Tennis Pro<CLT=cltNORMAL>...no longer exists."
+msgstr ""
+
+msgctxt "0004 | C002_Hoshi"
+msgid "I'm nothing more than his empty shell."
+msgstr ""
+
+msgctxt "0005 | C100_Naegi"
+msgid ""
+"I've seen you in the newspaper\n"
+"before, I think."
+msgstr ""
+
+msgctxt "0006 | C100_Naegi"
+msgid ""
+"The tennis prodigy who singlehandedly\n"
+"took down a mafia..."
+msgstr ""
+
+msgctxt "0007 | C015_Akama"
+msgid "You took down a mafia by yourself!?"
+msgstr ""
+
+msgctxt "0008 | C100_Naegi"
+msgid ""
+"Using his <CLT=cltSTRONG>steel tennis ball<CLT=cltNORMAL>, he blew\n"
+"a hole through their heads one by one..."
+msgstr ""
+
+msgctxt "0009 | chara_Blank"
+msgid "<CLT=cltMIND>What the hell!? Really!?"
+msgstr ""
+
+msgctxt "0010 | C002_Hoshi"
+msgid "Hmph, so you know that much already..."
+msgstr ""
+
+msgctxt "0011 | C002_Hoshi"
+msgid ""
+"Well? What do you think of the loser \n"
+"before you who used his talent to kill?"
+msgstr ""
+
+msgctxt "0012 | C015_Akama"
+msgid ""
+"B-But...why would you throw away your future\n"
+"like that?"
+msgstr ""
+
+msgctxt "0013 | C002_Hoshi"
+msgid "Hmph, because I didn't need a <CLT=cltSTRONG>future<CLT=cltNORMAL> anymore..."
+msgstr ""
+
+msgctxt "0014 | C015_Akama"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "0015 | C002_Hoshi"
+msgid ""
+"No...it's nothing. It's not like me \n"
+"to talk so much."
+msgstr ""
+
+msgctxt "0016 | C002_Hoshi"
+msgid ""
+"Anyway...I'm warning you. It's dangerous \n"
+"to just walk up to a killer like me."
+msgstr ""
+
+msgctxt "0017 | chara_Blank"
+msgid "<CLT=cltMIND>As he said that, he turned his back to us."
+msgstr ""
+
+msgctxt "0018 | C002_Hoshi"
+msgid ""
+"You should listen when people give \n"
+"you warnings... I won't say it again."
+msgstr ""
+
+msgctxt "0019 | C008_Tojo_"
+msgid ""
+"I am Kirumi Tojo, the <CLT=cltSTRONG>Ultimate Maid<CLT=cltNORMAL>.\n"
+"Please let me know if you require my service."
+msgstr ""
+
+msgctxt "0020 | C015_Akama"
+msgid ""
+"Wow... The <CLT=cltSTRONG>Ultimate Maid<CLT=cltNORMAL> sounds like a really\n"
+"cool talent."
+msgstr ""
+
+msgctxt "0021 | C100_Naegi"
+msgid ""
+"Even among the new students,\n"
+"Kirumi has a reputation."
+msgstr ""
+
+msgctxt "0022 | C100_Naegi"
+msgid ""
+"She's clear-headed, good at sports, an\n"
+"excellent student, and a maid as well."
+msgstr ""
+
+msgctxt "0023 | C100_Naegi"
+msgid ""
+"In fact, she's so perfect, it's said\n"
+"that she can complete *any* request."
+msgstr ""
+
+msgctxt "0024 | C015_Akama"
+msgid "What!? She's that amazing!?"
+msgstr ""
+
+msgctxt "0025 | C008_Tojo_"
+msgid ""
+"Please, you are exaggerating... I will not\n"
+"<CLT=cltSTRONG>complete any request<CLT=cltNORMAL> that is asked of me."
+msgstr ""
+
+msgctxt "0026 | C008_Tojo_"
+msgid ""
+"I once received a request to annihilate a rival\n"
+"nation, but as it was impossible, I rejected it."
+msgstr ""
+
+msgctxt "0027 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>But...being requested to do that is\n"
+"pretty impressive on its own."
+msgstr ""
+
+msgctxt "0028 | C100_Naegi"
+msgid ""
+"Rumor has it she was also a bodyguard for\n"
+"heads of state..."
+msgstr ""
+
+msgctxt "0029 | C008_Tojo_"
+msgid ""
+"I have only been employed as a maid, not\n"
+"a bodyguard."
+msgstr ""
+
+msgctxt "0030 | C015_Akama"
+msgid ""
+"But you've been hired by so many important\n"
+"people... You're, like, a super maid!"
+msgstr ""
+
+msgctxt "0031 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>She's how I imagined the <CLT=cltSTRONG>Ultimate Maid<CLT=cltMIND> to be.\n"
+"Not only is she talented, but she's composed."
+msgstr ""
+
+msgctxt "0032 | C008_Tojo_"
+msgid ""
+"Please let me know if you require my service.\n"
+"I will do everything in my power to help you."
+msgstr ""
+
+msgctxt "0033 | C015_Akama"
+msgid "Um...what's your name?"
+msgstr ""
+
+msgctxt "0034 | C012_Shiro"
+msgid ""
+"Oh, my name is Tsumugi Shirogane.\n"
+"I'm the <CLT=cltSTRONG>Ultimate Cosplayer<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0035 | C015_Akama"
+msgid "A...cosplayer?"
+msgstr ""
+
+msgctxt "0036 | C012_Shiro"
+msgid ""
+"Are you...surprised? I get that a lot,\n"
+"since I'm so plain."
+msgstr ""
+
+msgctxt "0037 | C015_Akama"
+msgid ""
+"I mean, it sorta makes sense. You have this\n"
+"strange, almost pheromonal scent about you."
+msgstr ""
+
+msgctxt "0038 | C015_Akama"
+msgid ""
+"I bet anyone who looks at your body can tell\n"
+"that your pheromones are off the charts!"
+msgstr ""
+
+msgctxt "0039 | C012_Shiro"
+msgid ""
+"Umm... I don't really like being \n"
+"watched by people..."
+msgstr ""
+
+msgctxt "0040 | C012_Shiro"
+msgid ""
+"I just like making cosplay. \n"
+"I'm fine with others wearing them..."
+msgstr ""
+
+msgctxt "0041 | C012_Shiro"
+msgid ""
+"But lately more cosplayers are putting \n"
+"themselves before their characters."
+msgstr ""
+
+msgctxt "0042 | C012_Shiro"
+msgid ""
+"I'd rather wear my outfits myself, with\n"
+"love, than give them to such people."
+msgstr ""
+
+msgctxt "0043 | C015_Akama"
+msgid "Wow...you're pretty intense."
+msgstr ""
+
+msgctxt "0044 | C012_Shiro"
+msgid ""
+"It makes me happy when I get to show \n"
+"people the outfits I've made."
+msgstr ""
+
+msgctxt "0045 | C012_Shiro"
+msgid ""
+"And thanks to my sponsors, I can use\n"
+"materials that are just plain expensive."
+msgstr ""
+
+msgctxt "0046 | C015_Akama"
+msgid ""
+"Ohhh! Well, of course the <CLT=cltSTRONG>Ultimate Cosplayer<CLT=cltNORMAL>\n"
+"would have sponsors!"
+msgstr ""
+
+msgctxt "0047 | C012_Shiro"
+msgid ""
+"It's not a big deal. People just crowd\n"
+"around like I'm a panda at the zoo."
+msgstr ""
+
+msgctxt "0048 | C015_Akama"
+msgid ""
+"That's so amazing...\n"
+"You're pretty much a celebrity, you know?"
+msgstr ""
+
+msgctxt "0049 | C012_Shiro"
+msgid ""
+"Before I realized it, I was here. I have no\n"
+"idea what's going on."
+msgstr ""
+
+msgctxt "0050 | C012_Shiro"
+msgid ""
+"Could plain old me really have been kidnapped\n"
+"or spirited away somewhere?"
+msgstr ""
+
+msgctxt "0051 | C100_Naegi"
+msgid "This must be the dormitory for the new students."
+msgstr ""
+
+msgctxt "0052 | C100_Naegi"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0053 | C100_Naegi"
+msgid "No"
+msgstr ""
+
+msgctxt "0054 | C100_Naegi"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0055 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0056 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0057 | chara_Blank"
+msgid "<CLT=cltMIND>It won't open... I guess it's locked."
+msgstr ""
+
+msgctxt "0058 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0059 | chara_Blank"
+msgid "<CLT=cltMIND>It won't open... I guess it's locked."
+msgstr ""
+
+msgctxt "0060 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0061 | chara_Blank"
+msgid "<CLT=cltMIND>It won't open... I guess it's locked."
+msgstr ""
+
+msgctxt "0062 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0063 | chara_Blank"
+msgid "<CLT=cltMIND>It won't open... I guess it's locked."
+msgstr ""
+
+msgctxt "0064 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0065 | chara_Blank"
+msgid "<CLT=cltMIND>It won't open... I guess it's locked."
+msgstr ""
+
+msgctxt "0066 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0067 | chara_Blank"
+msgid "<CLT=cltMIND>It won't open... I guess it's locked."
+msgstr ""
+
+msgctxt "0068 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0069 | chara_Blank"
+msgid "<CLT=cltMIND>It won't open... I guess it's locked."
+msgstr ""
+
+msgctxt "0070 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0071 | chara_Blank"
+msgid "<CLT=cltMIND>It won't open... I guess it's locked."
+msgstr ""
+
+msgctxt "0072 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0073 | chara_Blank"
+msgid "<CLT=cltMIND>It won't open... I guess it's locked."
+msgstr ""
+
+msgctxt "0074 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0075 | chara_Blank"
+msgid "<CLT=cltMIND>It won't open... I guess it's locked."
+msgstr ""
+
+msgctxt "0076 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0077 | chara_Blank"
+msgid "<CLT=cltMIND>It won't open... I guess it's locked."
+msgstr ""
+
+msgctxt "0078 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0079 | chara_Blank"
+msgid "<CLT=cltMIND>It won't open... I guess it's locked."
+msgstr ""
+
+msgctxt "0080 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0081 | chara_Blank"
+msgid "<CLT=cltMIND>It won't open... I guess it's locked."
+msgstr ""
+
+msgctxt "0082 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0083 | chara_Blank"
+msgid "<CLT=cltMIND>It won't open... I guess it's locked."
+msgstr ""
+
+msgctxt "0084 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0085 | chara_Blank"
+msgid "<CLT=cltMIND>It won't open... I guess it's locked."
+msgstr ""
+
+msgctxt "0086 | chara_Blank"
+msgid "<CLT=cltMIND>Huh? The front of this door has my portrait."
+msgstr ""
+
+msgctxt "0087 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>No, not just mine. Makoto and Hajime's\n"
+"portraits are on this door, too."
+msgstr ""
+
+msgctxt "0088 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>What does this mean? I should open\n"
+"the door and find out."
+msgstr ""
+
+msgctxt "0089 | chara_Blank"
+msgid "<CLT=cltSYSTEM>*click...click...*"
+msgstr ""
+
+msgctxt "0090 | chara_Blank"
+msgid "<CLT=cltMIND>Nope, it won't open... I guess it's locked."
+msgstr ""
+
+msgctxt "0091 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>It's a monitor for communicating with us...\n"
+"But nothing's displayed right now."
+msgstr ""
+
+msgctxt "0092 | chara_Blank"
+msgid ""
+"<CLT=cltMIND>I wonder if these monitors have been\n"
+"installed all over the school."
+msgstr ""

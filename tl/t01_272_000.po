@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 25/02/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. <CLT=cltSYSTEM>大変です！
+#. お三方それぞれが主張を始めるようですよ！
+msgctxt "0001 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Oh no!\n"
+"All three people are talking at once!"
+msgstr ""
+"<CLT=cltSTRONG>¡Qué desastre!\n"
+"¡Hay tres personas hablando a la vez!"
+
+#. <CLT=cltSYSTEM>誰の意見を聞いていいのか、誰の意見が間違っているのか…
+#. 裁判場は<CLT=cltSTRONG>パニック状態<CLT=cltSYSTEM>に陥っていると言えるでしょう。
+msgctxt "0002 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Everyone is clamoring to prove their innocence!\n"
+"There's a <CLT=cltSTRONG>panic<CLT=cltSYSTEM>! In the courtroom!"
+msgstr ""
+"<CLT=cltSYSTEM>¡Todos están gritando para demostrar su inocencia!\n"
+"¡La corte se ha <CLT=cltSTRONG>desenfrenado<CLT=cltSYSTEM>!"
+
+#. <CLT=cltSYSTEM>先ほどモノタロウ様に言われてしまいましたが…
+#. これから<CLT=cltSTRONG>パニック議論<CLT=cltSYSTEM>へと突入いたします。
+msgctxt "0003 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Oh, that's right. It's time. You will now\n"
+"be thrown into a <CLT=cltSTRONG>Mass Panic Debate<CLT=cltSYSTEM>!"
+msgstr ""
+"<CLT=cltSYSTEM>Ah, es verdad, ya es la hora. ¡Ahora te vas a meter\n"
+"de lleno en un <CLT=cltSTRONG>Debate desenfrenado<CLT=cltSYSTEM>!"
+
+#. <CLT=cltSYSTEM><CLT=cltSTRONG>パニック議論<CLT=cltSYSTEM>では画面が３つに分割され、
+#. <CLT=cltSTRONG>３つの意見が同時に進行<CLT=cltSYSTEM>致します。
+msgctxt "0004 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>During the <CLT=cltSTRONG>Mass Panic Debate<CLT=cltSYSTEM>,\n"
+"<CLT=cltSTRONG>three debates will happen at the same time<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>En los <CLT=cltSTRONG>Debates desenfrenados<CLT=cltSYSTEM>\n"
+"<CLT=cltSTRONG>se celebrarán tres debates a la vez<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>ですが、落ち着いて下さい。
+#. <CLT=cltSTRONG>基本はノンストップ議論と同じ<CLT=cltSYSTEM>でございます。
+msgctxt "0005 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>But remain calm!\n"
+"It's <CLT=cltSTRONG>just like a Nonstop Debate<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>¡Pero no te preocupes!\n"
+"Es <CLT=cltSTRONG>igual que un Debate continuo<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>先ほどの<CLT=cltSTRONG>３倍の意見を聞き分ける<CLT=cltSYSTEM>だけです。
+#. そんなに難しくなさそうでしょ？
+msgctxt "0006 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You're just <CLT=cltSTRONG>hearing triple the opinions<CLT=cltSYSTEM>!\n"
+"Simple, right?"
+msgstr ""
+"<CLT=cltSYSTEM>¡Solo que <CLT=cltSTRONG>escuchando el triple de opiniones<CLT=cltSYSTEM>!\n"
+"No tiene mucho, ¿no?"
+
+#. <CLT=cltSYSTEM>…しかし、ナメてもらっちゃ困ります。
+msgctxt "0007 | chara_Blank"
+msgid "<CLT=cltSYSTEM>But don't get cocky!"
+msgstr "<CLT=cltSYSTEM>¡Aunque nada de venirse arriba!"
+
+#. <CLT=cltSYSTEM>パニック議論では、意見を聞き分けるのを邪魔する…
+#. <CLT=cltSTRONG>大声セリフ<CLT=cltSYSTEM>が出現いたします。
+msgctxt "0008 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>The Mass Panic Debate will also\n"
+"have <CLT=cltSTRONG>Loud Voice Dialogue<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Los Debates desenfrenados también tendrán\n"
+"lo que se llama <CLT=cltSTRONG>diálogo a gritos<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>大声セリフは読んで字の通り、
+#. 発言者様が<CLT=cltSTRONG>大声<CLT=cltSYSTEM>で意見を発してらっしゃいますので…
+msgctxt "0009 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>It's when one of your opponents\n"
+"shouts their opinion in a <CLT=cltSTRONG>loud voice<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Esto sucede cuando uno de tus oponentes\n"
+"da su opinión <CLT=cltSTRONG>a gritos<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>他の方のご意見を<CLT=cltSTRONG>無効化<CLT=cltSYSTEM>してしまいます。
+#. ウィークポイントがあっても<CLT=cltSTRONG>論破することができません。<CLT=cltSYSTEM>
+msgctxt "0010 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>That blocks out everyone's arguments! Even if\n"
+"you see a weak spot, you <CLT=cltSTRONG>can't refute it<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>¡Y grita tanto que bloquea las declaraciones de los demás!\n"
+"No podrás <CLT=cltSTRONG>ni refutar<CLT=cltSYSTEM> sus puntos débiles."
+
+#. <CLT=cltSYSTEM>困りました。
+#. 一体どうすればいいのでしょうか。
+msgctxt "0011 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Oh no! What do I do then!?\n"
+"...That's what you're thinking, right?"
+msgstr ""
+"<CLT=cltSYSTEM>¡Oh, no! ¡¿Qué puedo hacer entonces?!\n"
+"Estás pensado eso, ¿verdad?"
+
+#. <CLT=cltSYSTEM><CLT=cltSTRONG>大声セリフ<CLT=cltSYSTEM>も雑音セリフと同じく、
+#. <PAD=【○】>ボタンの<CLT=cltSTRONG>サイレンサーで黙らせちゃってください<CLT=cltSYSTEM>ませ。
+msgctxt "0012 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Luckily, it's just like <CLT=cltSTRONG>white noise<CLT=cltSYSTEM>. Shut 'em up\n"
+"with the <PAD=【○】> button's <CLT=cltSTRONG>silencer<CLT=cltSYSTEM>!"
+msgstr ""
+"<CLT=cltSYSTEM>Pues, por suerte, es igual que los <CLT=cltSTRONG>susurros<CLT=cltSYSTEM>.\n"
+"¡Dispárale con el <CLT=cltSTRONG>silenciador<CLT=cltSYSTEM> pulsando <PAD=【○】>!"
+
+#. <CLT=cltSYSTEM>そうしますと、それまで無効化されていたご意見も
+#. <CLT=cltSTRONG>聞き取れるようになります。<CLT=cltSYSTEM>
+msgctxt "0013 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>After that, all of the arguments\n"
+"will be <CLT=cltSTRONG>audible again<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Después de eso, las declaraciones de los demás\n"
+"<CLT=cltSTRONG>se pondrán escuchar bien<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>皆様の意見を<CLT=cltSTRONG>聞き分けて<CLT=cltSYSTEM>“ウソや間違い”を探し、
+#. 落ち着いて論破してあげましょう。
+msgctxt "0014 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Sort through everyone's opinions, find the\n"
+"<CLT=cltSTRONG>lie or contradiction<CLT=cltSYSTEM>, and refute it."
+msgstr ""
+"<CLT=cltSYSTEM>Escucha las opiniones de todos, encuentra\n"
+"la <CLT=cltSTRONG>mentira o contradicción<CLT=cltSYSTEM> y refútala."
+
+#. <CLT=cltSYSTEM>ちなみに、こちらのパニック議論でも、
+#. <CLT=cltWEAK>Ｖ論破<CLT=cltSYSTEM>をする事が可能でございます。
+msgctxt "0015 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You can also use <CLT=cltSTRONG>V Counter<CLT=cltSYSTEM>, so if\n"
+"you're confident, give that a shot."
+msgstr ""
+"<CLT=cltSYSTEM>También podrás utilizar la <CLT=cltSTRONG>Refutación V<CLT=cltSYSTEM>,\n"
+"así que si te ves con fuerza, dale un tiento."
+
+#. <CLT=cltSYSTEM>以上、ご確認のほど…よろしくお願い致します。
+msgctxt "0016 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Thank you for your time. \n"
+"Sincerely, SYSTEM"
+msgstr ""
+"<CLT=cltSYSTEM>Gracias por tu tiempo.\n"
+"Atentamente, tu sistema de confianza."
+
+#. <CLT=cltSYSTEM>大変です！
+#. お三方それぞれが主張を始めるようですよ！
+msgctxt "0017 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Oh no!\n"
+"All three people are talking at once!"
+msgstr ""
+"<CLT=cltSTRONG>¡Qué desastre!\n"
+"¡Hay tres personas hablando a la vez!"
+
+#. <CLT=cltSYSTEM>誰の意見を聞いていいのか、誰の意見が間違っているのか…
+#. 裁判場は<CLT=cltSTRONG>パニック状態<CLT=cltSYSTEM>に陥っていると言えるでしょう。
+msgctxt "0018 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Everyone is clamoring to prove their innocence!\n"
+"There's a <CLT=cltSTRONG>panic<CLT=cltSYSTEM>! In the courtroom!"
+msgstr ""
+"<CLT=cltSYSTEM>¡Todos están gritando para demostrar su inocencia!\n"
+"¡La corte se ha <CLT=cltSTRONG>desenfrenado<CLT=cltSYSTEM>!"
+
+#. <CLT=cltSYSTEM>先ほどモノタロウ様に言われてしまいましたが…
+#. これから<CLT=cltSTRONG>パニック議論<CLT=cltSYSTEM>へと突入いたします。
+msgctxt "0019 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Oh, that's right. It's time. You will now\n"
+"be thrown into a <CLT=cltSTRONG>Mass Panic Debate<CLT=cltSYSTEM>!"
+msgstr ""
+"<CLT=cltSYSTEM>Ah, es verdad, ya es la hora. ¡Ahora te vas a meter\n"
+"de lleno en un <CLT=cltSTRONG>Debate desenfrenado<CLT=cltSYSTEM>!"
+
+#. <CLT=cltSYSTEM><CLT=cltSTRONG>パニック議論<CLT=cltSYSTEM>では画面が３つに分割され、
+#. <CLT=cltSTRONG>３つの意見が同時に進行<CLT=cltSYSTEM>致します。
+msgctxt "0020 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>During the <CLT=cltSTRONG>Mass Panic Debate<CLT=cltSYSTEM>,\n"
+"<CLT=cltSTRONG>three debates will happen at the same time<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>En los <CLT=cltSTRONG>Debates desenfrenados<CLT=cltSYSTEM>\n"
+"<CLT=cltSTRONG>se celebrarán tres debates a la vez<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>ですが、落ち着いて下さい。
+#. <CLT=cltSTRONG>基本はノンストップ議論と同じ<CLT=cltSYSTEM>でございます。
+msgctxt "0021 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>But remain calm!\n"
+"It's <CLT=cltSTRONG>just like a Nonstop Debate<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>¡Pero no te preocupes!\n"
+"Es <CLT=cltSTRONG>igual que un Debate continuo<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>先ほどの<CLT=cltSTRONG>３倍の意見を聞き分ける<CLT=cltSYSTEM>だけです。
+#. そんなに難しくなさそうでしょ？
+msgctxt "0022 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You're just <CLT=cltSTRONG>hearing triple the opinions<CLT=cltSYSTEM>!\n"
+"Simple, right?"
+msgstr ""
+"<CLT=cltSYSTEM>¡Solo que <CLT=cltSTRONG>escuchando el triple de opiniones<CLT=cltSYSTEM>!\n"
+"No tiene mucho, ¿no?"
+
+#. <CLT=cltSYSTEM>…しかし、ナメてもらっちゃ困ります。
+msgctxt "0023 | chara_Blank"
+msgid "<CLT=cltSYSTEM>But don't get cocky!"
+msgstr "<CLT=cltSYSTEM>¡Aunque nada de venirse arriba!"
+
+#. <CLT=cltSYSTEM>パニック議論では、意見を聞き分けるのを邪魔する…
+#. <CLT=cltSTRONG>大声セリフ<CLT=cltSYSTEM>が出現いたします。
+msgctxt "0024 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>The Mass Panic Debate will also\n"
+"have <CLT=cltSTRONG>Loud Voice Dialogue<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Los Debates desenfrenados también tendrán\n"
+"lo que se llama <CLT=cltSTRONG>diálogo a gritos<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>大声セリフは読んで字の通り、
+#. 発言者様が<CLT=cltSTRONG>大声<CLT=cltSYSTEM>で意見を発してらっしゃいますので…
+msgctxt "0025 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>It's when one of your opponents\n"
+"shouts their opinion in a <CLT=cltSTRONG>loud voice<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Esto sucede cuando uno de tus oponentes\n"
+"da su opinión <CLT=cltSTRONG>a gritos<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>他の方のご意見を<CLT=cltSTRONG>無効化<CLT=cltSYSTEM>してしまいます。
+#. ウィークポイントがあっても<CLT=cltSTRONG>論破することができません。<CLT=cltSYSTEM>
+msgctxt "0026 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>That blocks out everyone's arguments! Even if\n"
+"you see a weak spot, you <CLT=cltSTRONG>can't refute it<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>¡Y grita tanto que bloquea las declaraciones de los demás!\n"
+"No podrás <CLT=cltSTRONG>ni refutar<CLT=cltSYSTEM> sus puntos débiles."
+
+#. <CLT=cltSYSTEM>困りました。
+#. 一体どうすればいいのでしょうか。
+msgctxt "0027 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Oh no! What do I do then!?\n"
+"...That's what you're thinking, right?"
+msgstr ""
+"<CLT=cltSYSTEM>¡Oh, no! ¡¿Qué puedo hacer entonces?!\n"
+"Estás pensado eso, ¿verdad?"
+
+#. <CLT=cltSYSTEM><CLT=cltSTRONG>大声セリフ<CLT=cltSYSTEM>も雑音セリフと同じく、
+#. マウス左ボタンの<CLT=cltSTRONG>サイレンサーで黙らせちゃってください<CLT=cltSYSTEM>ませ。
+msgctxt "0028 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Luckily, it's just like <CLT=cltSTRONG>White Noise<CLT=cltSYSTEM>. Shut 'em up\n"
+"with your left-click <CLT=cltSTRONG>silencer<CLT=cltSYSTEM>!"
+msgstr ""
+"<CLT=cltSYSTEM>Pues, por suerte, es igual que los <CLT=cltSTRONG>susurros<CLT=cltSYSTEM>.\n"
+"¡Dispárale con el <CLT=cltSTRONG>silenciador<CLT=cltSYSTEM> con el clic izquierdo!"
+
+#. <CLT=cltSYSTEM>そうしますと、それまで無効化されていたご意見も
+#. <CLT=cltSTRONG>聞き取れるようになります。<CLT=cltSYSTEM>
+msgctxt "0029 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>After that, all of the arguments\n"
+"will be <CLT=cltSTRONG>audible again<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Después de eso, las declaraciones de los demás\n"
+"<CLT=cltSTRONG>se pondrán escuchar bien<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>皆様の意見を<CLT=cltSTRONG>聞き分けて<CLT=cltSYSTEM>“ウソや間違い”を探し、
+#. 落ち着いて論破してあげましょう。
+msgctxt "0030 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Sort through everyone's opinions, find the\n"
+"<CLT=cltSTRONG>lie or contradiction<CLT=cltSYSTEM>, and refute it."
+msgstr ""
+"<CLT=cltSYSTEM>Escucha las opiniones de todos, encuentra\n"
+"la <CLT=cltSTRONG>mentira o contradicción<CLT=cltSYSTEM> y refútala."
+
+#. <CLT=cltSYSTEM>ちなみに、こちらのパニック議論でも、
+#. <CLT=cltWEAK>Ｖ論破<CLT=cltSYSTEM>をする事が可能でございます。
+msgctxt "0031 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You can also use <CLT=cltSTRONG>V Counter<CLT=cltSYSTEM>, so if\n"
+"you're confident, give that a shot."
+msgstr ""
+"<CLT=cltSYSTEM>También podrás utilizar la <CLT=cltSTRONG>Refutación V<CLT=cltSYSTEM>,\n"
+"así que si te ves con fuerza, dale un tiento."
+
+#. <CLT=cltSYSTEM>以上、ご確認のほど…よろしくお願い致します。
+msgctxt "0032 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Thank you for your time. \n"
+"Sincerely, SYSTEM"
+msgstr ""
+"<CLT=cltSYSTEM>Gracias por tu tiempo.\n"
+"Atentamente, tu sistema de confianza."

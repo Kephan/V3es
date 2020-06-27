@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 06/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "<CLT=cltMIND>This is my room, but..."
+msgstr ""
+
+msgctxt "0002"
+msgid "It's been ransacked!?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Wh-Why...?"
+msgstr ""
+
+msgctxt "0004"
+msgid "[Temporary] Place a temporary in place of Makoto"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"Oh, Kaede. There's something I\n"
+"wanted to ask you."
+msgstr ""
+
+msgctxt "0006"
+msgid "A-About what?"
+msgstr ""
+
+msgctxt "0007"
+msgid "Are you a neatfreak, Kaede?"
+msgstr ""
+
+msgctxt "0008"
+msgid "Huh? No, not really..."
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"But, I mean, I still like to keep things neat\n"
+"and tidy!"
+msgstr ""
+
+msgctxt "0010"
+msgid "..."
+msgstr "..."
+
+msgctxt "0011"
+msgid "Wh-What's wrong?"
+msgstr ""
+
+msgctxt "0012"
+msgid "I searched this room thoroughly..."
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"...but I couldn't even find a strand of hair\n"
+"in this room."
+msgstr ""
+
+msgctxt "0014"
+msgid "Hey, hold on!"
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"Not a single strange of hair?\n"
+"That's weird, don'tcha think?"
+msgstr ""
+
+msgctxt "0016"
+msgid "It is weird. This room is so heavily damaged..."
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"Do you think the culprit destroyed some\n"
+"evidence?"
+msgstr ""
+
+msgctxt "0018"
+msgid "Then the culprit has to be..."
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"...someone who wasn't supposed to be in this\n"
+"room. That's what it would mean, right?"
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"<CLT=cltMIND>Someone who wasn't supposed to be in\n"
+"this room, huh?"
+msgstr ""
+
+msgctxt "0021"
+msgid ""
+"This room was arranged to be shared by\n"
+"me, Kaede..."
+msgstr ""
+
+msgctxt "0022"
+msgid "...and Hajime."
+msgstr ""
+
+msgctxt "0023"
+msgid "What does that mean, though?"
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"According to Monokuma, this is the\n"
+"Protagonists' Room?"
+msgstr ""
+
+msgctxt "0025"
+msgid "Protagonists' Room? What does that mean?"
+msgstr ""
+
+msgctxt "0026"
+msgid "We won't know until we investigate more."
+msgstr ""
+
+msgctxt "0027"
+msgid ""
+"Hah-hahah! Man, they really did a number\n"
+"on this place!"
+msgstr ""
+
+msgctxt "0028"
+msgid "Huh!? What do you mean!?"
+msgstr ""
+
+msgctxt "0029"
+msgid ""
+"Oh, come on! Don't we already know that\n"
+"the culprit is one of you three!?"
+msgstr ""
+
+msgctxt "0030"
+msgid "<CLT=cltMIND>Am I...a suspect?"
+msgstr ""
+
+msgctxt "0031"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0032"
+msgid "No"
+msgstr ""
+
+msgctxt "0033"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0034"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0035"
+msgid "[Temporary] First, I need to investigate the room."
+msgstr ""
+
+msgctxt "0036"
+msgid "[Temporary] First, I need to investigate the room."
+msgstr ""
+
+msgctxt "0037"
+msgid "<CLT=cltMIND>[Temp]Carpet."
+msgstr ""
+
+msgctxt "0038"
+msgid "<CLT=cltMIND>There are signs of a struggle on the carpet..."
+msgstr ""
+
+msgctxt "0039"
+msgid "<CLT=cltMIND>Huh?"
+msgstr ""
+
+msgctxt "0040"
+msgid "<CLT=cltMIND>What is this stain...? It's really dark..."
+msgstr ""
+
+msgctxt "0041"
+msgid ""
+"<CLT=cltSYSTEM>You have acquired the \"Dirty Carpet\"\n"
+"Truth Bullet."
+msgstr ""
+
+msgctxt "0042"
+msgid "<CLT=cltMIND>[Temp]Carpet."
+msgstr ""
+
+msgctxt "0043"
+msgid "<CLT=cltMIND>The room had been ransacked."
+msgstr ""
+
+msgctxt "0044"
+msgid "<CLT=cltMIND>[Temp]Traces of a struggle."
+msgstr ""
+
+msgctxt "0045"
+msgid "<CLT=cltMIND>The bedroom wall has many traces of knife stabs."
+msgstr ""
+
+msgctxt "0046"
+msgid "<CLT=cltMIND>This proves there was a struggle in here."
+msgstr ""
+
+msgctxt "0047"
+msgid ""
+"<CLT=cltSYSTEM>You have acquired the \"Evidence of a Struggle\"\n"
+"Truth Bullet."
+msgstr ""
+
+msgctxt "0048"
+msgid "<CLT=cltMIND>[Temp]Traces of a struggle."
+msgstr ""
+
+msgctxt "0049"
+msgid "<CLT=cltMIND>The room had been ransacked."
+msgstr ""
+
+msgctxt "0050"
+msgid ""
+"<CLT=cltMIND>I peeked into the bathroom, and\n"
+"there I saw..."
+msgstr ""
+
+msgctxt "0051"
+msgid ""
+"<CLT=cltMIND>[Temp]I already checked the bathroom,\n"
+"so I'll check elsewhere now."
+msgstr ""

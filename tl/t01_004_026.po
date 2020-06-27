@@ -1,0 +1,384 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 06/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"Geez...what're they planning bringing us\n"
+"all to a place like this?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Seriously... I just don't get it."
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"Well, this is nothing compared to the\n"
+"vastness of the universe!"
+msgstr ""
+
+msgctxt "0004"
+msgid "U-Universe?"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"Oops, I haven't introduced myself yet.\n"
+"My bad."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"I'm Kaito Momota, Luminary of the Stars! Even\n"
+"crying children adore the <CLT=cltSTRONG>Ultimate Astronaut<CLT=cltNORMAL>!"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"How 'bout it!? I'm an astronaut!\n"
+"Isn't that cool!?"
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"Y-Yeah... I've never been to space, so\n"
+"I don't know much about it..."
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"Haha! Well, of course!\n"
+"Not just anyone can get up there!"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"I may be an astronaut, but...\n"
+"I'm actually still in training."
+msgstr ""
+
+msgctxt "0011"
+msgid "Oh, I see. So you're still a trainee..."
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"But I'm the first teenager to ever pass\n"
+"the exam!"
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"I mean, normally you need a college \n"
+"degree to even take the exam."
+msgstr ""
+
+msgctxt "0014"
+msgid "Huh? Then how did you take the exam?"
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"I had a friend who was crafty...\n"
+"So I had him forge some stuff for me."
+msgstr ""
+
+msgctxt "0016"
+msgid "That's illegal!"
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"Yeah, I ended up getting caught.\n"
+"I was in pretty deep shit!"
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"But the people up top let me in,\n"
+"since I did so well on the exam."
+msgstr ""
+
+msgctxt "0019"
+msgid "Th-That's reckless..."
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"Sometimes you gotta be a little reckless \n"
+"to make your dreams a reality!"
+msgstr ""
+
+msgctxt "0021"
+msgid ""
+"No way I can wait till after college! \n"
+"I wanna get to space as fast as I can!"
+msgstr ""
+
+msgctxt "0022"
+msgid ""
+"So I'm gonna hurry and get outta here!\n"
+"There are no walls you can't climb over!"
+msgstr ""
+
+msgctxt "0023"
+msgid "So do you have any ideas?"
+msgstr ""
+
+msgctxt "0024"
+msgid "..."
+msgstr "..."
+
+msgctxt "0025"
+msgid "Th-That's not the problem!"
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"<CLT=cltMIND>Um...no, that *is* the problem.\n"
+"Geez, this guy sure talks a big game."
+msgstr ""
+
+msgctxt "0027"
+msgid "..."
+msgstr "..."
+
+msgctxt "0028"
+msgid ""
+"<CLT=cltMIND>Whoa... This guy looks scary.\n"
+"He's so big and muscular..."
+msgstr ""
+
+msgctxt "0029"
+msgid "Um...excuse me?"
+msgstr ""
+
+msgctxt "0030"
+msgid "...Hm?"
+msgstr ""
+
+msgctxt "0031"
+msgid "Oh! Thank you!"
+msgstr ""
+
+msgctxt "0032"
+msgid "Huh? Thank you?"
+msgstr ""
+
+msgctxt "0033"
+msgid ""
+"Gonta scary-looking. Most people not wanna\n"
+"talk to Gonta when meeting for first time."
+msgstr ""
+
+msgctxt "0034"
+msgid ""
+"So, like gentleman, Gonta say thank you!\n"
+"Thank you for talking to Gonta!"
+msgstr ""
+
+msgctxt "0035"
+msgid "Um...thank you for being so polite."
+msgstr ""
+
+msgctxt "0036"
+msgid ""
+"<CLT=cltMIND>He looks scary, but...he doesn't seem very\n"
+"scary at all."
+msgstr ""
+
+msgctxt "0037"
+msgid ""
+"Oh...right!\n"
+"Gonta need to make introduction!"
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"Ummm... Gonta's name is Gonta Gokuhara.\n"
+"Gonta's talent is <CLT=cltSTRONG>Ultimate Entomologist<CLT=cltNORMAL>."
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"Gonta want to become gentleman!\n"
+"Becoming true gentleman Gonta's goal!"
+msgstr ""
+
+msgctxt "0040"
+msgid ""
+"Oh, so you're Gonta.\n"
+"That's a really cute name."
+msgstr ""
+
+msgctxt "0041"
+msgid "R-Really? Th-Thank you."
+msgstr ""
+
+msgctxt "0042"
+msgid ""
+"Awww, you're actually pretty nice.\n"
+"Silly me for being so scared at first."
+msgstr ""
+
+msgctxt "0043"
+msgid "I see... Cuz Gonta scary-looking, right?"
+msgstr ""
+
+msgctxt "0044"
+msgid ""
+"Oh, sorry...\n"
+"That's not what I..."
+msgstr ""
+
+msgctxt "0045"
+msgid ""
+"No, is okay. Gonta used to it.\n"
+"Gonta called scary since he was kid."
+msgstr ""
+
+msgctxt "0046"
+msgid "<CLT=cltMIND>Since you were a kid, huh?"
+msgstr ""
+
+msgctxt "0047"
+msgid "What were you looking for, Gonta?"
+msgstr ""
+
+msgctxt "0048"
+msgid "Gonta looking for bugs."
+msgstr ""
+
+msgctxt "0049"
+msgid "Oh! Well, you are an entomologist!"
+msgstr ""
+
+msgctxt "0050"
+msgid "Wait...you like bugs, too?"
+msgstr ""
+
+msgctxt "0051"
+msgid ""
+"What kinda bugs you like?\n"
+"What you like most about bugs?"
+msgstr ""
+
+msgctxt "0052"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "0053"
+msgid "You...hate bugs?"
+msgstr ""
+
+msgctxt "0054"
+msgid "Y-You...hate bugs!?!?"
+msgstr ""
+
+msgctxt "0055"
+msgid ""
+"N-No, of course not! I don't hate them!\n"
+"I *love* them!"
+msgstr ""
+
+msgctxt "0056"
+msgid ""
+"...Oh, okay. That good.\n"
+"No bad person likes bugs."
+msgstr ""
+
+msgctxt "0057"
+msgid "Y-Yeah..."
+msgstr ""
+
+msgctxt "0058"
+msgid "<CLT=cltMIND>Phew, I'm glad I made it out of that one."
+msgstr ""
+
+msgctxt "0059"
+msgid ""
+"To be honest, I don't really like bugs, but I\n"
+"should keep that a secret..."
+msgstr ""
+
+msgctxt "0060"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0061"
+msgid "No"
+msgstr ""
+
+msgctxt "0062"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0063"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0064"
+msgid "Monitor"
+msgstr ""
+
+msgctxt "0065"
+msgid "Screen"
+msgstr ""
+
+msgctxt "0066"
+msgid "Player"
+msgstr ""
+
+msgctxt "0067"
+msgid ""
+"<CLT=cltMIND>There are a lot of movie discs packed away\n"
+"on the shelves."
+msgstr ""
+
+msgctxt "0068"
+msgid ""
+"<CLT=cltMIND>There are a lot of movie discs packed away\n"
+"on the shelves."
+msgstr ""
+
+msgctxt "0069"
+msgid "5.1ch Speaker A"
+msgstr ""
+
+msgctxt "0070"
+msgid "5.1ch Speaker B"
+msgstr ""
+
+msgctxt "0071"
+msgid "5.1ch Speaker C"
+msgstr ""
+
+msgctxt "0072"
+msgid "5.1ch Speaker D"
+msgstr ""
+
+msgctxt "0073"
+msgid "Sofa A"
+msgstr ""
+
+msgctxt "0074"
+msgid "Sofa B"
+msgstr ""
+
+msgctxt "0075"
+msgid "Projector"
+msgstr ""
+
+msgctxt "0076"
+msgid "Looks like this door is closed."
+msgstr ""

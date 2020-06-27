@@ -1,0 +1,327 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 25/02/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. <CLT=cltSYSTEM>…お聞きになりました？
+#. 今さっき、<CLT=cltSTRONG>“嘘”<CLT=cltSYSTEM>をつくとおっしゃいましたね。
+msgctxt "0001 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Did you hear that?\n"
+"A <CLT=cltSTRONG>lie<CLT=cltSYSTEM>!?"
+msgstr ""
+"<CLT=cltSYSTEM>¿Tú también lo has escuchado?\n"
+"¡¿Una <CLT=cltSTRONG>mentira<CLT=cltSYSTEM>?!"
+
+#. <CLT=cltSYSTEM>真実を追求する学級裁判で
+#. 嘘をつくとはけしからん、とお思いかもしれませんが…
+msgctxt "0002 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Now, I know that sounds crazy...\n"
+"Telling a lie in a class trial?"
+msgstr ""
+"<CLT=cltSYSTEM>Bueno, sí que parece una locura eso de\n"
+"mentir en un juicio escolar..."
+
+#. <CLT=cltSYSTEM><CLT=cltSTRONG>嘘も方便<CLT=cltSYSTEM>でございます。
+#. 議論の流れを変えるには、時には<CLT=cltSTRONG>嘘も必要<CLT=cltSYSTEM>なのです。
+msgctxt "0003 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>But...sometimes telling a lie is\n"
+"<CLT=cltSTRONG>necessary to reach the truth<CLT=cltSYSTEM>.\n"
+msgstr ""
+"<CLT=cltSYSTEM>Pero... hay veces que mentir es necesario\n"
+"si quieres <CLT=cltSTRONG>descubrir la verdad<CLT=cltSYSTEM>.\n"
+
+#. <CLT=cltSYSTEM>前もって言っておきますと…
+#. このチュートリアルに嘘はございませんのでご安心下さい。
+msgctxt "0004 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Oh, but don't worry. There are no\n"
+"lies in this tutorial."
+msgstr ""
+"<CLT=cltSYSTEM>Y no te preocupes, que en este tutorial\n"
+"no te voy a mentir."
+
+#. <CLT=cltSYSTEM>今回の議論から、
+#. <CLT=cltSTRONG>嘘<CLT=cltSYSTEM>によって議論を突破する場面が登場致します。
+msgctxt "0005 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>From here on out, there will be times\n"
+"in a debate you have to <CLT=cltSTRONG>lie<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>De ahora en adelante, habrá momentos en\n"
+"los debates en los que tendrás que <CLT=cltSTRONG>mentir<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>これまでは嘘を指摘していただいておりましたが
+#. 今度はあなた様に<CLT=cltSTRONG>嘘の証言<CLT=cltSYSTEM>をしていただきます。
+msgctxt "0006 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Before, you had to refute the lies...\n"
+"But now, you'll have to <CLT=cltSTRONG>lie<CLT=cltSYSTEM> yourself."
+msgstr ""
+"<CLT=cltSYSTEM>Antes, tenías que refutar las mentiras..., pero, ahora,\n"
+"lo que tienes que hacer es ser tú quien <CLT=cltSTRONG>miente<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>なんだかドキドキしますね。
+msgctxt "0007 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Doesn't that get your heart pumping?"
+msgstr "<CLT=cltSYSTEM>¿No notas cómo se te acelera el corazón?"
+
+#. <CLT=cltSYSTEM>普段のノンストップ議論のように
+#. 言弾（コトダマ）を選んでいただき…
+msgctxt "0008 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Here's how it works.\n"
+"Select a Truth Bullet like normal Nonstop Debates..."
+msgstr ""
+"<CLT=cltSYSTEM>Bueno, esto funciona así.\n"
+"Escoges una Munición, como en un Debate continuo..."
+
+#. <CLT=cltSYSTEM><PAD=【△】>を長押しすると言弾（コトダマ）が<CLT=cltSTRONG>嘘コード<CLT=cltSYSTEM>化され
+#. <CLT=cltSTRONG>反対の意味<CLT=cltSYSTEM>を持つ<CLT=cltSTRONG>ウソダマ<CLT=cltSYSTEM>へと変化します。
+msgctxt "0009 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>But when you hold <PAD=【△】>, the Truth Bullet will\n"
+"become a <CLT=cltSTRONG>Lie Bullet<CLT=cltSYSTEM> with the <CLT=cltSTRONG>opposite meaning<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>... pero cuando mantengas <PAD=【△】>, la Munición ser convertirá\n"
+"en una <CLT=cltSTRONG>Munición falsa<CLT=cltSYSTEM> y <CLT=cltSTRONG>significará lo contrario<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>そのまま<PAD=【△】>を離すことで
+#. <CLT=cltSTRONG>ウソダマが発射<CLT=cltSYSTEM>されます。
+msgctxt "0010 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Releasing <PAD=【△】> will shoot the Lie Bullet."
+msgstr "<CLT=cltSYSTEM>Soltar <PAD=【△】> disparará la Munición falsa."
+
+#. <CLT=cltSYSTEM>お相手様のご意見を
+#. ウソダマで『論破』した時…
+msgctxt "0011 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>When you use a Lie Bullet to argue or\n"
+"agree with someone's statement..."
+msgstr ""
+"<CLT=cltSYSTEM>Cuando utilizas Munición falsa para discutir o para\n"
+"estar de acuerdo con la declaración de alguien..."
+
+#. <CLT=cltSYSTEM>真実を嘘で塗り替える<CLT=cltSTRONG>“偽証”<CLT=cltSYSTEM>となります。
+msgctxt "0012 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>It will become a <CLT=cltSTRONG>Perjury<CLT=cltSYSTEM>,\n"
+"a statement that paints over the truth with lies."
+msgstr ""
+"<CLT=cltSYSTEM>se convertirá en un <CLT=cltSTRONG>Engaño<CLT=cltSYSTEM>,\n"
+"una declaración que decora la verdad con mentiras."
+
+#. <CLT=cltSYSTEM>また、<CLT=cltSTRONG>嘘コード<CLT=cltSYSTEM>状態の間は<CLT=cltSTRONG>発言力が減り続け<CLT=cltSYSTEM>ます。
+#. 偽証に<CLT=cltSTRONG>成功<CLT=cltSYSTEM>すると減っていた分全て<CLT=cltSTRONG>回復<CLT=cltSYSTEM>いたしますが…
+msgctxt "0013 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>While <CLT=cltSTRONG>lying<CLT=cltSYSTEM>, your <CLT=cltSTRONG>Influence Gauge<CLT=cltSYSTEM> will drain.\n"
+"A <CLT=cltSTRONG>successful<CLT=cltSYSTEM> lie will <CLT=cltSTRONG>restore<CLT=cltSYSTEM> it."
+msgstr ""
+"<CLT=cltSYSTEM>Mientras <CLT=cltSTRONG>mientes<CLT=cltSYSTEM>, tu <CLT=cltSTRONG>medidor de influencia<CLT=cltSYSTEM> se drenará.\n"
+"Si tu mentira <CLT=cltSTRONG>prospera<CLT=cltSYSTEM>, se <CLT=cltSTRONG>restaurará<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>間違ったり、ウソダマを外してしまうと
+#. その分<CLT=cltSTRONG>ダメージを受けて<CLT=cltSYSTEM>しまいますのでお気をつけ下さい。
+msgctxt "0014 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>But if you miss with your Lie Bullet, you will\n"
+"<CLT=cltSTRONG>take damage<CLT=cltSYSTEM>, so be careful!"
+msgstr ""
+"<CLT=cltSYSTEM>Pero si fallas la Munición falsa, sí que <CLT=cltSTRONG>recibirás\n"
+"el daño<CLT=cltSYSTEM>, ¡ten cuidado!"
+
+#. <CLT=cltSYSTEM>もうお察しかと思いますが、ここではＶ論破ならぬ、
+#. <CLT=cltSTRONG>Ｖ偽証<CLT=cltSYSTEM>をする事が可能でございます。
+msgctxt "0015 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You can't V Counter here, but you\n"
+"can pull off a <CLT=cltSTRONG>V Perjury<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Con esto no puedes Refutar V, pero sí que\n"
+"puedes hacer un <CLT=cltSTRONG>Engaño V<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>ぜひぜひ狙ってみてくださいませ。
+#. …大きな意味はないですが。
+msgctxt "0016 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>And that would be awesome.\n"
+"So try that."
+msgstr ""
+"<CLT=cltSYSTEM>Y eso sí que sería la caña,\n"
+"así que pruébalo."
+
+#. <CLT=cltSYSTEM>以上、ご確認のほど…よろしくお願い致します。
+msgctxt "0017 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Thank you muchly!"
+msgstr "<CLT=cltSYSTEM>¡Te lo agradezco encarecidamente!"
+
+#. <CLT=cltSYSTEM>…お聞きになりました？
+#. 今さっき、<CLT=cltSTRONG>“嘘”<CLT=cltSYSTEM>をつくとおっしゃいましたね。
+msgctxt "0018 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Did you hear that?\n"
+"A <CLT=cltSTRONG>lie<CLT=cltSYSTEM>!?"
+msgstr ""
+"<CLT=cltSYSTEM>¿Tú también lo has escuchado?\n"
+"¡¿Una <CLT=cltSTRONG>mentira<CLT=cltSYSTEM>?!"
+
+#. <CLT=cltSYSTEM>真実を追求する学級裁判で
+#. 嘘をつくとはけしからん、とお思いかもしれませんが…
+msgctxt "0019 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Now, I know that sounds crazy...\n"
+"Telling a lie in a class trial?"
+msgstr ""
+"<CLT=cltSYSTEM>Bueno, sí que parece una locura eso de\n"
+"mentir en un juicio escolar..."
+
+#. <CLT=cltSYSTEM><CLT=cltSTRONG>嘘も方便<CLT=cltSYSTEM>でございます。
+#. 議論の流れを変えるには、時には<CLT=cltSTRONG>嘘も必要<CLT=cltSYSTEM>なのです。
+msgctxt "0020 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>But...sometimes telling a lie is\n"
+"<CLT=cltSTRONG>necessary to reach the truth<CLT=cltSYSTEM>.\n"
+msgstr ""
+"<CLT=cltSYSTEM>Pero... hay veces que mentir es necesario\n"
+"si quieres <CLT=cltSTRONG>descubrir la verdad<CLT=cltSYSTEM>.\n"
+
+#. <CLT=cltSYSTEM>前もって言っておきますと…
+#. このチュートリアルに嘘はございませんのでご安心下さい。
+msgctxt "0021 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Oh, but don't worry. There are no\n"
+"lies in this tutorial."
+msgstr ""
+"<CLT=cltSYSTEM>Y no te preocupes, que en este tutorial\n"
+"no te voy a mentir."
+
+#. <CLT=cltSYSTEM>今回の議論から、
+#. <CLT=cltSTRONG>嘘<CLT=cltSYSTEM>によって議論を突破する場面が登場致します。
+msgctxt "0022 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>From here on out, there will be times\n"
+"in a debate you have to <CLT=cltSTRONG>lie<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>De ahora en adelante, habrá momentos en\n"
+"los debates en los que tendrás que <CLT=cltSTRONG>mentir<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>これまでは嘘を指摘していただいておりましたが
+#. 今度はあなた様に<CLT=cltSTRONG>嘘の証言<CLT=cltSYSTEM>をしていただきます。
+msgctxt "0023 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Before, you had to refute the lies...\n"
+"But now, you'll have to <CLT=cltSTRONG>lie<CLT=cltSYSTEM> yourself."
+msgstr ""
+"<CLT=cltSYSTEM>Antes, tenías que refutar las mentiras..., pero, ahora,\n"
+"lo que tienes que hacer es ser tú quien <CLT=cltSTRONG>miente<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>なんだかドキドキしますね。
+msgctxt "0024 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Doesn't that get your heart pumping?"
+msgstr "<CLT=cltSYSTEM>¿No notas cómo se te acelera el corazón?"
+
+#. <CLT=cltSYSTEM>普段のノンストップ議論のように
+#. 言弾（コトダマ）を選んでいただき…
+msgctxt "0025 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Here's how it works.\n"
+"Select a Truth Bullet like normal Nonstop Debates..."
+msgstr ""
+"<CLT=cltSYSTEM>Bueno, esto funciona así.\n"
+"Escoges una Munición, como en un Debate continuo..."
+
+#. <CLT=cltSYSTEM>マウス右ボタンを長押しすると言弾（コトダマ）が<CLT=cltSTRONG>嘘コード<CLT=cltSYSTEM>化され
+#. <CLT=cltSTRONG>反対の意味<CLT=cltSYSTEM>を持つ<CLT=cltSTRONG>ウソダマ<CLT=cltSYSTEM>へと変化します。
+msgctxt "0026 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>But when you hold right-click, the Truth Bullet will become a\n"
+"<CLT=cltSTRONG>Lie Bullet<CLT=cltSYSTEM> with the <CLT=cltSTRONG>opposite meaning<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>... pero cuando mantengas el clic derecho, la Munición ser convertirá\n"
+"en una <CLT=cltSTRONG>Munición falsa<CLT=cltSYSTEM> y <CLT=cltSTRONG>significará lo contrario<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>そのままマウス右ボタンを離すことで
+#. <CLT=cltSTRONG>ウソダマが発射<CLT=cltSYSTEM>されます。
+msgctxt "0027 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Releasing the right mouse button\n"
+"will shoot the Lie Bullet."
+msgstr ""
+"<CLT=cltSYSTEM>Soltar el clic derecho\n"
+"disparará la Munición falsa."
+
+#. <CLT=cltSYSTEM>お相手様のご意見を
+#. ウソダマで『論破』した時…
+msgctxt "0028 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>When you use a Lie Bullet to argue or\n"
+"agree with someone's statement..."
+msgstr ""
+"<CLT=cltSYSTEM>Cuando utilizas Munición falsa para discutir o para\n"
+"estar de acuerdo con la declaración de alguien..."
+
+#. <CLT=cltSYSTEM>真実を嘘で塗り替える<CLT=cltSTRONG>“偽証”<CLT=cltSYSTEM>となります。
+msgctxt "0029 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>It will become a <CLT=cltSTRONG>Perjury<CLT=cltSYSTEM>,\n"
+"a statement that paints over the truth with lies."
+msgstr ""
+"<CLT=cltSYSTEM>se convertirá en un <CLT=cltSTRONG>Engaño<CLT=cltSYSTEM>,\n"
+"una declaración que decora la verdad con mentiras."
+
+#. <CLT=cltSYSTEM>また、<CLT=cltSTRONG>嘘コード<CLT=cltSYSTEM>状態の間は<CLT=cltSTRONG>発言力が減り続け<CLT=cltSYSTEM>ます。
+#. 偽証に<CLT=cltSTRONG>成功<CLT=cltSYSTEM>すると減っていた分全て<CLT=cltSTRONG>回復<CLT=cltSYSTEM>いたしますが…
+msgctxt "0030 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>While <CLT=cltSTRONG>lying<CLT=cltSYSTEM>, your <CLT=cltSTRONG>Influence Gauge<CLT=cltSYSTEM> will drain.\n"
+"A <CLT=cltSTRONG>successful<CLT=cltSYSTEM> lie will <CLT=cltSTRONG>restore<CLT=cltSYSTEM> it."
+msgstr ""
+"<CLT=cltSYSTEM>Mientras <CLT=cltSTRONG>mientes<CLT=cltSYSTEM>, tu <CLT=cltSTRONG>medidor de influencia<CLT=cltSYSTEM> se drenará.\n"
+"Si tu mentira <CLT=cltSTRONG>prospera<CLT=cltSYSTEM>, se <CLT=cltSTRONG>restaurará<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>間違ったり、ウソダマを外してしまうと
+#. その分<CLT=cltSTRONG>ダメージを受けて<CLT=cltSYSTEM>しまいますのでお気をつけ下さい。
+msgctxt "0031 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>But if you miss with your Lie Bullet, you will\n"
+"<CLT=cltSTRONG>take damage<CLT=cltSYSTEM>, so be careful!"
+msgstr ""
+"<CLT=cltSYSTEM>Pero si fallas la Munición falsa, sí que <CLT=cltSTRONG>recibirás\n"
+"el daño<CLT=cltSYSTEM>, ¡ten cuidado!"
+
+#. <CLT=cltSYSTEM>もうお察しかと思いますが、ここではＶ論破ならぬ、
+#. <CLT=cltSTRONG>Ｖ偽証<CLT=cltSYSTEM>をする事が可能でございます。
+msgctxt "0032 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You can't V Counter here, but you\n"
+"can pull off a <CLT=cltSTRONG>V Perjury<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Con esto no puedes Refutar V, pero sí que\n"
+"puedes hacer un <CLT=cltSTRONG>Engaño V<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>ぜひぜひ狙ってみてくださいませ。
+#. …大きな意味はないですが。
+msgctxt "0033 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>And that would be awesome.\n"
+"So try that."
+msgstr ""
+"<CLT=cltSYSTEM>Y eso sí que sería la caña,\n"
+"así que pruébalo."
+
+#. <CLT=cltSYSTEM>以上、ご確認のほど…よろしくお願い致します。
+msgctxt "0034 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Thank you muchly!"
+msgstr "<CLT=cltSYSTEM>¡Te lo agradezco encarecidamente!"

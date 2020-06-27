@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 25/02/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. <CLT=cltSYSTEM>物事の繋がりを推理する場面では
+#. <CLT=cltSTRONG>ブレインドライブ<CLT=cltSYSTEM>が発生致します。
+msgctxt "0001 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>When you have to deduce how things are\n"
+"connected, <CLT=cltSTRONG>Psyche Taxi<CLT=cltSYSTEM> will start up."
+msgstr ""
+"<CLT=cltSYSTEM>En el momento que necesites deducir cosas\n"
+"que están conectadas, comenzará una <CLT=cltSTRONG>Travesía cerebral<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>このモードの目的は道路に散らばる<CLT=cltSTRONG>文字キューブ<CLT=cltSYSTEM>を集め、
+#. 設問に答えてゴールを目指す事です。
+msgctxt "0002 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>The objective of this mode is to gather the\n"
+"<CLT=cltSTRONG>letter cubes<CLT=cltSYSTEM> to form the question."
+msgstr ""
+"<CLT=cltSYSTEM>El objetivo de este modo es recoger los <CLT=cltSTRONG>cubos\n"
+"de letras<CLT=cltSYSTEM> para formar una pregunta."
+
+#. <CLT=cltSYSTEM><PAD=【○】>ボタンでアクセルを踏み
+#. <PAD=【Ｌ⇔】>スティックで左右移動いたします。
+msgctxt "0003 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Use the <PAD=【○】> button to accelerate\n"
+"and the <PAD=【Ｌ⇔】> stick to move left and right."
+msgstr ""
+"<CLT=cltSYSTEM>Pulsa <PAD=【○】> para acelerar y utiliza\n"
+"la palanca <PAD=【Ｌ⇔】> para moverte a la izquierda o a la derecha."
+
+#. <CLT=cltSYSTEM>コースには<CLT=cltSTRONG>文字キューブ<CLT=cltSYSTEM>が浮遊しており、
+#. これを集めることで<CLT=cltSTRONG>問題文が完成<CLT=cltSYSTEM>いたします。
+msgctxt "0004 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>By picking up <CLT=cltSTRONG>letter cubes<CLT=cltSYSTEM> floating around,\n"
+"you can <CLT=cltSTRONG>complete the question<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Para <CLT=cltSTRONG>completar la pregunta<CLT=cltSYSTEM> solo tienes que\n"
+"coger los <CLT=cltSTRONG>cubos de letras<CLT=cltSYSTEM> que están flotando."
+
+#. <CLT=cltSYSTEM>文字キューブを全て集めますと問題が現れるので、
+#. 正解と思った方の<CLT=cltSTRONG>コールガール<CLT=cltSYSTEM>に向かっていただき…
+msgctxt "0005 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Once you've completed the question, you head\n"
+"toward the <CLT=cltSTRONG>escort<CLT=cltSYSTEM> that has the correct answer..."
+msgstr ""
+"<CLT=cltSYSTEM>Una vez hayas completado la pregunta, dirígete a\n"
+"la <CLT=cltSTRONG>chica de compañía<CLT=cltSYSTEM> con la respuesta correcta..."
+
+#. <CLT=cltSYSTEM>正解ですとコールガールがあなた様の車に乗り込みます。
+#. 不正解ですと…残念な結果が待っております。
+msgctxt "0006 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If it's the right answer, they'll get in your car.\n"
+"If it's the wrong answer...something bad happens."
+msgstr ""
+"<CLT=cltSYSTEM>Si la respuesta es correcta, se subirá al coche,\n"
+"pero si no lo es... sucederá algo malo."
+
+#. <CLT=cltSYSTEM>また、
+#. コースにはあなた様の<CLT=cltSTRONG>雑念を表す車<CLT=cltSYSTEM>が走っております。
+msgctxt "0007 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Also, there will be <CLT=cltSTRONG>other cars<CLT=cltSYSTEM>\n"
+"on the road."
+msgstr ""
+"<CLT=cltSYSTEM>Ten en cuenta que también habrá <CLT=cltSTRONG>más coches<CLT=cltSYSTEM>\n"
+"en la carretera."
+
+#. <CLT=cltSYSTEM>そちらに衝突されますと
+#. <CLT=cltSTRONG>発言力にダメージ<CLT=cltSYSTEM>を受けてしまいます。
+msgctxt "0008 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If you hit those, you will take\n"
+"<CLT=cltSTRONG>Focus Energy<CLT=cltSYSTEM> damage."
+msgstr "<CLT=cltSYSTEM>Si los golpeas, tu <CLT=cltSTRONG>medidor de concentración<CLT=cltSYSTEM> bajará."
+
+#. <CLT=cltSYSTEM>危ないと思ったら<PAD=【Ｒ１】>ボタンで<CLT=cltSTRONG>精神集中<CLT=cltSYSTEM>をし、
+#. 落ち着いて<CLT=cltSTRONG>避けましょう。<CLT=cltSYSTEM>
+msgctxt "0009 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If it's getting dangerous, use <PAD=【Ｒ１】> to <CLT=cltSTRONG>concentrate<CLT=cltSYSTEM>,\n"
+"stay calm, and <CLT=cltSTRONG>avoid them<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Si ves que se pone peligroso, pulsa <PAD=【Ｒ１】> para\n"
+"<CLT=cltSTRONG>concentrarte<CLT=cltSYSTEM>. Relájate y <CLT=cltSTRONG>esquívalos<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>安全運転を心がけ、
+#. 快適なドライブをお楽しみ下さい。
+msgctxt "0010 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Please drive safely! Enjoy the ride!"
+msgstr ""
+"<CLT=cltSYSTEM>¡Por favor, conduce de forma segura y\n"
+"disfruta del viaje!"
+
+#. <CLT=cltSYSTEM>以上、ご確認のほど…よろしくお願い致します。
+msgctxt "0011 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Thank you for your understanding."
+msgstr "<CLT=cltSYSTEM>Gracias por tu atención."
+
+#. <CLT=cltSYSTEM>物事の繋がりを推理する場面では
+#. <CLT=cltSTRONG>ブレインドライブ<CLT=cltSYSTEM>が発生致します。
+msgctxt "0012 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>When you have to deduce how things are connected,\n"
+"<CLT=cltSTRONG>Psyche Taxi<CLT=cltSYSTEM> will start up."
+msgstr ""
+"<CLT=cltSYSTEM>En el momento que necesites deducir cosas\n"
+"que están conectadas, comenzará una <CLT=cltSTRONG>Travesía cerebral<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>このモードの目的は道路に散らばる<CLT=cltSTRONG>文字キューブ<CLT=cltSYSTEM>を集め、
+#. 設問に答えてゴールを目指す事です。
+msgctxt "0013 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>The objective of this mode is to gather the <CLT=cltSTRONG>letter cubes<CLT=cltSYSTEM>\n"
+"lying around to form the question."
+msgstr ""
+"<CLT=cltSYSTEM>El objetivo de este modo es recoger los <CLT=cltSTRONG>cubos\n"
+"de letras<CLT=cltSYSTEM> para formar una pregunta."
+
+#. <CLT=cltSYSTEM>マウス左ボタンでアクセルを踏み
+#. A/Dキーで左右移動いたします。
+msgctxt "0014 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Hold left-click to accelerate and use\n"
+"the A and D keys to steer left and right."
+msgstr ""
+"<CLT=cltSYSTEM>Mantén el clic derecho para acelerar y utiliza\n"
+"las teclas A y D para moverte a la izquierda o a la derecha."
+
+#. <CLT=cltSYSTEM>コースには<CLT=cltSTRONG>文字キューブ<CLT=cltSYSTEM>が浮遊しており、
+#. これを集めることで<CLT=cltSTRONG>問題文が完成<CLT=cltSYSTEM>いたします。
+msgctxt "0015 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>By picking up <CLT=cltSTRONG>letter cubes<CLT=cltSYSTEM> floating around,\n"
+"you can <CLT=cltSTRONG>complete the question<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Para <CLT=cltSTRONG>completar la pregunta<CLT=cltSYSTEM> solo tienes que\n"
+"coger los <CLT=cltSTRONG>cubos de letras<CLT=cltSYSTEM> que están flotando."
+
+#. <CLT=cltSYSTEM>文字キューブを全て集めますと問題が現れるので、
+#. 正解と思った方の<CLT=cltSTRONG>コールガール<CLT=cltSYSTEM>に向かっていただき…
+msgctxt "0016 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Once you've completed the question, you head\n"
+"toward the <CLT=cltSTRONG>escort<CLT=cltSYSTEM> that has the correct answer..."
+msgstr ""
+"<CLT=cltSYSTEM>Una vez hayas completado la pregunta, dirígete a\n"
+"la <CLT=cltSTRONG>chica de compañía<CLT=cltSYSTEM> con la respuesta correcta..."
+
+#. <CLT=cltSYSTEM>正解ですとコールガールがあなた様の車に乗り込みます。
+#. 不正解ですと…残念な結果が待っております。
+msgctxt "0017 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If it's the right answer, they'll get in your car.\n"
+"If it's the wrong answer...something bad happens."
+msgstr ""
+"<CLT=cltSYSTEM>Si la respuesta es correcta, se subirá al coche,\n"
+"pero si no lo es... sucederá algo malo."
+
+#. <CLT=cltSYSTEM>また、
+#. コースにはあなた様の<CLT=cltSTRONG>雑念を表す車<CLT=cltSYSTEM>が走っております。
+msgctxt "0018 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Also, there will be <CLT=cltSTRONG>other cars<CLT=cltSYSTEM>\n"
+"on the road."
+msgstr ""
+"<CLT=cltSYSTEM>Ten en cuenta que también habrá <CLT=cltSTRONG>más coches<CLT=cltSYSTEM>\n"
+"en la carretera."
+
+#. <CLT=cltSYSTEM>そちらに衝突されますと
+#. <CLT=cltSTRONG>発言力にダメージ<CLT=cltSYSTEM>を受けてしまいます。
+msgctxt "0019 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If you hit those, you will take\n"
+"<CLT=cltSTRONG>Focus Energy<CLT=cltSYSTEM> damage."
+msgstr "<CLT=cltSYSTEM>Si los golpeas, tu <CLT=cltSTRONG>medidor de concentración<CLT=cltSYSTEM> bajará."
+
+#. <CLT=cltSYSTEM>危ないと思ったらSpaceキーで<CLT=cltSTRONG>精神集中<CLT=cltSYSTEM>をし、
+#. 落ち着いて<CLT=cltSTRONG>避けましょう。<CLT=cltSYSTEM>
+msgctxt "0020 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If it's getting dangerous, use Spacebar to <CLT=cltSTRONG>concentrate<CLT=cltSYSTEM>,\n"
+"stay calm, and <CLT=cltSTRONG>avoid them<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Si ves que se pone peligroso, pulsa Espacio para\n"
+"<CLT=cltSTRONG>concentrarte<CLT=cltSYSTEM>. Relájate y <CLT=cltSTRONG>esquívalos<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>安全運転を心がけ、
+#. 快適なドライブをお楽しみ下さい。
+msgctxt "0021 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Please drive safely! Enjoy the ride!\n"
+msgstr ""
+"<CLT=cltSYSTEM>¡Por favor, conduce de forma segura y\n"
+"disfruta del viaje!\n"
+
+#. <CLT=cltSYSTEM>以上、ご確認のほど…よろしくお願い致します。
+msgctxt "0022 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Thank you for your understanding."
+msgstr "<CLT=cltSYSTEM>Gracias por tu atención."

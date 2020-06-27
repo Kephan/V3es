@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 25/02/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. <CLT=size2>犯人<CLT=size1>は<CLT=size2>他<CLT=size1>にいるはずだ。
+msgctxt "0001 | C100_Naegi"
+msgid ""
+"There are\n"
+"<CLT=size1.5>other\n"
+"people\n"
+"<CLT=size1>who could be\n"
+"the <CLT=size1.5>culprit."
+msgstr ""
+"También hay\n"
+"<CLT=size1.5>màs\n"
+"personas\n"
+"<CLT=size1>que podrîan ser\n"
+"el <CLT=size1.5>asesino."
+
+#. 犯人は他にいるはずだ。
+msgctxt "0002 | C100_Naegi"
+msgid ""
+"There are other people who \n"
+"could be the culprit."
+msgstr ""
+"También hay más personas que podrían\n"
+"ser el asesino."
+
+#. 容疑者は<CLT=size2>誰だって
+#. <CLT=size1>そう主張する。
+msgctxt "0003 | C010_Haruk"
+msgid ""
+"Of course a <CLT=size2>suspect\n"
+"<CLT=size1>would make that claim."
+msgstr ""
+"Eso es exactamente lo que dirîa\n"
+"un <CLT=size2>sospechoso."
+
+#. 容疑者は誰だってそう主張する。
+msgctxt "0004 | C010_Haruk"
+msgid "Of course a suspect would make that claim."
+msgstr "Eso es exactamente lo que diría un sospechoso."
+
+#. 何か<CLT=size2>根拠<CLT=size1>はないの？
+msgctxt "0005 | C010_Haruk"
+msgid ""
+"Do you have any \n"
+"<CLT=size2>evidence?<CLT=size1>"
+msgstr ""
+"êAcaso tienes alguna\n"
+"<CLT=size2>prueba?"
+
+#. 何か根拠はないの？
+msgctxt "0006 | C010_Haruk"
+msgid "Do you have any evidence?"
+msgstr "¿Acaso tienes alguna prueba?"
+
+#. ボクは<CLT=size2>厨房<CLT=size1>には
+msgctxt "0007 | C100_Naegi"
+msgid "I <CLT=size2>didn't go<CLT=size1> to"
+msgstr "Te aseguro que <CLT=size2>no fui<CLT=size1> a"
+
+#. ボクは厨房には行ってないよ。
+msgctxt "0008 | C100_Naegi"
+msgid "I didn't go to the kitchen."
+msgstr "Te aseguro que no fui a la cocina."
+
+#. <CLT=size2>行ってない<CLT=size1>よ。
+msgctxt "0009 | C100_Naegi"
+msgid "the <CLT=size2>kitchen."
+msgstr "la <CLT=size2>cocina."
+
+#. だから信じて
+#. 欲しいんだ…
+msgctxt "0010 | C100_Naegi"
+msgid ""
+"You've got to \n"
+"believe me..."
+msgstr ""
+"Es lo que pasô,\n"
+"créeme..."
+
+#. だから信じて欲しいんだ…
+msgctxt "0011 | C100_Naegi"
+msgid "You've got to believe me..."
+msgstr ""
+"Es lo que pasó,\n"
+"créeme..."
+
+#. ボクは<CLT=size2>犯人じゃない。
+msgctxt "0012 | C100_Naegi"
+msgid ""
+"I'm not the \n"
+"<CLT=size2>culprit."
+msgstr ""
+"Yo no soy el\n"
+"<CLT=size2> asesino."
+
+#. ボクは犯人じゃない。
+msgctxt "0013 | C100_Naegi"
+msgid "I'm not the culprit."
+msgstr "Yo no soy el asesino."

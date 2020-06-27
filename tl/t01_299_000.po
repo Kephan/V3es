@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 25/02/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. <CLT=cltMIND>どうしよう…
+#. これ以上は無理かも…
+msgctxt "0001 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>What should I do?\n"
+"I don't think I can do this anymore..."
+msgstr ""
+"<CLT=cltMIND>¿Qué debería hacer?\n"
+"No creo que pueda seguir con esto más..."
+
+#. <CLT=cltMIND>ひょっとして、私が疑われている…？
+msgctxt "0002 | C015_Akama"
+msgid "<CLT=cltMIND>Is everyone suspecting me...?"
+msgstr "<CLT=cltMIND>¿Todos sospechan de mí...?"
+
+#. おやおや？
+#. どうやら議論は打ち止めのようですなぁ？
+msgctxt "0003 | C020_Monok"
+msgid "Hm? Done debating already?"
+msgstr "¿Qué? ¿Ya habéis acabado de debatir?"
+
+#. じゃ、お決まりのアレ行っちゃいますか！
+#. レッツ！投票ターイム！
+msgctxt "0004 | C020_Monok"
+msgid ""
+"Well, this next part's mandatory so let's\n"
+"get it over with. It's...Voting Time!"
+msgstr ""
+"Bueno, lo que toca ahora es obligatorio así que\n"
+"vamos a acabar ya. ¡Es... la hora de votar!"
+
+#. うぷぷぷぷぷ…！
+msgctxt "0005 | C020_Monok"
+msgid "Puhuhuhu...!"
+msgstr "¡Upupupu...!"
+
+#. もう、どうすることもできないの…？
+msgctxt "0006 | C015_Akama"
+msgid "Isn't there anything else we can do?"
+msgstr "¿Ya no queda nada que podamos hacer?"
+
+#. リトライする
+msgctxt "0007 | C015_Akama"
+msgid "Retry"
+msgstr "Reintentar"
+
+#. 私達は諦めない！
+msgctxt "0008 | C015_Akama"
+msgid "We won't give up!"
+msgstr "¡No nos rendiremos!"
+
+#. 準備を整えてリトライ
+msgctxt "0009 | C015_Akama"
+msgid "Make preparations and retry"
+msgstr "Hacer preparativos y reintentar"
+
+#. 私達は諦めない！
+msgctxt "0010 | C015_Akama"
+msgid "We won't give up!"
+msgstr "¡No nos rendiremos!"
+
+#. あきらめる
+msgctxt "0011 | C015_Akama"
+msgid "Quit"
+msgstr "Salir"
+
+#. リトライしますか？
+msgctxt "0012 | C015_Akama"
+msgid "Would you like to retry?"
+msgstr "¿Quieres volver a intentarlo?"

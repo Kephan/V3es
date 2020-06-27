@@ -1,0 +1,281 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 25/02/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. <CLT=cltSYSTEM>イメージを推理する場面では
+#. <CLT=cltSTRONG>発掘イマジネーション<CLT=cltSYSTEM>が発生いたします。
+msgctxt "0001 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>In scenes where you have to deduce an image,\n"
+"<CLT=cltSTRONG>Mind Mine<CLT=cltSYSTEM> will begin!"
+msgstr ""
+"<CLT=cltSYSTEM>¡En los momentos que tengas que deducir una imagen\n"
+"comenzará <CLT=cltSTRONG>Perforamentes<CLT=cltSYSTEM>!"
+
+#. <CLT=cltSYSTEM>このモードでの目的はピースに埋もれた
+#. <CLT=cltSTRONG>答えとなるイメージ<CLT=cltSYSTEM>を完全に<CLT=cltSTRONG>掘り出す<CLT=cltSYSTEM>事です。
+msgctxt "0002 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>In this mode, the objective is to\n"
+"<CLT=cltSTRONG>dig up<CLT=cltSYSTEM> the <CLT=cltSTRONG>answer<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>En este modo, el objetivo es <CLT=cltSTRONG>perforar<CLT=cltSYSTEM>\n"
+"la <CLT=cltSTRONG>respuesta<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>最初は全て<CLT=cltSTRONG>ピースに覆われた状態<CLT=cltSYSTEM>となっております。
+msgctxt "0003 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>At the beginning, the answer will be\n"
+"completely <CLT=cltSTRONG>covered by pieces<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Al principio, la respuesta estará completamente\n"
+"<CLT=cltSTRONG>cubierta de piezas<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM><PAD=【Ｌ３】>スティックでカーソルを移動し、
+#. <PAD=【○】>ボタンで<CLT=cltSTRONG>ピースを消去<CLT=cltSYSTEM>します。
+msgctxt "0004 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Use the <PAD=【Ｌ３】> stick to move the cursor\n"
+"and delete the pieces with the <PAD=【○】> button."
+msgstr ""
+"<CLT=cltSYSTEM>Mueve la retícula con la palanca <PAD=【Ｌ３】> y pulsa <PAD=【○】>\n"
+"para eliminar las piezas."
+
+#. <CLT=cltSYSTEM>ピースは<CLT=cltSTRONG>同じ色が２つ以上くっついていれば<CLT=cltSYSTEM>
+#. 消すことができます。
+msgctxt "0005 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Pieces will be erased when\n"
+"<CLT=cltSTRONG>two or more of the same color are connected<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Las piezas desaparecerán cuando <CLT=cltSTRONG>dos o más\n"
+"piezas del mismo color estén conectadas<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>そして、消したピースに<CLT=cltSTRONG>隣接していたピース<CLT=cltSYSTEM>は
+#. <CLT=cltSTRONG>『白→赤→黄→白…』<CLT=cltSYSTEM>という法則で<CLT=cltSTRONG>変化<CLT=cltSYSTEM>します。
+msgctxt "0006 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>The <CLT=cltSTRONG>adjacent pieces<CLT=cltSYSTEM> will then <CLT=cltSTRONG>change<CLT=cltSYSTEM> color\n"
+"in the following order: <CLT=cltSTRONG>white, pink, yellow, white<CLT=cltSYSTEM>..."
+msgstr ""
+"<CLT=cltSYSTEM>Entonces, las <CLT=cltSTRONG>piezas adyacentes<CLT=cltSYSTEM> se <CLT=cltSTRONG>cambiarán<CLT=cltSYSTEM>\n"
+"de color en el siguiente orden: <CLT=cltSTRONG>blanco, rosa, amarillo y blanco<CLT=cltSYSTEM>..."
+
+#. <CLT=cltSYSTEM>上手な手順で消せば、イメージの上から
+#. <CLT=cltSTRONG>全てのピースを取り除く<CLT=cltSYSTEM>ことができますので…
+msgctxt "0007 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If you do it right, you can remove\n"
+"<CLT=cltSTRONG>all the pieces<CLT=cltSYSTEM> from an object."
+msgstr ""
+"<CLT=cltSYSTEM>Si lo haces bien, podrás eliminar\n"
+"<CLT=cltSTRONG>todas las piezas<CLT=cltSYSTEM> de un objeto."
+
+#. <CLT=cltSYSTEM>周囲のピースの変化も<CLT=cltSTRONG>予測<CLT=cltSYSTEM>しながら
+#. 進めていただくことがコツとなります。
+msgctxt "0008 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>The trick is to <CLT=cltSTRONG>predict<CLT=cltSYSTEM> how the\n"
+"adjacent pieces will change."
+msgstr ""
+"<CLT=cltSYSTEM>El truco está en <CLT=cltSTRONG>predecir<CLT=cltSYSTEM> a qué\n"
+"color cambiarán las piezas adyacentes."
+
+#. <CLT=cltSYSTEM>イメージの上に重なったピースが完全に消えた時、
+#. 答えとして<CLT=cltSTRONG>イメージを決定<CLT=cltSYSTEM>することができます。
+msgctxt "0009 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>When all the pieces on top of an object are\n"
+"gone, you can <CLT=cltSTRONG>select the object<CLT=cltSYSTEM> as the answer."
+msgstr ""
+"<CLT=cltSYSTEM>Cuando un objeto se quede libre de piezas podrás\n"
+"<CLT=cltSTRONG>seleccionarlo<CLT=cltSYSTEM> como respuesta."
+
+#. <CLT=cltSYSTEM><CLT=cltSTRONG>間違ったイメージ<CLT=cltSYSTEM>を決定すると
+#. <CLT=cltSTRONG>発言力にダメージ<CLT=cltSYSTEM>を受けてしまうのでお気をつけ下さい。
+msgctxt "0010 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If you <CLT=cltSTRONG>select<CLT=cltSYSTEM> the wrong object,\n"
+"your <CLT=cltSTRONG>Influence Gauge will take damage<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Si <CLT=cltSTRONG>seleccionas<CLT=cltSYSTEM> el objeto equivocado,\n"
+"tu <CLT=cltSTRONG>medidor de influencia bajará<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>１つだけピースが残ってしまった場合も
+#. <PAD=【○】>ボタンを連打すれば無理矢理壊すことはできますが…
+msgctxt "0011 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If there's just one piece left, you can press\n"
+"the <PAD=【○】> button repeatedly to break it."
+msgstr ""
+"<CLT=cltSYSTEM>Si una de las piezas se queda suelta, puedes\n"
+"pulsar <PAD=【○】> repetidamente para romperla."
+
+#. <CLT=cltSYSTEM><CLT=cltSTRONG>ペナルティ<CLT=cltSYSTEM>として<CLT=cltSTRONG>タイムが削られてしまう<CLT=cltSYSTEM>ので
+#. 奥の手としてご利用ください。
+msgctxt "0012 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>But that will incur a <CLT=cltSTRONG>time penalty<CLT=cltSYSTEM>,\n"
+"so don't just button mash!"
+msgstr ""
+"<CLT=cltSYSTEM>Aunque eso conlleva una <CLT=cltSTRONG>penalización de tiempo<CLT=cltSYSTEM>,\n"
+"¡así que no te emociones mucho, ¿eh?!"
+
+#. <CLT=cltSYSTEM>…複雑そうに聞こえたかもしれませんが
+#. とりあえずやってみていただくのが一番かと思います。
+msgctxt "0013 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>It might sound complicated, but trust me,\n"
+"you'll get it as you play."
+msgstr ""
+"<CLT=cltSYSTEM>Sé que puede parecer difícil, pero ya te digo,\n"
+"en cuanto juegues lo irás entendiendo."
+
+#. <CLT=cltSYSTEM>以上、ご確認のほど…よろしくお願い致します。
+msgctxt "0014 | chara_Blank"
+msgid "<CLT=cltSYSTEM>We await your response."
+msgstr "<CLT=cltSYSTEM>Esperamos tu respuesta."
+
+#. <CLT=cltSYSTEM>イメージを推理する場面では
+#. <CLT=cltSTRONG>発掘イマジネーション<CLT=cltSYSTEM>が発生いたします。
+msgctxt "0015 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>In scenes where you have to deduce an image,\n"
+"<CLT=cltSTRONG>Mind Mine<CLT=cltSYSTEM> will begin!"
+msgstr ""
+"<CLT=cltSYSTEM>¡En los momentos que tengas que deducir una imagen\n"
+"comenzará <CLT=cltSTRONG>Perforamentes<CLT=cltSYSTEM>!"
+
+#. <CLT=cltSYSTEM>このモードでの目的はピースに埋もれた
+#. <CLT=cltSTRONG>答えとなるイメージ<CLT=cltSYSTEM>を完全に<CLT=cltSTRONG>掘り出す<CLT=cltSYSTEM>事です。
+msgctxt "0016 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>In this mode, the objective is to\n"
+"<CLT=cltSTRONG>dig up<CLT=cltSYSTEM> the <CLT=cltSTRONG>answer<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>En este modo, el objetivo es <CLT=cltSTRONG>perforar<CLT=cltSYSTEM>\n"
+"la <CLT=cltSTRONG>respuesta<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>最初は全て<CLT=cltSTRONG>ピースに覆われた状態<CLT=cltSYSTEM>となっております。
+msgctxt "0017 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>At the beginning, the answer will be\n"
+"completely <CLT=cltSTRONG>covered by pieces<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Al principio, la respuesta estará completamente\n"
+"<CLT=cltSTRONG>cubierta de piezas<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>マウス移動でカーソルを移動し、
+#. マウス左ボタンで<CLT=cltSTRONG>ピースを消去<CLT=cltSYSTEM>します。
+msgctxt "0018 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Use the mouse to move the cursor\n"
+"and left-click to <CLT=cltSTRONG>erase the pieces<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Mueve la retícula con el ratón y pulsa clic izquierdo\n"
+"para <CLT=cltSTRONG>eliminar las piezas<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>ピースは<CLT=cltSTRONG>同じ色が２つ以上くっついていれば<CLT=cltSYSTEM>
+#. 消すことができます。
+msgctxt "0019 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Pieces will be erased when\n"
+"<CLT=cltSTRONG>two or more of the same color connect<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Las piezas desaparecerán cuando <CLT=cltSTRONG>dos o más\n"
+"piezas del mismo color estén conectadas<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>そして、消したピースに<CLT=cltSTRONG>隣接していたピース<CLT=cltSYSTEM>は
+#. <CLT=cltSTRONG>『白→赤→黄→白…』<CLT=cltSYSTEM>という法則で<CLT=cltSTRONG>変化<CLT=cltSYSTEM>します。
+msgctxt "0020 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>The <CLT=cltSTRONG>adjacent pieces<CLT=cltSYSTEM> will then <CLT=cltSTRONG>change<CLT=cltSYSTEM> color\n"
+"in the following order: <CLT=cltSTRONG>white, pink, yellow, white<CLT=cltSYSTEM>..."
+msgstr ""
+"<CLT=cltSYSTEM>Entonces, las <CLT=cltSTRONG>piezas adyacentes<CLT=cltSYSTEM> se <CLT=cltSTRONG>cambiarán<CLT=cltSYSTEM>\n"
+"de color en el siguiente orden: <CLT=cltSTRONG>blanco, rosa, amarillo y blanco<CLT=cltSYSTEM>..."
+
+#. <CLT=cltSYSTEM>上手な手順で消せば、イメージの上から
+#. <CLT=cltSTRONG>全てのピースを取り除く<CLT=cltSYSTEM>ことができますので…
+msgctxt "0021 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If you do it right, you can remove\n"
+"<CLT=cltSTRONG>all the pieces<CLT=cltSYSTEM> from an object."
+msgstr ""
+"<CLT=cltSYSTEM>Si lo haces bien, podrás eliminar\n"
+"<CLT=cltSTRONG>todas las piezas<CLT=cltSYSTEM> de un objeto."
+
+#. <CLT=cltSYSTEM>周囲のピースの変化も<CLT=cltSTRONG>予測<CLT=cltSYSTEM>しながら
+#. 進めていただくことがコツとなります。
+msgctxt "0022 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>The trick is to <CLT=cltSTRONG>predict<CLT=cltSYSTEM> how the\n"
+"adjacent pieces will change."
+msgstr ""
+"<CLT=cltSYSTEM>El truco está en <CLT=cltSTRONG>predecir<CLT=cltSYSTEM> a qué\n"
+"color cambiarán las piezas adyacentes."
+
+#. <CLT=cltSYSTEM>イメージの上に重なったピースが完全に消えた時、
+#. 答えとして<CLT=cltSTRONG>イメージを決定<CLT=cltSYSTEM>することができます。
+msgctxt "0023 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>When all the pieces on top of an object are\n"
+"gone, you can <CLT=cltSTRONG>select the object<CLT=cltSYSTEM> as the answer."
+msgstr ""
+"<CLT=cltSYSTEM>Cuando un objeto se quede libre de piezas podrás\n"
+"<CLT=cltSTRONG>seleccionarlo<CLT=cltSYSTEM> como respuesta."
+
+#. <CLT=cltSYSTEM><CLT=cltSTRONG>間違ったイメージ<CLT=cltSYSTEM>を決定すると
+#. <CLT=cltSTRONG>発言力にダメージ<CLT=cltSYSTEM>を受けてしまうのでお気をつけ下さい。
+msgctxt "0024 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If you <CLT=cltSTRONG>select<CLT=cltSYSTEM> the wrong object,\n"
+"your <CLT=cltSTRONG>Influence Gauge will take damage<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Si <CLT=cltSTRONG>seleccionas<CLT=cltSYSTEM> el objeto equivocado,\n"
+"tu <CLT=cltSTRONG>medidor de influencia bajará<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>１つだけピースが残ってしまった場合も
+#. マウス左ボタンを連打すれば無理矢理壊すことはできますが…
+msgctxt "0025 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If there's just one piece left, you can\n"
+"repeatedly left-click on it to break it."
+msgstr ""
+"<CLT=cltSYSTEM>Si una de las piezas se queda suelta, puedes\n"
+"pulsar clic izquierdo repetidamente para romperla."
+
+#. <CLT=cltSYSTEM><CLT=cltSTRONG>ペナルティ<CLT=cltSYSTEM>として<CLT=cltSTRONG>タイムが削られてしまう<CLT=cltSYSTEM>ので
+#. 奥の手としてご利用ください。
+msgctxt "0026 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>But that will incur a <CLT=cltSTRONG>time penalty<CLT=cltSYSTEM>,\n"
+"so don't just go clicking like crazy!"
+msgstr ""
+"<CLT=cltSYSTEM>Aunque eso conlleva una <CLT=cltSTRONG>penalización de tiempo<CLT=cltSYSTEM>,\n"
+"¡así que recuerda no cargarte el botón del ratón!"
+
+#. <CLT=cltSYSTEM>…複雑そうに聞こえたかもしれませんが
+#. とりあえずやってみていただくのが一番かと思います。
+msgctxt "0027 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>It might sound complicated, but trust me,\n"
+"you'll get it as you play."
+msgstr ""
+"<CLT=cltSYSTEM>Sé que puede parecer difícil, pero ya te digo,\n"
+"en cuanto juegues lo irás entendiendo."
+
+#. <CLT=cltSYSTEM>以上、ご確認のほど…よろしくお願い致します。
+msgctxt "0028 | chara_Blank"
+msgid "<CLT=cltSYSTEM>We await your response."
+msgstr "<CLT=cltSYSTEM>Esperamos tu respuesta."

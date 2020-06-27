@@ -1,0 +1,556 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 25/02/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. <CLT=cltSYSTEM>さあ、
+#. いよいよ学級裁判が始まりましたね。
+msgctxt "0001 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>And now, the\n"
+"class trial has begun!"
+msgstr "<CLT=cltSYSTEM>¡Y con esto da comienzo el juicio escolar!"
+
+#. <CLT=cltSYSTEM>学級裁判では、ストーリーが進むと、
+#. <CLT=cltSTRONG>ノンストップ議論<CLT=cltSYSTEM>が発生致します。
+msgctxt "0002 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>As things progress during each class trial,\n"
+"<CLT=cltSTRONG>Nonstop Debates<CLT=cltSYSTEM> will occur."
+msgstr ""
+"<CLT=cltSYSTEM>A medida que las cosas vayan avanzando en\n"
+"los juicios, ocurrirán <CLT=cltSTRONG>Debate continuos<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM><CLT=cltSTRONG>ノンストップ議論<CLT=cltSYSTEM>では、ご学友の皆様が次々と発言し、
+#. 議論が<CLT=cltSTRONG>自動的に進行<CLT=cltSYSTEM>致します。
+msgctxt "0003 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>During <CLT=cltSTRONG>Nonstop Debates<CLT=cltSYSTEM>, characters will speak\n"
+"one after another, <CLT=cltSTRONG>without pause<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Durante un <CLT=cltSTRONG>Debate continuo<CLT=cltSYSTEM>, los personajes irán\n"
+"hablando uno tras otro de forma <CLT=cltSTRONG>continua<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>あなた様は、皆様の発言の中から、
+#. <CLT=cltSTRONG>“ウソや間違い”<CLT=cltSYSTEM>を見つけ出し…
+msgctxt "0004 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>It's up to you to unearth any\n"
+"<CLT=cltSTRONG>lies or contradictions<CLT=cltSYSTEM> in their statements."
+msgstr ""
+"<CLT=cltSYSTEM>Y tu trabajo es desenmascarar cualquier\n"
+"<CLT=cltSTRONG>mentira o contradicción<CLT=cltSYSTEM> en sus declaraciones."
+
+#. <CLT=cltSYSTEM>捜査で集めた<CLT=cltSTRONG>“言弾（コトダマ）”<CLT=cltSYSTEM>を使って、
+#. これを<CLT=cltSTRONG>論破<CLT=cltSYSTEM>していただかなければなりません。
+msgctxt "0005 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You'll have to use the <CLT=cltSTRONG>Truth Bullets<CLT=cltSYSTEM> you gathered\n"
+"to <CLT=cltSTRONG>refute<CLT=cltSYSTEM> what they say."
+msgstr ""
+"<CLT=cltSYSTEM>Utilizarás la <CLT=cltSTRONG>Munición<CLT=cltSYSTEM> que hayas reunido para\n"
+"<CLT=cltSTRONG>refutar<CLT=cltNORMAL> lo que vayan diciendo."
+
+#. <CLT=cltSYSTEM>お持ちの言弾（コトダマ）の内、議論に必要なモノのみが、
+#. あなた様の<CLT=cltSTRONG>コトダマシリンダー<CLT=cltSYSTEM>に装填されます。
+msgctxt "0006 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Any relevant Truth Bullets you've found\n"
+"will be loaded into the <CLT=cltSTRONG>Truth Cylinder<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Cualquier Munición relevante que hayas encontrado\n"
+"se te cargará en la <CLT=cltSTRONG>Recámara<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM><PAD=【Ｌ３】>で照準を動かし、
+#. <PAD=【△】>でお撃ちになれます。
+msgctxt "0007 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Use the <PAD=【Ｌ３】> to aim and fire with <PAD=【△】>."
+msgstr "<CLT=cltSYSTEM>Apunta con la palanca <PAD=【Ｌ３】> y dispara pulsando <PAD=【△】>."
+
+#. <CLT=cltSYSTEM>皆様の発言の中には、
+#. <CLT=cltSTRONG>黄色の文字<CLT=cltSYSTEM>で表示されるものがございます。
+msgctxt "0008 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Aim for the <CLT=cltSTRONG>gold words<CLT=cltSYSTEM> displayed in their\n"
+"statements."
+msgstr ""
+"<CLT=cltSYSTEM>Apunta a las <CLT=cltSTRONG>palabras doradas<CLT=cltSYSTEM> que aparezcan\n"
+"en sus declaraciones."
+
+#. <CLT=cltSYSTEM>こちらを<CLT=cltSTRONG>ウィークポイント<CLT=cltSYSTEM>と呼びます。
+msgctxt "0009 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Those are the <CLT=cltSTRONG>weak points<CLT=cltSYSTEM>!"
+msgstr "<CLT=cltSYSTEM>¡Esas palabras son los <CLT=cltSTRONG>puntos débiles<CLT=cltSYSTEM>!"
+
+#. <CLT=cltSYSTEM>このウィークポイントの中に…
+#. <CLT=cltSTRONG>“ウソや間違い”<CLT=cltSYSTEM>が潜んでいる可能性がございます。
+msgctxt "0010 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>There's a chance that the <CLT=cltSTRONG>lies or contradictions<CLT=cltSYSTEM>\n"
+"are hiding within those weak points..."
+msgstr ""
+"<CLT=cltSYSTEM>En esos puntos débiles es posible que se estén ocultando\n"
+"<CLT=cltSTRONG>mentiras o contradicciones<CLT=cltSYSTEM>..."
+
+#. <CLT=cltSYSTEM>あくまで<CLT=cltSTRONG>可能性<CLT=cltSYSTEM>でございますので、
+#. 必ずしも論破できるわけではなく…
+msgctxt "0011 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Remember, this is just a <CLT=cltSTRONG>possibility<CLT=cltSYSTEM>,\n"
+"so it won't always work..."
+msgstr ""
+"<CLT=cltSYSTEM>Pero recuerda que solo es una <CLT=cltSTRONG>posibilidad<CLT=cltSYSTEM>,\n"
+"no siempre es así..."
+
+#. <CLT=cltSYSTEM>さらに、<CLT=cltSTRONG>正しい言弾（コトダマ）<CLT=cltSYSTEM>でないと
+#. 論破することはできません。
+msgctxt "0012 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Also, it can only be refuted by the\n"
+"<CLT=cltSTRONG>correct Truth Bullet<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Y, además, solo se podrá refutar utilizando\n"
+"la <CLT=cltSTRONG>Munición correcta<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>皆様の発言と
+#. お持ちの言弾（コトダマ）とを照らし合わせ…
+msgctxt "0013 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Compare everyone's statements to the\n"
+"Truth Bullets you have..."
+msgstr ""
+"<CLT=cltSYSTEM>Compara sus declaraciones con la Munición\n"
+"que tienes..."
+
+#. <CLT=cltSYSTEM>これだと思ったウィークポイントに
+#. 選んだ<CLT=cltSTRONG>言弾（コトダマ）<CLT=cltSYSTEM>をお当てください。
+msgctxt "0014 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>And shoot your <CLT=cltSTRONG>Truth Bullet<CLT=cltSYSTEM> at the\n"
+"proper weak point."
+msgstr ""
+"<CLT=cltSYSTEM>... y dispara tu <CLT=cltSTRONG>Munición<CLT=cltSYSTEM>\n"
+"al punto débil adecuado."
+
+#. <CLT=cltSYSTEM>また、<CLT=cltSTRONG>赤い文字<CLT=cltSYSTEM>はあなた様の発言を邪魔する
+#. <CLT=cltSTRONG>雑音セリフ<CLT=cltSYSTEM>と呼ばれるものでございます。
+msgctxt "0015 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Also, the <CLT=cltSTRONG>pink words<CLT=cltSYSTEM> are\n"
+"called <CLT=cltSTRONG>white noise<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Luego están las <CLT=cltSTRONG>palabras rosas<CLT=cltSYSTEM> que\n"
+"es lo que se llama <CLT=cltSTRONG>susurro<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>言弾（コトダマ）は雑音セリフに当たると
+#. 消えてしまう為『論破』の<CLT=cltSTRONG>ジャマ<CLT=cltSYSTEM>になります。
+msgctxt "0016 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Your Truth Bullets will disappear if they touch these\n"
+"lines, so think of them as <CLT=cltSTRONG>obstacles<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Si disparas tu Munición y tocas algunas de esas palabras,\n"
+"desaparecerán. Piensa en ellas como si fueran <CLT=cltSTRONG>obstáculos<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM><PAD=【○】>で<CLT=cltSTRONG>サイレンサー<CLT=cltSYSTEM>を打ち、
+#. <CLT=cltSTRONG>雑音セリフを撃墜<CLT=cltSYSTEM>していただくか…
+msgctxt "0017 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You can use the <CLT=cltSTRONG>silencer<CLT=cltSYSTEM> with <PAD=【○】>\n"
+"to shoot down the white noise."
+msgstr ""
+"<CLT=cltSYSTEM>Puedes utilizar el <CLT=cltSTRONG>silenciador<CLT=cltSYSTEM> pulsando <PAD=【○】>\n"
+"y así eliminar los susurros."
+
+#. <CLT=cltSYSTEM>雑音セリフに邪魔されないタイミングを見計らって、
+#. 言弾（コトダマ）を打ち込んでくださいませ。
+msgctxt "0018 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Please time your Truth Bullets just right so they\n"
+"won't get interrupted by the white noise."
+msgstr ""
+"<CLT=cltSYSTEM>Así que, por favor, dispara la Munición en el momento\n"
+"exacto para que no se topen con ningún susurro."
+
+#. <CLT=cltSYSTEM>なお、<CLT=cltSTRONG>タイム<CLT=cltSYSTEM>がなくなりますと失敗となりますので、
+#. お気を付けくださいませ。
+msgctxt "0019 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Note that if you run out of <CLT=cltSTRONG>time<CLT=cltSYSTEM>, you will\n"
+"automatically fail, so please be careful!"
+msgstr ""
+"<CLT=cltSYSTEM>Piensa que si te quedas sin <CLT=cltSTRONG>tiempo<CLT=cltSYSTEM>,\n"
+"¡fracasarás de forma automática! Ve con cuidado."
+
+#. <CLT=cltSYSTEM>…説明が長くなってしまい大変申し訳ございません。
+msgctxt "0020 | chara_Blank"
+msgid "<CLT=cltSYSTEM>...Sorry, this is getting long, I know."
+msgstr "<CLT=cltSYSTEM>Disculpa..., sé que se está haciendo largo."
+
+#. <CLT=cltSYSTEM>とりあえず、ウィークポイントを見つけたら、
+#. <CLT=cltSTRONG>言弾（コトダマ）<CLT=cltSYSTEM>を撃ってみてください。
+msgctxt "0021 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Basically, if you find a weak point, then try\n"
+"shooting a <CLT=cltSTRONG>Truth Bullet<CLT=cltSYSTEM> at it!"
+msgstr ""
+"<CLT=cltSYSTEM>¡Pero, en resumen, si ves un punto débil, prueba\n"
+"a dispararle <CLT=cltSTRONG>Munición<CLT=cltSYSTEM>!"
+
+#. <CLT=cltSYSTEM>………………
+#. ああ！　すっかり<CLT=cltSTRONG>新要素<CLT=cltSYSTEM>の説明を忘れておりました！
+msgctxt "0022 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>...Oh! I almost forgot!\n"
+"The <CLT=cltSTRONG>new element<CLT=cltSYSTEM>!"
+msgstr ""
+"<CLT=cltSTRONG>¡Uy! ¡Casi me olvido del\n"
+"<CLT=cltSTRONG>nuevo elemento<CLT=cltSYSTEM>!"
+
+#. <CLT=cltSYSTEM>議論中、<PAD=【Ｒ１】>で<CLT=cltSTRONG>精神集中<CLT=cltSYSTEM>されますと、
+#. <CLT=cltSTRONG>動きがゆっくりになる<CLT=cltSYSTEM>という効果の他に…
+msgctxt "0023 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>During the trial, you can <CLT=cltSTRONG>concentrate<CLT=cltSYSTEM>\n"
+"to make time <CLT=cltSTRONG>slow down<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Durante los juicios te puedes <CLT=cltSTRONG>concentrar<CLT=cltSYSTEM>\n"
+"y así <CLT=cltSTRONG>ralentizar el tiempo<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>ウィークポイントの中に<CLT=cltSTRONG>Ｖポイント<CLT=cltSYSTEM>という、
+#. <CLT=cltSTRONG>小さな赤い点<CLT=cltSYSTEM>を確認する事ができます。
+msgctxt "0024 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>This will also reveal a small red dot\n"
+"within <CLT=cltSTRONG>weak spots<CLT=cltSYSTEM> called the <CLT=cltSTRONG>V Point<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Al concentrarte, también desvelarás un pequeño punto rojo entre\n"
+"los <CLT=cltSTRONG>puntos débiles<CLT=cltSYSTEM>, eso es un <CLT=cltSTRONG>Objetivo V<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>こちらに正しい言弾（コトダマ）をお当ていただきますと…
+#. な、なんと！　超クールな<CLT=cltSTRONG>Ｖ論破<CLT=cltSYSTEM>となります！！
+msgctxt "0025 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If you hit that with the correct Truth Bullet,\n"
+"you'll get an awesome <CLT=cltSTRONG>V Counter<CLT=cltSYSTEM>! Bullseye!"
+msgstr ""
+"<CLT=cltSYSTEM>Si lo golpeas con la Munición correcta, obtendrás una chupitástica\n"
+"<CLT=cltSTRONG>Refutación V<CLT=cltSYSTEM>. ¡A por ella, Ojo de halcón!"
+
+#. <CLT=cltSYSTEM>Ｖ論破をすると――ぶっちゃけ、
+#. この体験版では超クールな演出が見れるだけです。
+msgctxt "0026 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>V Counters really improve your score and the\n"
+"number of Monocoins you earn, so try that out."
+msgstr ""
+"<CLT=cltSYSTEM>Las Refutaciones V mejoran mucho la puntuación\n"
+"y las monedas que ganas, no lo dejes pasar."
+
+#. <CLT=cltSYSTEM>ですが、ここで腕を磨いて製品版でＶ論破をぶちかませば、
+#. 超クールな上にめちゃくちゃ得をしちゃうかも！
+msgctxt "0027 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Practice your V Counters in this trial version so \n"
+"you'll look pro when the game comes out!"
+msgstr ""
+"<CLT=cltSYSTEM>¡Aprovecha para practicar esas Refutaciones V\n"
+"ahora y serás una máquina cuando salga el juego!"
+
+#. <CLT=cltSYSTEM>ノンストップ議論中に<PAD=【Ｆ㊨】>を押すと、
+#. <CLT=cltSTRONG>操作方法<CLT=cltSYSTEM>をご覧頂けます。
+msgctxt "0028 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>During the Nonstop Debate, <PAD=【Ｆ㊨】>\n"
+"will bring up the <CLT=cltSTRONG>controls<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>En medio de un Debate continuo, pulsa <PAD=【Ｆ㊨】>\n"
+"para ver los <CLT=cltSTRONG>controles<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>以上、ご確認のほど…よろしくお願い致します。
+msgctxt "0029 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Give them a look!"
+msgstr "<CLT=cltSYSTEM>¡Échales un vistazo!"
+
+#. <CLT=cltSYSTEM>さあ、
+#. いよいよ学級裁判が始まりましたね。
+#, fuzzy
+msgctxt "0030 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>And now, the\n"
+"class trial has begun!"
+msgstr "<CLT=cltSYSTEM>¡Y con esto da comienzo el juicio escolar!"
+
+#. <CLT=cltSYSTEM>学級裁判では、ストーリーが進むと、
+#. <CLT=cltSTRONG>ノンストップ議論<CLT=cltSYSTEM>が発生致します。
+msgctxt "0031 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>As things progress during each class trial,\n"
+"<CLT=cltSTRONG>Nonstop Debates<CLT=cltSYSTEM> will occur."
+msgstr ""
+"<CLT=cltSYSTEM>A medida que las cosas vayan avanzando en\n"
+"los juicios, ocurrirán <CLT=cltSTRONG>Debate continuos<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM><CLT=cltSTRONG>ノンストップ議論<CLT=cltSYSTEM>では、ご学友の皆様が次々と発言し、
+#. 議論が<CLT=cltSTRONG>自動的に進行<CLT=cltSYSTEM>致します。
+msgctxt "0032 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>During <CLT=cltSTRONG>Nonstop Debates<CLT=cltSYSTEM>, characters will speak\n"
+"one after another, <CLT=cltSTRONG>without pause<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Durante un <CLT=cltSTRONG>Debate continuo<CLT=cltSYSTEM>, los personajes irán\n"
+"hablando uno tras otro de forma <CLT=cltSTRONG>continua<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>あなた様は、皆様の発言の中から、
+#. <CLT=cltSTRONG>“ウソや間違い”<CLT=cltSYSTEM>を見つけ出し…
+msgctxt "0033 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>It's up to you to unearth any\n"
+"<CLT=cltSTRONG>lies or contradictions<CLT=cltSYSTEM> in their statements."
+msgstr ""
+"<CLT=cltSYSTEM>Y tu trabajo es desenmascarar cualquier\n"
+"<CLT=cltSTRONG>mentira o contradicción<CLT=cltSYSTEM>en sus declaraciones."
+
+#. <CLT=cltSYSTEM>捜査で集めた<CLT=cltSTRONG>“言弾（コトダマ）”<CLT=cltSYSTEM>を使って、
+#. これを<CLT=cltSTRONG>論破<CLT=cltSYSTEM>していただかなければなりません。
+msgctxt "0034 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You'll have to use the <CLT=cltSTRONG>Truth Bullets<CLT=cltSYSTEM> you gathered\n"
+"to <CLT=cltSTRONG>refute<CLT=cltSYSTEM> what they say."
+msgstr ""
+"<CLT=cltSYSTEM>Utilizarás la <CLT=cltSTRONG>Munición<CLT=cltSYSTEM> que hayas reunido para\n"
+"<CLT=cltSTRONG>refutar<CLT=cltNORMAL> lo que vayan diciendo."
+
+#. <CLT=cltSYSTEM>お持ちの言弾（コトダマ）の内、議論に必要なモノのみが、
+#. あなた様の<CLT=cltSTRONG>コトダマシリンダー<CLT=cltSYSTEM>に装填されます。
+msgctxt "0035 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Any relevant Truth Bullets you've found\n"
+"will be loaded into the <CLT=cltSTRONG>Truth Cylinder<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Cualquier Munición relevante que hayas encontrado\n"
+"se te cargará en la <CLT=cltSTRONG>Recámara<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>マウス移動で照準を動かし、
+#. マウス右ボタンでお撃ちになれます。
+msgctxt "0036 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Move the mouse to aim the reticle \n"
+"and left-click to fire."
+msgstr ""
+"<CLT=cltSYSTEM>Apunta moviendo el ratón y pulsa clic izquierdo\n"
+"para disparar."
+
+#. <CLT=cltSYSTEM>皆様の発言の中には、
+#. <CLT=cltSTRONG>黄色の文字<CLT=cltSYSTEM>で表示されるものがございます。
+msgctxt "0037 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Aim for the <CLT=cltSTRONG>gold words<CLT=cltSYSTEM> displayed in their\n"
+"statements."
+msgstr ""
+"<CLT=cltSYSTEM>Apunta a las <CLT=cltSTRONG>palabras doradas<CLT=cltSYSTEM> que aparezcan\n"
+"en sus declaraciones."
+
+#. <CLT=cltSYSTEM>こちらを<CLT=cltSTRONG>ウィークポイント<CLT=cltSYSTEM>と呼びます。
+msgctxt "0038 | chara_Blank"
+msgid "<CLT=cltSYSTEM> Those are the <CLT=cltSTRONG>weak points<CLT=cltSYSTEM>!"
+msgstr "<CLT=cltSYSTEM>¡Esas palabras son los <CLT=cltSTRONG>puntos débiles<CLT=cltSYSTEM>!"
+
+#. <CLT=cltSYSTEM>このウィークポイントの中に…
+#. <CLT=cltSTRONG>“ウソや間違い”<CLT=cltSYSTEM>が潜んでいる可能性がございます。
+msgctxt "0039 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>There's a chance that the <CLT=cltSTRONG>lies or contradictions<CLT=cltSYSTEM>\n"
+"are hiding within those weak points..."
+msgstr ""
+"<CLT=cltSYSTEM>En esos puntos débiles es posible que se estén ocultando\n"
+"<CLT=cltSTRONG>mentiras o contradicciones<CLT=cltSYSTEM>..."
+
+#. <CLT=cltSYSTEM>あくまで<CLT=cltSTRONG>可能性<CLT=cltSYSTEM>でございますので、
+#. 必ずしも論破できるわけではなく…
+msgctxt "0040 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Remember, this is just a <CLT=cltSTRONG>possibility<CLT=cltSYSTEM>,\n"
+"so it won't always work..."
+msgstr ""
+"<CLT=cltSYSTEM>Pero recuerda que solo es una <CLT=cltSTRONG>posibilidad<CLT=cltSYSTEM>,\n"
+"no siempre es así..."
+
+#. <CLT=cltSYSTEM>さらに、<CLT=cltSTRONG>正しい言弾（コトダマ）<CLT=cltSYSTEM>でないと
+#. 論破することはできません。
+msgctxt "0041 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Also, it can only be refuted by the\n"
+"<CLT=cltSTRONG>correct Truth Bullet<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Y, además, solo se podrá refutar utilizando\n"
+"la <CLT=cltSTRONG>Munición correcta<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>皆様の発言と
+#. お持ちの言弾（コトダマ）とを照らし合わせ…
+msgctxt "0042 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Compare everyone's statements to the\n"
+"Truth Bullets you have..."
+msgstr ""
+"<CLT=cltSYSTEM>Compara sus declaraciones con la Munición\n"
+"que tienes..."
+
+#. <CLT=cltSYSTEM>これだと思ったウィークポイントに
+#. 選んだ<CLT=cltSTRONG>言弾（コトダマ）<CLT=cltSYSTEM>をお当てください。
+msgctxt "0043 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>And shoot your <CLT=cltSTRONG>Truth Bullet<CLT=cltSYSTEM> at the\n"
+"proper weak point."
+msgstr ""
+"<CLT=cltSYSTEM>... y dispara tu <CLT=cltSTRONG>Munición<CLT=cltSYSTEM>\n"
+"al punto débil adecuado."
+
+#. <CLT=cltSYSTEM>また、<CLT=cltSTRONG>赤い文字<CLT=cltSYSTEM>はあなた様の発言を邪魔する
+#. <CLT=cltSTRONG>雑音セリフ<CLT=cltSYSTEM>と呼ばれるものでございます。
+msgctxt "0044 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Also, the <CLT=cltSTRONG>pink words<CLT=cltSYSTEM> are\n"
+"called <CLT=cltSTRONG>white noise<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Luego están las <CLT=cltSTRONG>palabras rosas<CLT=cltSYSTEM> que\n"
+"es lo que se llama <CLT=cltSTRONG>susurro<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>言弾（コトダマ）は雑音セリフに当たると
+#. 消えてしまう為『論破』の<CLT=cltSTRONG>ジャマ<CLT=cltSYSTEM>になります。
+msgctxt "0045 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Your Truth Bullets will disappear if they touch these\n"
+"lines, so think of them as <CLT=cltSTRONG>obstacles<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Si disparas tu Munición y tocas algunas de esas palabras,\n"
+"desaparecerán. Piensa en ellas como si fueran <CLT=cltSTRONG>obstáculos<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>マウス左ボタンで<CLT=cltSTRONG>サイレンサー<CLT=cltSYSTEM>を打ち、
+#. <CLT=cltSTRONG>雑音セリフを撃墜<CLT=cltSYSTEM>していただくか…
+msgctxt "0046 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>You can use the <CLT=cltSTRONG>silencer<CLT=cltSYSTEM> with left mouse button\n"
+"to shoot down the white noise."
+msgstr ""
+"<CLT=cltSYSTEM>Puedes utilizar el <CLT=cltSTRONG>silenciador<CLT=cltSYSTEM> con clic izquierdo\n"
+"del ratón y así eliminar los susurros."
+
+#. <CLT=cltSYSTEM>雑音セリフに邪魔されないタイミングを見計らって、
+#. 言弾（コトダマ）を打ち込んでくださいませ。
+msgctxt "0047 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Please time your Truth Bullets just right so they\n"
+"won't get interrupted by the white noise."
+msgstr ""
+"<CLT=cltSYSTEM>Así que, por favor, dispara la Munición en el momento\n"
+"exacto para que no se topen con ningún susurro."
+
+#. <CLT=cltSYSTEM>なお、<CLT=cltSTRONG>タイム<CLT=cltSYSTEM>がなくなりますと失敗となりますので、
+#. お気を付けくださいませ。
+msgctxt "0048 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Note that if you run out of <CLT=cltSTRONG>time<CLT=cltSYSTEM>, you will\n"
+"automatically fail, so please be careful!"
+msgstr ""
+"<CLT=cltSYSTEM>Piensa que si te quedas sin <CLT=cltSTRONG>tiempo<CLT=cltSYSTEM>,\n"
+"¡fracasarás de forma automática! Ve con cuidado."
+
+#. <CLT=cltSYSTEM>…説明が長くなってしまい大変申し訳ございません。
+msgctxt "0049 | chara_Blank"
+msgid "<CLT=cltSYSTEM>...Sorry, this is getting long, I know."
+msgstr "<CLT=cltSYSTEM>Disculpa..., sé que se está haciendo largo."
+
+#. <CLT=cltSYSTEM>とりあえず、ウィークポイントを見つけたら、
+#. <CLT=cltSTRONG>言弾（コトダマ）<CLT=cltSYSTEM>を撃ってみてください。
+msgctxt "0050 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Basically, if you find a weak point, then try\n"
+"shooting a <CLT=cltSTRONG>Truth Bullet<CLT=cltSYSTEM> at it!"
+msgstr ""
+"<CLT=cltSYSTEM>¡Pero, en resumen, si ves un punto débil, prueba\n"
+"a dispararle <CLT=cltSTRONG>Munición<CLT=cltSYSTEM>!"
+
+#. <CLT=cltSYSTEM>………………
+#. ああ！　すっかり<CLT=cltSTRONG>新要素<CLT=cltSYSTEM>の説明を忘れておりました！
+msgctxt "0051 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>...Oh! I almost forgot!\n"
+"The <CLT=cltSTRONG>new element<CLT=cltSYSTEM>!"
+msgstr ""
+"<CLT=cltSTRONG>¡Uy! ¡Casi me olvido del\n"
+"<CLT=cltSTRONG>nuevo elemento<CLT=cltSYSTEM>!"
+
+#. <CLT=cltSYSTEM>議論中、Spaceキーで<CLT=cltSTRONG>精神集中<CLT=cltSYSTEM>されますと、
+#. <CLT=cltSTRONG>動きがゆっくりになる<CLT=cltSYSTEM>という効果の他に…
+msgctxt "0052 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>During the trial, you can <CLT=cltSTRONG>concentrate<CLT=cltSYSTEM>\n"
+"using the Spacebar to make time <CLT=cltSTRONG>slow down<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Durante los juicios te puedes <CLT=cltSTRONG>concentrar<CLT=cltSYSTEM>\n"
+"y así <CLT=cltSTRONG>ralentizar el tiempo<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>ウィークポイントの中に<CLT=cltSTRONG>Ｖポイント<CLT=cltSYSTEM>という、
+#. <CLT=cltSTRONG>小さな赤い点<CLT=cltSYSTEM>を確認する事ができます。
+msgctxt "0053 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>This will also reveal a small red dot within <CLT=cltSTRONG>weak spots<CLT=cltSYSTEM>\n"
+"called the <CLT=cltSTRONG>V Point<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>Al concentrarte, también desvelarás un pequeño punto rojo entre\n"
+"los <CLT=cltSTRONG>puntos débiles<CLT=cltSYSTEM>, eso es un <CLT=cltSTRONG>Objetivo V<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>こちらに正しい言弾（コトダマ）をお当ていただきますと…
+#. な、なんと！　超クールな<CLT=cltSTRONG>Ｖ論破<CLT=cltSYSTEM>となります！！
+msgctxt "0054 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>If you hit that with the correct Truth Bullet, you'll get \n"
+"an awesome <CLT=cltSTRONG>V Counter<CLT=cltSYSTEM>! Bullseye!"
+msgstr ""
+"<CLT=cltSYSTEM>Si lo golpeas con la Munición correcta, obtendrás una chupitástica\n"
+"<CLT=cltSTRONG>Refutación V<CLT=cltSYSTEM>. ¡A por ella, Ojo de halcón!"
+
+#. <CLT=cltSYSTEM>Ｖ論破をすると――ぶっちゃけ、
+#. この体験版では超クールな演出が見れるだけです。
+msgctxt "0055 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>V Counters really improve your score and the\n"
+"number of Monocoins you earn, so try that out."
+msgstr ""
+"<CLT=cltSYSTEM>Las Refutaciones V mejoran mucho la puntuación\n"
+"y las monedas que ganas, no lo dejes pasar."
+
+#. <CLT=cltSYSTEM>ですが、ここで腕を磨いて製品版でＶ論破をぶちかませば、
+#. 超クールな上にめちゃくちゃ得をしちゃうかも！
+msgctxt "0056 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>Practice your V Counters in this trial version so \n"
+"you'll look pro when the game comes out!"
+msgstr ""
+"<CLT=cltSYSTEM>¡Aprovecha para practicar esas Refutaciones V\n"
+"ahora y serás una máquina cuando salga el juego!"
+
+#. <CLT=cltSYSTEM>ノンストップ議論中にF3キーを押すと、
+#. <CLT=cltSTRONG>操作方法<CLT=cltSYSTEM>をご覧頂けます。
+msgctxt "0057 | chara_Blank"
+msgid ""
+"<CLT=cltSYSTEM>During the Nonstop Debate, pressing the F3 key\n"
+"will bring up the <CLT=cltSTRONG>controls<CLT=cltSYSTEM>."
+msgstr ""
+"<CLT=cltSYSTEM>En medio de un Debate continuo, pulsa F3\n"
+"para ver los <CLT=cltSTRONG>controles<CLT=cltSYSTEM>."
+
+#. <CLT=cltSYSTEM>以上、ご確認のほど…よろしくお願い致します。
+msgctxt "0058 | chara_Blank"
+msgid "<CLT=cltSYSTEM>Give them a look!"
+msgstr "<CLT=cltSYSTEM>¡Échales un vistazo!"

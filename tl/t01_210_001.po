@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 25/02/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. <CLT=size2>貴方<CLT=size1>の<CLT=size2>証言<CLT=size1>を<CLT=size2>聞かせて<CLT=size1>くれる？
+msgctxt "0001 | C100_Naegi"
+msgid ""
+"May we \n"
+"<CLT=size2>hear your testimony?"
+msgstr ""
+"èSerîas tan amable de\n"
+"<CLT=size1.8>contarnos tu testimonio?"
+
+#. 貴方の証言を聞かせてくれる？
+msgctxt "0002 | C100_Naegi"
+msgid "May we hear your testimony?"
+msgstr "¿Serías tan amable de contarnos tu testimonio?"
+
+#. <CLT=size2>実<CLT=size1>は
+#. 見ちゃったんだよね…
+msgctxt "0003 | C005_Oma__"
+msgid ""
+"<CLT=size2>Well,\n"
+"<CLT=size1>actually..."
+msgstr "<CLT=size1.8>Pues, en realidad..."
+
+#. 実は見ちゃったんだよね…
+msgctxt "0004 | C005_Oma__"
+msgid "Well, actually..."
+msgstr "Pues, en realidad..."
+
+#. 苗木さんが
+#. <CLT=size2>死体発見アナウンス
+#. <CLT=size1>の少し前に…
+msgctxt "0005 | C005_Oma__"
+msgid ""
+"Before the\n"
+"<CLT=size2>body discovery\n"
+"announcement..."
+msgstr ""
+"... antes del\n"
+"<CLT=size1.4>anuncio de descubrimiento\n"
+"de cadàver..."
+
+#. 苗木さんが死体発見アナウンスの少し前に…
+msgctxt "0006 | C005_Oma__"
+msgid "Before the body discovery announcement..."
+msgstr "... antes del anuncio de descubrimiento de cadáver..."
+
+#. あの<CLT=size2>部屋<CLT=size1>から<CLT=size3>
+#.     　
+#.     　
+#.     　
+msgctxt "0007 | C005_Oma__"
+msgid ""
+"I saw <CLT=size1.5>Makoto\n"
+"<CLT=size3.5>　\n"
+"　\n"
+"　"
+msgstr ""
+"yvi a <CLT=size1.5>Naegi\n"
+"<CLT=size3.5>　\n"
+"　\n"
+"　"
+
+#. あの部屋から１人で出てきたところをさ！
+msgctxt "0008 | C005_Oma__"
+msgid "I saw Makoto leave that room by himself! I swear!"
+msgstr "¡vi a Naegi saliendo de esa habitación! ¡Lo juro!"
+
+#. <CLT=cltWEAK><CLT=size2>１人<CLT=size1>で<CLT=size2>出てきた<CLT=size3>
+#.     　
+#.     　
+#.     　
+msgctxt "0009 | C005_Oma__"
+msgid ""
+"<CLT=cltWEAK><CLT=size1.5>leave<CLT=size1> that <CLT=size1.5>room<CLT=size1> by <CLT=size1.5>himself!\n"
+"<CLT=size3.5>　\n"
+"　\n"
+"　"
+msgstr ""
+"<CLT=cltWEAK><CLT=size1.5>saliendo<CLT=size1> de<CLT=size1.5> esa<CLT=size1>habitacikn!\n"
+"<CLT=size3.5>　\n"
+"　\n"
+"　"
+
+#. ところを<CLT=size2>さ！<CLT=size3>
+#.     　
+#.     　
+#.     　
+msgctxt "0010 | C005_Oma__"
+msgid ""
+"<CLT=size1.5>I swear!\n"
+"<CLT=size3.5>　\n"
+"　\n"
+"　"
+msgstr ""
+"<CLT=size1.5>yTo muro!\n"
+"CLT=size3.5>　\n"
+"　\n"
+"　"
+
+#. あの部屋って
+#. <CLT=size2>殺人現場<CLT=size1>の事だよねー？
+msgctxt "0011 | C013_Yonag"
+msgid ""
+"<CLT=size1.2>By \"that room,\" you mean\n"
+"the <CLT=size2>crime scene,<CLT=size1.2> right?"
+msgstr ""
+"<CLT=size1.2>Con \"esa habitación\" te refieres a\n"
+"la <CLT=size1.8>escena del crimen, <CLT=size1.2>¿verdad?"
+
+#. あの部屋って殺人現場の事だよねー？
+msgctxt "0012 | C013_Yonag"
+msgid ""
+"By \"that room,\" you mean\n"
+"the crime scene, right?"
+msgstr ""
+"Con «esa habitación» te refieres a\n"
+"la escena del crimen, ¿verdad?"
+
+#. あの<CLT=size3>時<CLT=size1>の
+msgctxt "0013 | C005_Oma__"
+msgid "<CLT=size3>Makoto"
+msgstr "<CLT=size3>Caepi"
+
+#. あの時の苗木さんは人殺しの顔だったよ…
+msgctxt "0014 | C005_Oma__"
+msgid ""
+"Makoto looked like he had just murdered \n"
+"someone..."
+msgstr "Naegi tenía cara de acabar de asesinar a alguien..."
+
+#. <CLT=size3>苗木<CLT=size1>さんは
+msgctxt "0015 | C005_Oma__"
+msgid "looked <CLT=size2>like"
+msgstr "tenîa <CLT=size2>cara"
+
+#. <CLT=size3>人殺し<CLT=size1>の
+msgctxt "0016 | C005_Oma__"
+msgid "he had <CLT=size3>just"
+msgstr "de <CLT=size3>acabar"
+
+#. <CLT=size2>顔<CLT=size1>だったよ…
+msgctxt "0017 | C005_Oma__"
+msgid "<CLT=size2>murdered<CLT=size1> someone..."
+msgstr "<CLT=size1>de <CLT=size2> asesinar<CLT=size1> a alpuien..."
+
+#. 死体が発見される前…
+msgctxt "0018 | C100_Naegi"
+msgid "Before the body was found..."
+msgstr "<CLT=size0.8>Antes de que se descubriera el cadàver..."
+
+#. 死体が発見される前…
+msgctxt "0019 | C100_Naegi"
+msgid "Before the body was found..."
+msgstr "Antes de que se descubriera el cadáver..."
+
+#. <CLT=size2>ボク<CLT=size1>は<CLT=size2>あの部屋<CLT=size1>には
+msgctxt "0020 | C100_Naegi"
+msgid "<CLT=size2>I<CLT=size1> didn't go into"
+msgstr "<CLT=size2>Yo<CLT=size1> nunca habîa entrado"
+
+#. ボクはあの部屋には一度も行ってない…
+msgctxt "0021 | C100_Naegi"
+msgid "I didn't go into that room even once..."
+msgstr "Yo nunca había entrado en esa habitación..."
+
+#. <CLT=size2>１度<CLT=size1>も<CLT=size2>行ってない<CLT=size1>…
+msgctxt "0022 | C100_Naegi"
+msgid "<CLT=size2>that room<CLT=size1> even <CLT=size2>once..."
+msgstr "<CLT=size2>en esa habitaciôn..."
+
+#. <CLT=size2>王馬<CLT=size1>クンの<CLT=size2>
+#.     　
+#.     　
+#.     　
+#. 見間違い<CLT=size1>だよ。
+msgctxt "0023 | C100_Naegi"
+msgid ""
+"<CLT=size1>so <CLT=size2>Kokichi<CLT=size1> must be \n"
+"<CLT=size2>　\n"
+"　\n"
+"　\n"
+"mistaken."
+msgstr ""
+"<CLT=size1>Así que <CLT=size2>Ouma<CLT=size1> se está\n"
+"<CLT=size2>　\n"
+"　\n"
+"　\n"
+"equivocando."
+
+#. 王馬クンの見間違いだよ。
+msgctxt "0024 | C100_Naegi"
+msgid "so Kokichi must be mistaken."
+msgstr "Así que Ouma se está equivocando."
+
+#. 本当なのか？
+msgctxt "0025 | C002_Hoshi"
+msgid "Oh yeah?"
+msgstr "Ah, êsí?"
+
+#. 何で今まで黙ってたの？
+msgctxt "0026 | C010_Haruk"
+msgid "Why didn't you say anything until now?"
+msgstr "êY por qué no habías dicho nada hasta ahora?"
+
+#. 見間違いじゃと？
+msgctxt "0027 | C010_Haruk"
+msgid "　　　Mistaken?"
+msgstr "　　　êEquivocado?"
+
+#. 苗木が嘘をつく訳ない！
+msgctxt "0028 | C120_Hinat"
+msgid "　　　Makoto would never lie!"
+msgstr "　　　êNaegi nunca os mentirîa!"
+
+#. うぷぷぷ…
+msgctxt "0029 | C020_Monok"
+msgid "　　　Puhuhu..."
+msgstr "　　　Upupu..."
+
+#. 仲間を信じようよ！
+msgctxt "0030 | C004_Gokuh"
+msgid "　　　Let's trust our friends!"
+msgstr "　　　èConfiemos en nuestros amigos!"
+
+#. 地味に本当かも…　　　
+msgctxt "0031 | C012_Shiro"
+msgid "That's just plain possible...　　　"
+msgstr "Eso es sencillamente posible..."
+
+#. ククク…　　　
+msgctxt "0032 | C006_Shing"
+msgid "Kehehe...　　　"
+msgstr "Kuju, ju, ju..."
+
+#. 神った証言だねー！　　　
+msgctxt "0033 | C013_Yonag"
+msgid "A divine statement!　　　"
+msgstr "èPalabra del Seûor!"
+
+#. 王馬の嘘だよ。　　　
+msgctxt "0034 | C010_Haruk"
+msgid "Kokichi is lying.　　　"
+msgstr "Ouma miente."

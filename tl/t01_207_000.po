@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 25/02/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. ちょっと待って！
+#. 茶柱さんと夢野さんが食堂にいる間に…
+msgctxt "0001 | C015_Akama"
+msgid ""
+"Wait a minute! While Tenko and Himiko \n"
+"were in the dining hall..."
+msgstr ""
+"¡Escuchad! Mientras Chabashira\n"
+"y Yumeno estaban en la cafetería..."
+
+#. １人だけ、食堂を訪れた人がいるはずだよ。
+msgctxt "0002 | C015_Akama"
+msgid ""
+"...there was one other person who went\n"
+"in there, too."
+msgstr "... entró otra persona más."
+
+#. あのさ…茶柱さんって、
+#. お茶を飲む間は１人で食堂にいたの？
+msgctxt "0003 | C100_Naegi"
+msgid ""
+"Um, Tenko? Were you drinking tea\n"
+"by yourself in the dining hall?"
+msgstr ""
+"Oye, Chabashira, ¿te estabas tomando el té\n"
+"tú sola en la cafetería?"
+
+#. いいえ、転子は夢野さんと一緒でした！
+msgctxt "0004 | C011_Chaba"
+msgid "No, I was with Himiko!"
+msgstr "¡Qué va, estaba con Yumeno!"
+
+#. 魔法とマジックの違いについて
+#. ご教授頂いていたのです！
+msgctxt "0005 | C011_Chaba"
+msgid ""
+"She was teaching me the difference\n"
+"between magic and magic tricks!"
+msgstr ""
+"¡Me estaba explicando la diferencia entre\n"
+"un truco de magia falso y uno real!"
+
+#. 転子達は、死体発見アナウンスの直前まで
+#. 一緒にここにいましたよ！
+msgctxt "0006 | C011_Chaba"
+msgid ""
+"We were here together when the body\n"
+"discovery announcement was made!"
+msgstr ""
+"¡Estábamos las dos juntas cuando se hizo\n"
+"el anuncio de descubrimiento de cadáver!"
+
+#. そっか…その間、他に誰か来たかな？
+msgctxt "0007 | C100_Naegi"
+msgid ""
+"I see... And during that time,\n"
+"did anyone else come?"
+msgstr ""
+"Entiendo... ¿Y no apareció nadie\n"
+"más durante ese rato?"
+
+#. 確か…来たと思います、１人だけ。
+msgctxt "0008 | C011_Chaba"
+msgid ""
+"I think so... It was just one person.\n"
+"A degenerate male, actually."
+msgstr ""
+"Sí, creo que sí... Una persona.\n"
+"Un degenerado, de hecho."
+
+#. でも誰かはわかりませんね。
+#. 興味がなかったので見ていませんでした。
+msgctxt "0009 | C011_Chaba"
+msgid ""
+"I don't know who, cuz I wasn't interested in\n"
+"seeing the exact degenerate that walked in."
+msgstr ""
+"Pero no sé quién, la verdad es que no le hice\n"
+"mucho caso cuando vi que era un tío."
+
+#. そうだったよね、茶柱さん？
+msgctxt "0010 | C015_Akama"
+msgid "Isn't that right, Tenko?"
+msgstr "¿No fue así, Chabashira?"
+
+#. はい、赤松さんの仰る通りです。
+#. ですが…すみません、誰が来たかはよく見ていません！
+msgctxt "0011 | C011_Chaba"
+msgid ""
+"Yes, that's true. But I'm sorry!\n"
+"I don't remember who it was!"
+msgstr ""
+"Sí, claro, ¡pero sintiéndolo mucho,\n"
+"no recuerdo quién fue!"
+
+#. 転子、夢野さんの教えを聞くのに夢中で…
+#. 男死を振り返る暇なんか、ありませんでした！
+msgctxt "0012 | C011_Chaba"
+msgid ""
+"I was too focused on Himiko's lesson to notice\n"
+"the exact degenerate that showed up."
+msgstr ""
+"Estaba completamente centrada en la explicación\n"
+"de Yumeno, no me di ni cuenta de quién entro."
+
+#. あぁ…来たのが男子だったから、
+#. 興味がないって言ってたんだね。
+msgctxt "0013 | C015_Akama"
+msgid ""
+"Yeah, you even said you weren't interested\n"
+"because it was a man who walked in."
+msgstr ""
+"Sí, y nos dijiste que tampoco te importaba\n"
+"cuando viste que era un hombre."
+
+#. じゃあ、夢野さんはどうかな。
+#. 食堂に来たのが誰か、見てなかった？
+msgctxt "0014 | C012_Shiro"
+msgid ""
+"Then what about you, Himiko? Did you \n"
+"see who came into the dining hall?"
+msgstr ""
+"¿Y tú, Yumeno? ¿No viste quién fue el que\n"
+"entró a la cafetería?"
+
+#. んあー…そういえばあの時、
+#. 厨房に入っていったぞ。
+msgctxt "0015 | C009_Yumen"
+msgid ""
+"Nyeh... Now that I think about it,\n"
+"someone was in the kitchen."
+msgstr ""
+"Nhaa... Pues ahora que lo dices, sí que\n"
+"había alguien en la cocina."
+
+#. …もうここにはいない人間がな。
+msgctxt "0016 | C009_Yumen"
+msgid "Someone who's no longer with us..."
+msgstr "Alguien que ya no está entre nosotros..."
+
+#. <CLT=cltMIND>もうここにはいない人…？
+#. それってもしかして…
+msgctxt "0017 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>Someone who's no longer with us...?\n"
+"Is that..."
+msgstr ""
+"<CLT=cltMIND>¿Alguien que ya no está entre nosotros...?\n"
+"No será..."

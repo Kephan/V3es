@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 25/02/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. まずは、学級裁判の簡単な説明から始めましょう！
+#. 学級裁判の結果はオマエラの投票により決定されます。
+msgctxt "0001 | C020_Monok"
+msgid ""
+"First, a simple explanation of the class trial!\n"
+"The outcome will be decided by your votes."
+msgstr ""
+"¡Empecemos con una explicación del juicio escolar!\n"
+"El desenlace del juicio se decidirá con vuestros votos."
+
+#. 正しいクロを指摘出来れば、クロだけがおしおき。
+#. だけど…もし間違った人物をクロとした場合は…
+msgctxt "0002 | C020_Monok"
+msgid ""
+"Vote correctly and only the blackened will\n"
+"be punished. But if you vote incorrectly..."
+msgstr ""
+"Si votáis correctamente, el malhechor será\n"
+"el único castigado. Solo que si falláis..."
+
+#. クロ以外の全員がおしおきされ、
+#. みんなを欺いたクロだけが晴れて卒業となりまーす！
+msgctxt "0003 | C020_Monok"
+msgid ""
+"I'll punish everyone *besides* the blackened,\n"
+"and that person will graduate instead!"
+msgstr ""
+"¡Os castigaré a todos *menos* al malhechor,\n"
+"que conseguirá su preciada graduación!"
+
+#. ねぇ…本当に私達の中に、
+#. 葉隠さんを殺した犯人がいるの？
+msgctxt "0004 | C015_Akama"
+msgid ""
+"Hey...do you guys really think that one \n"
+"of us killed Hiro?"
+msgstr ""
+"Venga, chicos... ¿De verdad creéis que ha\n"
+"podido ser uno de nosotros?"
+
+#. 当然です。
+msgctxt "0005 | C020_Monok"
+msgid "Of course."
+msgstr "Está bien claro."
+
+#. あのね、ゴン太は犯人じゃないよ！
+msgctxt "0006 | C004_Gokuh"
+msgid "Gonta not the culprit!"
+msgstr "¡Yo no he sido!"
+
+#. 転子だって犯人じゃありません！
+#. こんな乱暴な事をするのは男死に決まってます！
+msgctxt "0007 | C011_Chaba"
+msgid ""
+"I'm not the culprit either! Only degenerate\n"
+"males would commit such an act of violence!"
+msgstr ""
+"¡Ni yo tampoco! ¡Los únicos capaces de tal\n"
+"violencia son los degenerados!"
+
+#. いきなり容疑者が半分になったな！
+#. こりゃぶっ楽勝だぜ！
+msgctxt "0008 | C014_Iruma"
+msgid ""
+"We've already ruled out half the suspects!?\n"
+"Shit, this is gonna be fuckin' easy!"
+msgstr ""
+"¡¿Ya nos hemos quitado a la mitad de los\n"
+"sospechosos?! ¡Qué jodidamente fácil!"
+
+#. そんな理由で容疑者は絞れないよ。
+#. 話し合って、色々な可能性を検討してみないと。
+msgctxt "0009 | C000_Saiha"
+msgid ""
+"We can't rule out suspects that way...\n"
+"We need to look at all the possibilities."
+msgstr ""
+"No podemos ir quitando a sospechosos así...\n"
+"Tenemos que repasar todas las posibilidades."
+
+#. そうだネ…まずは何について語ろうカ？
+#. 怪しい場所か、怪しい物か、怪しい人間か…
+msgctxt "0010 | C006_Shing"
+msgid ""
+"Agreed...but what to discuss first?\n"
+"Suspicious places? Things? People?"
+msgstr ""
+"Saihara tiene razón... Pero ¿por dónde empezamos?\n"
+"¿Por los lugares sospechosos? ¿Los objetos? ¿La gente?"
+
+#. 真宮寺さんは見た目からして怪しいですね！
+msgctxt "0011 | C011_Chaba"
+msgid ""
+"Kiyo looks creepy! That's suspicious enough\n"
+"for me!"
+msgstr ""
+"¡Pues con el cague que da la cara de Kiyo, a mí\n"
+"ya me parece de lo más sospechoso!"
+
+#. 怪しいと言えば…
+#. 妙な肩書きを持ってるのがいるじゃねーか。
+msgctxt "0012 | C002_Hoshi"
+msgid ""
+"Speaking of suspicious people...how \n"
+"about that one with the strange title?"
+msgstr ""
+"Y hablando de sospechosos... ¿Qué os parece\n"
+"el chaval con ese título tan raro?"
+
+#. あぁ…<CLT=cltSTRONG>“超高校級の総統”<CLT=cltNORMAL>の事？
+#. 怪しさ満点だよね！
+msgctxt "0013 | C005_Oma__"
+msgid ""
+"Ooh...you're talking about the <CLT=cltSTRONG>Ultimate Supreme\n"
+"Leader<CLT=cltNORMAL>, right? That's super suspicious!"
+msgstr ""
+"Ahh... ¿Te refieres al <CLT=cltSTRONG>Estudiante Gobernador Definitivo<CLT=cltNORMAL>?\n"
+"¡Sí que es tela de sospechoso, sí!"
+
+#. それ…自分で言う事じゃないよね？
+msgctxt "0014 | C012_Shiro"
+msgid ""
+"Umm... Should you be saying that \n"
+"about yourself?"
+msgstr ""
+"Estoo... ¿De veras crees que deberías tirar piedras\n"
+"a tu propio tejado?"
+
+#. まぁまぁ、それぞれの潔白主張は
+#. 議論の中でやってちょうだいな。
+msgctxt "0015 | C020_Monok"
+msgid ""
+"Now, now... You'll all have a chance to\n"
+"assert your innocence."
+msgstr ""
+"Calma, calma... Ahora todos vais a tener la oportunidad\n"
+"de demostrar vuestra inocencia."
+
+#. じゃあ、そろそろ始めよっか！
+msgctxt "0016 | C020_Monok"
+msgid "Okay, let's begin!"
+msgstr "¡Así que empecemos!"
+
+#. えっと、始めるって言っても…
+#. どうすればいいの？
+msgctxt "0017 | C004_Gokuh"
+msgid "Umm... Where should Gonta begin?"
+msgstr "Esto... A ver, ¿por dónde empiezo?"
+
+#. 怪しいモンについて、
+#. １つ１つ話し合ってみりゃいいんだろ？
+msgctxt "0018 | C001_Momot"
+msgid ""
+"We just gotta tackle the suspicious\n"
+"stuff one thing at a time, right?"
+msgstr ""
+"Solo tenemos que ir quitando cosas\n"
+"de la lista de sospechas una a una, ¿no?"
+
+#. んあー…真宮寺の見た目と、
+#. 王馬の才能が怪しいんじゃったか？
+msgctxt "0019 | C009_Yumen"
+msgid ""
+"Nyeh... So Kokichi's talent and \n"
+"Kiyo's face are both suspicious?"
+msgstr ""
+"Nhaa... Hemos quedado en que la cara de Kiyo\n"
+"y el talento de Ouma son sospechosos, ¿no?"
+
+#. ウチの魔法で２人を丸裸にしてもよかったんじゃが…
+#. 今はＭＰが足りんようじゃな。
+msgctxt "0020 | C009_Yumen"
+msgid ""
+"I could strip 'em both butt naked with \n"
+"my magic...but my MP's low right now."
+msgstr ""
+"Les haría cantar con algún hechizo haciendo\n"
+"uso de mis poderes, pero... estoy casi sin PM."
+
+#. 宿屋で１晩眠れば、ＭＰも全回復するんじゃない？
+#. なんて…学級裁判が終わっちゃうけどさ。
+msgctxt "0021 | C012_Shiro"
+msgid ""
+"A night in the dorms would restore your MP,\n"
+"but the trial would be over by then."
+msgstr ""
+"Si pasaras la noche en los dormitorios, recuperarías\n"
+"los PM; el problema es que el juicio habría acabado."
+
+#. そもそも、何が怪しいのか…
+#. そして、何が確かな事なのか…
+msgctxt "0022 | C100_Naegi"
+msgid ""
+"First, we have to determine what is \n"
+"suspicious...and what is the truth..."
+msgstr ""
+"Hay que empezar aclarando qué partes\n"
+"son sospechosas... y cuáles verdad..."
+
+#. それをハッキリさせる為にも、
+#. まずは事件についてまとめてみるのはどうかな？
+msgctxt "0023 | C100_Naegi"
+msgid ""
+"In order to make that clear, how about \n"
+"we start by going over the case?"
+msgstr ""
+"Y para hacerlo, ¿qué tal si empezamos\n"
+"repasando el caso desde cero?"
+
+#. そうだな…みんなで事件について確認していけば、
+#. 不審なところも見つかるかもしれない。
+msgctxt "0024 | C120_Hinat"
+msgid ""
+"I agree... If we sort out the details, we might\n"
+"figure out which parts don't add up."
+msgstr ""
+"De acuerdo... Si podemos aclarar los detalles,\n"
+"puede que veamos qué partes no encajan."
+
+#. そっか…じゃあ、そうしてみよう！
+msgctxt "0025 | C015_Akama"
+msgid "I see... Then let's do it!"
+msgstr "Entendido... ¡Vamos a ello!"
+
+#. <CLT=cltMIND>犯人を決める為の議論…
+#. ついに始まるんだね…
+msgctxt "0026 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>It's starting soon... The debate to decide\n"
+"the culprit..."
+msgstr ""
+"<CLT=cltMIND>Pronto empezará... el debate que decidirá\n"
+"quién es el asesino..."
+
+#. <CLT=cltMIND>何か気付いた事があったら…私も発言しないと。
+msgctxt "0027 | C015_Akama"
+msgid "<CLT=cltMIND>If I notice anything, I need to point it out."
+msgstr "<CLT=cltMIND>Si veo algo que no me cuadra, tengo que señalarlo."
+
+#. <CLT=cltMIND>私だけじゃない…
+#. みんなの命もかかってるんだから！
+msgctxt "0028 | C015_Akama"
+msgid ""
+"<CLT=cltMIND>Not just for my life...\n"
+"but for everyone else's lives, too!"
+msgstr ""
+"<CLT=cltMIND>Ya no solo por mi propia vida...,\n"
+"¡sino por la de todos los demás!"

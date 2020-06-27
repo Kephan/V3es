@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DRV3\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 06/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0002"
+msgid "No"
+msgstr ""
+
+msgctxt "0003"
+msgid "Are you unsure of something?"
+msgstr ""
+
+msgctxt "0004"
+msgid "<CLT=cltSYSTEM>Would you like to leave?"
+msgstr ""
+
+msgctxt "0005"
+msgid "Monitor"
+msgstr ""
+
+msgctxt "0006"
+msgid "Screen"
+msgstr ""
+
+msgctxt "0007"
+msgid "Player"
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"<CLT=cltMIND>There are a lot of movie discs packed away\n"
+"on the shelves."
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"<CLT=cltMIND>There are a lot of movie discs packed away\n"
+"on the shelves."
+msgstr ""
+
+msgctxt "0010"
+msgid "5.1ch Speaker A"
+msgstr ""
+
+msgctxt "0011"
+msgid "5.1ch Speaker B"
+msgstr ""
+
+msgctxt "0012"
+msgid "5.1ch Speaker C"
+msgstr ""
+
+msgctxt "0013"
+msgid "5.1ch Speaker D"
+msgstr ""
+
+msgctxt "0014"
+msgid "Sofa A"
+msgstr ""
+
+msgctxt "0015"
+msgid "Sofa B"
+msgstr ""
+
+msgctxt "0016"
+msgid "Projector"
+msgstr ""
+
+msgctxt "0017"
+msgid "Looks like this door is closed."
+msgstr ""
