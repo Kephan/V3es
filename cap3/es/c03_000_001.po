@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,57 +11,75 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>…ここに謎のオブジェはなかったはずだ。
+#. 他の場所を探そう。
+msgctxt "0000 | c03_000_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't remember there being any\n"
 "mysterious objects here. I'll look elsewhere."
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>…ここに謎のオブジェはなかったはずだ。
+#. 他の場所を探そう。
+msgctxt "0001 | c03_000_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't remember there being any\n"
 "mysterious objects here. I'll look elsewhere."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>…ここに謎のオブジェはなかったはずだ。
+#. 他の場所を探そう。
+msgctxt "0002 | c03_000_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't remember there being any\n"
 "mysterious objects here. I'll look elsewhere."
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltMIND>…ここに謎のオブジェはなかったはずだ。
+#. 他の場所を探そう。
+msgctxt "0003 | c03_000_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't remember there being any\n"
 "mysterious objects here. I'll look elsewhere."
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>…ここに謎のオブジェはなかったはずだ。
+#. 他の場所を探そう。
+msgctxt "0004 | c03_000_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't remember there being any\n"
 "mysterious objects here. I'll look elsewhere."
 msgstr ""
 
-msgctxt "0006"
+#. 研究教室Ｂ
+msgctxt "0005 | c03_000_001 | chara_Blank"
 msgid "Lab B"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>男子トイレだってあるのに、
+#. わざわざ女子トイレに入る必要はないな。
+msgctxt "0006 | c03_000_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There is a boys bathroom...\n"
 "No need for me to go into the girls bathroom."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>…地下に謎のオブジェはなかったはずだ。
+#. 他の場所を探そう。
+msgctxt "0007 | c03_000_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't remember there being any\n"
 "mysterious objects in the basement..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>このモニターって特注品だよな？
+msgctxt "0008 | c03_000_001 | chara_Blank"
 msgid "<CLT=cltMIND>This monitor has to be custom made..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>こんな物をわざわざ作るなんて、
+#. どこからどんな予算が出てるんだ？
+msgctxt "0009 | c03_000_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Why go out of their way to make this?\n"
 "Where is this budget coming from?"

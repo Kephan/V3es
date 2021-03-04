@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,45 +11,56 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. はい
+msgctxt "0000 | c03_004_010 | non"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0002"
+#. いいえ
+msgctxt "0001 | c03_004_010 | non"
 msgid "No"
 msgstr ""
 
-msgctxt "0003"
+#. もしかして悩んでいるの？
+msgctxt "0002 | c03_004_010 | non"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0003 | c03_004_010 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>このモニターってどこにでもあるんだな。
+#. いい加減、見飽きたぞ…
+msgctxt "0004 | c03_004_010 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>These monitors are everywhere...\n"
 "I'm tired of seeing them."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>『食堂　使用上の注意』
+msgctxt "0005 | c03_004_010 | chara_Blank"
 msgid "<CLT=cltSYSTEM>\"Dining Hall Rules\""
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltSYSTEM>『食堂にある食べ物は、
+#. 　自由に食べて頂いて結構です』
+msgctxt "0006 | c03_004_010 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>\"You may eat any food you\n"
 "find in the dining hall.\""
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltSYSTEM>『使った調理器具は責任を持って片付けましょう』
+msgctxt "0007 | c03_004_010 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>\"Please take responsibility for all utensils and\n"
 "dishes used and clean up after yourself.\""
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltSYSTEM>『夜時間の間、食堂は閉鎖されます』
+msgctxt "0008 | c03_004_010 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>\"The dining hall will be locked\n"
 "during nighttime.\""

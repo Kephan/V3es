@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,560 +11,735 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>あれ？　あそこにいるのって…
+msgctxt "0000 | c03_002_251 | chara_Blank"
 msgid "<CLT=cltMIND>Hm? What's that over there...?"
 msgstr ""
 
-msgctxt "0002"
+#. なぁ…いいじゃねーか。
+#. もうガマンできねーんだよ…
+msgctxt "0001 | c03_002_251 | C014_Iruma"
 msgid ""
 "C'mon, what's the big deal?\n"
 "I can't hold back any longer..."
 msgstr ""
 
-msgctxt "0003"
+#. ダ、ダメですよ…
+#. そんな…急に言われても心の準備が…
+msgctxt "0002 | c03_002_251 | C007_Ki-Bo"
 msgid ""
 "N-No... It's too soon...\n"
 "I'm not ready for that..."
 msgstr ""
 
-msgctxt "0004"
+#. 悪くはしねーからよ…
+#. きっと…オメーも気持ち良くなるって…
+msgctxt "0003 | c03_002_251 | C014_Iruma"
 msgid ""
 "I won't make things worse...\n"
 "And you'll probably feel a lot better..."
 msgstr ""
 
-msgctxt "0005"
+#. なぁ…頼むよ。
+#. 体の関係だけでいいんだよ…
+msgctxt "0004 | c03_002_251 | C014_Iruma"
 msgid ""
 "We can take this relationship to the next\n"
 "level... Please."
 msgstr ""
 
-msgctxt "0006"
+#. …入間さん、ダメですって。
+msgctxt "0005 | c03_002_251 | C007_Ki-Bo"
 msgid "...But Miu, we shouldn't."
 msgstr ""
 
-msgctxt "0007"
+#. いいから…こっち来て。
+#. 一緒にイこうよぉ。
+msgctxt "0006 | c03_002_251 | C014_Iruma"
 msgid ""
 "It'll be fine...just come with me.\n"
 "We'll do it together."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>入間さんはキーボくんの腕を引いて、
+#. <CLT=cltSTRONG>“超高校級の発明家の研究教室”<CLT=cltMIND>へと入っていった。
+msgctxt "0007 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Pulling on Keebo's arm, Miu made her\n"
 "way to the <CLT=cltSTRONG>Ultimate Inventor<CLT=cltMIND>'s lab."
 msgstr ""
 
-msgctxt "0009"
+#. な、なんだ今の…？
+#. 僕は…とんでもないところを見てしまったんじゃ…
+msgctxt "0008 | c03_002_251 | C000_Saiha"
 msgid ""
 "What was that...? I feel like I just saw\n"
 "something I wasn't supposed to see."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>ね、念の為…
+#. 中の様子を見ておいた方がいいかもな。
+msgctxt "0009 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I should...check to see what's going on.\n"
 "Just in case..."
 msgstr ""
 
-msgctxt "0011"
+#. キーボくん、ここで何をして…
+msgctxt "0010 | c03_002_251 | C000_Saiha"
 msgid "Ah, Keebo? What are you doing—"
 msgstr ""
 
-msgctxt "0012"
+#. うわっ！？
+msgctxt "0011 | c03_002_251 | C007_Ki-Bo"
 msgid "Wah!"
 msgstr ""
 
-msgctxt "0013"
+#. わっ！？
+#. ご、ごめん、そんなに驚かせたかな？
+msgctxt "0012 | c03_002_251 | C000_Saiha"
 msgid "Ah! S-Sorry! Did I startle you?"
 msgstr ""
 
-msgctxt "0014"
+#. い、いえ、こちらこそ、すみません！
+#. 何でもないんです！
+msgctxt "0013 | c03_002_251 | C007_Ki-Bo"
 msgid ""
 "N-No, I'm the one who's sorry!\n"
 "Really, it's nothing!"
 msgstr ""
 
-msgctxt "0015"
+#. おい、何をジャマしてくれてんだよっ！
+msgctxt "0014 | c03_002_251 | C014_Iruma"
 msgid "Hey, quit gettin' in the way!"
 msgstr ""
 
-msgctxt "0016"
+#. オメーの出る幕じゃねー！
+#. あっち行ってろ、デバガメ男！
+msgctxt "0015 | c03_002_251 | C014_Iruma"
 msgid ""
 "Get out! Go stand over there, ya peepin'\n"
 "Tom!"
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>な、なんだ？　キーボくんに話しかけただけなのに
+#. 何でそこまで言われるんだ？
+msgctxt "0016 | c03_002_251 | chara_Blank"
 msgid "<CLT=cltMIND>What? I was just talking to Keebo..."
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltMIND>…いや、入間さんの場合、いつもの事か。
+msgctxt "0017 | c03_002_251 | chara_Blank"
 msgid "<CLT=cltMIND>Well, I suppose Miu is always like this."
 msgstr ""
 
-msgctxt "0019"
+#. すみません、ボクは今、ちょっと…
+#. オブジェの事はお任せします。
+msgctxt "0018 | c03_002_251 | C007_Ki-Bo"
 msgid ""
 "I'm sorry, I can't right now...\n"
 "I'll just leave these objects with you."
 msgstr ""
 
-msgctxt "0020"
+#. 最原よ…お主に言っておく事がある。
+msgctxt "0019 | c03_002_251 | C009_Yumen"
 msgid "Shuichi...there's something I have to tell you."
 msgstr ""
 
-msgctxt "0021"
+#. <CLT=cltMIND>言っておく事…？　なんだろう？
+msgctxt "0020 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Something she has to tell me?\n"
 "What could it be?"
 msgstr ""
 
-msgctxt "0022"
+#. 先の裁判で、ウチは水槽に仕掛けがあったのは認めた。
+#. だが、それを使った訳ではない。
+msgctxt "0021 | c03_002_251 | C009_Yumen"
 msgid ""
 "In the last trial, I admitted there was a trick\n"
 "to the water tank. But I didn't use it."
 msgstr ""
 
-msgctxt "0023"
+#. ウチはあくまで魔法によって水中脱出しただけじゃ。
+#. あれは魔法なんじゃ。
+msgctxt "0022 | c03_002_251 | C009_Yumen"
 msgid ""
 "I did the Underwater Escape Act with magic.\n"
 "That was magic."
 msgstr ""
 
-msgctxt "0024"
+#. …良いな？
+msgctxt "0023 | c03_002_251 | C009_Yumen"
 msgid "Got it?"
 msgstr ""
 
-msgctxt "0025"
+#. う、うん…
+msgctxt "0024 | c03_002_251 | C000_Saiha"
 msgid "Y-Yeah..."
 msgstr ""
 
-msgctxt "0026"
+#. <CLT=cltMIND>やっぱり、そこは譲れない点なんだ…
+msgctxt "0025 | c03_002_251 | chara_Blank"
 msgid "<CLT=cltMIND>She's still not gonna let that go, huh?"
 msgstr ""
 
-msgctxt "0027"
+#. …ウチは無念に思っておるんじゃ。
+msgctxt "0026 | c03_002_251 | C009_Yumen"
 msgid "But...I'm filled with regret."
 msgstr ""
 
-msgctxt "0028"
+#. え？
+msgctxt "0027 | c03_002_251 | C000_Saiha"
 msgid "Regret?"
 msgstr ""
 
-msgctxt "0029"
+#. ウチのショーは人を笑顔にする為のものじゃ。
+#. それなのに…まったく逆の事に使われてしまった。
+msgctxt "0028 | c03_002_251 | C009_Yumen"
 msgid ""
 "My shows are supposed to make people smile.\n"
 "But...it was used for the exact opposite."
 msgstr ""
 
-msgctxt "0030"
+#. それに…あの時、
+#. 水中脱出で魔力を消費し切っていなければ…
+msgctxt "0029 | c03_002_251 | C009_Yumen"
 msgid ""
 "Plus...if I hadn't used all my magic doing\n"
 "the Underwater Escape..."
 msgstr ""
 
-msgctxt "0031"
+#. ピラニアを瞬殺し、
+#. 星をあんな無残な姿にしてしまう事もなかった…
+msgctxt "0030 | c03_002_251 | C009_Yumen"
 msgid ""
 "I could've instantly killed the piranhas\n"
 "and saved Ryoma's body..."
 msgstr ""
 
-msgctxt "0032"
+#. 夢野さん…
+msgctxt "0031 | c03_002_251 | C000_Saiha"
 msgid "Himiko..."
 msgstr ""
 
-msgctxt "0033"
+#. ウチも、まだ…
+#. 魔法使いとして腕を磨く必要があるようじゃのぅ…
+msgctxt "0032 | c03_002_251 | C009_Yumen"
 msgid ""
 "It seems like...as a mage...\n"
 "I've still got a ways to go..."
 msgstr ""
 
-msgctxt "0034"
+#. ウチも、まだ…
+#. 魔法使いとして腕を磨く必要があるようじゃのぅ…
+msgctxt "0033 | c03_002_251 | C009_Yumen"
 msgid ""
 "It seems like...as a mage...\n"
 "I've still got a ways to go..."
 msgstr ""
 
-msgctxt "0035"
+#. …これもウチの魔法じゃな。
+msgctxt "0034 | c03_002_251 | C009_Yumen"
 msgid "This is my magic, too..."
 msgstr ""
 
-msgctxt "0036"
+#. いや、そうじゃなくて、
+#. あの石像にアイテムを使ったら――
+msgctxt "0035 | c03_002_251 | C000_Saiha"
 msgid "Ah, no, I used an item on the statue—"
 msgstr ""
 
-msgctxt "0037"
+#. ウチの魔法じゃな。
+msgctxt "0036 | c03_002_251 | C009_Yumen"
 msgid "It's my magic."
 msgstr ""
 
-msgctxt "0038"
+#. …あぁ、うん、もうそれでいいよ。
+msgctxt "0037 | c03_002_251 | C000_Saiha"
 msgid "...Yeah, let's go with that."
 msgstr ""
 
-msgctxt "0039"
+#. 転子、昨夜は弱気になってしまいました…
+msgctxt "0038 | c03_002_251 | C011_Chaba"
 msgid "My spirit was weak last night..."
 msgstr ""
 
-msgctxt "0040"
+#. コロシアイなんてもうゴメンだというのは、
+#. 偽りのない本心ですが…
+msgctxt "0039 | c03_002_251 | C011_Chaba"
 msgid ""
 "I meant it when I said that I was sick\n"
 "of the killing game..."
 msgstr ""
 
-msgctxt "0041"
+#. でも、ここから出られなくてもいいなんて、
+#. そんな弱音を吐いてしまった自分が情けないです！
+msgctxt "0040 | c03_002_251 | C011_Chaba"
 msgid ""
 "But I'm ashamed I even suggested that\n"
 "we give up and stay here forever."
 msgstr ""
 
-msgctxt "0042"
+#. コロシアイをせず、みんな揃って脱出する！
+#. 諦める訳にはいきません！
+msgctxt "0041 | c03_002_251 | C011_Chaba"
 msgid ""
 "We're gonna escape this place, without\n"
 "resorting to killing! We can't give up!"
 msgstr ""
 
-msgctxt "0043"
+#. …そうだね。
+#. 諦めるなんて、できないよ。
+msgctxt "0042 | c03_002_251 | C000_Saiha"
 msgid "You're right. We can't give up."
 msgstr ""
 
-msgctxt "0044"
+#. 赤松さん、そして東条さんの遺志を継ぎ、
+#. 転子はこれからも夢野さんと共に戦います！
+msgctxt "0043 | c03_002_251 | C011_Chaba"
 msgid ""
 "With Himiko by my side, I'll fight to carry on\n"
 "Kaede and Kirumi's wishes!"
 msgstr ""
 
-msgctxt "0045"
+#. あ、おまけで…天海さんと星さんの遺志もですね。
+msgctxt "0044 | c03_002_251 | C011_Chaba"
 msgid ""
 "Oh, and I guess...Rantaro and Ryoma's\n"
 "wishes too. Might as well..."
 msgstr ""
 
-msgctxt "0046"
+#. …おまけなんだ。
+msgctxt "0045 | c03_002_251 | C000_Saiha"
 msgid "...Might as well."
 msgstr ""
 
-msgctxt "0047"
+#. おまけでも、男死の遺志を受け取った分だけ
+#. 感謝して欲しいです！
+msgctxt "0046 | c03_002_251 | C011_Chaba"
 msgid ""
 "You should be grateful that I'm being nice\n"
 "and including degenerate wishes at all!"
 msgstr ""
 
-msgctxt "0048"
+#. コロシアイをせず、みんな揃って脱出する！
+#. 諦める訳にはいきませんよ！
+msgctxt "0047 | c03_002_251 | C011_Chaba"
 msgid ""
 "We're gonna escape this place, without\n"
 "resorting to killing! We can't give up!"
 msgstr ""
 
-msgctxt "0049"
+#. 赤松さん、そして東条さんの遺志を継ぎ、
+#. 転子はこれからも夢野さんと共に戦います！
+msgctxt "0048 | c03_002_251 | C011_Chaba"
 msgid ""
 "With Himiko by my side, I'll fight to carry on\n"
 "Kaede and Kirumi's wishes!"
 msgstr ""
 
-msgctxt "0050"
+#. 道場ですよ、道場！
+#. やっぱり学校に道場は欠かせませんよね！
+msgctxt "0049 | c03_002_251 | C011_Chaba"
 msgid ""
 "Yes! A dojo! No school is complete\n"
 "without a dojo!"
 msgstr ""
 
-msgctxt "0051"
+#. さっそく行ってみましょーう！
+msgctxt "0050 | c03_002_251 | C011_Chaba"
 msgid "Now, let's gooooo!"
 msgstr ""
 
-msgctxt "0052"
+#. …あ、男死の最原さんには
+#. できれば遠慮して欲しいですが。
+msgctxt "0051 | c03_002_251 | C011_Chaba"
 msgid ""
 "...Oh, Shuichi, you can decline. I'd actually\n"
 "prefer it, since you're a degenerate and all."
 msgstr ""
 
-msgctxt "0053"
+#. あー、クソッ！
+#. 気になっちまって仕方ねーっ！
+msgctxt "0052 | c03_002_251 | C014_Iruma"
 msgid ""
 "Ahhhh, damn it all!\n"
 "This is gonna bug me!"
 msgstr ""
 
-msgctxt "0054"
+#. え？　気になるって…何が？
+msgctxt "0053 | c03_002_251 | C000_Saiha"
 msgid "Bug you? What is it?"
 msgstr ""
 
-msgctxt "0055"
+#. あぁ？
+#. オメーには関係ねーから黙ってろ！
+msgctxt "0054 | c03_002_251 | C014_Iruma"
 msgid "Huh? Mind your own goddamn business!"
 msgstr ""
 
-msgctxt "0056"
+#. チッ、あんな事してたら
+#. ダメになっちまうだろうが…！
+msgctxt "0055 | c03_002_251 | C014_Iruma"
 msgid ""
 "Tch! If he keeps this up, he's just gonna\n"
 "make it worse...!"
 msgstr ""
 
-msgctxt "0057"
+#. せっかく、この大天才にして超美人のオレ様が
+#. してやるって言ってんだぞ？
+msgctxt "0056 | c03_002_251 | C014_Iruma"
 msgid ""
 "How can he turn down a gorgeous genius\n"
 "like me!"
 msgstr ""
 
-msgctxt "0058"
+#. 素直に受け入れるのが礼儀だろーが…
+msgctxt "0057 | c03_002_251 | C014_Iruma"
 msgid "The polite thing to do would be to accept it..."
 msgstr ""
 
-msgctxt "0059"
+#. <CLT=cltMIND>何かぶつぶつ言ってるけど…
+#. 関わらない方が良さそうだ。
+msgctxt "0058 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>She's muttering about something...\n"
 "It's probably best to not get involved."
 msgstr ""
 
-msgctxt "0060"
+#. あぁ…
+#. もうガマンできないよぉ…
+msgctxt "0059 | c03_002_251 | C014_Iruma"
 msgid "Arrrrgh... I can't hold back any longer..."
 msgstr ""
 
-msgctxt "0061"
+#. 想像しただけで…いひ、いひひひひひ…
+msgctxt "0060 | c03_002_251 | C014_Iruma"
 msgid ""
 "Just thinkin' about it...\n"
 "Heh, heeheeheehee..."
 msgstr ""
 
-msgctxt "0062"
+#. <CLT=cltMIND>何かぶつぶつ言ってるけど…
+#. 関わらない方が良さそうだ。
+msgctxt "0061 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>She's muttering about something...\n"
 "It's probably best to not get involved."
 msgstr ""
 
-msgctxt "0063"
+#. ………………
+msgctxt "0062 | c03_002_251 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0064"
+#. <CLT=cltMIND>東条さんの最期…
+#. あの、必死に逃げようとする姿が…目に焼き付いている。
+msgctxt "0063 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Kirumi's final moments... I can't get the image\n"
 "of her running for her life out of my head."
 msgstr ""
 
-msgctxt "0065"
+#. <CLT=cltMIND>死んで堪るかという悲壮な叫びも…
+#. まだ耳にこだましているようで…
+msgctxt "0064 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I can still hear her...\n"
 "Her scream of defiance."
 msgstr ""
 
-msgctxt "0066"
+#. <CLT=cltMIND>逃げるのは…悪い事じゃない。
+#. 立ち向かうだけじゃ…ダメなのかもしれない。
+msgctxt "0065 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Perhaps running isn't so bad...\n"
 "Perhaps we aren't strong enough to face it."
 msgstr ""
 
-msgctxt "0067"
+#. <CLT=cltSTRONG>“最後”<CLT=cltMIND>に、生きてたどり着く為に…
+msgctxt "0066 | c03_002_251 | chara_Blank"
 msgid "<CLT=cltMIND>In order to live until the <CLT=cltSTRONG>end<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0068"
+#. <CLT=cltMIND>もちろん、<CLT=cltSTRONG>“超高校級の研究教室”<CLT=cltMIND>だろうな。
+#. 建物の雰囲気からすると――
+msgctxt "0067 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It must be an <CLT=cltSTRONG>Ultimate Research Lab<CLT=cltMIND>.\n"
 "And from the look of the building—"
 msgstr ""
 
-msgctxt "0069"
+#. <CLT=cltSTRONG>“超高校級の合気道家”<CLT=cltNORMAL>の研究教室でしょうね！
+#. きっと、転子の研究教室です！
+msgctxt "0068 | c03_002_251 | C011_Chaba"
 msgid ""
 "It's the <CLT=cltSTRONG>Ultimate Aikido Master<CLT=cltNORMAL>'s lab!\n"
 "I'm sure of it!"
 msgstr ""
 
-msgctxt "0070"
+#. では、さっそく中に入ってみましょう！
+#. 夢野さんも、どうぞ遠慮しないでっ！
+msgctxt "0069 | c03_002_251 | C011_Chaba"
 msgid ""
 "Alright, let's go inside!\n"
 "Don't be shy, Himiko! Ladies first!"
 msgstr ""
 
-msgctxt "0071"
+#. んあぁ…めんどいぃ…
+msgctxt "0070 | c03_002_251 | C009_Yumen"
 msgid "Nyeeeh...what a paiiinnn..."
 msgstr ""
 
-msgctxt "0072"
+#. <CLT=cltMIND>渋る夢野さんの背を強引に押しながら、
+#. 茶柱さんは建物の中へと入っていった。
+msgctxt "0071 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Pushing Himiko along, Tenko stepped\n"
 "inside the building."
 msgstr ""
 
-msgctxt "0073"
+#. 僕も一応…中を見ておくか。
+msgctxt "0072 | c03_002_251 | C000_Saiha"
 msgid "I suppose I should check inside too."
 msgstr ""
 
-msgctxt "0074"
+#. <CLT=cltMIND>…ここに謎のオブジェはなかったはずだ。
+#. 他の場所を探そう。
+msgctxt "0073 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't remember there being any\n"
 "mysterious objects here. I'll look elsewhere."
 msgstr ""
 
-msgctxt "0075"
+#. <CLT=cltMIND>音を立てないようにそっと扉を開けて、
+#. 中の様子を覗き込んでみると…
+msgctxt "0074 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Careful not to make a sound,\n"
 "I opened the door and peeked inside..."
 msgstr ""
 
-msgctxt "0076"
+#. <CLT=cltMIND>妙な音が聞こえて来た。
+msgctxt "0075 | c03_002_251 | chara_Blank"
 msgid "<CLT=cltMIND>I heard a strange sound..."
 msgstr ""
 
-msgctxt "0077"
+#. <CLT=cltMIND>その音の方に視線を移したところで、
+#. 僕はとんでもない光景を目の当たりにした。
+msgctxt "0076 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>When I looked for the source of the sound,\n"
 "my eyes were met with an unbelievable sight."
 msgstr ""
 
-msgctxt "0078"
+#. やっぱり…すっごい溜まってるよ？
+#. もうパンパンじゃない…
+msgctxt "0077 | c03_002_251 | C014_Iruma"
 msgid ""
 "Man... You're really plugged up.\n"
 "You're practically throbbing.."
 msgstr ""
 
-msgctxt "0079"
+#. …埃とかゴミが。
+msgctxt "0078 | c03_002_251 | C014_Iruma"
 msgid "...Throbbing with dust and debris, that is."
 msgstr ""
 
-msgctxt "0080"
+#. もう…ダメじゃない。
+#. こんなに溜めちゃって。
+msgctxt "0079 | c03_002_251 | C014_Iruma"
 msgid ""
 "Mm-mm... This is no good. No good at all.\n"
 "You must feel so pent up..."
 msgstr ""
 
-msgctxt "0081"
+#. すみません…ここに来てからずっと手入れを
+#. してなかったので…
+msgctxt "0080 | c03_002_251 | C007_Ki-Bo"
 msgid ""
 "I apologize... I've been neglecting my needs\n"
 "ever since I got here..."
 msgstr ""
 
-msgctxt "0082"
+#. じゃあ…全部出してあげる。
+#. スッキリするから…ね？
+msgctxt "0081 | c03_002_251 | C014_Iruma"
 msgid ""
 "Relax... I'll get it all out. Trust me, you'll\n"
 "feel much better afterward..."
 msgstr ""
 
-msgctxt "0083"
+#. ありがとう…ございます。
+msgctxt "0082 | c03_002_251 | C007_Ki-Bo"
 msgid "Oh, um... Thank you?"
 msgstr ""
 
-msgctxt "0084"
+#. あぁ、すっごい硬い。
+#. 体がカチンコチンだね…
+msgctxt "0083 | c03_002_251 | C014_Iruma"
 msgid ""
 "Oh yeah, your chassis is firm...\n"
 "*Really* firm. Like, damn..."
 msgstr ""
 
-msgctxt "0085"
+#. ホント、すっごい体…！
+#. こんなの…初めてだよぉ…
+msgctxt "0084 | c03_002_251 | C014_Iruma"
 msgid ""
 "Your body is seriously incredible!\n"
 "I've...never seen one like this..."
 msgstr ""
 
-msgctxt "0086"
+#. そ、そんなに激しく…触らないでください。
+#. くすぐったいです。
+msgctxt "0085 | c03_002_251 | C007_Ki-Bo"
 msgid ""
 "C-Careful... B-Be gentle...\n"
 "That tickles..."
 msgstr ""
 
-msgctxt "0087"
+#. だ、だって…こんなに凄いの初めてなんだもん。
+#. こんな凄い技術見せられたら…
+msgctxt "0086 | c03_002_251 | C014_Iruma"
 msgid ""
 "This is amazing... Whoever put you together\n"
 "definitely knew what they were doing..."
 msgstr ""
 
-msgctxt "0088"
+#. あぁ…なんか変な気持ちだよぉ。
+msgctxt "0087 | c03_002_251 | C014_Iruma"
 msgid "Ahhhh... I feel...all tingly..."
 msgstr ""
 
-msgctxt "0089"
+#. あ、あなたの技術も凄いですよ。
+#. ボクもあなたみたいに技術のある人になら任せられ――
+msgctxt "0088 | c03_002_251 | C007_Ki-Bo"
 msgid ""
 "Y-You definitely know what you're doing, too.\n"
 "If you keep this up, I just might—"
 msgstr ""
 
-msgctxt "0090"
+#. アッ…アアアー！
+msgctxt "0089 | c03_002_251 | C007_Ki-Bo"
 msgid "WH-WHOAAAAA!"
 msgstr ""
 
-msgctxt "0091"
+#. うふふっ、ここに触ると声が出ちゃうんだね。
+#. 可愛い…
+msgctxt "0090 | c03_002_251 | C014_Iruma"
 msgid ""
 "Mmmmmm... So that's the sound you make\n"
 "when I touch that spot. Good to know..."
 msgstr ""
 
-msgctxt "0092"
+#. <CLT=cltMIND>僕は無言のまま…そっと扉を閉じた。
+msgctxt "0091 | c03_002_251 | chara_Blank"
 msgid "<CLT=cltMIND>...I closed the door without a word."
 msgstr ""
 
-msgctxt "0093"
+#. <CLT=cltMIND>入間さんがキーボくんの体のメンテナンスをしていた。
+#. ただ…それだけだ。
+msgctxt "0092 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Miu was just doing some maintenance\n"
 "on Keebo's body. That's all it was."
 msgstr ""
 
-msgctxt "0094"
+#. <CLT=cltMIND>…うん、それ以外のなにものでもない。
+msgctxt "0093 | c03_002_251 | chara_Blank"
 msgid "<CLT=cltMIND>...Indeed. Nothing but that."
 msgstr ""
 
-msgctxt "0095"
+#. <CLT=cltMIND>この中で、入間さんがキーボくんの体の
+#. メンテナンスをしている…
+msgctxt "0094 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Miu is doing some maintenance\n"
 "on Keebo's body."
 msgstr ""
 
-msgctxt "0096"
+#. <CLT=cltMIND>それだけだ…
+#. それ以外のなにものでもないんだ…
+msgctxt "0095 | c03_002_251 | chara_Blank"
 msgid "<CLT=cltMIND>...And nothing else."
 msgstr ""
 
-msgctxt "0097"
+#. た、建物がせり上がって来た…
+#. これ…どういうテクノロジーなんだ！？
+msgctxt "0096 | c03_002_251 | C000_Saiha"
 msgid ""
 "A...A building? What kinda technology\n"
 "makes a building suddenly appear?"
 msgstr ""
 
-msgctxt "0098"
+#. うひゃー！　道場じゃないですか！
+#. それなら、どういう登場でも問題なしです！
+msgctxt "0097 | c03_002_251 | C011_Chaba"
 msgid ""
 "Haiyah! It's not just any building, it's a dojo!\n"
 "So it doesn't matter how it appeared!"
 msgstr ""
 
-msgctxt "0099"
+#. 美味しいご飯を作ってくれるなら、
+#. シェフが車出勤でも電車出勤でも問題ないようにっ！
+msgctxt "0098 | c03_002_251 | C011_Chaba"
 msgid ""
 "Like, I wouldn't care if a chef came by car or\n"
 "train, as long as they made me good food!"
 msgstr ""
 
-msgctxt "0100"
+#. <CLT=cltMIND>それと一緒…なのか？
+msgctxt "0099 | c03_002_251 | chara_Blank"
 msgid "<CLT=cltMIND>Is that really the same?"
 msgstr ""
 
-msgctxt "0101"
+#. <CLT=cltMIND>この石像にアイテムを使ったら
+#. 建物がせり上がって来たけど…
+msgctxt "0100 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>When I used the item on the stone statue,\n"
 "a building rose up..."
 msgstr ""
 
-msgctxt "0102"
+#. <CLT=cltMIND>どういうテクノロジーなんだ？
+msgctxt "0101 | c03_002_251 | chara_Blank"
 msgid "<CLT=cltMIND>What kind of technology is this?"
 msgstr ""
 
-msgctxt "0103"
+#. うーん…
+msgctxt "0102 | c03_002_251 | C000_Saiha"
 msgid "Hm..."
 msgstr ""
 
-msgctxt "0104"
+#. <CLT=cltMIND>これも謎のオブジェだけど、
+#. どのアイテムも使えそうにないな…
+msgctxt "0103 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This is a mysterious object, but I don't\n"
 "think I can use any of the items on it..."
 msgstr ""
 
-msgctxt "0105"
+#. <CLT=cltMIND>…別のオブジェに試してみよう。
+msgctxt "0104 | c03_002_251 | chara_Blank"
 msgid "<CLT=cltMIND>...Let me try a different object."
 msgstr ""
 
-msgctxt "0106"
+#. うーん…
+msgctxt "0105 | c03_002_251 | C000_Saiha"
 msgid "Hm..."
 msgstr ""
 
-msgctxt "0107"
+#. <CLT=cltMIND>これも謎のオブジェだけど、
+#. どのアイテムも使えそうにないな…
+msgctxt "0106 | c03_002_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This is a mysterious object, but I don't\n"
 "think I can use any of the items on it..."
 msgstr ""
 
-msgctxt "0108"
+#. <CLT=cltMIND>…別のオブジェに試してみよう。
+msgctxt "0107 | c03_002_251 | chara_Blank"
 msgid "<CLT=cltMIND>...Let me try a different object."
 msgstr ""

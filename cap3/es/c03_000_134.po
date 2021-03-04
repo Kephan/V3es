@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,69 +11,87 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. はい
+msgctxt "0000 | c03_000_134 | non"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0002"
+#. いいえ
+msgctxt "0001 | c03_000_134 | non"
 msgid "No"
 msgstr ""
 
-msgctxt "0003"
+#. もしかして悩んでいるの？
+msgctxt "0002 | c03_000_134 | non"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0003 | c03_000_134 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>このモニターって特注品だよな？
+msgctxt "0004 | c03_000_134 | chara_Blank"
 msgid "<CLT=cltMIND>This monitor has to be custom made..."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>こんな物をわざわざ作るなんて、
+#. どこからどんな予算が出てるんだ？
+msgctxt "0005 | c03_000_134 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Why go out of their way to make this?\n"
 "Where is this budget coming from?"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltSTRONG>“超高校級の囚人”<CLT=cltMIND>の研究教室なのに、
+#. この窓だけが塞がれていない…
+msgctxt "0006 | c03_000_134 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Huh, the <CLT=cltSTRONG>Ultimate Prisoner<CLT=cltMIND>'s lab\n"
 "doesn't have bars on the windows..."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>…モノクマの嫌がらせか？
+msgctxt "0007 | c03_000_134 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>...Is this Monokuma's idea\n"
 "of a joke?"
 msgstr ""
 
-msgctxt "0009"
+#. この手錠…
+msgctxt "0008 | c03_000_134 | C000_Saiha"
 msgid "These handcuffs..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>星くんは、<CLT=cltSTRONG>“超高校級のテニス選手”<CLT=cltMIND>であると同時に
+#. <CLT=cltSTRONG>“超高校級の囚人”<CLT=cltMIND>だったんだな…
+msgctxt "0009 | c03_000_134 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>So Ryoma's lab isn't just for the <CLT=cltSTRONG>Ultimate Tennis Pro<CLT=cltMIND>,\n"
 "but also for the <CLT=cltSTRONG>Ultimate Prisoner<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>星くんは…ここで…
+msgctxt "0010 | c03_000_134 | chara_Blank"
 msgid "<CLT=cltMIND>Here...Ryoma was..."
 msgstr ""
 
-msgctxt "0012"
+#. ………………
+msgctxt "0011 | c03_000_134 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0013"
+#. <CLT=cltSTRONG>“超高校級の囚人”<CLT=cltMIND>の研究教室なのに、
+#. この窓だけが塞がれていない…
+msgctxt "0012 | c03_000_134 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Huh, the <CLT=cltSTRONG>Ultimate Prisoner<CLT=cltMIND>'s lab\n"
 "doesn't have bars on the windows..."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>…モノクマの嫌がらせか？
+msgctxt "0013 | c03_000_134 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>...Is this Monokuma's idea\n"
 "of a joke?"

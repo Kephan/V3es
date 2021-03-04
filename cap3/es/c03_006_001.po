@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,84 +11,110 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. おはようございます。
+msgctxt "0000 | c03_006_001 | C007_Ki-Bo"
 msgid "Good morning."
 msgstr ""
 
-msgctxt "0002"
+#. おはよう、キーボくん。
+msgctxt "0001 | c03_006_001 | C000_Saiha"
 msgid "Good morning, Keebo."
 msgstr ""
 
-msgctxt "0003"
+#. 最原クン…この呼び出し、
+#. 嫌な予感がしませんか？
+msgctxt "0002 | c03_006_001 | C007_Ki-Bo"
 msgid ""
 "Shuichi...doesn't this summons give you\n"
 "an uneasy feeling?"
 msgstr ""
 
-msgctxt "0004"
+#. それは…もちろんだよ。
+msgctxt "0003 | c03_006_001 | C000_Saiha"
 msgid "Well, yes...I suppose it does."
 msgstr ""
 
-msgctxt "0005"
+#. 現在わかっている事から推測するに…
+#. これは<CLT=cltSTRONG>“動機”<CLT=cltNORMAL>の発表じゃないでしょうか？
+msgctxt "0004 | c03_006_001 | C007_Ki-Bo"
 msgid ""
 "Based on prior events...perhaps another <CLT=cltSTRONG>motive<CLT=cltNORMAL>\n"
 "is going to be announced?"
 msgstr ""
 
-msgctxt "0006"
+#. タイミング的にも、
+#. モノクマーズパッドの時と同じです。
+msgctxt "0005 | c03_006_001 | C007_Ki-Bo"
 msgid ""
 "The timing is similar to when we received\n"
 "the Monokub Pads."
 msgstr ""
 
-msgctxt "0007"
+#. うん、その可能性は高いと思う。
+msgctxt "0006 | c03_006_001 | C000_Saiha"
 msgid "Yes, I think that may be the case."
 msgstr ""
 
-msgctxt "0008"
+#. でも、大丈夫ですよ！
+#. どんな動機が用意されていようが…
+msgctxt "0007 | c03_006_001 | C007_Ki-Bo"
 msgid ""
 "But it's alright! No matter what kind of motive\n"
 "is prepared for us..."
 msgstr ""
 
-msgctxt "0009"
+#. 今なら、一丸となって立ち向かえるはずです！
+msgctxt "0008 | c03_006_001 | C007_Ki-Bo"
 msgid "We can oppose it together!"
 msgstr ""
 
-msgctxt "0010"
+#. え…？
+msgctxt "0009 | c03_006_001 | C000_Saiha"
 msgid "Huh?"
 msgstr ""
 
-msgctxt "0011"
+#. 安心してください。
+#. コロシアイなんて、ボクらが起こさせません！
+msgctxt "0010 | c03_006_001 | C007_Ki-Bo"
 msgid ""
 "Don't worry. We won't allow the killing game\n"
 "to continue!"
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>な、なんだ？
+#. キーボくん、妙に楽観的だったような…
+msgctxt "0011 | c03_006_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>That was strange...\n"
 "Keebo is uncharacteristically optimistic."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>それに『ボクらが起こさせない』って…
+#. どういう意味だ？
+msgctxt "0012 | c03_006_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>What did he mean by\n"
 "\"won't allow\" it to continue?"
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>男子トイレだってあるのに、
+#. わざわざ女子トイレに入る必要はないな。
+msgctxt "0013 | c03_006_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There is a boys bathroom...\n"
 "No need for me to go into the girls bathroom."
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0014 | c03_006_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0015 | c03_006_001 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""

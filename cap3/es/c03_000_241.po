@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,403 +11,517 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. はい
+msgctxt "0000 | c03_000_241 | non"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0002"
+#. いいえ
+msgctxt "0001 | c03_000_241 | non"
 msgid "No"
 msgstr ""
 
-msgctxt "0003"
+#. もしかして悩んでいるの？
+msgctxt "0002 | c03_000_241 | non"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0003 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>これはＯＵＴＬＡＷ　ＲＵＮ…
+#. ドライブゲームだ。
+msgctxt "0004 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This is OUTLAW RUN,\n"
 "A driving game."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>今は準備中か…
+msgctxt "0005 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltMIND>I guess it isn't ready to play yet..."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>これはＯＵＴＬＡＷ　ＲＵＮ…
+#. ドライブゲームだ。
+msgctxt "0006 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This is OUTLAW RUN,\n"
 "A driving game."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>ちょっと遊んでいこうかな…？
+msgctxt "0007 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltMIND>Maybe I'll try this one..."
 msgstr ""
 
-msgctxt "0009"
+#. はい
+msgctxt "0008 | c03_000_241 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0010"
+#. いいえ
+msgctxt "0009 | c03_000_241 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0011"
+#. ルールを見る
+msgctxt "0010 | c03_000_241 | chara_Blank"
 msgid "Read the rules"
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltSYSTEM>『　　　　　　ＯＵＴＬＡＷ　ＲＵＮ　　　　　　　
+#. 　　　　　　ドライビングテクニック集　　　　　』
+msgctxt "0011 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>OUTLAW RUN\n"
 "Driver's Manual"
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltSYSTEM>『道中のターゲットを華麗にゲットし、
+#. 　ハイスコアを目指せ！』
+msgctxt "0012 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>Run over the targets with style\n"
 "and try to get the high score!"
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltSYSTEM>『連続ゲットでコンボを繋げば最高にクール！
+#. 　モノダムは高得点、モノキッドは加速するぞ！』
+msgctxt "0013 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>Get a bunch in a row, combos are stylin'!\n"
 "Monodam is a bonus and Monokid is a boost!"
 msgstr ""
 
-msgctxt "0015"
+#. ………………
+msgctxt "0014 | c03_000_241 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0016"
+#. ドライビングテクニックではなかったな…
+msgctxt "0015 | c03_000_241 | C000_Saiha"
 msgid "This has nothing to do with driving at all."
 msgstr ""
 
-msgctxt "0017"
+#. もしかして悩んでいるの？
+msgctxt "0016 | c03_000_241 | C000_Saiha"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltSYSTEM>ゲームをプレイしますか？
+msgctxt "0017 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to play the game?"
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltMIND>お宝発見！モノリス…
+#. お宝を見つけていくゲームか…
+msgctxt "0018 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\n"
 "It's a game where you look for treasure..."
 msgstr ""
 
-msgctxt "0020"
+#. <CLT=cltMIND>今は準備中か…
+msgctxt "0019 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltMIND>I guess it isn't ready to play yet..."
 msgstr ""
 
-msgctxt "0021"
+#. <CLT=cltMIND>お宝発見！モノリス…
+#. お宝を見つけていくゲームか…
+msgctxt "0020 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\n"
 "It's a game where you look for treasure..."
 msgstr ""
 
-msgctxt "0022"
+#. <CLT=cltMIND>ちょっと遊んでいこうかな…？
+msgctxt "0021 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltMIND>Maybe I'll play it for a little while...?"
 msgstr ""
 
-msgctxt "0023"
+#. はい
+msgctxt "0022 | c03_000_241 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0024"
+#. いいえ
+msgctxt "0023 | c03_000_241 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0025"
+#. ルールを見る
+msgctxt "0024 | c03_000_241 | chara_Blank"
 msgid "Read the rules"
 msgstr ""
 
-msgctxt "0026"
+#. <CLT=cltSYSTEM>『　　　　　　　お宝発見！モノリス　　　　　　　
+#. 　　　　　　　トレジャーハンター指南　　　　　』
+msgctxt "0025 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>TREASURE HUNTER! MONOLITH\n"
 "Treasure Hunting Guide"
 msgstr ""
 
-msgctxt "0027"
+#. <CLT=cltSYSTEM>『同色のピースが２つ以上くっついてると消せる！
+#. 　隠れた鮭の化石を完全に掘り出せば得点になるぞ！』
+msgctxt "0026 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>Connect two or more of the same color!\n"
 "Uncover the hidden salmon fossils!"
 msgstr ""
 
-msgctxt "0028"
+#. <CLT=cltSYSTEM>『稀に隠れているモノクマーズハニワは高得点だ！
+#. 　見つけたら確実に掘り出そう！』
+msgctxt "0027 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>Try to find the rare Monokub statues!\n"
 "Dig them up whenever you see one!"
 msgstr ""
 
-msgctxt "0029"
+#. ………………
+msgctxt "0028 | c03_000_241 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0030"
+#. 鮭の化石って、お宝なのか…？
+msgctxt "0029 | c03_000_241 | C000_Saiha"
 msgid "Are salmon fossils treasure...?"
 msgstr ""
 
-msgctxt "0031"
+#. もしかして悩んでいるの？
+msgctxt "0030 | c03_000_241 | C000_Saiha"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0032"
+#. <CLT=cltSYSTEM>ゲームをプレイしますか？
+msgctxt "0031 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to play the game?"
 msgstr ""
 
-msgctxt "0033"
+#. <CLT=cltMIND>ＳＡＫＥ　ＮＯ　ＴＵＫＡＭＩＤＯＲＩ…
+#. 魚を捕るゲームだ。
+msgctxt "0032 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>SALMON FISHING!\n"
 "It's a game where you fish for salmon."
 msgstr ""
 
-msgctxt "0034"
+#. <CLT=cltMIND>ちょっと遊んでいこうかな…？
+msgctxt "0033 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltMIND>Maybe I'll try this one..."
 msgstr ""
 
-msgctxt "0035"
+#. はい
+msgctxt "0034 | c03_000_241 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0036"
+#. いいえ
+msgctxt "0035 | c03_000_241 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0037"
+#. ルールを見る
+msgctxt "0036 | c03_000_241 | chara_Blank"
 msgid "Read the rules"
 msgstr ""
 
-msgctxt "0038"
+#. <CLT=cltSYSTEM>『　　ＳＡＫＥ　ＮＯ　ＴＵＫＡＭＩＤＯＲＩ　　　
+#. 　　　　　　　サーモンナイトへの道　　　　　　　』
+msgctxt "0037 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>SALMON FISHING!\n"
 "Salmon Night"
 msgstr ""
 
-msgctxt "0039"
+#. <CLT=cltSYSTEM>『今宵は鮭が左右に行き交う日
+#. 　モノクマアイで水面を見透かし鮭を掴め』
+msgctxt "0038 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>On this night, the salmon come left and right.\n"
 "Use your Monokuma Eye to find them."
 msgstr ""
 
-msgctxt "0040"
+#. <CLT=cltSYSTEM>『モノクマ求める色と同じ鮭でコンボ繋がる
+#. 　モノダムは高得点　でも機雷には気をつけて』
+msgctxt "0039 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>Fish for the color Monokuma desires.\n"
 "In Monodam a bonus, but beware the mines."
 msgstr ""
 
-msgctxt "0041"
+#. ………………
+msgctxt "0040 | c03_000_241 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0042"
+#. やけに詩的な説明だな…
+msgctxt "0041 | c03_000_241 | C000_Saiha"
 msgid "That was quite the poetic explanation..."
 msgstr ""
 
-msgctxt "0043"
+#. もしかして悩んでいるの？
+msgctxt "0042 | c03_000_241 | C000_Saiha"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0044"
+#. <CLT=cltSYSTEM>ゲームをプレイしますか？
+msgctxt "0043 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to play the game?"
 msgstr ""
 
-msgctxt "0045"
+#. <CLT=cltMIND>モノモノスロット…
+#. スロットゲームみたいだな…
+msgctxt "0044 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>MonoMono Slot...\n"
 "It looks like a slot machine game."
 msgstr ""
 
-msgctxt "0046"
+#. <CLT=cltMIND>ちょっと遊んでいこうかな…？
+msgctxt "0045 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltMIND>Maybe I'll try this one..."
 msgstr ""
 
-msgctxt "0047"
+#. はい
+msgctxt "0046 | c03_000_241 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0048"
+#. いいえ
+msgctxt "0047 | c03_000_241 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0049"
+#. ルールを見る
+msgctxt "0048 | c03_000_241 | chara_Blank"
 msgid "Read the rules"
 msgstr ""
 
-msgctxt "0050"
+#. <CLT=cltSYSTEM>『　　　　　　　モノモノスロット　　　　　　　　
+#. 　　　　　　　　必ず勝てる攻略法　　　　　　　』
+msgctxt "0049 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>MonoMono Slot\n"
 "How to Win at Slots"
 msgstr ""
 
-msgctxt "0051"
+#. <CLT=cltSYSTEM>『コインを投入して賭けるライン数を決めたら、
+#. 　あとはただ、スロットを回すのみ！』
+msgctxt "0050 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>Insert as many coins as you'd like.\n"
 "Then, spin the slots!"
 msgstr ""
 
-msgctxt "0052"
+#. <CLT=cltSYSTEM>『勝つまでやめなければ、勝率１００％！
+#. 　回して回して回しまくって世界を回す大物になれ！』
+msgctxt "0051 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>You have a 100% chance of winning if you\n"
 "never stop! Spin spin spin forever!"
 msgstr ""
 
-msgctxt "0053"
+#. ………………
+msgctxt "0052 | c03_000_241 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0054"
+#. あまり意味なかったな…
+msgctxt "0053 | c03_000_241 | C000_Saiha"
 msgid "Well, that was nonsense."
 msgstr ""
 
-msgctxt "0055"
+#. もしかして悩んでいるの？
+msgctxt "0054 | c03_000_241 | C000_Saiha"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0056"
+#. <CLT=cltSYSTEM>ゲームをプレイしますか？
+msgctxt "0055 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to play the game?"
 msgstr ""
 
-msgctxt "0057"
+#. <CLT=cltMIND>モノモノスロット…
+#. スロットゲームみたいだな…
+msgctxt "0056 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>MonoMono Slot...\n"
 "It looks like a slot machine game."
 msgstr ""
 
-msgctxt "0058"
+#. <CLT=cltMIND>ちょっと遊んでいこうかな…？
+msgctxt "0057 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltMIND>Maybe I'll try this one..."
 msgstr ""
 
-msgctxt "0059"
+#. はい
+msgctxt "0058 | c03_000_241 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0060"
+#. いいえ
+msgctxt "0059 | c03_000_241 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0061"
+#. ルールを見る
+msgctxt "0060 | c03_000_241 | chara_Blank"
 msgid "Read the rules"
 msgstr ""
 
-msgctxt "0062"
+#. <CLT=cltSYSTEM>『　　　　　　　モノモノスロット　　　　　　　　
+#. 　　　　　　　　必ず勝てる攻略法　　　　　　　』
+msgctxt "0061 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>MonoMono Slot\n"
 "How to Win at Slots"
 msgstr ""
 
-msgctxt "0063"
+#. <CLT=cltSYSTEM>『コインを投入して賭けるライン数を決めたら、
+#. 　あとはただ、スロットを回すのみ！』
+msgctxt "0062 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>Insert as many coins as you'd like.\n"
 "Then, spin the slots!"
 msgstr ""
 
-msgctxt "0064"
+#. <CLT=cltSYSTEM>『勝つまでやめなければ、勝率１００％！
+#. 　回して回して回しまくって世界を回す大物になれ！』
+msgctxt "0063 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>You have a 100% chance of winning if you\n"
 "never stop! Spin spin spin forever!"
 msgstr ""
 
-msgctxt "0065"
+#. ………………
+msgctxt "0064 | c03_000_241 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0066"
+#. あまり意味なかったな…
+msgctxt "0065 | c03_000_241 | C000_Saiha"
 msgid "Well, that was nonsense."
 msgstr ""
 
-msgctxt "0067"
+#. もしかして悩んでいるの？
+msgctxt "0066 | c03_000_241 | C000_Saiha"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0068"
+#. <CLT=cltSYSTEM>ゲームをプレイしますか？
+msgctxt "0067 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to play the game?"
 msgstr ""
 
-msgctxt "0069"
+#. <CLT=cltMIND>モノモノスロット…
+#. スロットゲームみたいだな…
+msgctxt "0068 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>MonoMono Slot...\n"
 "It looks like a slot machine game."
 msgstr ""
 
-msgctxt "0070"
+#. <CLT=cltMIND>ちょっと遊んでいこうかな…？
+msgctxt "0069 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltMIND>Maybe I'll try this one..."
 msgstr ""
 
-msgctxt "0071"
+#. はい
+msgctxt "0070 | c03_000_241 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0072"
+#. いいえ
+msgctxt "0071 | c03_000_241 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0073"
+#. ルールを見る
+msgctxt "0072 | c03_000_241 | chara_Blank"
 msgid "Read the rules"
 msgstr ""
 
-msgctxt "0074"
+#. <CLT=cltSYSTEM>『　　　　　　　モノモノスロット　　　　　　　　
+#. 　　　　　　　　必ず勝てる攻略法　　　　　　　』
+msgctxt "0073 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>MonoMono Slot\n"
 "How to Win at Slots"
 msgstr ""
 
-msgctxt "0075"
+#. <CLT=cltSYSTEM>『コインを投入して賭けるライン数を決めたら、
+#. 　あとはただ、スロットを回すのみ！』
+msgctxt "0074 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>Insert as many coins as you'd like.\n"
 "Then, spin the slots!"
 msgstr ""
 
-msgctxt "0076"
+#. <CLT=cltSYSTEM>『勝つまでやめなければ、勝率１００％！
+#. 　回して回して回しまくって世界を回す大物になれ！』
+msgctxt "0075 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>You have a 100% chance of winning if you\n"
 "never stop! Spin spin spin forever!"
 msgstr ""
 
-msgctxt "0077"
+#. ………………
+msgctxt "0076 | c03_000_241 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0078"
+#. あまり意味なかったな…
+msgctxt "0077 | c03_000_241 | C000_Saiha"
 msgid "Well, that was nonsense."
 msgstr ""
 
-msgctxt "0079"
+#. もしかして悩んでいるの？
+msgctxt "0078 | c03_000_241 | C000_Saiha"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0080"
+#. <CLT=cltSYSTEM>ゲームをプレイしますか？
+msgctxt "0079 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to play the game?"
 msgstr ""
 
-msgctxt "0081"
+#. <CLT=cltMIND>今は遊べないみたいだ…
+msgctxt "0080 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltMIND>It looks like I can't play this right now..."
 msgstr ""
 
-msgctxt "0082"
+#. <CLT=cltMIND>今は遊べないみたいだ…
+msgctxt "0081 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltMIND>It looks like I can't play this right now..."
 msgstr ""
 
-msgctxt "0083"
+#. <CLT=cltMIND>今は遊べないみたいだ…
+msgctxt "0082 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltMIND>It looks like I can't play this right now..."
 msgstr ""
 
-msgctxt "0084"
+#. <CLT=cltMIND>今は遊べないみたいだ…
+msgctxt "0083 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltMIND>It looks like I can't play this right now..."
 msgstr ""
 
-msgctxt "0085"
+#. <CLT=cltMIND>今は遊べないみたいだ…
+msgctxt "0084 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltMIND>It looks like I can't play this right now..."
 msgstr ""
 
-msgctxt "0086"
+#. <CLT=cltMIND>今は遊べないみたいだ…
+msgctxt "0085 | c03_000_241 | chara_Blank"
 msgid "<CLT=cltMIND>It looks like I can't play this right now..."
 msgstr ""
 
-msgctxt "0087"
+#. <CLT=cltMIND>このモニターってどこにでもあるんだな。
+#. いい加減、見飽きたぞ…
+msgctxt "0086 | c03_000_241 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>These monitors are everywhere...\n"
 "I'm tired of seeing them."

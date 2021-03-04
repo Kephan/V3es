@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,131 +11,169 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. はい
+msgctxt "0000 | c03_007_026 | non"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0002"
+#. いいえ
+msgctxt "0001 | c03_007_026 | non"
 msgid "No"
 msgstr ""
 
-msgctxt "0003"
+#. もしかして悩んでいるの？
+msgctxt "0002 | c03_007_026 | non"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0003 | c03_007_026 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0004 | c03_007_026 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0005 | c03_007_026 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>映像を映す為のスクリーンだ。
+#. …使われた痕跡はないな。
+msgctxt "0006 | c03_007_026 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a screen for projecting movies onto.\n"
 "...It doesn't look like it's been used at all."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>映像を再生する為のプレーヤーだ。
+msgctxt "0007 | c03_007_026 | chara_Blank"
 msgid "<CLT=cltMIND>It's a video player."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>いくつかあるけど、どれも中身は入ってないな。
+msgctxt "0008 | c03_007_026 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There are several of them, but none\n"
 "of them have anything in them."
 msgstr ""
 
-msgctxt "0010"
+#. ………………
+msgctxt "0009 | c03_007_026 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0011"
+#. <CLT=cltMIND>赤松さんが見たいって言ってた映画…
+#. <CLT=cltSTRONG>“まな板の上のピアニスト”<CLT=cltMIND>だったよな…
+msgctxt "0010 | c03_007_026 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The movie that Kaede said she wanted to watch...\n"
 "<CLT=cltSTRONG>The Legend of 1900<CLT=cltMIND>."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>いつか見てみよう…
+#. 今は…まだ、辛いから…
+msgctxt "0011 | c03_007_026 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I'll watch it one day...\n"
 "It's just...too hard right now..."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>映像ディスクが、
+#. 大きな棚にぎっしり収納されている。
+msgctxt "0012 | c03_007_026 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The movie discs are stored\n"
 "neatly in a large shelf."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>ドキュメンタリーや資料映像が多いけど、
+#. 映画やバラエティも混じっている…
+msgctxt "0013 | c03_007_026 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There are mostly documentaries, but there\n"
 "are some movies and shows mixed in..."
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>…もう少し整理した方が良いんじゃないか？
+msgctxt "0014 | c03_007_026 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>...Maybe it'd be nice to organize\n"
 "them a little more?"
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>立派なスピーカーだ。
+#. 迫力のある音が楽しめそうだな…
+msgctxt "0015 | c03_007_026 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This is a nice speaker...\n"
 "I bet this would sound great."
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>立派なスピーカーだ。
+#. 迫力のある音が楽しめそうだな…
+msgctxt "0016 | c03_007_026 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This is a nice speaker...\n"
 "I bet this would sound great."
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltMIND>立派なスピーカーだ。
+#. 迫力のある音が楽しめそうだな…
+msgctxt "0017 | c03_007_026 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This is a nice speaker...\n"
 "I bet this would sound great."
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltMIND>立派なスピーカーだ。
+#. 迫力のある音が楽しめそうだな…
+msgctxt "0018 | c03_007_026 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This is a nice speaker...\n"
 "I bet this would sound great."
 msgstr ""
 
-msgctxt "0020"
+#. ソファーＡ
+msgctxt "0019 | c03_007_026 | chara_Blank"
 msgid "Sofa A"
 msgstr ""
 
-msgctxt "0021"
+#. ソファーＢ
+msgctxt "0020 | c03_007_026 | chara_Blank"
 msgid "Sofa B"
 msgstr ""
 
-msgctxt "0022"
+#. プロジェクター
+msgctxt "0021 | c03_007_026 | chara_Blank"
 msgid "Projector"
 msgstr ""
 
-msgctxt "0023"
+#. <CLT=cltMIND>円筒状のバケツのような入れ物に、
+#. 丸めて輪ゴム止めされたポスターが数本入っている。
+msgctxt "0022 | c03_007_026 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There are several rolled up posters in rubber\n"
 "bands in a cylindrical container."
 msgstr ""
 
-msgctxt "0024"
+#. <CLT=cltMIND>これ、確か…ゲームのポスターだったな。
+msgctxt "0023 | c03_007_026 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>These are...video game posters,\n"
 "if I remember correctly."
 msgstr ""
 
-msgctxt "0025"
+#. <CLT=cltMIND>相変わらず、少ししか開かない。
+#. ゲームルーム側のドアから出るしかないな。
+msgctxt "0024 | c03_007_026 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Just as I thought, it only opens a little bit.\n"
 "I'll have to leave from the Game Room."

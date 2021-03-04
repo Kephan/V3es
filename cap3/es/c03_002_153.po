@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,636 +11,823 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>あっちこっちに画材や彫刻用具が並んでいる…
+#. さすがは<CLT=cltSTRONG>“超高校級の美術部”<CLT=cltMIND>の研究教室だな。
+msgctxt "0000 | c03_002_153 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There are various art and carving tools...\n"
 "Makes sense for the <CLT=cltSTRONG>Ultimate Artist<CLT=cltMIND>'s lab."
 msgstr ""
 
-msgctxt "0002"
+#. それにしても…どうしてこの教室には
+#. 鍵が付いているんだろう…
+msgctxt "0001 | c03_002_153 | C000_Saiha"
 msgid "But why does this lab have locks...?"
 msgstr ""
 
-msgctxt "0003"
+#. 主は言いました…
+#. きっと、この教室がアンジーの為の教室だからだと。
+msgctxt "0002 | c03_002_153 | C013_Yonag"
 msgid ""
 "Atua has spoken... He says this classroom\n"
 "was probably made for me."
 msgstr ""
 
-msgctxt "0004"
+#. …どういう意味？
+msgctxt "0003 | c03_002_153 | C000_Saiha"
 msgid "What does that mean?"
 msgstr ""
 
-msgctxt "0005"
+#. お答えするわよ！　アタイの艶っぽい美声でね！
+msgctxt "0004 | c03_002_153 | C023_Mfunn"
 msgid ""
 "I will answer that!\n"
 "With my sexy, beautiful voice!"
 msgstr ""
 
-msgctxt "0006"
+#. あっ、ちょっと待ってよ！
+#. その質問に答えるのはオイラって約束でしょ！
+msgctxt "0005 | c03_002_153 | C021_Mtaro"
 msgid ""
 "Wait a second! We said I was gonna answer\n"
 "that question!"
 msgstr ""
 
-msgctxt "0007"
+#. そんな約束してないわよ？
+#. モノタロウったら痴呆が酷くなってるんじゃない？
+msgctxt "0006 | c03_002_153 | C023_Mfunn"
 msgid ""
 "No, we didn't. Is your memory getting even\n"
 "worse, Monotaro?"
 msgstr ""
 
-msgctxt "0008"
+#. 約束したよ！
+#. だって、約束してないのを覚えてないもん！
+msgctxt "0007 | c03_002_153 | C021_Mtaro"
 msgid ""
 "You promised! Cuz I don't remember you\n"
 "not promising!"
 msgstr ""
 
-msgctxt "0009"
+#. 言ってる事がメチャクチャよ！
+msgctxt "0008 | c03_002_153 | C023_Mfunn"
 msgid "That doesn't make any sense!"
 msgstr ""
 
-msgctxt "0010"
+#. いいから、オイラにやらせてよ！
+#. やらせてくれないと…
+msgctxt "0009 | c03_002_153 | C021_Mtaro"
 msgid ""
 "So what!? Just lemme do it!\n"
 "If you don't..."
 msgstr ""
 
-msgctxt "0011"
+#. ケツの穴に突っ込んだ後の手で、
+#. 奥歯ガタガタ言わせるよっ！
+msgctxt "0010 | c03_002_153 | C021_Mtaro"
 msgid ""
 "I'll stick my hand up my butt, then shove it \n"
 "in your mouth and rattle your molars around!"
 msgstr ""
 
-msgctxt "0012"
+#. きゃー！　不衛生過ぎるー！
+msgctxt "0011 | c03_002_153 | C023_Mfunn"
 msgid "Kyaaaa! That's unsanitary!"
 msgstr ""
 
-msgctxt "0013"
+#. ………………
+msgctxt "0012 | c03_002_153 | C024_Mdam_"
 msgid "..."
 msgstr "..."
 
-msgctxt "0014"
+#. あっ！　ち、違うよ…モノダム！
+#. 今のは…ケンカとかじゃなくって…
+msgctxt "0013 | c03_002_153 | C021_Mtaro"
 msgid ""
 "Oh! W-Wait, Monodam!\n"
 "We...weren't fighting!"
 msgstr ""
 
-msgctxt "0015"
+#. ちょっと、ふざけてただけなんだよー。
+#. 仲が良いからこそ…ね。
+msgctxt "0014 | c03_002_153 | C021_Mtaro"
 msgid ""
 "We were just messing around.\n"
 "Y'know, cuz we're friends..."
 msgstr ""
 
-msgctxt "0016"
+#. 仲ガ良イナラ…イインダヨ。
+msgctxt "0015 | c03_002_153 | C024_Mdam_"
 msgid ""
 "IT'S-FINE...AS-LONG-AS-YOU'RE-GETTING-\n"
 "ALONG."
 msgstr ""
 
-msgctxt "0017"
+#. で、鍵の説明は？
+msgctxt "0016 | c03_002_153 | C005_Oma__"
 msgid "So, what's up with the key?"
 msgstr ""
 
-msgctxt "0018"
+#. あ、そうそう…夜長アンジーさんは１人で集中しないと、
+#. 創作活動ができない子なの。
+msgctxt "0017 | c03_002_153 | C023_Mfunn"
 msgid ""
 "Oh, yes... Angie's the kinda girl who can't focus\n"
 "on her art unless she's alone."
 msgstr ""
 
-msgctxt "0019"
+#. 偉大なる神さまと一体化するには、
+#. 人や雑音をシャットアウトしないといけないからー。
+msgctxt "0018 | c03_002_153 | C013_Yonag"
 msgid ""
 "I must shut out all people and noises so that\n"
 "I can be one with the great Atua."
 msgstr ""
 
-msgctxt "0020"
+#. にゃははー、神さまは恥ずかしがり屋さんだから、
+#. 人前だとアンジーと１つになってくれないんだー。
+msgctxt "0019 | c03_002_153 | C013_Yonag"
 msgid ""
 "Nyahahaha! Atua is much too shy to be one\n"
 "with me in front of people!"
 msgstr ""
 
-msgctxt "0021"
+#. へー、まるでＡＶ男優だね！
+msgctxt "0020 | c03_002_153 | C021_Mtaro"
 msgid "Wow! Like a pornstar!"
 msgstr ""
 
-msgctxt "0022"
+#. どこが！？　真逆よ！？
+msgctxt "0021 | c03_002_153 | C023_Mfunn"
 msgid "How!? It's the opposite!"
 msgstr ""
 
-msgctxt "0023"
+#. でね、アンジーが創作する部屋には、
+#. 絶対に鍵が必要なんだけど…
+msgctxt "0022 | c03_002_153 | C013_Yonag"
 msgid ""
 "So any room where I'm gonna make art needs\n"
 "to have a key, but..."
 msgstr ""
 
-msgctxt "0024"
+#. モノクマーズはよく知ってたねー？
+msgctxt "0023 | c03_002_153 | C013_Yonag"
 msgid "I'm surprised the Monokubs knew that."
 msgstr ""
 
-msgctxt "0025"
+#. …え！？
+msgctxt "0024 | c03_002_153 | C021_Mtaro"
 msgid "...Huh!?"
 msgstr ""
 
-msgctxt "0026"
+#. それに、ここにある画材とか彫刻用具って、
+#. ぜーんぶアンジーのお気に入りのヤツだけど…
+msgctxt "0025 | c03_002_153 | C013_Yonag"
 msgid ""
 "And these are all my favorite art supplies\n"
 "and sculpting tools, too..."
 msgstr ""
 
-msgctxt "0027"
+#. それも、よく知ってたねー？
+msgctxt "0026 | c03_002_153 | C013_Yonag"
 msgid "How did you know?"
 msgstr ""
 
-msgctxt "0028"
+#. え、ええと…なんて返せばいいんだろう。
+#. オイラ…アドリブには弱いんだ。
+msgctxt "0027 | c03_002_153 | C021_Mtaro"
 msgid ""
 "U-Ummm... What should I say?\n"
 "I'm...not a good improviser."
 msgstr ""
 
-msgctxt "0029"
+#. お、落ち着いて…アタイの方が弱いわ。
+msgctxt "0028 | c03_002_153 | C023_Mfunn"
 msgid "C-Calm down...I'm even worse."
 msgstr ""
 
-msgctxt "0030"
+#. オラ達ハ…キサマラノ事ヲ
+#. ナンデモ知ッテルンダ。
+msgctxt "0029 | c03_002_153 | C024_Mdam_"
 msgid ""
 "WE-KNOW...EVERYTHING-ABOUT-YOU-\n"
 "BASTARDS."
 msgstr ""
 
-msgctxt "0031"
+#. キサマラト仲良クシタイカラネ。
+msgctxt "0030 | c03_002_153 | C024_Mdam_"
 msgid "BECAUSE-WE-WANT-TO-BE-YOUR-FRIENDS."
 msgstr ""
 
-msgctxt "0032"
+#. 仲良くなんてゴメンだよ。
+msgctxt "0031 | c03_002_153 | C005_Oma__"
 msgid "I don't wanna be friends with you."
 msgstr ""
 
-msgctxt "0033"
+#. モノクマはともかく…
+#. お前らみたいな派生品と仲良くしたくないよ。
+msgctxt "0032 | c03_002_153 | C005_Oma__"
 msgid ""
 "I'm only interested in Monokuma. I don't wanna\n"
 "get friendly with knock-off products."
 msgstr ""
 
-msgctxt "0034"
+#. ………………
+msgctxt "0033 | c03_002_153 | C024_Mdam_"
 msgid "..."
 msgstr "..."
 
-msgctxt "0035"
+#. ナンデ…ソンナ事ヲ言ウノ？
+#. ナンデ…オラヲ嫌ウノ？
+msgctxt "0034 | c03_002_153 | C024_Mdam_"
 msgid ""
 "WHY...WOULD-YOU-SAY-THAT?\n"
 "WHY...DO-YOU-HATE-ME?"
 msgstr ""
 
-msgctxt "0036"
+#. オラト仲良クシナイヤツハ
+#. 許セナイヨ…！
+msgctxt "0035 | c03_002_153 | C024_Mdam_"
 msgid ""
 "I-WON'T-FORGIVE-ANYONE-WHO-REFUSES-\n"
 "TO-GET-ALONG-WITH-ME!"
 msgstr ""
 
-msgctxt "0037"
+#. ま、まぁまぁ、モノダム。
+#. それより…まだこの教室の鍵を渡してなかったわよね？
+msgctxt "0036 | c03_002_153 | C023_Mfunn"
 msgid ""
 "N-Now now, Monodam... We haven't given\n"
 "them the key to this room, have we?"
 msgstr ""
 
-msgctxt "0038"
+#. はーい、こちらよー。
+#. 鍵は１つしかないから、なくさないようにねー。
+msgctxt "0037 | c03_002_153 | C023_Mfunn"
 msgid ""
 "Okayyyy, here it is. But there's only one key,\n"
 "so don't lose it."
 msgstr ""
 
-msgctxt "0039"
+#. なくしちゃったら大変だよ。
+#. 外からカギを開け閉めできなくなっちゃうから。
+msgctxt "0038 | c03_002_153 | C021_Mtaro"
 msgid ""
 "It'd be bad if you lost it. You wouldn't be able\n"
 "to lock the door or open it from the outside."
 msgstr ""
 
-msgctxt "0040"
+#. ………………
+msgctxt "0039 | c03_002_153 | C024_Mdam_"
 msgid "..."
 msgstr "..."
 
-msgctxt "0041"
+#. ソノ鍵…チョット貸シテ
+msgctxt "0040 | c03_002_153 | C024_Mdam_"
 msgid "LET-ME-SEE-THAT-KEY."
 msgstr ""
 
-msgctxt "0042"
+#. <CLT=cltMIND>と、モノダムはモノファニーから鍵を奪い取ると、
+#. それを口元に――
+msgctxt "0041 | c03_002_153 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Monodam swiped the key from Monophanie,\n"
 "then lifted it to his mouth..."
 msgstr ""
 
-msgctxt "0043"
+#. …パックリ。
+msgctxt "0042 | c03_002_153 | C024_Mdam_"
 msgid "...NOM."
 msgstr ""
 
-msgctxt "0044"
+#. あっ！　食べちゃった！
+msgctxt "0043 | c03_002_153 | C023_Mfunn"
 msgid "Ah! He ate it!"
 msgstr ""
 
-msgctxt "0045"
+#. …ゴックリ。
+msgctxt "0044 | c03_002_153 | C024_Mdam_"
 msgid "...GULP."
 msgstr ""
 
-msgctxt "0046"
+#. あっ！　飲んじゃった！
+msgctxt "0045 | c03_002_153 | C021_Mtaro"
 msgid "Ah! He swallowed it!"
 msgstr ""
 
-msgctxt "0047"
+#. ……ポックリ。
+msgctxt "0046 | c03_002_153 | C024_Mdam_"
 msgid "BEEP...BEEP...BEEEEEEEEEEP..."
 msgstr ""
 
-msgctxt "0048"
+#. あっ！　逝っちゃった！
+msgctxt "0047 | c03_002_153 | C023_Mfunn"
 msgid "Ah! He's flatlining!"
 msgstr ""
 
-msgctxt "0049"
+#. そんな物を飲んだら喉に詰まらせるに決まってるよー。
+#. 何やってんのー？
+msgctxt "0048 | c03_002_153 | C021_Mtaro"
 msgid ""
 "What are you doing? If you swallow that key,\n"
 "you'll definitely choke on it."
 msgstr ""
 
-msgctxt "0050"
+#. 鍵ガアルト…殺人ニ使ワレソウダカラ…
+msgctxt "0049 | c03_002_153 | C024_Mdam_"
 msgid ""
 "SOMEONE-MIGHT-USE-THIS-KEY...FOR-\n"
 "MURDER."
 msgstr ""
 
-msgctxt "0051"
+#. 鍵ッテ…ミステリーノ匂イガスルカラ…
+msgctxt "0050 | c03_002_153 | C024_Mdam_"
 msgid "BECAUSE-KEYS...ARE-MYSTERIOUS."
 msgstr ""
 
-msgctxt "0052"
+#. 何カ起キタ後ジャ遅イカラ…
+msgctxt "0051 | c03_002_153 | C024_Mdam_"
 msgid ""
 "IF-SOMETHING-BAD-HAPPENS, IT-WOULD-\n"
 "BE-TOO-LATE..."
 msgstr ""
 
-msgctxt "0053"
+#. ミンナニハ…仲良クシテ欲シイカラ。
+msgctxt "0052 | c03_002_153 | C024_Mdam_"
 msgid "I-WANT...EVERYONE-TO-GET-ALONG."
 msgstr ""
 
-msgctxt "0054"
+#. モノダム…へっ、無茶しやがって。
+msgctxt "0053 | c03_002_153 | C021_Mtaro"
 msgid "Oh, Monodam...you're so reckless."
 msgstr ""
 
-msgctxt "0055"
+#. とりあえず、モノダムを運んであげましょう。
+msgctxt "0054 | c03_002_153 | C023_Mfunn"
 msgid "Let's carry Monodam away for now."
 msgstr ""
 
-msgctxt "0056"
+#. 泥酔した新人ＯＬを介抱する上司のように、
+#. 優しくいやらしい手付きで運んであげましょう。
+msgctxt "0055 | c03_002_153 | C023_Mfunn"
 msgid ""
 "We'll carry him like a kind boss taking care\n"
 "of a drunk employee."
 msgstr ""
 
-msgctxt "0057"
+#. 結局、鍵は渡してもらえないって事？
+#. なんだよそれ…
+msgctxt "0056 | c03_002_153 | C005_Oma__"
 msgid ""
 "So does that mean we can't get the key?\n"
 "What the hell...?"
 msgstr ""
 
-msgctxt "0058"
+#. でも、ここに鍵を掛けるのは、
+#. アンジーが中で作業してる時だけだから…
+msgctxt "0057 | c03_002_153 | C013_Yonag"
 msgid ""
 "But I'm only gonna lock this door when I'm\n"
 "inside working, so..."
 msgstr ""
 
-msgctxt "0059"
+#. 別に、外から開け閉めできなくても平気だよー。
+msgctxt "0058 | c03_002_153 | C013_Yonag"
 msgid ""
 "I don't care if I can't open or close the door\n"
 "from the outside."
 msgstr ""
 
-msgctxt "0060"
+#. あぁ、なら良かったけど…
+msgctxt "0059 | c03_002_153 | C005_Oma__"
 msgid "Oh, I guess that's fine then..."
 msgstr ""
 
-msgctxt "0061"
+#. ところでさ…あいつらって、
+#. オレらのすべてを知ってるって言ってたよね？
+msgctxt "0060 | c03_002_153 | C005_Oma__"
 msgid ""
 "By the way, those guys said they know\n"
 "everything about us, right?"
 msgstr ""
 
-msgctxt "0062"
+#. だから、この研究教室も
+#. アンジーちゃんの好みを完全に再現して作られている…
+msgctxt "0061 | c03_002_153 | C005_Oma__"
 msgid ""
 "That's probably why this lab fits Angie's\n"
 "tastes so well..."
 msgstr ""
 
-msgctxt "0063"
+#. という事は、この学校がオレらの為だけに
+#. 作られたって話は本当なのかな？
+msgctxt "0062 | c03_002_153 | C005_Oma__"
 msgid ""
 "So does that mean...this school was specially\n"
 "made for us?"
 msgstr ""
 
-msgctxt "0064"
+#. モノクマも前にそう言ってたけど、
+#. そんな事があり得るの…？
+msgctxt "0063 | c03_002_153 | C000_Saiha"
 msgid ""
 "Monokuma has claimed that before...\n"
 "but is that really possible?"
 msgstr ""
 
-msgctxt "0065"
+#. この巨大な学校が、
+#. 僕ら１６人の為だけに作られたなんてさ。
+msgctxt "0064 | c03_002_153 | C000_Saiha"
 msgid ""
 "This giant complex was built just \n"
 "for the sixteen of us?"
 msgstr ""
 
-msgctxt "0066"
+#. 神さまのみぞ知る謎だねー。
+#. でも、そんなのどっちでもいいよー。
+msgctxt "0065 | c03_002_153 | C013_Yonag"
 msgid ""
 "It's a miraculous mystery that only Atua knows.\n"
 "But it doesn't matter."
 msgstr ""
 
-msgctxt "0067"
+#. 快適ならそれでいいよー。
+msgctxt "0066 | c03_002_153 | C013_Yonag"
 msgid "As long as it's comfortable, I'm fine."
 msgstr ""
 
-msgctxt "0068"
+#. うん、この調子でここでの生活が豊かになれば、
+#. ますます外に出る必要がなくなるね。
+msgctxt "0067 | c03_002_153 | C013_Yonag"
 msgid ""
 "If our lives here become more enriched, then\n"
 "there's even less reason to leave this place."
 msgstr ""
 
-msgctxt "0069"
+#. あははっ、ホントだねー。
+msgctxt "0068 | c03_002_153 | C005_Oma__"
 msgid "Ah-haha, that's truuue."
 msgstr ""
 
-msgctxt "0070"
+#. <CLT=cltMIND>それで…いいのか？
+msgctxt "0069 | c03_002_153 | chara_Blank"
 msgid "<CLT=cltMIND>Are we supposed to be okay with that...?"
 msgstr ""
 
-msgctxt "0071"
+#. へー、ここの天井って変わった作りだね。
+#. ほら見てよ、最原ちゃん。
+msgctxt "0070 | c03_002_153 | C005_Oma__"
 msgid ""
 "Ooh...look, Shuichi.\n"
 "The ceiling here is pretty unique."
 msgstr ""
 
-msgctxt "0072"
+#. 本当だ…
+#. 天井の梁がむき出しになってる。
+msgctxt "0071 | c03_002_153 | C000_Saiha"
 msgid "Ah, yeah...exposed beams."
 msgstr ""
 
-msgctxt "0073"
+#. 元々、こういう設計なのか、
+#. それとも準備が間に合わなくてこうなったのか…
+msgctxt "0072 | c03_002_153 | C005_Oma__"
 msgid "I wonder..."
 msgstr ""
 
-msgctxt "0074"
+#. どっちなんだろうね？
+msgctxt "0073 | c03_002_153 | C005_Oma__"
 msgid ""
 "Is it supposed to be like this? Or did they\n"
 "just not finish it in time?"
 msgstr ""
 
-msgctxt "0075"
+#. モノクマーズパッドを入れ替えちゃってた件といい、
+#. あの派生品って、かなり使えないみたいだし。
+msgctxt "0074 | c03_002_153 | C005_Oma__"
 msgid ""
 "Those cheap knock-offs are useless.\n"
 "Like that time they mixed up the Kubs Pads."
 msgstr ""
 
-msgctxt "0076"
+#. どっちでもいいよー。
+#. アンジーは、こういうむき出しは嫌いじゃないもん。
+msgctxt "0075 | c03_002_153 | C013_Yonag"
 msgid ""
 "I don't care. This kinda bare ceiling doesn't\n"
 "bother me."
 msgstr ""
 
-msgctxt "0077"
+#. むいちゃった方が感度がいいって、
+#. 神さまも言ってるしねー。
+msgctxt "0076 | c03_002_153 | C013_Yonag"
 msgid ""
 "Even Atua says it's more sensitive when\n"
 "the skin's peeled back."
 msgstr ""
 
-msgctxt "0078"
+#. まぁ、オレもどっちでもいいけどね。
+#. ここでの生活が豊かになってくれるのなら万々歳だよ。
+msgctxt "0077 | c03_002_153 | C005_Oma__"
 msgid ""
 "Yeah, I don't care either. If it makes life here\n"
 "more interesting, then I'm fine with that."
 msgstr ""
 
-msgctxt "0079"
+#. <CLT=cltMIND>本当にそれで…いいのか？
+msgctxt "0078 | c03_002_153 | chara_Blank"
 msgid "<CLT=cltMIND>Should we be fine with that?"
 msgstr ""
 
-msgctxt "0080"
+#. ほぅほぅ…イーゼルも筆もあるし、
+#. あらゆる画材が揃っておるな。
+msgctxt "0079 | c03_002_153 | C013_Yonag"
 msgid ""
 "I see, I see... There's an easel, brushes, and\n"
 "all kinds of art supplies here."
 msgstr ""
 
-msgctxt "0081"
+#. 彫刻刀も、ノミや木槌もあるー！
+#. なかなか神った品揃えだよー！
+msgctxt "0080 | c03_002_153 | C013_Yonag"
 msgid ""
 "Sculpting tools, chisels, and a wooden hammer!\n"
 "What a divine collection of tools!"
 msgstr ""
 
-msgctxt "0082"
+#. どれもアンジーのお気に入りだし、
+#. これなら、ディプシーがなくてもオッケーだよ。
+msgctxt "0081 | c03_002_153 | C013_Yonag"
 msgid ""
 "These are all my favorites, so I can make do\n"
 "even if I don't have access to DeepSea."
 msgstr ""
 
-msgctxt "0083"
+#. そう言えば…
+#. ここには完成した絵画や彫刻がないね。
+msgctxt "0082 | c03_002_153 | C000_Saiha"
 msgid ""
 "Now that you mention it...\n"
 "I don't see any completed pieces in here."
 msgstr ""
 
-msgctxt "0084"
+#. 美術室って言ったら、デッサン用の石膏像や
+#. 有名な絵画の複製が飾ってあるイメージだけど…
+msgctxt "0083 | c03_002_153 | C000_Saiha"
 msgid ""
 "I would expect an art room to have sculptures\n"
 "and replica paintings and things like that..."
 msgstr ""
 
-msgctxt "0085"
+#. アンジーにはそんなの必要ないよ？
+#. 参考なんてなくても神さまがやってくれるから。
+msgctxt "0084 | c03_002_153 | C013_Yonag"
 msgid ""
 "I don't need references when Atua is the\n"
 "one who creates the art."
 msgstr ""
 
-msgctxt "0086"
+#. これから、ここをアンジーと神さまの共同作業で
+#. いっぱいにしちゃうのだよー！
+msgctxt "0085 | c03_002_153 | C013_Yonag"
 msgid ""
 "From now on, this place will be filled with\n"
 "my collaborations with Atua!"
 msgstr ""
 
-msgctxt "0087"
+#. この調子でここでの生活が豊かになれば、
+#. ますます外に出る必要がなくなるね。
+msgctxt "0086 | c03_002_153 | C013_Yonag"
 msgid ""
 "If our lives here become more enriched, then\n"
 "there's even less reason to leave this place."
 msgstr ""
 
-msgctxt "0088"
+#. <CLT=cltMIND>もう少し、ここを調べてみよう…
+msgctxt "0087 | c03_002_153 | chara_Blank"
 msgid "<CLT=cltMIND>I'll investigate around here a little more."
 msgstr ""
 
-msgctxt "0089"
+#. はい
+msgctxt "0088 | c03_002_153 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0090"
+#. いいえ
+msgctxt "0089 | c03_002_153 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0091"
+#. もしかして悩んでいるの？
+msgctxt "0090 | c03_002_153 | chara_Blank"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0092"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0091 | c03_002_153 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0093"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0092 | c03_002_153 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0094"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0093 | c03_002_153 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0095"
+#. <CLT=cltMIND>この白い大きな塊って…なんだ？
+#. 木でも石でもなさそうだけど…
+msgctxt "0094 | c03_002_153 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>What is this heap of stuff?\n"
 "It doesn't look like wood or stone..."
 msgstr ""
 
-msgctxt "0096"
+#. おー、これは蝋ですなー。
+#. これで蝋人形が作れますなー。
+msgctxt "0095 | c03_002_153 | C013_Yonag"
 msgid "Ohhh, this is wax for making wax sculptures."
 msgstr ""
 
-msgctxt "0097"
+#. あぁ、ワックス彫像ってヤツか…
+#. アンジーさんはそんな物も作るんだね。
+msgctxt "0096 | c03_002_153 | C000_Saiha"
 msgid ""
 "Ah, wax sculptures, huh?\n"
 "You can make those, Angie?"
 msgstr ""
 
-msgctxt "0098"
+#. 蝋って、木や石と違って柔らかくてー、
+#. 独特の作り心地で楽しいんだよー。
+msgctxt "0097 | c03_002_153 | C013_Yonag"
 msgid ""
 "Unlike wood or stone, wax has a soft texture\n"
 "for sculpting."
 msgstr ""
 
-msgctxt "0099"
+#. あ、やるのは神さまだけどね。
+msgctxt "0098 | c03_002_153 | C013_Yonag"
 msgid ""
 "Oh, but Atua is the one who's gonna be doing\n"
 "the sculpting."
 msgstr ""
 
-msgctxt "0100"
+#. あ、うん…わかってるよ。
+msgctxt "0099 | c03_002_153 | C000_Saiha"
 msgid "Ah, I see."
 msgstr ""
 
-msgctxt "0101"
+#. でもでもー、蝋で人形を作るのは
+#. かなり昔からあった事らしいよー。
+msgctxt "0100 | c03_002_153 | C013_Yonag"
 msgid ""
 "But, but it seems like people have been\n"
 "making wax sculptures for a long time."
 msgstr ""
 
-msgctxt "0102"
+#. 蝋で作るデスマスクとか、
+#. 古代から作られていたみたいだからね。
+msgctxt "0101 | c03_002_153 | C013_Yonag"
 msgid ""
 "In ancient times, death masks used to be\n"
 "made from wax."
 msgstr ""
 
-msgctxt "0103"
+#. <CLT=cltMIND>蝋のデスマスクか…なんかちょっと怖いな。
+msgctxt "0102 | c03_002_153 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>A wax death mask...\n"
 "That's kinda scary."
 msgstr ""
 
-msgctxt "0104"
+#. <CLT=cltMIND>蝋のデスマスクか…なんかちょっと怖いな。
+msgctxt "0103 | c03_002_153 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>A wax death mask...\n"
 "That's kinda scary."
 msgstr ""
 
-msgctxt "0105"
+#. <CLT=cltMIND>もう少し、ここを調べてみよう…
+msgctxt "0104 | c03_002_153 | chara_Blank"
 msgid "<CLT=cltMIND>I'll investigate around here a little more."
 msgstr ""
 
-msgctxt "0106"
+#. <CLT=cltMIND>この扉は…僕らが入って来たのとは別の扉だ。
+msgctxt "0105 | c03_002_153 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This door...isn't the one we used\n"
 "to come in."
 msgstr ""
 
-msgctxt "0107"
+#. 扉の作りもショボイし…こっちが裏口かな。
+msgctxt "0106 | c03_002_153 | C005_Oma__"
 msgid ""
 "This door is super crappy...\n"
 "I'm guessing this is the rear entrance."
 msgstr ""
 
-msgctxt "0108"
+#. ほら、鍵も後付けのスライド錠だしね。
+msgctxt "0107 | c03_002_153 | C005_Oma__"
 msgid ""
 "See? It's got a sliding lock just slapped \n"
 "on here."
 msgstr ""
 
-msgctxt "0109"
+#. そう言えば、僕らが入って来た正面の扉の方は…
+msgctxt "0108 | c03_002_153 | C000_Saiha"
 msgid "Ah, right, and the door that we used..."
 msgstr ""
 
-msgctxt "0110"
+#. そうそう、ドアノブと一体化している、
+#. シリンダー錠だったよね。
+msgctxt "0109 | c03_002_153 | C005_Oma__"
 msgid ""
 "Yeah, that door has a knob and\n"
 "a cylinder lock."
 msgstr ""
 
-msgctxt "0111"
+#. 同じ教室なのに違う鍵なのか…
+#. 揃ってないのが微妙に気持ち悪いな。
+msgctxt "0110 | c03_002_153 | C000_Saiha"
 msgid ""
 "The same classroom has two different kinds\n"
 "of locks for the doors. That's mildly infuriating."
 msgstr ""
 
-msgctxt "0112"
+#. いやいや、揃ってないのがいいんだなー。
+msgctxt "0111 | c03_002_153 | C013_Yonag"
 msgid "No, no. It's perfect that they're not the same."
 msgstr ""
 
-msgctxt "0113"
+#. 左右対称なシンメトリーは西洋の美の規範だから、
+#. 西洋ではシンメトリーと黄金分割が好まれるけど…
+msgctxt "0112 | c03_002_153 | C013_Yonag"
 msgid ""
 "Symmetry is a western beauty ideal. They like\n"
 "symmetry and the golden ratio and such..."
 msgstr ""
 
-msgctxt "0114"
+#. アンジーは、左右非対称なアシンメトリーとか
+#. 整数分割の方が美しいと思うんだー。
+msgctxt "0113 | c03_002_153 | C013_Yonag"
 msgid ""
 "But I think asymmetry and partition functions\n"
 "are more beautiful."
 msgstr ""
 
-msgctxt "0115"
+#. よくわからないけど…そういうもんなんだね。
+msgctxt "0114 | c03_002_153 | C000_Saiha"
 msgid ""
 "Well, I don't really get it, but...\n"
 "I suppose that makes sense."
 msgstr ""
 
-msgctxt "0116"
+#. <CLT=cltMIND>この扉は…僕らが入って来たのとは別の扉だ。
+#. こっちが裏口らしい。
+msgctxt "0115 | c03_002_153 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This door...isn't the one we used\n"
 "to come in."
 msgstr ""
 
-msgctxt "0117"
+#. <CLT=cltMIND>こっちの鍵は、後付けのスライド錠になっている。
+#. 僕らが入って来た扉の方は…
+msgctxt "0116 | c03_002_153 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This door has a sliding lock.\n"
 "The door that we used..."
 msgstr ""
 
-msgctxt "0118"
+#. <CLT=cltMIND>ドアノブと一体化しているシリンダー錠だ。
+msgctxt "0117 | c03_002_153 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Has a cylinder lock inside\n"
 "the door knob."
 msgstr ""
 
-msgctxt "0119"
+#. <CLT=cltMIND>同じ教室なのに違う鍵…
+#. 揃ってないのが微妙に気持ち悪いな。
+msgctxt "0118 | c03_002_153 | chara_Blank"
 msgid ""
 "The same classroom has two different kinds\n"
 "of locks for the doors. That's mildly infuriating."
 msgstr ""
 
-msgctxt "0120"
+#. <CLT=cltMIND>あまりここに長居している訳にもいかないよな。
+#. まだ<CLT=cltSTRONG>“思い出しライト”<CLT=cltMIND>も見つけてないし…
+msgctxt "0119 | c03_002_153 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I can't stay long. I still haven't found the\n"
 "<CLT=cltSTRONG>Flashback Light<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0121"
+#. <CLT=cltMIND>他の場所も回ってみないとな。
+msgctxt "0120 | c03_002_153 | chara_Blank"
 msgid "<CLT=cltMIND>I have other places to check."
 msgstr ""

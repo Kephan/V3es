@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,55 +11,71 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. はい
+msgctxt "0000 | c03_000_029 | non"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0002"
+#. いいえ
+msgctxt "0001 | c03_000_029 | non"
 msgid "No"
 msgstr ""
 
-msgctxt "0003"
+#. もしかして悩んでいるの？
+msgctxt "0002 | c03_000_029 | non"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0003 | c03_000_029 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0004 | c03_000_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0005 | c03_000_029 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>緑色の巨大な弁当箱みたいなコンピューターが、
+#. 部屋のど真ん中に鎮座している。
+msgctxt "0006 | c03_000_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There's a giant green computer\n"
 "in the middle of the room."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>これを使えば新世界を作れるって言ってたけど、
+#. どういう意味なんだ…？
+msgctxt "0007 | c03_000_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This machine can make a new world...\n"
 "What could that mean?"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>宝箱はからっぽだ…
+msgctxt "0008 | c03_000_029 | chara_Blank"
 msgid "<CLT=cltMIND>The treasure chest is empty..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>ここに入っていた<CLT=cltSTRONG>“思い出しライト”<CLT=cltMIND>で蘇った記憶…
+msgctxt "0009 | c03_000_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This is where we found the <CLT=cltSTRONG>Flashback Light<CLT=cltMIND>\n"
 "that gave us that memory, but..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>あの記憶には秘密があるような、
+#. そんな気がしてならないんだけど…
+msgctxt "0010 | c03_000_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I can't help but feel like...there's more\n"
 "to that memory than it seems."

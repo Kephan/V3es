@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,39 +11,50 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. はい
+msgctxt "0000 | c03_000_261 | non"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0002"
+#. いいえ
+msgctxt "0001 | c03_000_261 | non"
 msgid "No"
 msgstr ""
 
-msgctxt "0003"
+#. もしかして悩んでいるの？
+msgctxt "0002 | c03_000_261 | non"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0003 | c03_000_261 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>このモニターってどこにでもあるんだな。
+#. いい加減、見飽きたぞ…
+msgctxt "0004 | c03_000_261 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>These monitors are everywhere...\n"
 "I'm tired of seeing them."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>２回の学級裁判を乗り越えても…
+#. 僕らの状況は好転した訳じゃない。
+msgctxt "0005 | c03_000_261 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>We've overcome two class trials, but it's not\n"
 "as though our situation has turned around."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>ただ仲間を失っていくだけで…
+msgctxt "0006 | c03_000_261 | chara_Blank"
 msgid "<CLT=cltMIND>All we've done...is lose more friends."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>どうすれば良いのかも、
+#. どこへ向かえば良いのかもわからないままだ…
+msgctxt "0007 | c03_000_261 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>We still don't know what to do...\n"
 "We still don't know where to go..."

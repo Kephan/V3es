@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,164 +11,213 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>また…生い茂ってた緑が減っている…
+#. どんどん整備が進んでいるみたいだな。
+msgctxt "0000 | c03_002_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There are fewer plants than before...\n"
 "Maintenance must be progressing well."
 msgstr ""
 
-msgctxt "0002"
+#. 見る見るキレイになっておるな…
+#. まるで、ウチのようじゃ。
+msgctxt "0001 | c03_002_258 | C009_Yumen"
 msgid ""
 "It's becoming more and more beautiful...\n"
 "Just like me."
 msgstr ""
 
-msgctxt "0003"
+#. そ、そうなの…？
+msgctxt "0002 | c03_002_258 | C000_Saiha"
 msgid "Ah...really...?"
 msgstr ""
 
-msgctxt "0004"
+#. ………………
+msgctxt "0003 | c03_002_258 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0005"
+#. あっ、とうとう夢野さんを怒らせてしまいましたね！
+msgctxt "0004 | c03_002_258 | C011_Chaba"
 msgid "Oh, you just made Himiko angry!"
 msgstr ""
 
-msgctxt "0006"
+#. 素人にはわからないかもしれませんけど、
+#. これは怒ってる時の夢野さんですよ！
+msgctxt "0005 | c03_002_258 | C011_Chaba"
 msgid ""
 "Someone like you wouldn't know this,\n"
 "but this is Himiko when she's mad!"
 msgstr ""
 
-msgctxt "0007"
+#. いや…照れただけじゃ。
+msgctxt "0006 | c03_002_258 | C009_Yumen"
 msgid "No...I was just blushing."
 msgstr ""
 
-msgctxt "0008"
+#. えっ！？　自分で自分の褒め言葉にっ！？
+msgctxt "0007 | c03_002_258 | C011_Chaba"
 msgid "What!? From your own compliment!?"
 msgstr ""
 
-msgctxt "0009"
+#. 夢野さんって…あんまり表情が変わらないから、
+#. 感情が読み辛いよね…
+msgctxt "0008 | c03_002_258 | C000_Saiha"
 msgid ""
 "Himiko...your expression doesn't change much,\n"
 "so it's hard to tell what you're feeling."
 msgstr ""
 
-msgctxt "0010"
+#. 喜怒哀楽は…めんどいからな。
+msgctxt "0009 | c03_002_258 | C009_Yumen"
 msgid "Changing expressions...is a pain."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>めんどい…って問題なのか？
+msgctxt "0010 | c03_002_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>That's the only reason you\n"
 "don't do it?"
 msgstr ""
 
-msgctxt "0012"
+#. 夢野秘密子との会話
+#. 茶柱の研究室が出現前
+msgctxt "0011 | c03_002_258 | C009_Yumen"
 msgid ""
 "Conversation with Himiko Yumeno, \n"
 "Before the appearance of Tenko's lab"
 msgstr ""
 
-msgctxt "0013"
+#. 夢野秘密子との会話
+#. 茶柱の研究室が出現後
+msgctxt "0012 | c03_002_258 | C009_Yumen"
 msgid ""
 "Conversation with Himiko Yumeno, \n"
 "After the appearance of Tenko's lab"
 msgstr ""
 
-msgctxt "0014"
+#. 茶柱転子との会話
+#. 茶柱の研究室が出現前
+msgctxt "0013 | c03_002_258 | C011_Chaba"
 msgid ""
 "Conversation with Tenko Chabashira\n"
 "Before the appearance of Tenko's lab"
 msgstr ""
 
-msgctxt "0015"
+#. 茶柱転子との会話
+#. 茶柱の研究室が出現後
+msgctxt "0014 | c03_002_258 | C011_Chaba"
 msgid ""
 "Conversation with Tenko Chabashira\n"
 "After the appearance of Tenko's lab"
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>…ここに謎のオブジェはなかったはずだ。
+#. 他の場所を探そう。
+msgctxt "0015 | c03_002_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't remember there being any\n"
 "mysterious objects here. I'll look elsewhere."
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>…ここに謎のオブジェはなかったはずだ。
+#. 他の場所を探そう。
+msgctxt "0016 | c03_002_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't remember there being any\n"
 "mysterious objects here. I'll look elsewhere."
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltMIND>東条さんの計画は…
+#. 浮き輪のミスさえなければほとんど完璧だった。
+msgctxt "0017 | c03_002_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Kirumi's plan would have been perfect\n"
 "were it not for that inner tube."
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltMIND>それほどに東条さんは完璧なメイドで…
+msgctxt "0018 | c03_002_258 | chara_Blank"
 msgid "<CLT=cltMIND>A perfect plan from the perfect maid..."
 msgstr ""
 
-msgctxt "0020"
+#. <CLT=cltMIND>そんな東条さんだからこそ、
+#. この国の再建を<CLT=cltSTRONG>“依頼”<CLT=cltMIND>された…？
+msgctxt "0019 | c03_002_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>And Kirumi was <CLT=cltSTRONG>asked<CLT=cltMIND> to\n"
 "rebuild this country?"
 msgstr ""
 
-msgctxt "0021"
+#. ………………
+msgctxt "0020 | c03_002_258 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0022"
+#. <CLT=cltMIND>外は…一体、どうなっているんだ？
+#. <CLT=cltSTRONG>“かつてない危機”<CLT=cltMIND>って何なんだ…？
+msgctxt "0021 | c03_002_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>What could possibly be happening out there?\n"
 "What <CLT=cltSTRONG>crisis<CLT=cltMIND> awaits us?"
 msgstr ""
 
-msgctxt "0023"
+#. <CLT=cltMIND>…ここに謎のオブジェはなかったはずだ。
+#. 他の場所を探そう。
+msgctxt "0022 | c03_002_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't remember there being any\n"
 "mysterious objects here. I'll look elsewhere."
 msgstr ""
 
-msgctxt "0024"
+#. <CLT=cltMIND>…ここに謎のオブジェはなかったはずだ。
+#. 他の場所を探そう。
+msgctxt "0023 | c03_002_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't remember there being any\n"
 "mysterious objects here. I'll look elsewhere."
 msgstr ""
 
-msgctxt "0025"
+#. <CLT=cltMIND>…ここに謎のオブジェはなかったはずだ。
+#. 他の場所を探そう。
+msgctxt "0024 | c03_002_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't remember there being any\n"
 "mysterious objects here. I'll look elsewhere."
 msgstr ""
 
-msgctxt "0026"
+#. <CLT=cltMIND>…ここに謎のオブジェはなかったはずだ。
+#. 他の場所を探そう。
+msgctxt "0025 | c03_002_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't remember there being any\n"
 "mysterious objects here. I'll look elsewhere."
 msgstr ""
 
-msgctxt "0027"
+#. <CLT=cltMIND>これにアイテムを使ったら一気にツタが枯れたけど…
+#. どう言う仕組みなんだ？
+msgctxt "0026 | c03_002_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>When I used the item, the vine suddenly\n"
 "withered... How does that work?"
 msgstr ""
 
-msgctxt "0028"
+#. <CLT=cltMIND>プール入り口　ゼルダギミック植物
+msgctxt "0027 | c03_002_258 | chara_Blank"
 msgid "<CLT=cltMIND>Pool Entrance Zelda gimmick plant"
 msgstr ""
 
-msgctxt "0029"
+#. <CLT=cltMIND>これが門の鍵になってたんだな…
+msgctxt "0028 | c03_002_258 | chara_Blank"
 msgid "<CLT=cltMIND>So this is the key to the gate..."
 msgstr ""
 
-msgctxt "0030"
+#. <CLT=cltMIND>カジノエリア扉　六角レンチギミック(閉)
+msgctxt "0029 | c03_002_258 | chara_Blank"
 msgid "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Closed)"
 msgstr ""
 
-msgctxt "0031"
+#. <CLT=cltMIND>カジノエリア扉　六角レンチギミック(開)
+msgctxt "0030 | c03_002_258 | chara_Blank"
 msgid "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Open)"
 msgstr ""

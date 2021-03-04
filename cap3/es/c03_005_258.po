@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,473 +11,614 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 百田くん…まだ来てないみたいだな。
+msgctxt "0000 | c03_005_258 | C000_Saiha"
 msgid "It looks like Kaito isn't here yet."
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>と、思った矢先だった。
+msgctxt "0001 | c03_005_258 | chara_Blank"
 msgid "<CLT=cltMIND>Then, suddenly..."
 msgstr ""
 
-msgctxt "0003"
+#. よぉ、遅くなってわりーな。
+#. こいつを連れてくんのに手間取っちまってよ。
+msgctxt "0002 | c03_005_258 | C001_Momot"
 msgid ""
 "Hey, sorry I was late.\n"
 "I had trouble bringing her."
 msgstr ""
 
-msgctxt "0004"
+#. こいつって――
+msgctxt "0003 | c03_005_258 | C000_Saiha"
 msgid "Her?"
 msgstr ""
 
-msgctxt "0005"
+#. ………………
+msgctxt "0004 | c03_005_258 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0006"
+#. え？　なんで…春川さんが？
+msgctxt "0005 | c03_005_258 | C000_Saiha"
 msgid "Maki? Why is Maki here?"
 msgstr ""
 
-msgctxt "0007"
+#. …こっちが聞きたいんだけど。
+msgctxt "0006 | c03_005_258 | C010_Haruk"
 msgid "...That's what I'd like to know."
 msgstr ""
 
-msgctxt "0008"
+#. 誰かがしつこくインターホンを押すから、
+#. 仕方なく扉を開けたら…
+msgctxt "0007 | c03_005_258 | C010_Haruk"
 msgid ""
 "Someone kept buzzing my intercom and\n"
 "I got so fed up, I finally opened the door."
 msgstr ""
 
-msgctxt "0009"
+#. いきなり腕を引っ張られて、
+#. 無理矢理こんな所まで連れて来られて――
+msgctxt "0008 | c03_005_258 | C010_Haruk"
 msgid ""
 "Then this guy grabbed my arm and dragged\n"
 "me all the way here—"
 msgstr ""
 
-msgctxt "0010"
+#. まぁ、細けー事は気にすんな！
+msgctxt "0009 | c03_005_258 | C001_Momot"
 msgid "Well, don't worry about the small stuff!"
 msgstr ""
 
-msgctxt "0011"
+#. どうせトレーニングするなら、
+#. ２人より３人の方が楽しいだろ！？
+msgctxt "0010 | c03_005_258 | C001_Momot"
 msgid ""
 "If we're gonna train, it's more fun with \n"
 "three people than two, right?"
 msgstr ""
 
-msgctxt "0012"
+#. トレーニングって…あんた達と？
+#. まさか、そんな事の為に連れて来たの？
+msgctxt "0011 | c03_005_258 | C010_Haruk"
 msgid ""
 "Training? The three of us? Is that really\n"
 "the reason you dragged me here?"
 msgstr ""
 
-msgctxt "0013"
+#. バカバカしい…帰る。
+msgctxt "0012 | c03_005_258 | C010_Haruk"
 msgid "This is stupid... I'm going back."
 msgstr ""
 
-msgctxt "0014"
+#. へっ…バカバカしいとは言ってくれるじゃねーか。
+msgctxt "0013 | c03_005_258 | C001_Momot"
 msgid "Heh...you callin' this stupid?"
 msgstr ""
 
-msgctxt "0015"
+#. いいか？　主人公が強大な敵と戦う時ってのは、
+#. まず特訓に特訓を重ねるもんなんだぜ！
+msgctxt "0014 | c03_005_258 | C001_Momot"
 msgid ""
 "Listen up! When a hero has to fight with a big\n"
 "enemy, they train, train, then train some more!"
 msgstr ""
 
-msgctxt "0016"
+#. これは、その為の特訓って訳だ。
+#. オレという主人公にとっては大事な特訓なんだよ。
+msgctxt "0015 | c03_005_258 | C001_Momot"
 msgid ""
 "That's what this training is! \n"
 "It's important for a hero like me."
 msgstr ""
 
-msgctxt "0017"
+#. つー訳で、テメーらはキジとかサルとかカニになって
+#. ちゃんと主人公のオレを盛り立てろ！
+msgctxt "0016 | c03_005_258 | C001_Momot"
 msgid ""
 "So you guys can be like super dog, cat,\n"
 "or horse by my side to help me be the hero!"
 msgstr ""
 
-msgctxt "0018"
+#. なんか…色んな話が混ざってるよ？
+msgctxt "0017 | c03_005_258 | C000_Saiha"
 msgid "Of all the examples you could have picked..."
 msgstr ""
 
-msgctxt "0019"
+#. そんな常軌を逸した説明で、
+#. 私が説得されると思ったの？
+msgctxt "0018 | c03_005_258 | C010_Haruk"
 msgid ""
 "Did you really think that crazy explanation\n"
 "would convince me to stay?"
 msgstr ""
 
-msgctxt "0020"
+#. バカバカしい…帰る。
+msgctxt "0019 | c03_005_258 | C010_Haruk"
 msgid "This is still stupid... I'm going back."
 msgstr ""
 
-msgctxt "0021"
+#. まぁ、待て…オレが主人公ってのは、
+#. あくまでオレから見た時の話だ。
+msgctxt "0020 | c03_005_258 | C001_Momot"
 msgid ""
 "Hey, hold on a sec... When I said I was the\n"
 "hero, that's just from my perspective."
 msgstr ""
 
-msgctxt "0022"
+#. イヌとかカメとかクマだって、
+#. そいつらから見ればそいつらが主人公だ。
+msgctxt "0021 | c03_005_258 | C001_Momot"
 msgid ""
 "Even super pets think of themselves\n"
 "as heroes."
 msgstr ""
 
-msgctxt "0023"
+#. テメーらだってそうだ！
+#. テメーらの中ではテメーら自身が主人公のはずだ！
+msgctxt "0022 | c03_005_258 | C001_Momot"
 msgid ""
 "The same goes to both of you! Each of you\n"
 "are the heroes of your own stories!"
 msgstr ""
 
-msgctxt "0024"
+#. だったら、もっと主人公らしくしやがれ！
+msgctxt "0023 | c03_005_258 | C001_Momot"
 msgid "So act more like it!"
 msgstr ""
 
-msgctxt "0025"
+#. ………………
+msgctxt "0024 | c03_005_258 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0026"
+#. どういうつもりか知らないけどさ…
+#. 私の事は無視してって頼んだよね？
+msgctxt "0025 | c03_005_258 | C010_Haruk"
 msgid ""
 "I don't know what you're up to...but I told\n"
 "you both to stay away from me."
 msgstr ""
 
-msgctxt "0027"
+#. なんで、そうしてくれないの？
+#. また揉めるだけってわからないの？
+msgctxt "0026 | c03_005_258 | C010_Haruk"
 msgid ""
 "You know this will end badly if you don't,\n"
 "so why are you being so difficult?"
 msgstr ""
 
-msgctxt "0028"
+#. …いつまで逃げる気だ？
+msgctxt "0027 | c03_005_258 | C001_Momot"
 msgid "How long are you going to run away?"
 msgstr ""
 
-msgctxt "0029"
+#. …え？
+msgctxt "0028 | c03_005_258 | C010_Haruk"
 msgid "...What?"
 msgstr ""
 
-msgctxt "0030"
+#. <CLT=cltMIND>そこで百田くんは、
+#. 春川さんの目と鼻の先まで詰め寄ると…
+msgctxt "0029 | c03_005_258 | chara_Blank"
 msgid "<CLT=cltMIND>Kaito brought his face close to Maki's."
 msgstr ""
 
-msgctxt "0031"
+#. 化けの皮が剥がれてきたな…
+#. オレは今日のテメーの態度を見てわかったぜ。
+msgctxt "0030 | c03_005_258 | C001_Momot"
 msgid ""
 "Your mask is coming down...\n"
 "I could tell just by looking at you today."
 msgstr ""
 
-msgctxt "0032"
+#. だったら…せめて私には関わらないで。
+#. 私もあんた達とはできるだけ関わらないようにするから。
+msgctxt "0031 | c03_005_258 | C010_Haruk"
 msgid ""
 "So...you guys mind your business, I'll mind\n"
 "mine, and we'll all agree to avoid each other."
 msgstr ""
 
-msgctxt "0033"
+#. お願いだから…私の事は無視して。
+msgctxt "0032 | c03_005_258 | C010_Haruk"
 msgid "Please...just pretend I'm not even here."
 msgstr ""
 
-msgctxt "0034"
+#. テメーは他の連中が思ってるような
+#. 恐ろしいヤツどころか…
+msgctxt "0033 | c03_005_258 | C001_Momot"
 msgid ""
 "You're not the terrifying person the \n"
 "others think you are..."
 msgstr ""
 
-msgctxt "0035"
+#. ただの弱っちい臆病者だ。
+msgctxt "0034 | c03_005_258 | C001_Momot"
 msgid "You're just a coward."
 msgstr ""
 
-msgctxt "0036"
+#. ………………
+msgctxt "0035 | c03_005_258 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0037"
+#. なぁ、オメーの敵はなんだ？
+msgctxt "0036 | c03_005_258 | C001_Momot"
 msgid "Hey, what's your enemy?"
 msgstr ""
 
-msgctxt "0038"
+#. …は？　敵？
+msgctxt "0037 | c03_005_258 | C010_Haruk"
 msgid "...Huh? My enemy?"
 msgstr ""
 
-msgctxt "0039"
+#. まぁ…テメーの敵なんて、
+#. オレの知ったこっちゃねーけどよ…
+msgctxt "0038 | c03_005_258 | C001_Momot"
 msgid ""
 "You don't need to tell me what it is,\n"
 "as long as you know it yourself."
 msgstr ""
 
-msgctxt "0040"
+#. で、テメーはいつまでその敵から逃げる気なんだ？
+msgctxt "0039 | c03_005_258 | C001_Momot"
 msgid ""
 "So how long are you going to run away \n"
 "from your enemy?"
 msgstr ""
 
-msgctxt "0041"
+#. …逃げる？
+msgctxt "0040 | c03_005_258 | C010_Haruk"
 msgid "...Run away?"
 msgstr ""
 
-msgctxt "0042"
+#. あぁ、逃げっぱなしだろ。
+#. まったく、情けねーったらねーぜ。
+msgctxt "0041 | c03_005_258 | C001_Momot"
 msgid ""
 "Yeah, you've been running away.\n"
 "It's pretty pathetic."
 msgstr ""
 
-msgctxt "0043"
+#. けど…もしテメーに
+#. 少しでも立ち向かいてーって気持ちがあるなら…
+msgctxt "0042 | c03_005_258 | C001_Momot"
 msgid ""
 "But...if you want to stand against it, \n"
 "even a little..."
 msgstr ""
 
-msgctxt "0044"
+#. オレらが一緒にトレーニングしてやるよ！
+#. テメーが強くなれるようにな！
+msgctxt "0043 | c03_005_258 | C001_Momot"
 msgid ""
 "I'll train with you!\n"
 "So you can be strong!"
 msgstr ""
 
-msgctxt "0045"
+#. <CLT=cltMIND>…え？
+msgctxt "0044 | c03_005_258 | chara_Blank"
 msgid "<CLT=cltMIND>...What?"
 msgstr ""
 
-msgctxt "0046"
+#. ………………
+msgctxt "0045 | c03_005_258 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0047"
+#. <CLT=cltMIND>春川さん…明らかに怒ってるよな…
+#. 今の…ほとんど挑発だもんな。
+msgctxt "0046 | c03_005_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Maki is getting angry...\n"
 "Kaito is just provoking her."
 msgstr ""
 
-msgctxt "0048"
+#. <CLT=cltMIND>百田くん、大丈夫なのか？
+#. <CLT=cltSTRONG>“超高校級の暗殺者”<CLT=cltMIND>を怒らせるような事言って。
+msgctxt "0047 | c03_005_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Is he going to be okay?\n"
 "He's antagonizing the <CLT=cltSTRONG>Ultimate Assassin<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0049"
+#. ………………
+msgctxt "0048 | c03_005_258 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0050"
+#. おい、どうすんだよ！？
+msgctxt "0049 | c03_005_258 | C010_Haruk"
 msgid "So what are you going to do!?"
 msgstr ""
 
-msgctxt "0051"
+#. あ、百田くん…もういいんじゃないかな？
+#. そんな無理に――
+msgctxt "0050 | c03_005_258 | C010_Haruk"
 msgid ""
 "Hey, Kaito...\n"
 "It's okay, you don't have to—"
 msgstr ""
 
-msgctxt "0052"
+#. …わかった、やるよ。
+msgctxt "0051 | c03_005_258 | C010_Haruk"
 msgid "...Fine, I'll do it."
 msgstr ""
 
-msgctxt "0053"
+#. えっ？　やるのっ？
+msgctxt "0052 | c03_005_258 | C000_Saiha"
 msgid "Huh? You'll do it?"
 msgstr ""
 
-msgctxt "0054"
+#. どうせ断っても後で色々言われそうだし、
+#. だったら、私が諦めた方が早いと思っただけだよ。
+msgctxt "0053 | c03_005_258 | C010_Haruk"
 msgid ""
 "Don't get the wrong idea. He'll just bug me\n"
 "about it later if I refuse."
 msgstr ""
 
-msgctxt "0055"
+#. へっ、よくわかってんじゃねーか！
+msgctxt "0054 | c03_005_258 | C001_Momot"
 msgid "Heh, so you do get it!"
 msgstr ""
 
-msgctxt "0056"
+#. …バカに絡まれたと思って諦める。
+msgctxt "0055 | c03_005_258 | C010_Haruk"
 msgid ""
 "...The only way to deal with idiots like him\n"
 "is to give up and just keep nodding."
 msgstr ""
 
-msgctxt "0057"
+#. ぜ、全然わかってねーだろ…！
+msgctxt "0056 | c03_005_258 | C001_Momot"
 msgid "Y-You don't get it at all!"
 msgstr ""
 
-msgctxt "0058"
+#. まぁいい…けど、覚悟しろよ。
+#. オレは女だからって手加減しねーからな。
+msgctxt "0057 | c03_005_258 | C001_Momot"
 msgid ""
 "Whatever...you just better get ready.\n"
 "I won't hold back just cuz you're a girl."
 msgstr ""
 
-msgctxt "0059"
+#. …で、何から始めればいいの？
+msgctxt "0058 | c03_005_258 | C010_Haruk"
 msgid "...Well, what are we doing first?"
 msgstr ""
 
-msgctxt "0060"
+#. おーし！　まずは腕立て１００回からだっ！
+msgctxt "0059 | c03_005_258 | C001_Momot"
 msgid "Alright! First, 100 push-ups!"
 msgstr ""
 
-msgctxt "0061"
+#. <CLT=cltMIND>こうして…なぜかよくわからないけど、
+#. 春川さんを加えた３人でのトレーニングが始まった。
+msgctxt "0060 | c03_005_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Somehow, Maki ended up joining us and\n"
 "the three of us trained together."
 msgstr ""
 
-msgctxt "0062"
+#. はぁ…はぁ…はぁっ…！
+msgctxt "0061 | c03_005_258 | C000_Saiha"
 msgid "Hah...! Hah...! Hah...!"
 msgstr ""
 
-msgctxt "0063"
+#. 終一も…な、なかなか…
+#. 様になってきたじゃねーか…！
+msgctxt "0062 | c03_005_258 | C001_Momot"
 msgid ""
 "N-Not bad...Shuichi...\n"
 "You're getting...better!"
 msgstr ""
 
-msgctxt "0064"
+#. も、百田くんも…今日はサボらないでよ。
+#. ちゃんと…数えてるからね…！
+msgctxt "0063 | c03_005_258 | C000_Saiha"
 msgid ""
 "H-Hey Kaito...no slacking today, yeah?\n"
 "I'm counting your reps!"
 msgstr ""
 
-msgctxt "0065"
+#. へっ、今日は体調がいいからなぁ。
+#. 腕立て５０回くらいは楽勝だぜ。
+msgctxt "0064 | c03_005_258 | C001_Momot"
 msgid ""
 "Heh, I'm on fire today.\n"
 "I can easily do 50 push-ups!"
 msgstr ""
 
-msgctxt "0066"
+#. …なんで減ってるの！？
+msgctxt "0065 | c03_005_258 | C000_Saiha"
 msgid "I thought we were doing a hundred!"
 msgstr ""
 
-msgctxt "0067"
+#. よぉ、春川はどうだ？
+#. さすがに１００回は無理だろうが――
+msgctxt "0066 | c03_005_258 | C001_Momot"
 msgid ""
 "Hey, what about you, Maki?\n"
 "A hundred might be too hard for you, so-"
 msgstr ""
 
-msgctxt "0068"
+#. ９１、９２、９３、９４…
+msgctxt "0067 | c03_005_258 | C010_Haruk"
 msgid "91, 92, 93, 94..."
 msgstr ""
 
-msgctxt "0069"
+#. …なっ！？　はええっ！
+msgctxt "0068 | c03_005_258 | C001_Momot"
 msgid "Wha—!? That fast!?"
 msgstr ""
 
-msgctxt "0070"
+#. １００回…終わったよ。
+msgctxt "0069 | c03_005_258 | C010_Haruk"
 msgid "100... I'm done."
 msgstr ""
 
-msgctxt "0071"
+#. <CLT=cltMIND>と、春川さんは手に付いた砂を払いながら、
+#. 涼しい顔で立ち上がった。
+msgctxt "0070 | c03_005_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Maki stood and brushed the dirt from\n"
 "her hands, totally composed."
 msgstr ""
 
-msgctxt "0072"
+#. …も、もう終わったの？
+msgctxt "0071 | c03_005_258 | C000_Saiha"
 msgid "Y-You're done already?"
 msgstr ""
 
-msgctxt "0073"
+#. い、息１つ…乱さねーとはな…
+#. そ、それ相応の…訓練は受けてるっつー訳か…
+msgctxt "0072 | c03_005_258 | C001_Momot"
 msgid ""
 "Y-You're not even out of breath...\n"
 "I guess you've trained before, huh?"
 msgstr ""
 
-msgctxt "0074"
+#. あんたは息が上がり過ぎじゃない？
+#. まだ大してやってないよね？
+msgctxt "0073 | c03_005_258 | C010_Haruk"
 msgid ""
 "Aren't you breathing a little too hard?\n"
 "It's not like we really pushed ourselves."
 msgstr ""
 
-msgctxt "0075"
+#. こ、ここに来る前のウォーミングアップで…
+#. すでに５００回…腕立てしてるせいでな…
+msgctxt "0074 | c03_005_258 | C001_Momot"
 msgid ""
 "B-Before coming here, I did some warm ups...\n"
 "I already did 500 push-ups, so..."
 msgstr ""
 
-msgctxt "0076"
+#. <CLT=cltMIND>百田くん…もう少しマシな嘘はなかったの？
+msgctxt "0075 | c03_005_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Kaito...\n"
 "*That* was the best lie you could come up with?"
 msgstr ""
 
-msgctxt "0077"
+#. ちゃんとトレーニングしたんだから文句ないでしょ？
+#. もう部屋に帰るから。
+msgctxt "0076 | c03_005_258 | C010_Haruk"
 msgid ""
 "Anyway, I'm done and you can't say I didn't\n"
 "train with you. I'm going back to my room."
 msgstr ""
 
-msgctxt "0078"
+#. おうっ、トレーニングは明日もやるからな！
+#. ちゃんと来いよ！
+msgctxt "0077 | c03_005_258 | C001_Momot"
 msgid ""
 "Okay, we're doing training tomorrow, too!\n"
 "You better be there!"
 msgstr ""
 
-msgctxt "0079"
+#. ………………
+msgctxt "0078 | c03_005_258 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0080"
+#. <CLT=cltMIND>百田くんの呼びかけには答えず、
+#. 春川さんは無言のまま去っていった。
+msgctxt "0079 | c03_005_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Maki ignored Kaito and left\n"
 "without a word."
 msgstr ""
 
-msgctxt "0081"
+#. …ったく、手間の掛かるヤツだな。
+msgctxt "0080 | c03_005_258 | C001_Momot"
 msgid "Geez, why's she gotta be so difficult?"
 msgstr ""
 
-msgctxt "0082"
+#. ねぇ…どうして百田くんは、
+#. あそこまで春川さんを気に掛けるの？
+msgctxt "0081 | c03_005_258 | C000_Saiha"
 msgid ""
 "Hey, Kaito...why did you do all this?\n"
 "To help her?"
 msgstr ""
 
-msgctxt "0083"
+#. ん？　弱ってるヤツがいたら手を貸してやるモンだろ。
+#. 宇宙飛行士ってのはチームワークが大事だからな。
+msgctxt "0082 | c03_005_258 | C001_Momot"
 msgid ""
 "Hm? If someone's weak, you help them out.\n"
 "Teamwork's important for astronauts."
 msgstr ""
 
-msgctxt "0084"
+#. 弱っちくて苦しんでるヤツがいたら、
+#. 放っておく訳にはいかねーんだよ！
+msgctxt "0083 | c03_005_258 | C001_Momot"
 msgid ""
 "If someone's weak and suffering, \n"
 "there's no way you can just leave them!"
 msgstr ""
 
-msgctxt "0085"
+#. 弱くて苦しんでるって…春川さんが？
+msgctxt "0084 | c03_005_258 | C000_Saiha"
 msgid "Weak and suffering? *Maki*!?"
 msgstr ""
 
-msgctxt "0086"
+#. ま、そういう意味じゃ、
+#. テメーと一緒――
+msgctxt "0085 | c03_005_258 | C001_Momot"
 msgid "Well, in that sense, you're—"
 msgstr ""
 
-msgctxt "0087"
+#. いや…テメーの場合はちっと違うか。
+msgctxt "0086 | c03_005_258 | C001_Momot"
 msgid "No...your case is a little different."
 msgstr ""
 
-msgctxt "0088"
+#. …え？　何が？
+msgctxt "0087 | c03_005_258 | C000_Saiha"
 msgid "What do you mean?"
 msgstr ""
 
-msgctxt "0089"
+#. な、なんでもねーよ！
+#. それより続きだ…テメーはまだ途中だろ！？
+msgctxt "0088 | c03_005_258 | C001_Momot"
 msgid ""
 "N-Nothing! Anyway, let's keep going. You're\n"
 "still in the middle of your push-ups, right?"
 msgstr ""
 
-msgctxt "0090"
+#. …百田くんもだよね？
+msgctxt "0089 | c03_005_258 | C000_Saiha"
 msgid "So are you."
 msgstr ""
 
-msgctxt "0091"
+#. …さっきの話を聞いてなかったのか？
+#. オレはここに来る前に５００回も腕立てやってんだぞ？
+msgctxt "0090 | c03_005_258 | C001_Momot"
 msgid ""
 "Weren't you listening? I already did \n"
 "500 push-ups before I got here."
 msgstr ""
 
-msgctxt "0092"
+#. …いや、絶対に嘘だよね？
+msgctxt "0091 | c03_005_258 | C000_Saiha"
 msgid "...Nice try, Kaito."
 msgstr ""
 
-msgctxt "0093"
+#. <CLT=cltMIND>その後、何回まで数えたかわからなくなったと
+#. 百田くんが言い出したせいで…
+msgctxt "0092 | c03_005_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Kaito ended up saying he \"didn't remember\"\n"
 "how many push-ups he did..."
 msgstr ""
 
-msgctxt "0094"
+#. <CLT=cltMIND>結局、１回目から腕立て伏せを始めた僕は、
+#. １００回も持たずにクタクタになってしまった。
+msgctxt "0093 | c03_005_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>We agreed to just start over, and we were\n"
 "exhausted by the time we reached 100."

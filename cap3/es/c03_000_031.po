@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,58 +11,74 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. はい
+msgctxt "0000 | c03_000_031 | non"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0002"
+#. いいえ
+msgctxt "0001 | c03_000_031 | non"
 msgid "No"
 msgstr ""
 
-msgctxt "0003"
+#. もしかして悩んでいるの？
+msgctxt "0002 | c03_000_031 | non"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0003 | c03_000_031 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>変わった黒板だな…
+msgctxt "0004 | c03_000_031 | chara_Blank"
 msgid "<CLT=cltMIND>What an unusual blackboard..."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>有刺鉄線で塞がれている…
+msgctxt "0005 | c03_000_031 | chara_Blank"
 msgid "<CLT=cltMIND>It's blocked by barbed wire..."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>僕達をここから逃がさない。
+#. …まるで、そう言っているかのようだ。
+msgctxt "0006 | c03_000_031 | chara_Blank"
 msgid "<CLT=cltMIND>They're sending a message. They're not going to let us escape..."
 msgstr ""
 
-msgctxt "0008"
+#. 教卓
+msgctxt "0007 | c03_000_031 | chara_Blank"
 msgid "Teacher's Desk"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>ロッカーの中は空っぽだ。
+#. 元々は、掃除用具でも入っていたんだろうか？
+msgctxt "0008 | c03_000_031 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This locker's empty. I wonder if\n"
 "there were cleaning supplies in here before."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>このモニターって特注品だよな？
+msgctxt "0009 | c03_000_031 | chara_Blank"
 msgid "<CLT=cltMIND>This monitor has to be custom made..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>こんな物をわざわざ作るなんて、
+#. どこからどんな予算が出てるんだ？
+msgctxt "0010 | c03_000_031 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Why go out of their way to make this?\n"
 "Where is this budget coming from?"
 msgstr ""
 
-msgctxt "0012"
+#. 分にさせられるな…
+msgctxt "0011 | c03_000_031 | chara_Blank"
 msgid "Puts things into perspective..."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>変わった黒板だな…
+msgctxt "0012 | c03_000_031 | chara_Blank"
 msgid "<CLT=cltMIND>What an unusual blackboard..."
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,201 +11,261 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 才囚学園放送部からの知らせでーす！
+msgctxt "0000 | c03_005_101 | C029_Mono3"
 msgid ""
 "This is an official announcement from the\n"
 "Ultimate Academy!"
 msgstr ""
 
-msgctxt "0002"
+#. 午後１０時になったわね。
+#. アタイ的にはもうおねむの時間だわ。
+msgctxt "0001 | c03_005_101 | C023_Mfunn"
 msgid ""
 "It is now 10 p.m.\n"
 "It's beddy-bye time for us."
 msgstr ""
 
-msgctxt "0003"
+#. キサマラ…ミンナデ仲良ク、
+#. 川ノ字ニナッテ寝マショウネ…
+msgctxt "0002 | c03_005_101 | C024_Mdam_"
 msgid ""
 "YOU-TWO...SHOULD-SLEEP-TOGETHER-\n"
 "IN-ONE-BIG-BED."
 msgstr ""
 
-msgctxt "0004"
+#. あ、オイラ達もちょうど３人だから、
+#. 仲良く川の字で寝られるね？
+msgctxt "0003 | c03_005_101 | C021_Mtaro"
 msgid ""
 "Oh, the three of us could all sleep in one\n"
 "big bed, right?"
 msgstr ""
 
-msgctxt "0005"
+#. オラ達クライ仲ガ良イト、
+#. 川ノ字ドコロカ…
+msgctxt "0004 | c03_005_101 | C024_Mdam_"
 msgid ""
 "AS-CLOSE-AS-WE-ARE, NOT-ONLY-COULD-\n"
 "WE-SLEEP-IN-ONE-BIG-BED..."
 msgstr ""
 
-msgctxt "0006"
+#. 河ノ字ダケドネ。
+msgctxt "0005 | c03_005_101 | C024_Mdam_"
 msgid "WE-COULD-SLEEP-IN-TRIPLE-BUNK-BEDS."
 msgstr ""
 
-msgctxt "0007"
+#. 河って！　１番左はバラバラだよ！？
+msgctxt "0006 | c03_005_101 | C021_Mtaro"
 msgid ""
 "Huh!? But whoever's in the top bunk might\n"
 "fall outta bed and dieeeeee!"
 msgstr ""
 
-msgctxt "0008"
+#. ううっ…ヘビーな仲良しさね…
+msgctxt "0007 | c03_005_101 | C023_Mfunn"
 msgid "Ugh... I dunno if we're that close..."
 msgstr ""
 
-msgctxt "0009"
+#. …クマスミー。
+msgctxt "0008 | c03_005_101 | C029_Mono3"
 msgid "...Bedtime, ursine."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>夜時間…か。
+#. そうだ、百田くんとのトレーニングだ。
+msgctxt "0009 | c03_005_101 | chara_Blank"
 msgid "<CLT=cltMIND>Nighttime... I have training with Kaito."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>事件のせいでしばらくやってなかったけど、
+#. 今日はやるんだよな？
+msgctxt "0010 | c03_005_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>We haven't done it for a while because of the\n"
 "murder, but we're going to do it tonight, right?"
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>だったら、中庭に行かないと。
+msgctxt "0011 | c03_005_101 | chara_Blank"
 msgid "<CLT=cltMIND>In that case, I need to go to the courtyard."
 msgstr ""
 
-msgctxt "0013"
+#. はぁ、疲れた…
+msgctxt "0012 | c03_005_101 | C000_Saiha"
 msgid "Ah... So tired..."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>部屋に戻ってくるなり、
+#. 僕はベッドの上に倒れ込んだ。
+msgctxt "0013 | c03_005_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>When I got back to my room, I huffed out\n"
 "a deep sigh and fell backwards onto my bed."
 msgstr ""
 
-msgctxt "0015"
+#. それにしても…いきなり春川さんを連れて来るなんて、
+#. 百田くんはメチャクチャだな。
+msgctxt "0014 | c03_005_101 | C000_Saiha"
 msgid ""
 "Kaito bringing Maki...\n"
 "he really is crazy."
 msgstr ""
 
-msgctxt "0016"
+#. でも、あのメチャクチャさだからこそ、
+#. 春川さんも来たのかもしれないけど…
+msgctxt "0015 | c03_005_101 | C000_Saiha"
 msgid ""
 "But maybe it's because he's crazy\n"
 "that Maki came in the first place."
 msgstr ""
 
-msgctxt "0017"
+#. ………………
+msgctxt "0016 | c03_005_101 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0018"
+#. …ホント、変な人だよな。
+msgctxt "0017 | c03_005_101 | C000_Saiha"
 msgid "Kaito...you really are something else."
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltMIND>そんな事を呟きながら、
+#. 僕はいつの間にか眠りについていた。
+msgctxt "0018 | c03_005_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>My eyelids closed as I continued talking to\n"
 "myself, and eventually I drifted to sleep."
 msgstr ""
 
-msgctxt "0020"
+#. ………………
+msgctxt "0019 | c03_005_101 | C024_Mdam_"
 msgid "..."
 msgstr "..."
 
-msgctxt "0021"
+#. …気ニナル？
+msgctxt "0020 | c03_005_101 | C024_Mdam_"
 msgid "...CURIOUS?"
 msgstr ""
 
-msgctxt "0022"
+#. 普段、モノクマーズハ何ヲシテイルノカ、
+#. 気ニナル？
+msgctxt "0021 | c03_005_101 | C024_Mdam_"
 msgid ""
 "...CURIOUS-WHAT-WE-MONOKUBS-DO-\n"
 "WHEN-YOU'RE-NOT-AROUND?"
 msgstr ""
 
-msgctxt "0023"
+#. 教エテアゲルネ。
+msgctxt "0022 | c03_005_101 | C024_Mdam_"
 msgid "I'LL-TELL-YOU."
 msgstr ""
 
-msgctxt "0024"
+#. 洋楽ヲ聞イテ、空耳ニナルトコロヲ探シテイルヨ。
+msgctxt "0023 | c03_005_101 | C024_Mdam_"
 msgid ""
 "WE-LISTEN-TO-FOREIGN-MUSIC-AND-\n"
 "LAUGH-AT-THE-FUNNY-SOUNDING-WORDS."
 msgstr ""
 
-msgctxt "0025"
+#. 特ニ、エッチナ言葉ニ聞コエルトコロヲ見ツケルト、
+#. ミンナデ大喜ビスルンダ。
+msgctxt "0024 | c03_005_101 | C024_Mdam_"
 msgid ""
 "WHEN-WE-HEAR-WORDS-THAT-SOUND-\n"
 "PERVERTED, WE-GET-REALLY-EXCITED."
 msgstr ""
 
-msgctxt "0026"
+#. 後ハ、クーラーノ効イタ部屋デ、
+#. 一日中パジャマノママ過ゴシタリモスルケド…
+msgctxt "0025 | c03_005_101 | C024_Mdam_"
 msgid ""
 "WE-ALSO-WEAR-PAJAMAS-ALL-DAY, AND-\n"
 "LOUNGE-IN-AN-AIR-CONDITIONED-ROOM..."
 msgstr ""
 
-msgctxt "0027"
+#. ミンナデ出カケタ時ハ、
+#. 大体、オラニ万引キサセタリシテイルヨ。
+msgctxt "0026 | c03_005_101 | C024_Mdam_"
 msgid ""
 "AND-WHEN-WE-ALL-GO-OUT-TOGETHER,\n"
 "THEY-USUALLY-MAKE-ME-STEAL."
 msgstr ""
 
-msgctxt "0028"
+#. ネ？　オラ達ハ仲良シダカラ、
+#. ズット一緒ナンダ。
+msgctxt "0027 | c03_005_101 | C024_Mdam_"
 msgid ""
 "SEE? WE'RE-ALL-SUCH-GOOD-FRIENDS.\n"
 "WE'RE-ALWAYS-TOGETHER."
 msgstr ""
 
-msgctxt "0029"
+#. 万引キガ見ツカッテ逃ゲル時以外ハ、
+#. 大体イツモ一緒ナンダ。
+msgctxt "0028 | c03_005_101 | C024_Mdam_"
 msgid ""
 "EXCEPT-WHEN-THEY-RUN-AWAY-WHEN-\n"
 "I-GET-CAUGHT-STEALING."
 msgstr ""
 
-msgctxt "0030"
+#. はい
+msgctxt "0029 | c03_005_101 | C024_Mdam_"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0031"
+#. いいえ
+msgctxt "0030 | c03_005_101 | C024_Mdam_"
 msgid "No"
 msgstr ""
 
-msgctxt "0032"
+#. もしかして悩んでいるの？
+msgctxt "0031 | c03_005_101 | C024_Mdam_"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0033"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0032 | c03_005_101 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0034"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+msgctxt "0033 | c03_005_101 | chara_Blank"
 msgid "<CLT=cltMIND>It's a monitor for communicating with us."
 msgstr ""
 
-msgctxt "0035"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0034 | c03_005_101 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0036"
+#. <CLT=cltMIND>ごく普通のベッドだ。
+#. 寝心地は悪くなかったな…
+msgctxt "0035 | c03_005_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a normal bed.\n"
 "It was pretty comfortable."
 msgstr ""
 
-msgctxt "0037"
+#. <CLT=cltMIND>かなり大きな照明だ。
+#. お陰で明るいけど…
+msgctxt "0036 | c03_005_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a pretty big light.\n"
 "It lights the room well..."
 msgstr ""
 
-msgctxt "0038"
+#. <CLT=cltMIND>クローゼットの中には、
+#. 僕の制服と同じものが何着も入っている。
+msgctxt "0037 | c03_005_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>My closet is filled with\n"
 "uniforms exactly like mine..."
 msgstr ""
 
-msgctxt "0039"
+#. <CLT=cltMIND>わざわざ同じ制服を何着も用意したのは、
+#. 何か狙いがあるのか？
+msgctxt "0038 | c03_005_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Why did they go out of their way to make\n"
 "this? What purpose could this serve?"

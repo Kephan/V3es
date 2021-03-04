@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,103 +11,132 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. …あれ？
+msgctxt "0000 | c03_004_019 | C000_Saiha"
 msgid "...Huh?"
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>元通りに…なってる？
+msgctxt "0001 | c03_004_019 | chara_Blank"
 msgid "<CLT=cltMIND>It's...back to normal?"
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>モノクマが片付けた…のか？
+msgctxt "0002 | c03_004_019 | chara_Blank"
 msgid "<CLT=cltMIND>Did Monokuma...clean everything up?"
 msgstr ""
 
-msgctxt "0004"
+#. はい
+msgctxt "0003 | c03_004_019 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0005"
+#. いいえ
+msgctxt "0004 | c03_004_019 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0006"
+#. もしかして悩んでいるの？
+msgctxt "0005 | c03_004_019 | chara_Blank"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0006 | c03_004_019 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>このモニターってどこにでもあるんだな。
+#. いい加減、見飽きたぞ…
+msgctxt "0007 | c03_004_019 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>These monitors are everywhere...\n"
 "I'm tired of seeing them."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>…本が隙間なく詰め込まれている。
+msgctxt "0008 | c03_004_019 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The books are packed\n"
 "together tightly..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>立派な装丁の本もある。
+#. こんな所に置いていくのはもったいないな。
+msgctxt "0009 | c03_004_019 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Some of these books have nice bindings.\n"
 "It would be a shame to leave them here..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>様々な言語の本が並んでいる…
+msgctxt "0010 | c03_004_019 | chara_Blank"
 msgid "<CLT=cltMIND>There are books in various languages..."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>見た事もない言語で書かれているものもある。
+#. どこの国の言葉なんだろう？
+msgctxt "0011 | c03_004_019 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Even some languages I've never seen\n"
 "before. What country are these from?"
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>難しそうな専門書が並んでいるけど…
+#. この本を利用していた人達はいたんだろうか？
+msgctxt "0012 | c03_004_019 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>These are some expert-level textbooks...\n"
 "I wonder if someone was using them?"
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>一体、いつから…
+#. 赤松さんは、あの計画を胸に秘めていたんだろう…
+msgctxt "0013 | c03_004_019 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I wonder when Kaede came up with her\n"
 "plan. How long was she carrying that burden?"
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>…天海くんも僕も、同じように
+#. この本棚の仕掛けに気が付いていた。
+msgctxt "0014 | c03_004_019 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Rantaro noticed the trick to this bookcase.\n"
 "Just like me..."
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>僕と天海くんの差は…
+#. 信用できる相手がいたかどうかだけ。
+msgctxt "0015 | c03_004_019 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The only difference between me and him...\n"
 "is that I had someone I could trust."
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>もし赤松さんがいなかったら…
+#. 僕は…どうしていただろう…
+msgctxt "0016 | c03_004_019 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I wonder what I would've done...\n"
 "if Kaede hadn't been there..."
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltMIND>ちょっと変わった地球儀だな…
+msgctxt "0017 | c03_004_019 | chara_Blank"
 msgid "<CLT=cltMIND>What an unusual globe..."
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltMIND>あの時、赤松さんの様子がおかしい事に
+#. 気が付いていれば…
+msgctxt "0018 | c03_004_019 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>If only I had realized that\n"
 "Kaede was acting strangely..."
 msgstr ""
 
-msgctxt "0020"
+#. <CLT=cltMIND>あんな事には…ならなかったのに…
+msgctxt "0019 | c03_004_019 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Maybe things wouldn't...\n"
 "have ended up this way..."

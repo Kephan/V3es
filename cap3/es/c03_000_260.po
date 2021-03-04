@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,47 +11,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. はい
+msgctxt "0000 | c03_000_260 | C070_kak11"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0002"
+#. いいえ
+msgctxt "0001 | c03_000_260 | C070_kak11"
 msgid "No"
 msgstr ""
 
-msgctxt "0003"
+#. もしかして悩んでいるの？
+msgctxt "0002 | c03_000_260 | C070_kak11"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0003 | c03_000_260 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0005"
+#. 謎の文字
+msgctxt "0004 | c03_000_260 | chara_Blank"
 msgid "Mysterious Letters"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0005 | c03_000_260 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0006 | c03_000_260 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>生徒会のみんなが言った通り、
+#. マンホールの上にガレキが積み上がっている…
+msgctxt "0007 | c03_000_260 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's like they said...\n"
 "there's rubble piled on top of the manhole."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>これじゃ、中に入る事はできそうにない。
+msgctxt "0008 | c03_000_260 | chara_Blank"
 msgid "<CLT=cltMIND>I don't think I can get in..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>このガレキを退かす腕力があるのは、
+#. ゴン太くんくらいだろうな…
+msgctxt "0009 | c03_000_260 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The only person strong enough to\n"
 "move all this would be Gonta."

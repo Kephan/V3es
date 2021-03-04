@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,74 +11,96 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. はい
+msgctxt "0000 | c03_000_037 | non"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0002"
+#. いいえ
+msgctxt "0001 | c03_000_037 | non"
 msgid "No"
 msgstr ""
 
-msgctxt "0003"
+#. もしかして悩んでいるの？
+msgctxt "0002 | c03_000_037 | non"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0003 | c03_000_037 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>壁に掛けられたロウソク…
+#. この部屋の明かりはこれだけだ。
+msgctxt "0004 | c03_000_037 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Candles hung on the walls...\n"
 "They're the only source of light in the room."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>ここは窓がないから、
+#. ロウソクを消したら真っ暗になるだろうな…
+msgctxt "0005 | c03_000_037 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There's no window in this room, so if you\n"
 "blew out the candles, it'd be pitch-dark."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>壁に掛けられたロウソク…
+#. この部屋の明かりはこれだけだ。
+msgctxt "0006 | c03_000_037 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Candles hung on the walls...\n"
 "They're the only source of light in the room."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>ここは窓がないから、
+#. ロウソクを消したら真っ暗になるだろうな…
+msgctxt "0007 | c03_000_037 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There's no window in this room, so if you\n"
 "blew out the candles, it'd be pitch-dark."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>ここの床板は、<CLT=cltSTRONG>“根太”<CLT=cltMIND>という横木の上に
+#. 床板を並べて置いてあるだけみたいだ。
+msgctxt "0008 | c03_000_037 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It seems these floorboards are layered on\n"
 "top of <CLT=cltSTRONG>crosspieces<CLT=cltMIND>."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>足元が不安定な気がするのはそのせいらしい。
+msgctxt "0009 | c03_000_037 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Perhaps that's why the floor isn't\n"
 "entirely stable..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>部屋の隅の方は隙間もあるから…
+#. そっちはあまり歩かない方がよさそうだ。
+msgctxt "0010 | c03_000_037 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There's also a hole in the corner of the room.\n"
 "I shouldn't walk too close to there..."
 msgstr ""
 
-msgctxt "0012"
+#. 床の穴
+msgctxt "0011 | c03_000_037 | chara_Blank"
 msgid "Hole in the Corner"
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0012 | c03_000_037 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0013 | c03_000_037 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""

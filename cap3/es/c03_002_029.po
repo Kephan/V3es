@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,348 +11,446 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>見た事もない巨大な電子機器がある。
+#. ここって一体――
+msgctxt "0000 | c03_002_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a giant machine... I've never seen\n"
 "this before. What could this—"
 msgstr ""
 
-msgctxt "0002"
+#. ココマデ来タッテ事ハ…
+#. アノ絵画ノ…謎ヲ解イタンダネ。
+msgctxt "0001 | c03_002_029 | C024_Mdam_"
 msgid ""
 "IF-YOU'VE-COME-THIS-FAR...THAT-MEANS-\n"
 "YOU-SOLVED-THE-PAINTING-PUZZLE..."
 msgstr ""
 
-msgctxt "0003"
+#. 素晴ラシイ…チームワークダネ。
+msgctxt "0002 | c03_002_029 | C024_Mdam_"
 msgid "EXCELLENT...TEAMWORK."
 msgstr ""
 
-msgctxt "0004"
+#. え？　チームワークって？
+#. 最原クン１人しかいないよ？
+msgctxt "0003 | c03_002_029 | C021_Mtaro"
 msgid "Huh? What teamwork? It's just Shuichi."
 msgstr ""
 
-msgctxt "0005"
+#. アノ謎ハ難シイカラ…１人デハ解ケナイヨ。
+msgctxt "0004 | c03_002_029 | C024_Mdam_"
 msgid ""
 "THAT-PUZZLE-WAS-TOO-DIFFICULT-FOR-\n"
 "ONE-PERSON-TO-SOLVE."
 msgstr ""
 
-msgctxt "0006"
+#. ミンナデ仲良ク…解イタニ決マッテル。
+msgctxt "0005 | c03_002_029 | C024_Mdam_"
 msgid ""
 "I'M-SURE...THEY-GOT-ALONG-AND-SOLVED-\n"
 "IT-TOGETHER."
 msgstr ""
 
-msgctxt "0007"
+#. そ、そういう事にしておきましょうか…
+#. 下手に逆らうと、アタイ達の身が危険だしね。
+msgctxt "0006 | c03_002_029 | C023_Mfunn"
 msgid ""
 "L-Let's just play along... We'll put ourselves\n"
 "in danger if we defy him."
 msgstr ""
 
-msgctxt "0008"
+#. 真面目なヤツほどキレると怖いって本当だよね。
+msgctxt "0007 | c03_002_029 | C021_Mtaro"
 msgid ""
 "It's true what they say—the serious ones\n"
 "are the scariest when they finally snap."
 msgstr ""
 
-msgctxt "0009"
+#. マサカトハ思ウケド…
+msgctxt "0008 | c03_002_029 | C024_Mdam_"
 msgid "I'M-CERTAIN-IT'S-NOT-POSSIBLE..."
 msgstr ""
 
-msgctxt "0010"
+#. 時代遅レノポンコツガ、
+#. 手ヲ貸シタリシテナイヨネ？
+msgctxt "0009 | c03_002_029 | C024_Mdam_"
 msgid ""
 "BUT-DID-THAT-OUTDATED-PIECE-OF-JUNK-\n"
 "HELP-YOU-AT-ALL?"
 msgstr ""
 
-msgctxt "0011"
+#. ………………
+msgctxt "0010 | c03_002_029 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0012"
+#. あぁ、そうそう…
+#. この部屋の説明をしておかないとね。
+msgctxt "0011 | c03_002_029 | C023_Mfunn"
 msgid "Oh, yes... We should explain this room."
 msgstr ""
 
-msgctxt "0013"
+#. あのね、ここは<CLT=cltSTRONG>“コンピュータールーム”<CLT=cltNORMAL>なのよ。
+msgctxt "0012 | c03_002_029 | C023_Mfunn"
 msgid "So this is the <CLT=cltSTRONG>computer room<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>…コンピュータールーム？
+msgctxt "0013 | c03_002_029 | chara_Blank"
 msgid "<CLT=cltMIND>Computer room?"
 msgstr ""
 
-msgctxt "0015"
+#. でも、普通のコンピュータールームとは訳が違うんだ。
+msgctxt "0014 | c03_002_029 | C021_Mtaro"
 msgid ""
 "But this computer isn't just some ordinary\n"
 "computer."
 msgstr ""
 
-msgctxt "0016"
+#. ほら、あそこに見えるコンピューターなんかは、
+#. なんかもう…とてつもなく凄いんだよ。
+msgctxt "0015 | c03_002_029 | C021_Mtaro"
 msgid ""
 "This computer you're lookin' at is, like...\n"
 "super amazing."
 msgstr ""
 
-msgctxt "0017"
+#. オイラの記憶が正しければ…
+#. <CLT=cltSTRONG>“新しい世界”<CLT=cltNORMAL>だって作れちゃうくらいにね！
+msgctxt "0016 | c03_002_029 | C021_Mtaro"
 msgid ""
 "If I remember correctly...it's so amazing, you\n"
 "can even use it to create a <CLT=cltSTRONG>new world<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0018"
+#. …新しい世界？
+msgctxt "0017 | c03_002_029 | C000_Saiha"
 msgid "A \"new world\"?"
 msgstr ""
 
-msgctxt "0019"
+#. うん、まさに新世界なんだ！
+#. これを使えば、新世界を作れちゃうんだよ！
+msgctxt "0018 | c03_002_029 | C021_Mtaro"
 msgid ""
 "Yeah, a new world! You can use this to\n"
 "create a new world!"
 msgstr ""
 
-msgctxt "0020"
+#. …って、ここまで言って良かったんだっけ？
+#. 段取り忘れちゃったよ。
+msgctxt "0019 | c03_002_029 | C021_Mtaro"
 msgid ""
 "...Wait, were we supposed to tell him that?\n"
 "I've already forgotten the plan."
 msgstr ""
 
-msgctxt "0021"
+#. 完全に言い過ぎよ。
+msgctxt "0020 | c03_002_029 | C023_Mfunn"
 msgid "You totally said way too much."
 msgstr ""
 
-msgctxt "0022"
+#. うわーっ！　やっぱり！
+msgctxt "0021 | c03_002_029 | C021_Mtaro"
 msgid "Wahhhh! I knew it!"
 msgstr ""
 
-msgctxt "0023"
+#. モノタロウって本当に忘れん坊ね！
+#. 言っていい事と悪い事くらい、ちゃんと覚えなさいよ！
+msgctxt "0022 | c03_002_029 | C023_Mfunn"
 msgid ""
 "You're so forgetful, Monotaro! You gotta try\n"
 "to remember what you can and can't say!"
 msgstr ""
 
-msgctxt "0024"
+#. ご、ごめんよ…
+msgctxt "0023 | c03_002_029 | C021_Mtaro"
 msgid "S-Sorry..."
 msgstr ""
 
-msgctxt "0025"
+#. モノファニーハ…ナンデ助ケナカッタノ？
+msgctxt "0024 | c03_002_029 | C024_Mdam_"
 msgid "...WHY-DIDN'T-YOU-HELP-HIM, MONOPHANIE?"
 msgstr ""
 
-msgctxt "0026"
+#. えっ？
+msgctxt "0025 | c03_002_029 | C023_Mfunn"
 msgid "Huh?"
 msgstr ""
 
-msgctxt "0027"
+#. 言イ過ギダッテ気付イタラ、
+#. スグニ助ケテアゲレバ良カッタヨネ？
+msgctxt "0026 | c03_002_029 | C024_Mdam_"
 msgid ""
 "WHEN-YOU-REALIZED-HE-WAS-SAYING-TOO-\n"
 "MUCH, YOU-COULD'VE-HELPED-HIM, RIGHT?"
 msgstr ""
 
-msgctxt "0028"
+#. ネェ、ナンデ？
+msgctxt "0027 | c03_002_029 | C024_Mdam_"
 msgid "SO-WHY-DIDN'T-YOU?"
 msgstr ""
 
-msgctxt "0029"
+#. 仲良シナンダヨネ？
+#. ナンデ助ケテアゲナカッタノ？
+msgctxt "0028 | c03_002_029 | C024_Mdam_"
 msgid ""
 "YOU'RE-FRIENDS, RIGHT?\n"
 "SO-WHY-DIDN'T-YOU-HELP-HIM?"
 msgstr ""
 
-msgctxt "0030"
+#. あ、えっと…そ、それはその…
+msgctxt "0029 | c03_002_029 | C023_Mfunn"
 msgid "Uh, um...well...um..."
 msgstr ""
 
-msgctxt "0031"
+#. 仲良クデキナイナラ…罰ガアルヨ。
+msgctxt "0030 | c03_002_029 | C024_Mdam_"
 msgid ""
 "IF-YOU-CAN'T-GET-ALONG...\n"
 "YOU-WILL-BE-PUNISHED."
 msgstr ""
 
-msgctxt "0032"
+#. モチロン…モノタロウモ
+#. 仲良ク連帯責任ダカラ。
+msgctxt "0031 | c03_002_029 | C024_Mdam_"
 msgid ""
 "YOU-TOO, MONOTARO. FRIENDS-SHARE-\n"
 "EVERYTHING...EVEN-PUNISHMENTS."
 msgstr ""
 
-msgctxt "0033"
+#. えっ！？　完全にとばっちり！
+msgctxt "0032 | c03_002_029 | C021_Mtaro"
 msgid "What!? Backfire!"
 msgstr ""
 
-msgctxt "0034"
+#. <CLT=cltMIND>新しい世界って…なんの事を言ってるんだ？
+msgctxt "0033 | c03_002_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This machine can make a new world...\n"
 "What are they talking about?"
 msgstr ""
 
-msgctxt "0035"
+#. でも…大してコンピューターに強くない僕じゃ、
+#. いくら調べてもわからないんだろうな。
+msgctxt "0034 | c03_002_029 | C000_Saiha"
 msgid ""
 "I'm not good with computers...I don't think I'd\n"
 "understand it no matter how much I investigate."
 msgstr ""
 
-msgctxt "0036"
+#. <CLT=cltMIND>もう少し、ここを調べてみよう…
+msgctxt "0035 | c03_002_029 | chara_Blank"
 msgid "<CLT=cltMIND>I'll investigate around here a little more."
 msgstr ""
 
-msgctxt "0037"
+#. はい
+msgctxt "0036 | c03_002_029 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0038"
+#. いいえ
+msgctxt "0037 | c03_002_029 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0039"
+#. もしかして悩んでいるの？
+msgctxt "0038 | c03_002_029 | chara_Blank"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0040"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0039 | c03_002_029 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0041"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0040 | c03_002_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0042"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0041 | c03_002_029 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0043"
+#. <CLT=cltMIND>緑色の巨大な弁当箱みたいなコンピューターが、
+#. 部屋のど真ん中に鎮座している。
+msgctxt "0042 | c03_002_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There's a giant green computer\n"
 "in the middle of the room."
 msgstr ""
 
-msgctxt "0044"
+#. これを使えば新世界を作れるって言ってたけど、
+#. どういう意味なんだ…？
+msgctxt "0043 | c03_002_029 | C000_Saiha"
 msgid ""
 "This machine can make a new world...\n"
 "What could that mean?"
 msgstr ""
 
-msgctxt "0045"
+#. <CLT=cltMIND>けど、僕の大して豊富でもないパソコン知識じゃ、
+#. 太刀打ちできなさそうだし…
+msgctxt "0044 | c03_002_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>With how little I know about computers,\n"
 "I don't think I stand a chance."
 msgstr ""
 
-msgctxt "0046"
+#. とりあえず…今は放っておくしかないか。
+msgctxt "0045 | c03_002_029 | C000_Saiha"
 msgid ""
 "I guess...I have no choice but to leave\n"
 "it be for now."
 msgstr ""
 
-msgctxt "0047"
+#. <CLT=cltMIND>緑色の巨大な弁当箱みたいなコンピューターが、
+#. 部屋のど真ん中に鎮座している。
+msgctxt "0046 | c03_002_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There's a giant green computer\n"
 "in the middle of the room."
 msgstr ""
 
-msgctxt "0048"
+#. これを使えば新世界を作れるって言ってたけど、
+#. どういう意味なんだ…？
+msgctxt "0047 | c03_002_029 | C000_Saiha"
 msgid ""
 "This machine can make a new world...\n"
 "What could that mean?"
 msgstr ""
 
-msgctxt "0049"
+#. <CLT=cltMIND>けど、僕の大して豊富でもないパソコン知識じゃ、
+#. 太刀打ちできなさそうだし…
+msgctxt "0048 | c03_002_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>With the little I know about computers,\n"
 "I don't think I stand a chance."
 msgstr ""
 
-msgctxt "0050"
+#. とりあえず…今は放っておくしかないか。
+msgctxt "0049 | c03_002_029 | C000_Saiha"
 msgid ""
 "I guess...I have no choice but to leave\n"
 "it be for now."
 msgstr ""
 
-msgctxt "0051"
+#. <CLT=cltMIND>あ、この宝箱って…！
+msgctxt "0050 | c03_002_029 | chara_Blank"
 msgid "<CLT=cltMIND>Ah! A treasure chest!"
 msgstr ""
 
-msgctxt "0052"
+#. <CLT=cltMIND>僕はすぐにその宝箱を開けた。
+#. すると…
+msgctxt "0051 | c03_002_029 | chara_Blank"
 msgid "<CLT=cltMIND>I opened the chest eagerly, and..."
 msgstr ""
 
-msgctxt "0053"
+#. やっと見つけたぞ…<CLT=cltSTRONG>“思い出しライト”<CLT=cltNORMAL>だ。
+msgctxt "0052 | c03_002_029 | C000_Saiha"
 msgid ""
 "I found one...\n"
 "A <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0054"
+#. <CLT=cltMIND>これで…今度こそわかるかもな。
+#. この学園の謎や…僕らがこの学園にいる理由が。
+msgctxt "0053 | c03_002_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>With this...I can find out what this place\n"
 "is, why we're here..."
 msgstr ""
 
-msgctxt "0055"
+#. <CLT=cltMIND>でも、その前に…
+msgctxt "0054 | c03_002_029 | chara_Blank"
 msgid "<CLT=cltMIND>But, before that..."
 msgstr ""
 
-msgctxt "0056"
+#. <CLT=cltSTRONG>“思い出しライト”<CLT=cltMIND>が入っていた宝箱だ。
+msgctxt "0055 | c03_002_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's the treasure chest that had\n"
 "the <CLT=cltSTRONG>Flashback Light<CLT=cltMIND> inside."
 msgstr ""
 
-msgctxt "0057"
+#. <CLT=cltMIND>これで、今度こそわかるかもな…
+#. この学園の謎や…僕らがこの学園にいる理由が…
+msgctxt "0056 | c03_002_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>With this...I can find out what this place\n"
 "is, why we're here..."
 msgstr ""
 
-msgctxt "0058"
+#. <CLT=cltMIND>でも、その前に…
+msgctxt "0057 | c03_002_029 | chara_Blank"
 msgid "<CLT=cltMIND>But, before that..."
 msgstr ""
 
-msgctxt "0059"
+#. <CLT=cltSTRONG>“思い出しライト”<CLT=cltMIND>が入っていた宝箱だ。
+msgctxt "0058 | c03_002_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's the treasure chest that had\n"
 "the <CLT=cltSTRONG>Flashback Light<CLT=cltMIND> inside."
 msgstr ""
 
-msgctxt "0060"
+#. <CLT=cltMIND>これで、今度こそわかるかもな…
+#. この学園の謎や…僕らがこの学園にいる理由が…
+msgctxt "0059 | c03_002_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>With this...I can find out what this place\n"
 "is, why we're here..."
 msgstr ""
 
-msgctxt "0061"
+#. <CLT=cltMIND>でも、その前に…
+msgctxt "0060 | c03_002_029 | chara_Blank"
 msgid "<CLT=cltMIND>But, before that..."
 msgstr ""
 
-msgctxt "0062"
+#. あっ！　<CLT=cltSTRONG>“思い出しライト”<CLT=cltNORMAL>を見つけたんだね！
+msgctxt "0061 | c03_002_029 | C005_Oma__"
 msgid "Oh! You found the <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0063"
+#. いやー、尊敬しちゃうなー。
+#. 顔の割には、最原ちゃんもやるねー！
+msgctxt "0062 | c03_002_029 | C005_Oma__"
 msgid ""
 "Wooow! You're pretty dependable, despite\n"
 "that lame face of yours! I respect that."
 msgstr ""
 
-msgctxt "0064"
+#. …う、うん。
+msgctxt "0063 | c03_002_029 | C000_Saiha"
 msgid "Y-Yeah..."
 msgstr ""
 
-msgctxt "0065"
+#. じゃあ、オレがみんなに声を掛けておくから、
+#. 最原ちゃんもそれを食堂に持って来てよ。
+msgctxt "0064 | c03_002_029 | C005_Oma__"
 msgid ""
 "I'll get the others. You just bring that to the\n"
 "dining hall, Shuichi."
 msgstr ""
 
-msgctxt "0066"
+#. オレは先に行ってるよー！　ばいばーい！
+msgctxt "0065 | c03_002_029 | C005_Oma__"
 msgid "Welp, off I go! See yaaaaaaa!"
 msgstr ""
 
-msgctxt "0067"
+#. <CLT=cltMIND>と、一方的にまくし立てると、
+#. 王馬くんは元気に手を振りながら出ていった。
+msgctxt "0066 | c03_002_029 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>He chatted away, and I couldn't get a\n"
 "word in edgewise. He left, waving goodbye."
 msgstr ""
 
-msgctxt "0068"
+#. <CLT=cltMIND>でも、その前に…
+msgctxt "0067 | c03_002_029 | chara_Blank"
 msgid "<CLT=cltMIND>But, before that..."
 msgstr ""

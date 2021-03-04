@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,316 +11,403 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 夢野さん、おはよう。
+msgctxt "0000 | c03_006_258 | C000_Saiha"
 msgid "Himiko, good morning."
 msgstr ""
 
-msgctxt "0002"
+#. んあー…
+msgctxt "0001 | c03_006_258 | C009_Yumen"
 msgid "Nyeeeh..."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>今の…おはようって意味か？
+msgctxt "0002 | c03_006_258 | chara_Blank"
 msgid "<CLT=cltMIND>Did that mean...\"good morning\"?"
 msgstr ""
 
-msgctxt "0004"
+#. めんどいのぉ…
+#. どうして朝から体育館なんぞに集まるんじゃ…
+msgctxt "0003 | c03_006_258 | C009_Yumen"
 msgid ""
 "What a pain... Why do we have to go \n"
 "to the gym so early in the morning...?"
 msgstr ""
 
-msgctxt "0005"
+#. 理由はわからないけど…良い予感はしないね。
+msgctxt "0004 | c03_006_258 | C000_Saiha"
 msgid ""
 "I don't know...but I don't think\n"
 "it's anything good."
 msgstr ""
 
-msgctxt "0006"
+#. 今日は大切な集会があるというのに…
+#. その前に体力を使ってしまうではないか…
+msgctxt "0005 | c03_006_258 | C009_Yumen"
 msgid ""
 "We have an important student council meeting\n"
 "today, but this is gonna use up all my energy..."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>…大切な集会？
+msgctxt "0006 | c03_006_258 | chara_Blank"
 msgid "<CLT=cltMIND>An important meeting?"
 msgstr ""
 
-msgctxt "0008"
+#. まぁまぁ、大丈夫だよ。
+#. 体育館に行くくらいでそんなに体力使わないって。
+msgctxt "0007 | c03_006_258 | C012_Shiro"
 msgid ""
 "Now now, it's okay. You won't use up too \n"
 "much energy just walking to the gym."
 msgstr ""
 
-msgctxt "0009"
+#. んあ…
+msgctxt "0008 | c03_006_258 | C009_Yumen"
 msgid "Nyeh..."
 msgstr ""
 
-msgctxt "0010"
+#. あの、集会って…？
+#. 何かやるの？
+msgctxt "0009 | c03_006_258 | C000_Saiha"
 msgid ""
 "Hey, about this \"meeting\"...\n"
 "Are you planning something?"
 msgstr ""
 
-msgctxt "0011"
+#. あぁ、うん、ちょっとね…
+#. アンジーさん発案で親睦会をやろうって話があって。
+msgctxt "0010 | c03_006_258 | C012_Shiro"
 msgid ""
 "Oh, yeah, sort of... Angie said we should \n"
 "have a party."
 msgstr ""
 
-msgctxt "0012"
+#. この後、みんなでプールで遊ぶつもりなんだ。
+msgctxt "0011 | c03_006_258 | C012_Shiro"
 msgid ""
 "We were planning to play in the pool \n"
 "with everyone after this."
 msgstr ""
 
-msgctxt "0013"
+#. へぇ…
+msgctxt "0012 | c03_006_258 | C000_Saiha"
 msgid "I see..."
 msgstr ""
 
-msgctxt "0014"
+#. 神さまがプールに入りたいって言ってるんだって。
+msgctxt "0013 | c03_006_258 | C012_Shiro"
 msgid "Atua said he wanted to play in the pool."
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>…妙に庶民的な神さまだな。
+msgctxt "0014 | c03_006_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>...What a peculiar request for\n"
 "a god to make."
 msgstr ""
 
-msgctxt "0016"
+#. なんて、そんな話をしてる場合じゃないよ！
+msgctxt "0015 | c03_006_258 | C012_Shiro"
 msgid ""
 "Oh no! Now's no time to be standing \n"
 "here talking!"
 msgstr ""
 
-msgctxt "0017"
+#. 早く体育館に行かないと、
+#. 顔面を蜜柑の皮みたいに剥がれちゃうかも！
+msgctxt "0016 | c03_006_258 | C012_Shiro"
 msgid ""
 "If we don't hurry to the gym, our faces might\n"
 "get peeled off like mandarin oranges!"
 msgstr ""
 
-msgctxt "0018"
+#. 蜜柑は嫌いじゃ…
+#. 房についてる白いのを取るのがめんどいからな…
+msgctxt "0017 | c03_006_258 | C009_Yumen"
 msgid ""
 "I don't like mandarin oranges.\n"
 "Peeling off all the white stuff is a pain..."
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltMIND>プールか…
+#. きっと女子のみんなで遊ぶって事なんだろうな。
+msgctxt "0018 | c03_006_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The pool...\n"
 "So that's where all the girls will be..."
 msgstr ""
 
-msgctxt "0020"
+#. ………………
+msgctxt "0019 | c03_006_258 | C020_Monok"
 msgid "..."
 msgstr "..."
 
-msgctxt "0021"
+#. うわあっ！
+msgctxt "0020 | c03_006_258 | C000_Saiha"
 msgid "Aaugh!"
 msgstr ""
 
-msgctxt "0022"
+#. ………………
+msgctxt "0021 | c03_006_258 | C020_Monok"
 msgid "..."
 msgstr "..."
 
-msgctxt "0023"
+#. な、なんだよ…
+#. 何か用があるのか？
+msgctxt "0022 | c03_006_258 | C000_Saiha"
 msgid "Wh-What? Do you want something from me?"
 msgstr ""
 
-msgctxt "0024"
+#. ………………
+msgctxt "0023 | c03_006_258 | C020_Monok"
 msgid "..."
 msgstr "..."
 
-msgctxt "0025"
+#. <CLT=cltMIND>モノクマは僕をじっと見つめてくる。
+#. それは、まるで何かを訴えるようで…
+msgctxt "0024 | c03_006_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Monokuma stared at me silently, intensely,\n"
 "as though he were trying to tell me something."
 msgstr ""
 
-msgctxt "0026"
+#. ほ、本当に、なんなんだよ！
+#. 言いたい事があるのなら言えって！
+msgctxt "0025 | c03_006_258 | C000_Saiha"
 msgid ""
 "Well? What is it?\n"
 "If you have something to say, say it!"
 msgstr ""
 
-msgctxt "0027"
+#. ………………
+msgctxt "0026 | c03_006_258 | C020_Monok"
 msgid "..."
 msgstr "..."
 
-msgctxt "0028"
+#. <CLT=cltMIND>その時、僕の脳裏に閃きが走った…！
+msgctxt "0027 | c03_006_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Suddenly, a thought flashed into\n"
 "my mind!"
 msgstr ""
 
-msgctxt "0029"
+#. <CLT=cltMIND>そこにロマンがあるじゃないか…
+msgctxt "0028 | c03_006_258 | chara_Blank"
 msgid "<CLT=cltMIND>A...man's...fantasy..."
 msgstr ""
 
-msgctxt "0030"
+#. <CLT=cltMIND>こ、こいつ、直接脳内に…！？
+msgctxt "0029 | c03_006_258 | chara_Blank"
 msgid "<CLT=cltMIND>Wh-Where is this thought coming from?"
 msgstr ""
 
-msgctxt "0031"
+#. <CLT=cltMIND>いや、違う…
+#. 今のは…僕自身の心の声…
+msgctxt "0030 | c03_006_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Not from my mind...\n"
 "From my heart?"
 msgstr ""
 
-msgctxt "0032"
+#. <CLT=cltMIND>なぜなら、僕は持っている！
+#. 胸に男のロマン砲を抱いてるのだから！
+msgctxt "0031 | c03_006_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Yes, my heart! For I have\n"
 "love on my side!"
 msgstr ""
 
-msgctxt "0033"
+#. ………………
+msgctxt "0032 | c03_006_258 | C020_Monok"
 msgid "..."
 msgstr "..."
 
-msgctxt "0034"
+#. わかったよ…お前は教えに来てくれたんだな。
+#. 今が『その時』だと。
+msgctxt "0033 | c03_006_258 | C000_Saiha"
 msgid ""
 "I understand now, Monokuma. You're\n"
 "telling me...that it's time."
 msgstr ""
 
-msgctxt "0035"
+#. <CLT=cltMIND>そうだ、夢野さん達がプールで遊ぶという事は、
+#. 水着になるという事でもあり…
+msgctxt "0034 | c03_006_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The girls are going to go play in the\n"
 "pool, which means they'll be in swimsuits."
 msgstr ""
 
-msgctxt "0036"
+#. <CLT=cltMIND>そこに、ロマン砲を放つべき光景が出現する！！
+msgctxt "0035 | c03_006_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>That *must* mean a zany-yet-romantic\n"
 "scene will play out! And I'll be there!"
 msgstr ""
 
-msgctxt "0037"
+#. ………………
+msgctxt "0036 | c03_006_258 | C020_Monok"
 msgid "..."
 msgstr "..."
 
-msgctxt "0038"
+#. <CLT=cltMIND>で、でも…
+msgctxt "0037 | c03_006_258 | chara_Blank"
 msgid "<CLT=cltMIND>But...should I?"
 msgstr ""
 
-msgctxt "0039"
+#. はい
+msgctxt "0038 | c03_006_258 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0040"
+#. <CLT=cltMIND>いいや、ここで怯んでどうする…
+msgctxt "0039 | c03_006_258 | chara_Blank"
 msgid "<CLT=cltMIND>Yes, I can't back down now."
 msgstr ""
 
-msgctxt "0041"
+#. <CLT=cltMIND>胸のロマン砲はエネルギー充填完了！
+#. フルパワー、１００％中の１００％！！
+msgctxt "0040 | c03_006_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The power of love in my chest has\n"
 "filled my throbbing heart! Full charge!"
 msgstr ""
 
-msgctxt "0042"
+#. <CLT=cltMIND>行くしか…ないんだ…！
+msgctxt "0041 | c03_006_258 | chara_Blank"
 msgid "<CLT=cltMIND>I have no choice. I *must* go!"
 msgstr ""
 
-msgctxt "0043"
+#. いいえ
+msgctxt "0042 | c03_006_258 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0044"
+#. <CLT=cltMIND>そうだよな…
+#. 覗きなんてする訳にはいかない…
+msgctxt "0043 | c03_006_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>No...\n"
 "I shouldn't be peeking."
 msgstr ""
 
-msgctxt "0045"
+#. <CLT=cltMIND>やめておこう…
+msgctxt "0044 | c03_006_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I can't let Monokuma\n"
 "manipulate me..."
 msgstr ""
 
-msgctxt "0046"
+#. もしかして悩んでいるの？
+msgctxt "0045 | c03_006_258 | chara_Blank"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0047"
+#. <CLT=cltMIND>そんな事していいのか？
+#. 見つかったら、茶柱さんに絞め殺されるぞ…！
+msgctxt "0046 | c03_006_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Is it really okay to be doing\n"
 "something like that? Tenko would kill me..."
 msgstr ""
 
-msgctxt "0048"
+#. <CLT=cltMIND>こんな状況なんだ…息抜きも必要だよな。
+msgctxt "0047 | c03_006_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I suppose that's just the situation we're\n"
 "in. Everyone needs a break every now and then."
 msgstr ""
 
-msgctxt "0049"
+#. おはよう、白銀さん。
+msgctxt "0048 | c03_006_258 | C000_Saiha"
 msgid "Good morning, Tsumugi."
 msgstr ""
 
-msgctxt "0050"
+#. あぁ、おはよう。
+#. 最原君も体育館に向かうところ？
+msgctxt "0049 | c03_006_258 | C012_Shiro"
 msgid ""
 "Oh, good morning. Are you about to head \n"
 "to the gym too, Shuichi?"
 msgstr ""
 
-msgctxt "0051"
+#. うん、無視する訳にもいかないし。
+msgctxt "0050 | c03_006_258 | C000_Saiha"
 msgid ""
 "Yeah, I certainly don't want to\n"
 "ignore a summons like that."
 msgstr ""
 
-msgctxt "0052"
+#. だよね、仲良く来いって言ってたし…
+#. 全員集まらないと妙な言いがかりをつけられそう。
+msgctxt "0051 | c03_006_258 | C012_Shiro"
 msgid ""
 "Right? If we don't all show up, he might think\n"
 "we're not getting along or something..."
 msgstr ""
 
-msgctxt "0053"
+#. あのモノダムって子、
+#. 前は比較的信用できそうなんて思ってたけど…
+msgctxt "0052 | c03_006_258 | C012_Shiro"
 msgid ""
 "Before, I thought Monodam was the most \n"
 "reasonable one out of them, but..."
 msgstr ""
 
-msgctxt "0054"
+#. 仲良し仲良しって病的にこだわったり…
+#. その為に他のモノクマーズを殺しちゃったり…
+msgctxt "0053 | c03_006_258 | C012_Shiro"
 msgid ""
 "He's pathologically fixated on getting along...\n"
 "He's even killed other Monokubs over it..."
 msgstr ""
 
-msgctxt "0055"
+#. 実は一番ヤバイ子だったっぽいね。
+#. あれは１歩間違うとヤンデレまっしぐらだよ…
+msgctxt "0054 | c03_006_258 | C012_Shiro"
 msgid ""
 "It seems like he was actually the most dangerous\n"
 "one. One wrong step and he's full-on yandere..."
 msgstr ""
 
-msgctxt "0056"
+#. <CLT=cltMIND>…な、なんの話だ？
+msgctxt "0055 | c03_006_258 | chara_Blank"
 msgid "<CLT=cltMIND>...What is she talking about?"
 msgstr ""
 
-msgctxt "0057"
+#. なんて、ここで立ち話している場合じゃないか。
+#. 体育館に行かないと。
+msgctxt "0056 | c03_006_258 | C012_Shiro"
 msgid ""
 "But now's not the time to be standing \n"
 "around talking. We need to get to the gym."
 msgstr ""
 
-msgctxt "0058"
+#. <CLT=cltMIND>これにアイテムを使ったら一気にツタが枯れたけど…
+#. どう言う仕組みなんだ？
+msgctxt "0057 | c03_006_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>When I used the item, the vine suddenly\n"
 "withered... How does that work?"
 msgstr ""
 
-msgctxt "0059"
+#. <CLT=cltMIND>プール入り口　ゼルダギミック植物
+msgctxt "0058 | c03_006_258 | chara_Blank"
 msgid "<CLT=cltMIND>Pool Entrance Zelda gimmick plant"
 msgstr ""
 
-msgctxt "0060"
+#. <CLT=cltMIND>これが門の鍵になってたんだな…
+msgctxt "0059 | c03_006_258 | chara_Blank"
 msgid "<CLT=cltMIND>So this is the key to the gate..."
 msgstr ""
 
-msgctxt "0061"
+#. <CLT=cltMIND>カジノエリア扉　六角レンチギミック(閉)
+msgctxt "0060 | c03_006_258 | chara_Blank"
 msgid "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Closed)"
 msgstr ""
 
-msgctxt "0062"
+#. <CLT=cltMIND>カジノエリア扉　六角レンチギミック(開)
+msgctxt "0061 | c03_006_258 | chara_Blank"
 msgid "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Open)"
 msgstr ""

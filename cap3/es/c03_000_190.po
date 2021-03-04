@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,117 +11,152 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. …あれ？
+msgctxt "0000 | c03_000_190 | C000_Saiha"
 msgid "Huh?"
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>浮き輪がない…
+#. モノクマが片付けたのか？
+msgctxt "0001 | c03_000_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The innertube isn't here...\n"
 "Did Monokuma put it away?"
 msgstr ""
 
-msgctxt "0003"
+#. はい
+msgctxt "0002 | c03_000_190 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0004"
+#. いいえ
+msgctxt "0003 | c03_000_190 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_000_190 | chara_Blank"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0005 | c03_000_190 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>このモニターってどこにでもあるんだな。
+#. いい加減、見飽きたぞ…
+msgctxt "0006 | c03_000_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>These monitors are everywhere...\n"
 "I'm tired of seeing them."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>学校にある競技用のプールって言うよりは、
+#. リゾート地のプールみたいだ…
+msgctxt "0007 | c03_000_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This doesn't look like a normal school pool...\n"
 "more like a pool at a resort."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>深いプールだから少ないように見えるだけで、
+#. ちゃんと泳げるだけの水が入ってるんだったな。
+msgctxt "0008 | c03_000_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The pool is deep, but it isn't filled\n"
 "up all the way. Still, plenty of water to swim in."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>この、水が少ない事が…
+#. 東条さんの犯行を見破る助けになるなんてな…
+msgctxt "0009 | c03_000_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The water level was one piece of\n"
 "evidence I used to solve the case..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>ここは用具室だ。
+#. 中はプール用具でいっぱいらしい…
+msgctxt "0010 | c03_000_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This is a storage room.\n"
 "There's a lot of pool equipment inside."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>…体育館の窓だ。
+msgctxt "0011 | c03_000_190 | chara_Blank"
 msgid "<CLT=cltMIND>It's the gym window..."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>これと、校舎側の窓が
+#. ちょうど向かい合う位置に合った…
+msgctxt "0012 | c03_000_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This window and the one on the school\n"
 "building face each other."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>偶然なんだろうけど…
+#. 作為的なものを感じずにいられない…
+msgctxt "0013 | c03_000_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I'm sure it's just coincidence, but...\n"
 "some part of me thinks it was intentional."
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>学校の校舎の窓は
+#. ほとんどは塞がれてるけど…
+msgctxt "0014 | c03_000_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>All of the school's windows are\n"
 "blocked off..."
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>１つだけ使えそうな窓…
+#. これは、星くんの研究教室の窓だったんだな。
+msgctxt "0015 | c03_000_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>...except for the one\n"
 "in Ryoma's lab."
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>大きな飛び込み台だ…
+msgctxt "0016 | c03_000_190 | chara_Blank"
 msgid "<CLT=cltMIND>It's a large diving board."
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltMIND>これも…
+#. リゾート地にあるアトラクション用の物に見えるな。
+msgctxt "0017 | c03_000_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This is also something you would\n"
 "find at a resort..."
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltMIND>プールでの注意事項が書いてある。
+msgctxt "0018 | c03_000_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Some pool rules are posted here.\n"
 ""
 msgstr ""
 
-msgctxt "0020"
+#. 夜時間は遊泳禁止…か。
+msgctxt "0019 | c03_000_190 | C000_Saiha"
 msgid "Swimming is prohibited during nighttime."
 msgstr ""
 
-msgctxt "0021"
+#. <CLT=cltMIND>このルールが、
+#. 東条さんの完璧に近かった犯行に楔を入れた…
+msgctxt "0020 | c03_000_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>That one rule spoiled Kirumi's\n"
 "otherwise-perfect crime..."
 msgstr ""
 
-msgctxt "0022"
+#. <CLT=cltMIND>だからといって、モノクマやモノクマーズに
+#. 感謝する気はさらさらないけどな…
+msgctxt "0021 | c03_000_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>But I don't plan on thanking Monokuma\n"
 "or the Monokubs for that."

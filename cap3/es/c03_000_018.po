@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,60 +11,77 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. はい
+msgctxt "0000 | c03_000_018 | non"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0002"
+#. いいえ
+msgctxt "0001 | c03_000_018 | non"
 msgid "No"
 msgstr ""
 
-msgctxt "0003"
+#. もしかして悩んでいるの？
+msgctxt "0002 | c03_000_018 | non"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0003 | c03_000_018 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>変わった黒板だな…
+msgctxt "0004 | c03_000_018 | chara_Blank"
 msgid "<CLT=cltMIND>What an unusual blackboard..."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>有刺鉄線で塞がれている…
+msgctxt "0005 | c03_000_018 | chara_Blank"
 msgid "<CLT=cltMIND>It's blocked by barbed wire..."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>僕達をここから逃がさない。
+#. …まるで、そう言っているかのようだ。
+msgctxt "0006 | c03_000_018 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>They're sending a message.\n"
 "They're not going to let us escape..."
 msgstr ""
 
-msgctxt "0008"
+#. 教卓
+msgctxt "0007 | c03_000_018 | chara_Blank"
 msgid "Teacher's Desk"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>…僕と赤松さんが入っていたロッカーだ。
+msgctxt "0008 | c03_000_018 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>...These are the lockers Kaede\n"
 "and I were in."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>僕は…
+#. あの時、赤松さんに会えて…
+msgctxt "0009 | c03_000_018 | chara_Blank"
 msgid "<CLT=cltMIND>Meeting Kaede back then...was so..."
 msgstr ""
 
-msgctxt "0011"
+#. ………………
+msgctxt "0010 | c03_000_018 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0012"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0011 | c03_000_018 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0012 | c03_000_018 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""

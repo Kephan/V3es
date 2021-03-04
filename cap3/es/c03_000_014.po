@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,60 +11,75 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. はい
+msgctxt "0000 | c03_000_014 | non"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0002"
+#. いいえ
+msgctxt "0001 | c03_000_014 | non"
 msgid "No"
 msgstr ""
 
-msgctxt "0003"
+#. もしかして悩んでいるの？
+msgctxt "0002 | c03_000_014 | non"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0003 | c03_000_014 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>このモニターって特注品だよな？
+msgctxt "0004 | c03_000_014 | chara_Blank"
 msgid "<CLT=cltMIND>This monitor has to be custom made..."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>こんな物をわざわざ作るなんて、
+#. どこからどんな予算が出てるんだ？
+msgctxt "0005 | c03_000_014 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Why go out of their way to make this?\n"
 "Where is this budget coming from?"
 msgstr ""
 
-msgctxt "0007"
+#. 2
+msgctxt "0006 | c03_000_014 | chara_Blank"
 msgid "2"
 msgstr "2"
 
-msgctxt "0008"
+#. 3
+msgctxt "0007 | c03_000_014 | chara_Blank"
 msgid "3"
 msgstr "3"
 
-msgctxt "0009"
+#. 4
+msgctxt "0008 | c03_000_014 | chara_Blank"
 msgid "4"
 msgstr "4"
 
-msgctxt "0010"
+#. 5
+msgctxt "0009 | c03_000_014 | chara_Blank"
 msgid "5"
 msgstr "5"
 
-msgctxt "0011"
+#. 6
+msgctxt "0010 | c03_000_014 | chara_Blank"
 msgid "6"
 msgstr "6"
 
-msgctxt "0012"
+#. 7
+msgctxt "0011 | c03_000_014 | chara_Blank"
 msgid "7"
 msgstr "7"
 
-msgctxt "0013"
+#. 8
+msgctxt "0012 | c03_000_014 | chara_Blank"
 msgid "8"
 msgstr "8"
 
-msgctxt "0014"
+#. 9
+msgctxt "0013 | c03_000_014 | chara_Blank"
 msgid "9"
 msgstr "9"

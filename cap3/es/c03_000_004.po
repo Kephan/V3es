@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,33 +11,44 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>相変わらず、少ししか開かない。
+#. ゲームルーム側のドアから入るしかないな。
+msgctxt "0000 | c03_000_004 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Just as I thought, it only opens a little bit.\n"
 "I'll have to get in from the Game Room."
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>ここを…砲丸が転がっていったのか。
+#. 天海くんの命を奪った…凶器が…
+msgctxt "0001 | c03_000_004 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>So this is where the shot put ball rolled to...\n"
 "The weapon...that took Rantaro's life..."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0002 | c03_000_004 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0003 | c03_000_004 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>このモニターって特注品だよな？
+msgctxt "0004 | c03_000_004 | chara_Blank"
 msgid "<CLT=cltMIND>This monitor has to be custom made..."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>こんな物をわざわざ作るなんて、
+#. どこからどんな予算が出てるんだ？
+msgctxt "0005 | c03_000_004 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Why go out of their way to make this?\n"
 "Where is this budget coming from?"

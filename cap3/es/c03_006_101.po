@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,121 +11,156 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 才囚学園放送部からのお知らせだよー。
+#. 朝８時になりましたー。
+msgctxt "0000 | c03_006_101 | C021_Mtaro"
 msgid ""
 "This is an official announcement from the\n"
 "Ultimate Academy. It is now 8:00 a.m."
 msgstr ""
 
-msgctxt "0002"
+#. ココデ緊急ノオ知ラセデス。
+#. ミンナデ仲良ク体育館ニ集マッテクダサイ。
+msgctxt "0001 | c03_006_101 | C024_Mdam_"
 msgid ""
 "THIS-IS-AN-EMERGENCY-ANNOUNCEMENT.\n"
 "PLEASE-ASSEMBLE-IN-THE-GYM."
 msgstr ""
 
-msgctxt "0003"
+#. 仲良クシナイト…罰ガアルカラネ。
+msgctxt "0002 | c03_006_101 | C024_Mdam_"
 msgid ""
 "REFUSAL-TO-GET-ALONG...IS-GROUNDS-FOR-\n"
 "PUNISHMENT."
 msgstr ""
 
-msgctxt "0004"
+#. モノダムはすっかり仲良しマニアだね！
+msgctxt "0003 | c03_006_101 | C021_Mtaro"
 msgid ""
 "Oh, Monodam, you're really obsessed with\n"
 "this whole getting-along thing!"
 msgstr ""
 
-msgctxt "0005"
+#. マンガも<CLT=cltSTRONG>“なかよし”<CLT=cltNORMAL>しか読んでないみたいよ。
+msgctxt "0004 | c03_006_101 | C023_Mfunn"
 msgid "\"Friends\" is the only show he watches now!"
 msgstr ""
 
-msgctxt "0006"
+#. 仲良クシナイト…許サナイカラ。
+msgctxt "0005 | c03_006_101 | C024_Mdam_"
 msgid ""
 "IF-YOU-DON'T-GET-ALONG...I-WON'T-\n"
 "FORGIVE-YOU."
 msgstr ""
 
-msgctxt "0007"
+#. エグイサルヲ使ッテ、
+#. 顔面ヲ蜜柑ノ皮ミタイニ剥イジャウカラ。
+msgctxt "0006 | c03_006_101 | C024_Mdam_"
 msgid ""
 "I-WILL-USE-THE-EXISALS-TO-PEEL-YOUR-\n"
 "FACES-OFF-LIKE-MANDARIN-ORANGES."
 msgstr ""
 
-msgctxt "0008"
+#. うげぇ！　グロいわっ！
+#. み、みんな頑張って仲良く――
+msgctxt "0007 | c03_006_101 | C023_Mfunn"
 msgid ""
 "Ughhhh! That's so gory!\n"
 "P-Please get along everyo—"
 msgstr ""
 
-msgctxt "0009"
+#. …でろでろでろでろでろでろでろ。
+msgctxt "0008 | c03_006_101 | C023_Mfunn"
 msgid "...BLRGHBRBLBLRGHBRBLBLRGH!"
 msgstr ""
 
-msgctxt "0010"
+#. あっ！　またゲロ吐いた！
+#. けど、青色のゲロとは珍しい！
+msgctxt "0009 | c03_006_101 | C021_Mtaro"
 msgid ""
 "Ah! She puked again!\n"
 "Ooh, it's blue this time! How rare!"
 msgstr ""
 
-msgctxt "0011"
+#. あのね、一説によると、
+#. モノファニーの青いゲロを見た人は幸せになるらしいよ。
+msgctxt "0010 | c03_006_101 | C021_Mtaro"
 msgid ""
 "They say anyone who sees Monophanie's\n"
 "blue puke will have good luck."
 msgstr ""
 
-msgctxt "0012"
+#. …バーイクマ！
+msgctxt "0011 | c03_006_101 | C029_Mono3"
 msgid "...So long, bear-well!"
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>体育館に集まれ…だって？
+#. なんか…嫌な予感がするな。
+msgctxt "0012 | c03_006_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Assemble in the gym, huh...\n"
 "I have a bad feeling about this."
 msgstr ""
 
-msgctxt "0014"
+#. はい
+msgctxt "0013 | c03_006_101 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0015"
+#. いいえ
+msgctxt "0014 | c03_006_101 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0016"
+#. もしかして悩んでいるの？
+msgctxt "0015 | c03_006_101 | chara_Blank"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0016 | c03_006_101 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+msgctxt "0017 | c03_006_101 | chara_Blank"
 msgid "<CLT=cltMIND>It's a monitor for communicating with us."
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0018 | c03_006_101 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0020"
+#. <CLT=cltMIND>ごく普通のベッドだ。
+#. 寝心地は悪くなかったな…
+msgctxt "0019 | c03_006_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a normal bed.\n"
 "It was pretty comfortable."
 msgstr ""
 
-msgctxt "0021"
+#. <CLT=cltMIND>かなり大きな照明だ。
+#. お陰で明るいけど…
+msgctxt "0020 | c03_006_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a pretty big light.\n"
 "It lights the room well..."
 msgstr ""
 
-msgctxt "0022"
+#. <CLT=cltMIND>クローゼットの中には、
+#. 僕の制服と同じものが何着も入っている。
+msgctxt "0021 | c03_006_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>My closet is filled with\n"
 "uniforms exactly like mine..."
 msgstr ""
 
-msgctxt "0023"
+#. <CLT=cltMIND>わざわざ同じ制服を何着も用意したのは、
+#. 何か狙いがあるのか？
+msgctxt "0022 | c03_006_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Why did they go out of their way to make\n"
 "this? What purpose could this serve?"

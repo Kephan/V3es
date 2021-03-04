@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,55 +11,71 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. …あれ？
+msgctxt "0000 | c03_007_132 | C000_Saiha"
 msgid "...Huh?"
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>元通りに…なってる？
+#. モノクマが片付けたって事か？
+msgctxt "0001 | c03_007_132 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's...back to normal?\n"
 "Did Monokuma...clean everything up?"
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>変なところでマメだよな…
+msgctxt "0002 | c03_007_132 | chara_Blank"
 msgid "<CLT=cltMIND>He's diligent in odd ways..."
 msgstr ""
 
-msgctxt "0004"
+#. はい
+msgctxt "0003 | c03_007_132 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0005"
+#. いいえ
+msgctxt "0004 | c03_007_132 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0006"
+#. もしかして悩んでいるの？
+msgctxt "0005 | c03_007_132 | chara_Blank"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0006 | c03_007_132 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+msgctxt "0007 | c03_007_132 | chara_Blank"
 msgid "<CLT=cltMIND>It's a monitor for communicating with us."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0008 | c03_007_132 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>ここはシャワールームらしい。
+#. …今は用はないか。
+msgctxt "0009 | c03_007_132 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This looks like a shower room.\n"
 "...I don't have to take a shower right now."
 msgstr ""
 
-msgctxt "0011"
+#. ………………
+msgctxt "0010 | c03_007_132 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0012"
+#. <CLT=cltMIND>星くんがここに立つ姿…
+#. 見てみたかったな…
+msgctxt "0011 | c03_007_132 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I wish I could have seen Ryoma\n"
 "standing here..."

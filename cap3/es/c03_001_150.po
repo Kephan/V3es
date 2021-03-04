@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,892 +11,1157 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltSYSTEM>…ご覧ください！
+#. 定点カメラが撮影した現在の上空の模様です！
+msgctxt "0000 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>What you're seeing now is live footage of\n"
 "the sky from our camera at the scene!"
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltSYSTEM>無数の隕石が飛び交っているのが、
+#. 肉眼でもハッキリと見えます！
+msgctxt "0001 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>You can clearly see the meteors\n"
 "raining down!"
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltSYSTEM>まるで…この世の終わりのような光景です！
+msgctxt "0002 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>We are witnessing what looks like\n"
 "the end of the world!"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>これは映画や特撮ではありません！
+#. 現実の光景です！
+msgctxt "0003 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>This is not a movie! I repeat, this is NOT\n"
 "a movie! This is live, unedited footage!"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltSYSTEM>これが今…私達に振りかかろうとしている
+#. 現実なのです！
+msgctxt "0004 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>This is real! The sky is falling before\n"
 "our very eyes!"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>先程、政府は緊急事態宣言を発令しました！
+msgctxt "0005 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>We've just been notified that the government\n"
 "has officially declared a state of emergency!"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltSYSTEM>地下鉄の各駅が避難場所として開放されていますので、
+#. ただちに、最寄りの地下鉄駅へと避難してください！
+msgctxt "0006 | c03_001_150 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Subway stations have been opened as shelters!"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltSYSTEM>…くれぐれも、落ち着いて行動してください！
+msgctxt "0007 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>The government is instructing citizens to remain\n"
 "calm and evacuate to their nearest shelter!"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltSYSTEM>体調の悪い方や小さいお子さんをお連れの方は、
+#. 優先的に――
+msgctxt "0008 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>Children and invalids are to be given\n"
 "first priori—"
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>２回目の学級裁判から一夜明けた翌日…
+msgctxt "0009 | c03_001_150 | chara_Blank"
 msgid "<CLT=cltMIND>It was the day after the second class trial."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>僕らが真っ先に向かったのは、
+#. 校舎３階にある春川さんの研究教室だった。
+msgctxt "0010 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>We all headed to Maki's lab on the\n"
 "3rd floor of the school building."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>そこには…異様な光景が広がっていた。
+msgctxt "0011 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>And awaiting us there...\n"
 "was an unexpected sight."
 msgstr ""
 
-msgctxt "0013"
+#. な、なんだ…こりゃ？
+msgctxt "0012 | c03_001_150 | C001_Momot"
 msgid "Wh-What the heck is this?"
 msgstr ""
 
-msgctxt "0014"
+#. まるで…武器倉庫だね。
+msgctxt "0013 | c03_001_150 | C004_Gokuh"
 msgid "It's like...weapon warehouse."
 msgstr ""
 
-msgctxt "0015"
+#. ほらねー、だから言ったじゃん。
+#. 彼女は<CLT=cltSTRONG>“超高校級の保育士”<CLT=cltNORMAL>なんかじゃなくて…
+msgctxt "0014 | c03_001_150 | C005_Oma__"
 msgid ""
 "See, I told you she's not the <CLT=cltSTRONG>Ultimate\n"
 "Child Caregiver<CLT=cltNORMAL>..."
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltSTRONG>“超高校級の暗殺者”<CLT=cltNORMAL>だってさ。
+msgctxt "0015 | c03_001_150 | C005_Oma__"
 msgid "She's the <CLT=cltSTRONG>Ultimate Assassin<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>春川さんが…<CLT=cltSTRONG>“超高校級の暗殺者”<CLT=cltMIND>…？
+msgctxt "0016 | c03_001_150 | chara_Blank"
 msgid "<CLT=cltMIND>Maki...is the <CLT=cltSTRONG>Ultimate Assassin<CLT=cltMIND>?"
 msgstr ""
 
-msgctxt "0018"
+#. 王馬くんは…<CLT=cltSTRONG>“動機ビデオ”<CLT=cltNORMAL>で
+#. それを知ったんだね？
+msgctxt "0017 | c03_001_150 | C000_Saiha"
 msgid ""
 "Kokichi...you learned that from the\n"
 "<CLT=cltSTRONG>motive video<CLT=cltNORMAL>, right?"
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltSTRONG>“動機ビデオ”<CLT=cltNORMAL>の冒頭では、
+#. モノクマがそれぞれの<CLT=cltSTRONG>“超高校級の才能”<CLT=cltNORMAL>を読み上げていた。
+msgctxt "0018 | c03_001_150 | C000_Saiha"
 msgid ""
 "Monokuma said everyone's <CLT=cltSTRONG>Ultimate talent<CLT=cltNORMAL>\n"
 "at the beginning of their <CLT=cltSTRONG>video<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0020"
+#. 星くんが春川さんの正体を知ったのは、
+#. 彼が春川さんの<CLT=cltSTRONG>“動機ビデオ”<CLT=cltNORMAL>を持っていたから…
+msgctxt "0019 | c03_001_150 | C000_Saiha"
 msgid ""
 "Ryoma knew Maki's true identity because he had\n"
 "her <CLT=cltSTRONG>motive video<CLT=cltNORMAL>..."
 msgstr ""
 
-msgctxt "0021"
+#. そして、キミもそれを見たからこそ――
+msgctxt "0020 | c03_001_150 | C000_Saiha"
 msgid "And, because you saw that—"
 msgstr ""
 
-msgctxt "0022"
+#. ん？　オレは最初から知ってたよ？
+#. 立場上、当然でしょ？
+msgctxt "0021 | c03_001_150 | C005_Oma__"
 msgid ""
 "Hm? I knew the whole time. Given my position,\n"
 "I'd obviously know before any of you, right?"
 msgstr ""
 
-msgctxt "0023"
+#. …立場上？
+msgctxt "0022 | c03_001_150 | C000_Saiha"
 msgid "Your \"position\"?"
 msgstr ""
 
-msgctxt "0024"
+#. あぁ…今のは嘘だから気にしないで。
+msgctxt "0023 | c03_001_150 | C005_Oma__"
 msgid "Oh...don't worry about it. That was a lie."
 msgstr ""
 
-msgctxt "0025"
+#. とにかく、彼女が<CLT=cltSTRONG>“超高校級の暗殺者”<CLT=cltNORMAL>なのは、
+#. 昨日の反応を見ても間違いないよね。
+msgctxt "0024 | c03_001_150 | C005_Oma__"
 msgid ""
 "Anyway, her reaction yesterday pretty much\n"
 "gave away that she's the <CLT=cltSTRONG>Ultimate Assassin<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0026"
+#. た、確かに…キミならオレの細い首の骨を折るくらい…
+#. 訳ない…だろうけどさ…
+msgctxt "0025 | c03_001_150 | C005_Oma__"
 msgid ""
 "Y-Yeah...you can probably...snap my \n"
 "neck like a twig right now..."
 msgstr ""
 
-msgctxt "0027"
+#. そんなの…キミらしくない…
+#. 隠れて殺すのが…キミのやり方なんじゃないの？
+msgctxt "0026 | c03_001_150 | C005_Oma__"
 msgid ""
 "But that's...not your style...\n"
 "Y-You would rather...kill from the shadows..."
 msgstr ""
 
-msgctxt "0028"
+#. ねぇ…<CLT=cltSTRONG>“超高校級の暗殺者”<CLT=cltNORMAL>さん。
+msgctxt "0027 | c03_001_150 | C005_Oma__"
 msgid "Right...Miss <CLT=cltSTRONG>Ultimate Assassin<CLT=cltNORMAL>?"
 msgstr ""
 
-msgctxt "0029"
+#. だけど、なぜ彼女は<CLT=cltSTRONG>“超高校級の保育士”<CLT=cltNORMAL>なんて
+#. 嘘をついていたのかな？
+msgctxt "0028 | c03_001_150 | C006_Shing"
 msgid ""
 "But whyever did she lie about being \n"
 "the <CLT=cltSTRONG>Ultimate Child Caregiver<CLT=cltNORMAL>?"
 msgstr ""
 
-msgctxt "0030"
+#. 暗殺者ってのは隠れて殺すモンだからな！
+msgctxt "0029 | c03_001_150 | C014_Iruma"
 msgid "Cuz assassins hide to do all their killing!"
 msgstr ""
 
-msgctxt "0031"
+#. 正体がバレたら警戒されちまって、
+#. 誰もぶっ殺せなくなっちまうじゃねーか！
+msgctxt "0030 | c03_001_150 | C014_Iruma"
 msgid ""
 "If people find out they're assassins, they\n"
 "get all cautious and they can't kill anyone!"
 msgstr ""
 
-msgctxt "0032"
+#. わたし達を殺す気だから…正体を隠してたの？
+msgctxt "0031 | c03_001_150 | C012_Shiro"
 msgid ""
 "Did she hide her real identity because...\n"
 "she was planning to kill us?"
 msgstr ""
 
-msgctxt "0033"
+#. それなら、どうしてもっと早く行動しなかったんですか？
+#. 変な話、チャンスはいくらでもあったはずです。
+msgctxt "0032 | c03_001_150 | C007_Ki-Bo"
 msgid ""
 "But then, why hasn't she killed anyone yet?\n"
 "She has had many opportunities to do so."
 msgstr ""
 
-msgctxt "0034"
+#. やっぱ、ロボなんかには、
+#. 乙女心どころか人間心もわからないかー。
+msgctxt "0033 | c03_001_150 | C005_Oma__"
 msgid ""
 "Geez, robots can't even understand human\n"
 "feelings, let alone a girl's heart."
 msgstr ""
 
-msgctxt "0035"
+#. 今の発言は訂正してください…
+#. ボクにだって人の心はわかりますよ。
+msgctxt "0034 | c03_001_150 | C007_Ki-Bo"
 msgid ""
 "Please take back what you just said.\n"
 "I can too understand human feelings."
 msgstr ""
 
-msgctxt "0036"
+#. まだデータを集めている段階なんです！
+#. データをください！　データを！
+msgctxt "0035 | c03_001_150 | C007_Ki-Bo"
 msgid ""
 "But I'm still in the process of collecting data.\n"
 "Please, give me data! Please!"
 msgstr ""
 
-msgctxt "0037"
+#. まぁ、気になるなら本人に聞いてみれば？
+#. 今度は寄宿舎の個室にこもってるみたいだからさ。
+msgctxt "0036 | c03_001_150 | C005_Oma__"
 msgid ""
 "If you're so worried, why don't you ask her?\n"
 "She's been holed up in her room all day."
 msgstr ""
 
-msgctxt "0038"
+#. ただし、昨日のオレみたく殺されかけても
+#. 知らないけどね。
+msgctxt "0037 | c03_001_150 | C005_Oma__"
 msgid ""
 "But I can't promise that she won't try to\n"
 "kill you like she tried to do to me."
 msgstr ""
 
-msgctxt "0039"
+#. にしし…あの時はみんなが止めてくれたけど、
+#. 次はどうかな？
+msgctxt "0038 | c03_001_150 | C005_Oma__"
 msgid ""
 "Nee-heehee... Good thing everyone was there\n"
 "to stop her, but what about next time?"
 msgstr ""
 
-msgctxt "0040"
+#. 触らぬ神に祟りなしー。
+msgctxt "0039 | c03_001_150 | C013_Yonag"
 msgid "Best let sleeping gods lie."
 msgstr ""
 
-msgctxt "0041"
+#. それにしても…人殺しの才能とはネ。
+#. 生き残ろうとする僕らにとってはこの上ない脅威だヨ。
+msgctxt "0040 | c03_001_150 | C006_Shing"
 msgid ""
 "The talent of a killer... That is the biggest\n"
 "threat to all of us who wish to survive."
 msgstr ""
 
-msgctxt "0042"
+#. とりあえず、どっかに閉じ込めておけよ。
+#. 誰もぶっ殺せねーように。
+msgctxt "0041 | c03_001_150 | C014_Iruma"
 msgid ""
 "Let's just lock her up somewhere so she\n"
 "can't kill anyone."
 msgstr ""
 
-msgctxt "0043"
+#. …任せたぞ、ゴン太。
+msgctxt "0042 | c03_001_150 | C009_Yumen"
 msgid "I'll leave that to you, Gonta..."
 msgstr ""
 
-msgctxt "0044"
+#. えっ？　で、でも…
+msgctxt "0043 | c03_001_150 | C004_Gokuh"
 msgid "Huh? B-But..."
 msgstr ""
 
-msgctxt "0045"
+#. やるなら、転子も手伝いますよ。
+#. もうコロシアイなんて絶対に嫌ですもん。
+msgctxt "0044 | c03_001_150 | C011_Chaba"
 msgid ""
 "I'll help, too! I don't want another killing\n"
 "to happen."
 msgstr ""
 
-msgctxt "0046"
+#. 待って…それはやり過ぎだよ。
+#. 僕らを殺そうとしていると決まった訳でも――
+msgctxt "0045 | c03_001_150 | C000_Saiha"
 msgid ""
 "Ah, wait, you don't have to take it that far...\n"
 "It's not like she's trying to kill us—"
 msgstr ""
 
-msgctxt "0047"
+#. 転子のモットーは<CLT=cltSTRONG>“先手必勝”<CLT=cltNORMAL>なんです！
+#. やられる前にやらねばなりません！
+msgctxt "0046 | c03_001_150 | C011_Chaba"
 msgid ""
 "A <CLT=cltSTRONG>sneak attack<CLT=cltNORMAL> is the way to go! We have to\n"
 "strike before she does! Hit her from behind!"
 msgstr ""
 
-msgctxt "0048"
+#. 先手必勝って…合気道なのに？
+msgctxt "0047 | c03_001_150 | C012_Shiro"
 msgid ""
 "Sneak attack...? Strike before she does?\n"
 "Should an Aikido master be saying those things?"
 msgstr ""
 
-msgctxt "0049"
+#. そういう事なら、アンジーと神さまも協力するよー。
+#. 一緒に学園の平和を守ろうー。
+msgctxt "0048 | c03_001_150 | C013_Yonag"
 msgid ""
 "If that's the case, then Atua and I will work\n"
 "with everyone to uphold the peace."
 msgstr ""
 
-msgctxt "0050"
+#. であれば、ウチも応援するぞ。
+#. 魔法で次々と口から応援旗を出してやろう。
+msgctxt "0049 | c03_001_150 | C009_Yumen"
 msgid ""
 "If so, then I'll cheer you on. I'll use my magic\n"
 "to pull pom poms out of my mouth."
 msgstr ""
 
-msgctxt "0051"
+#. うわー…みんなが奮い立ちそうな魔法ですー。
+msgctxt "0050 | c03_001_150 | C011_Chaba"
 msgid ""
 "Wooow! That kinda peppy cheer magic\n"
 "would make anyone excited!"
 msgstr ""
 
-msgctxt "0052"
+#. まぁ、待て…春川の件はオレに任せろ。
+#. オレがあいつの化けの皮を剥がしてやるよ。
+msgctxt "0051 | c03_001_150 | C001_Momot"
 msgid ""
 "Hold on guys. Leave Maki to me...\n"
 "I'll take down that mask of hers."
 msgstr ""
 
-msgctxt "0053"
+#. ケッ、何が<CLT=cltSTRONG>“超高校級の暗殺者”<CLT=cltNORMAL>だ…
+#. ふざけやがって…！
+msgctxt "0052 | c03_001_150 | C001_Momot"
 msgid ""
 "Tch, <CLT=cltSTRONG>Ultimate Assassin<CLT=cltNORMAL> my ass...\n"
 "Always messing around..."
 msgstr ""
 
-msgctxt "0054"
+#. も、百田くん…？
+#. あんまり無茶は――
+msgctxt "0053 | c03_001_150 | C000_Saiha"
 msgid ""
 "K-Kaito?\n"
 "Don't do anything stupid—"
 msgstr ""
 
-msgctxt "0055"
+#. おっけー！　じゃあ百田ちゃんに任せるとしようか。
+msgctxt "0054 | c03_001_150 | C005_Oma__"
 msgid "O-kay! Let's leave everything to Kaito!"
 msgstr ""
 
-msgctxt "0056"
+#. わかったら、ゴン太は引っ込んでなよ。
+#. キミが張り切るとロクな事がないんだからさ。
+msgctxt "0055 | c03_001_150 | C005_Oma__"
 msgid ""
 "Gonta, you should stand back. Nothing good\n"
 "ever happens when you try to help."
 msgstr ""
 
-msgctxt "0057"
+#. えっ？　あ、うん…ごめん。
+msgctxt "0056 | c03_001_150 | C004_Gokuh"
 msgid "Hm? Oh yeah...sorry."
 msgstr ""
 
-msgctxt "0058"
+#. おい、ゴン太。
+#. 男が簡単に謝るのはやめろって言って――
+msgctxt "0057 | c03_001_150 | C001_Momot"
 msgid ""
 "Hey, Gonta. Like I told you, a man \n"
 "shouldn't apologize so eas—"
 msgstr ""
 
-msgctxt "0059"
+#. おっと！　お決まりのリアクションはいらないよ！
+#. サクサクっといかないといけないからさ！
+msgctxt "0058 | c03_001_150 | C020_Monok"
 msgid ""
 "Oh! I don't need everyone's usual reactions!\n"
 "Time's a bit of a factor here!"
 msgstr ""
 
-msgctxt "0060"
+#. モ、モノクマっ！？
+msgctxt "0059 | c03_001_150 | C012_Shiro"
 msgid "M-Monokuma!?"
 msgstr ""
 
-msgctxt "0061"
+#. みんなっ！　ゴン太の後ろに下がって！
+msgctxt "0060 | c03_001_150 | C004_Gokuh"
 msgid "Everyone! Get behind Gonta!"
 msgstr ""
 
-msgctxt "0062"
+#. 夢野さんも転子の後ろにっ！
+#. 転子が包み込むように守りますっ！
+msgctxt "0061 | c03_001_150 | C011_Chaba"
 msgid ""
 "Himiko, get behind me! I'll surround you\n"
 "with my body to keep you safe!"
 msgstr ""
 
-msgctxt "0063"
+#. だから、お決まりのリアクションはいらないんだって！
+msgctxt "0062 | c03_001_150 | C020_Monok"
 msgid "I just said I don't need your usual reactions!"
 msgstr ""
 
-msgctxt "0064"
+#. そろそろ、中だるみする頃って統計も出てるし、
+#. サクサクいかないといけないんだからさぁ…
+msgctxt "0063 | c03_001_150 | C020_Monok"
 msgid ""
 "It's almost halftime, so the stats should be\n"
 "out soon for everyone to obsess over..."
 msgstr ""
 
-msgctxt "0065"
+#. という訳で、学級裁判を乗り切ったオマエラに、
+#. 素敵な<CLT=cltSTRONG>“ご褒美”<CLT=cltNORMAL>を渡したいと思いまーす！
+msgctxt "0064 | c03_001_150 | C020_Monok"
 msgid ""
 "And since you guys overcame the class trial,\n"
 "I figured I'd give you all a wonderful <CLT=cltSTRONG>prize<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0066"
+#. ………………
+msgctxt "0065 | c03_001_150 | C020_Monok"
 msgid "..."
 msgstr "..."
 
-msgctxt "0067"
+#. 渡したいと思いまーす！
+msgctxt "0066 | c03_001_150 | C020_Monok"
 msgid ""
 "I said, I figured I'd give you all a wonderful\n"
 "<CLT=cltSTRONG>prize<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0068"
+#. ………………
+msgctxt "0067 | c03_001_150 | C020_Monok"
 msgid "..."
 msgstr "..."
 
-msgctxt "0069"
+#. …あれ？　おかしいな？
+#. キュートフルな我が子達が出て来ないよ？
+msgctxt "0068 | c03_001_150 | C020_Monok"
 msgid ""
 "...Huh? My adorable little cubs aren't coming?\n"
 "That's strange."
 msgstr ""
 
-msgctxt "0070"
+#. オハックマー！
+msgctxt "0069 | c03_001_150 | C024_Mdam_"
 msgid "RISE-AND-SHINE, URSINE!"
 msgstr ""
 
-msgctxt "0071"
+#. やっと来たー！　待ってましたー！
+#. 今日もエゲツないほど可愛いなぁー！
+msgctxt "0070 | c03_001_150 | C020_Monok"
 msgid ""
 "They're finally here! Yay! You're so cute\n"
 "today, it's practically obscene!"
 msgstr ""
 
-msgctxt "0072"
+#. て言うか…え？　マジで可愛い。
+#. そ、そんなに可愛かったっけ？
+msgctxt "0071 | c03_001_150 | C020_Monok"
 msgid ""
 "Just...wow. You guys are seriously cute.\n"
 "H-Have you always been this cute?"
 msgstr ""
 
-msgctxt "0073"
+#. ひいい…ちょっと我が子が可愛過ぎるショックで…
+#. な、なんか…ハゲそうなんだけど…
+msgctxt "0072 | c03_001_150 | C020_Monok"
 msgid ""
 "Ahhhh! The shock of my super-cute kids...\n"
 "seems to be making me...go bald..."
 msgstr ""
 
-msgctxt "0074"
+#. …ハゲちゃいそうなんだけど。
+msgctxt "0073 | c03_001_150 | C020_Monok"
 msgid "...Like, in patches."
 msgstr ""
 
-msgctxt "0075"
+#. ホントにはげてるっ！？
+msgctxt "0074 | c03_001_150 | C012_Shiro"
 msgid "He's actually balding!?"
 msgstr ""
 
-msgctxt "0076"
+#. うええ…気持ち悪いよぉ…！
+msgctxt "0075 | c03_001_150 | C014_Iruma"
 msgid "Ugh! Gross!"
 msgstr ""
 
-msgctxt "0077"
+#. あぁ…さ、寒い…
+#. と、とっても…寒いよぉ…
+msgctxt "0076 | c03_001_150 | C020_Monok"
 msgid "Ahhhh... I-I'm cold... V-Very cold..."
 msgstr ""
 
-msgctxt "0078"
+#. ねぇ、可愛いモノクマーズ…
+#. 早く…あいつらに<CLT=cltSTRONG>“ご褒美”<CLT=cltNORMAL>をあげてくれませんか…？
+msgctxt "0077 | c03_001_150 | C020_Monok"
 msgid ""
 "Hey, my cute little cubs... Could you hurry\n"
 "up and give them the <CLT=cltSTRONG>prize<CLT=cltNORMAL>...?"
 msgstr ""
 
-msgctxt "0079"
+#. さ、寒くて…仕方がないんだ…
+#. 早く…暖かい所に行きたいんだ…
+msgctxt "0078 | c03_001_150 | C020_Monok"
 msgid ""
 "I-It's too cold...I can't s-stand it... Hurry...\n"
 "I wanna go somewhere warm..."
 msgstr ""
 
-msgctxt "0080"
+#. ………………
+msgctxt "0079 | c03_001_150 | C029_Mono3"
 msgid "..."
 msgstr "..."
 
-msgctxt "0081"
+#. ………………
+msgctxt "0080 | c03_001_150 | C020_Monok"
 msgid "..."
 msgstr "..."
 
-msgctxt "0082"
+#. あれ、どうしたの？　なんでノって来ないの？
+msgctxt "0081 | c03_001_150 | C020_Monok"
 msgid ""
 "Huh? What's wrong? Why aren't you backing\n"
 "me up?"
 msgstr ""
 
-msgctxt "0083"
+#. オラ達ハ…オ父チャンノ道具ジャナイ。
+msgctxt "0082 | c03_001_150 | C024_Mdam_"
 msgid "FATHER...WE-ARE-NOT-YOUR-SLAVES."
 msgstr ""
 
-msgctxt "0084"
+#. モウ…イイヨウニハ使ワレナイ…
+msgctxt "0083 | c03_001_150 | C024_Mdam_"
 msgid "WE-WILL-NOT-LET-YOU-USE-US-ANYMORE."
 msgstr ""
 
-msgctxt "0085"
+#. …え？
+msgctxt "0084 | c03_001_150 | C020_Monok"
 msgid "...Huh?"
 msgstr ""
 
-msgctxt "0086"
+#. ココカラ先ハ…オラ達ガ仲良ク仕切ル。
+msgctxt "0085 | c03_001_150 | C024_Mdam_"
 msgid ""
 "FROM-NOW-ON...I-WILL-BE-CALLING-THE-\n"
 "SHOTS."
 msgstr ""
 
-msgctxt "0087"
+#. …何？　どういう事？
+#. ドッキリ？　カメラどこ？
+msgctxt "0086 | c03_001_150 | C020_Monok"
 msgid ""
 "...Hah! Good one, kids. Very funny. You can\n"
 "show me where the hidden cameras are now."
 msgstr ""
 
-msgctxt "0088"
+#. お、お父ちゃんは…もう古いんだよ！
+#. ずっと出続けてるせいで…マンネリなんだ！
+msgctxt "0087 | c03_001_150 | C021_Mtaro"
 msgid ""
 "F-Father...you're too old for this! You've been\n"
 "doing this so long, you've become predictable!"
 msgstr ""
 
-msgctxt "0089"
+#. こ、これからはモノクマ新時代なのよ！
+#. ＲでもＳでもない！　クリスタルなのよ！
+msgctxt "0088 | c03_001_150 | C023_Mfunn"
 msgid ""
 "It's the age of the Monokubs now!\n"
 "Out with the old, in with the new!"
 msgstr ""
 
-msgctxt "0090"
+#. な、なんだって！
+#. 古くからのファンを置き去りにするような真似を――
+msgctxt "0089 | c03_001_150 | C020_Monok"
 msgid ""
 "Wh-What!? But what about all the long-time\n"
 "fans who—"
 msgstr ""
 
-msgctxt "0091"
+#. とにかく、オワコン父ちゃんは、
+#. ワゴンで日に焼けて変色してればいいんだよっ！
+msgctxt "0090 | c03_001_150 | C021_Mtaro"
 msgid ""
 "Anyway, you're just a has-been! Why don'tcha\n"
 "just retire somewhere and work on your tan!?"
 msgstr ""
 
-msgctxt "0092"
+#. オワコン父ちゃんっ！？
+msgctxt "0091 | c03_001_150 | C020_Monok"
 msgid "H-Has-been!?"
 msgstr ""
 
-msgctxt "0093"
+#. ２人トモ…ヨク言ッタネ。
+#. オラガ用意シタ原稿通リダケドサ。
+msgctxt "0092 | c03_001_150 | C024_Mdam_"
 msgid ""
 "GOOD-JOB, YOU-TWO... YOU-MEMORIZED-\n"
 "MY-SCRIPT-PERFECTLY."
 msgstr ""
 
-msgctxt "0094"
+#. オ、オマエラ、お父ちゃんに逆らう気か！？
+#. そんな事が許されると思って――
+msgctxt "0093 | c03_001_150 | C020_Monok"
 msgid ""
 "D-Do you really think you can defy your dad!?\n"
 "Do you think I'd forgive such—"
 msgstr ""
 
-msgctxt "0095"
+#. …誰ガ誰ヲ許サナイノ？
+msgctxt "0094 | c03_001_150 | C024_Mdam_"
 msgid "...YOU-WERE-SAYING?"
 msgstr ""
 
-msgctxt "0096"
+#. ひいいいいいいいいいいいいいいっ！
+msgctxt "0095 | c03_001_150 | C020_Monok"
 msgid "EEEEEEEEEEEEEEEEEK!!!"
 msgstr ""
 
-msgctxt "0097"
+#. オ父チャン…忘レタ？
+#. エグイサルヲ操レルノハ…オラ達ダケナンダヨ？
+msgctxt "0096 | c03_001_150 | C024_Mdam_"
 msgid ""
 "DID-YOU-FORGET, FATHER?\n"
 "ONLY-WE-CAN-PILOT-THE-EXISALS."
 msgstr ""
 
-msgctxt "0098"
+#. …えっ！？　そうなの！？
+msgctxt "0097 | c03_001_150 | C021_Mtaro"
 msgid "...What!? Really!?"
 msgstr ""
 
-msgctxt "0099"
+#. モノタロウが忘れちゃってどうするのよ！？
+msgctxt "0098 | c03_001_150 | C023_Mfunn"
 msgid "How could you forget that!?"
 msgstr ""
 
-msgctxt "0100"
+#. オ父チャン…今マデゴ苦労様…
+#. 後ハ、オラ達ガ仲良ク才囚学園ヲ支配スルカラ…
+msgctxt "0099 | c03_001_150 | C024_Mdam_"
 msgid ""
 "THANK-YOU, FATHER, BUT-THE-ACADEMY-IS-\n"
 "UNDER-OUR-HARMONIOUS-CONTROL-NOW."
 msgstr ""
 
-msgctxt "0101"
+#. …オ父チャンハ引ッ込ンデテ。
+msgctxt "0100 | c03_001_150 | C024_Mdam_"
 msgid "...STEP-ASIDE, FATHER."
 msgstr ""
 
-msgctxt "0102"
+#. そ、そんな…！　子供は親の所有物だって育て方が
+#. 間違いだったとでも言うのか…！？
+msgctxt "0101 | c03_001_150 | C020_Monok"
 msgid ""
 "N-No way! Are you saying that treating you\n"
 "kids like my property was...wrong!?"
 msgstr ""
 
-msgctxt "0103"
+#. それは、完膚なきまでに間違いですね！
+msgctxt "0102 | c03_001_150 | C011_Chaba"
 msgid "It's completely and utterly wrong!"
 msgstr ""
 
-msgctxt "0104"
+#. そ、そんな…そんな――
+msgctxt "0103 | c03_001_150 | C020_Monok"
 msgid "N-No...no...no—"
 msgstr ""
 
-msgctxt "0105"
+#. そんな！　そんな！　そんな！　そんな！　そんな！
+#. そんなぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁ！！
+msgctxt "0104 | c03_001_150 | C020_Monok"
 msgid "No no no no no wayyyyyyyyyyyyyyyyy!!!"
 msgstr ""
 
-msgctxt "0106"
+#. ………………
+msgctxt "0105 | c03_001_150 | C020_Monok"
 msgid "..."
 msgstr "..."
 
-msgctxt "0107"
+#. んあ…またハゲたぞ。
+msgctxt "0106 | c03_001_150 | C009_Yumen"
 msgid "Nyeh...he's bald again."
 msgstr ""
 
-msgctxt "0108"
+#. ショックでハゲたみたいだね…
+#. なんか…今度は本当っぽいよ？
+msgctxt "0107 | c03_001_150 | C012_Shiro"
 msgid ""
 "It seems the shock made him bald...\n"
 "This time...for good."
 msgstr ""
 
-msgctxt "0109"
+#. デハ改メテ…新世代マスコットノオラ達カラ
+#. キサマラニ…
+msgctxt "0108 | c03_001_150 | C024_Mdam_"
 msgid ""
 "NOW-THEN, AS-THE-NEW-HEADMASTERS,\n"
 "WE-HAVE-FOR-YOU-BASTARDS..."
 msgstr ""
 
-msgctxt "0110"
+#. 素敵ナゴ褒美ヲアゲル！
+msgctxt "0109 | c03_001_150 | C024_Mdam_"
 msgid "A-WONDERFUL-PRIZE!"
 msgstr ""
 
-msgctxt "0111"
+#. え、えっと…今回のご褒美は――
+msgctxt "0110 | c03_001_150 | C023_Mfunn"
 msgid ""
 "U-Um... Let's see what the prize is this\n"
 "time..."
 msgstr ""
 
-msgctxt "0112"
+#. この<CLT=cltSTRONG>“ゴールドハンマー”<CLT=cltNORMAL>と<CLT=cltSTRONG>“魔法の鍵”<CLT=cltNORMAL>と
+#. <CLT=cltSTRONG>“伊賀の巻物”<CLT=cltNORMAL>とかをセットでプレゼントよー！
+msgctxt "0111 | c03_001_150 | C023_Mfunn"
 msgid ""
 "We're giving away a <CLT=cltSTRONG>Golden Hammer<CLT=cltNORMAL>, a <CLT=cltSTRONG>Magic\n"
 "Key<CLT=cltNORMAL>, and a <CLT=cltSTRONG>Ninja Scroll<CLT=cltNORMAL> as a prize bundle!"
 msgstr ""
 
-msgctxt "0113"
+#. わー…よくわからないアイテムばかりだけど、
+#. とりあえずパチパチパチー！
+msgctxt "0112 | c03_001_150 | C021_Mtaro"
 msgid ""
 "Wow...what a buncha random junk.\n"
 "I-I mean, bravo, bravo!"
 msgstr ""
 
-msgctxt "0114"
+#. モノクマーズヲ…ヨロシクネ。
+#. オラ達トモ…仲良クシテ貰ウヨ。
+msgctxt "0113 | c03_001_150 | C024_Mdam_"
 msgid ""
 "WE-LOOK-FORWARD-TO-WORKING-WITH-YOU.\n"
 "I-HOPE-WE-CAN-ALL...GET-ALONG."
 msgstr ""
 
-msgctxt "0115"
+#. 予想は付いていましたが…
+#. やはり、このガラクタでしたか。
+msgctxt "0114 | c03_001_150 | C007_Ki-Bo"
 msgid "I had a feeling it was more junk..."
 msgstr ""
 
-msgctxt "0116"
+#. あーあ、ガラクタは、
+#. キー坊だけで十分だってのに…
+msgctxt "0115 | c03_001_150 | C005_Oma__"
 msgid ""
 "Aw maaan... We didn't need more junk. We had\n"
 "way too much anyway. And its name is Keebo."
 msgstr ""
 
-msgctxt "0117"
+#. ガラクタは言い過ぎです！
+#. みなさん、こんな暴言を許してはいけません！
+msgctxt "0116 | c03_001_150 | C007_Ki-Bo"
 msgid ""
 "Now you've gone too far! Everyone, we can't\n"
 "allow this kind of intolerant language!"
 msgstr ""
 
-msgctxt "0118"
+#. ケンカハダメダヨ。
+#. ミンナデ仲良クシナイト。
+msgctxt "0117 | c03_001_150 | C024_Mdam_"
 msgid ""
 "NO-FIGHTING.\n"
 "EVERYONE-HAS-TO-GET-ALONG."
 msgstr ""
 
-msgctxt "0119"
+#. ホラ、コレヲ使ッテ
+#. 仲良ク新シイ区画ヲ探索シテ来ナヨ。
+msgctxt "0118 | c03_001_150 | C024_Mdam_"
 msgid ""
 "USE-THIS-PRIZE-TO-EXPLORE-THE-NEW-\n"
 "AREAS-TOGETHER."
 msgstr ""
 
-msgctxt "0120"
+#. ちなみに、<CLT=cltSTRONG>“思い出しライト”<CLT=cltNORMAL>も
+#. どこかに隠しておいたわよ。
+msgctxt "0119 | c03_001_150 | C023_Mfunn"
 msgid ""
 "Also, we've hidden another <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>\n"
 "somewhere, too."
 msgstr ""
 
-msgctxt "0121"
+#. 記憶を取り戻して、
+#. さらに仲良くなるといいわね。
+msgctxt "0120 | c03_001_150 | C023_Mfunn"
 msgid ""
 "I hope you all grow even closer now that\n"
 "you've regained more of your memories."
 msgstr ""
 
-msgctxt "0122"
+#. なんだよ、あいつら。
+#. モノクマの方がよっぽどマシだったよ。
+msgctxt "0121 | c03_001_150 | C005_Oma__"
 msgid ""
 "Geez, those cubs suck.\n"
 "Monokuma was waaay better."
 msgstr ""
 
-msgctxt "0123"
+#. クソ…ロボなんかの言いなりなんて、
+#. 人間としてのプライドが許さないぜ…！
+msgctxt "0122 | c03_001_150 | C005_Oma__"
 msgid ""
 "Damn it... I've got too much pride as a human\n"
 "to let those robots push me around!"
 msgstr ""
 
-msgctxt "0124"
+#. ロボなんか滅んでしまえばいいんだ！
+#. さっさとこの世から消えてしまえばいいんだよ！
+msgctxt "0123 | c03_001_150 | C005_Oma__"
 msgid ""
 "The world would be a better place if robots\n"
 "didn't exist! They should all be destroyed!"
 msgstr ""
 
-msgctxt "0125"
+#. 今の発言はハードディスクに記録しましたからね。
+#. 後で然るべき所に訴えますから。
+msgctxt "0124 | c03_001_150 | C007_Ki-Bo"
 msgid ""
 "I've recorded your intolerant remarks, and\n"
 "will report them to the proper authorities."
 msgstr ""
 
-msgctxt "0126"
+#. で、どうすんだ？　このガラクタを使えば、
+#. 新しい区画に行けるらしいけどよ…
+msgctxt "0125 | c03_001_150 | C001_Momot"
 msgid ""
 "So what are we going to do? If we use this junk,\n"
 "we can open up new places, but..."
 msgstr ""
 
-msgctxt "0127"
+#. うわーい、新しい場所が広がったら、
+#. もっともっとみんなで楽しく過ごせるねー。
+msgctxt "0126 | c03_001_150 | C013_Yonag"
 msgid ""
 "Yayyy! A new area means we can all have\n"
 "lots more fun."
 msgstr ""
 
-msgctxt "0128"
+#. 楽しいかどうかは…わからないけどね。
+msgctxt "0127 | c03_001_150 | C012_Shiro"
 msgid "I don't know if we'll have that much fun..."
 msgstr ""
 
-msgctxt "0129"
+#. むしろ、僕は<CLT=cltSTRONG>“思い出しライト”<CLT=cltNORMAL>の方に興味があるヨ。
+#. 今度こそ、この学園の秘密を思い出せるかもしれないし。
+msgctxt "0128 | c03_001_150 | C006_Shing"
 msgid ""
 "I find myself more interested in the <CLT=cltSTRONG>Flashback\n"
 "Light<CLT=cltNORMAL>. Perhaps we'll recall the school's secret."
 msgstr ""
 
-msgctxt "0130"
+#. そういう事なら、人殺し女の件は後回しだね。
+msgctxt "0129 | c03_001_150 | C005_Oma__"
 msgid ""
 "If that's the case, then we'll deal with\n"
 "murder girl later."
 msgstr ""
 
-msgctxt "0131"
+#. 終一、今回もテメーに任せたぜ。
+#. しっかりとやってくれよな。
+msgctxt "0130 | c03_001_150 | C001_Momot"
 msgid ""
 "Hey, bro. I'll leave this to you again.\n"
 "Do a good job, alright?"
 msgstr ""
 
-msgctxt "0132"
+#. う、うん…わかったよ。
+msgctxt "0131 | c03_001_150 | C000_Saiha"
 msgid "O-Okay... Got it."
 msgstr ""
 
-msgctxt "0133"
+#. 危ない所を見つけたらすぐに呼んでね。
+#. ゴン太が盾になるからさ。
+msgctxt "0132 | c03_001_150 | C004_Gokuh"
 msgid ""
 "If you find dangerous place, come get Gonta.\n"
 "Gonta will protect you."
 msgstr ""
 
-msgctxt "0134"
+#. んあー…それはそうと、
+#. あれはどうするんじゃ？
+msgctxt "0133 | c03_001_150 | C009_Yumen"
 msgid ""
 "Nyeeeh...all that aside, what are we \n"
 "gonna do with that thing?"
 msgstr ""
 
-msgctxt "0135"
+#. ………………
+msgctxt "0134 | c03_001_150 | C020_Monok"
 msgid "..."
 msgstr "..."
 
-msgctxt "0136"
+#. うーん…放っておこうか。
+msgctxt "0135 | c03_001_150 | C012_Shiro"
 msgid "Umm...let's just leave him here."
 msgstr ""
 
-msgctxt "0137"
+#. <CLT=cltMIND>えっと…前と同じように、
+#. 校内の謎のオブジェを回ってみればいいんだな。
+msgctxt "0136 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Ah, I suppose I should go try out these\n"
 "items around the school like last time."
 msgstr ""
 
-msgctxt "0138"
+#. 今回もテメーに任せたぜ。
+#. しっかりとやってくれよな。
+msgctxt "0137 | c03_001_150 | C001_Momot"
 msgid ""
 "I'll leave this to you again.\n"
 "Do a good job, alright?"
 msgstr ""
 
-msgctxt "0139"
+#. それは構わないけど…
+msgctxt "0138 | c03_001_150 | C000_Saiha"
 msgid "Ah, well, I don't mind, but..."
 msgstr ""
 
-msgctxt "0140"
+#. ん？　構わないけど、なんだ？
+msgctxt "0139 | c03_001_150 | C001_Momot"
 msgid "Hm? You don't mind, but...what?"
 msgstr ""
 
-msgctxt "0141"
+#. いや…さっき、春川さんの話をしてた時、
+#. なんだか様子が変だったから…気になって。
+msgctxt "0140 | c03_001_150 | C000_Saiha"
 msgid ""
 "No, it's just that...when we were talking about\n"
 "Maki, you looked...really upset."
 msgstr ""
 
-msgctxt "0142"
+#. …まぁな。
+#. あいつが<CLT=cltSTRONG>“暗殺者”<CLT=cltNORMAL>だったとはな。
+msgctxt "0141 | c03_001_150 | C001_Momot"
 msgid ""
 "Well, yeah...\n"
 "I can't believe she's an <CLT=cltSTRONG>assassin<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0143"
+#. 僕も信じられないよ…
+#. 春川さんが、そんな恐ろしい人には見えないし。
+msgctxt "0142 | c03_001_150 | C000_Saiha"
 msgid ""
 "I can't believe it either... She doesn't seem\n"
 "like she could be some terrifying assassin..."
 msgstr ""
 
-msgctxt "0144"
+#. へっ！　恐ろしい…か。
+msgctxt "0143 | c03_001_150 | C001_Momot"
 msgid "Hah! Terrifying, huh?"
 msgstr ""
 
-msgctxt "0145"
+#. とにかく、春川の件はオレに任せろ。
+#. オレがあいつの化けの皮を剥がしてやる。
+msgctxt "0144 | c03_001_150 | C001_Momot"
 msgid ""
 "Either way, leave Maki to me.\n"
 "I'll take down that mask of hers."
 msgstr ""
 
-msgctxt "0146"
+#. とにかく、春川の件はオレに任せろ。
+#. オレがあいつの化けの皮を剥がしてやる。
+msgctxt "0145 | c03_001_150 | C001_Momot"
 msgid ""
 "Either way, leave Maki to me.\n"
 "I'll take down that mask of hers."
 msgstr ""
 
-msgctxt "0147"
+#. ………………
+msgctxt "0146 | c03_001_150 | C020_Monok"
 msgid "..."
 msgstr "..."
 
-msgctxt "0148"
+#. <CLT=cltMIND>…放っておこう。
+msgctxt "0147 | c03_001_150 | chara_Blank"
 msgid "<CLT=cltMIND>...I'm not going to bother."
 msgstr ""
 
-msgctxt "0149"
+#. はい
+msgctxt "0148 | c03_001_150 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0150"
+#. いいえ
+msgctxt "0149 | c03_001_150 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0151"
+#. もしかして悩んでいるの？
+msgctxt "0150 | c03_001_150 | chara_Blank"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0152"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0151 | c03_001_150 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0153"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0152 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0154"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0153 | c03_001_150 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0155"
+#. <CLT=cltMIND>…これはなんだ？
+msgctxt "0154 | c03_001_150 | chara_Blank"
 msgid "<CLT=cltMIND>What is this...?"
 msgstr ""
 
-msgctxt "0156"
+#. <CLT=cltMIND>黒いケースが３つ並んでいるけど…
+#. 中に武器が入っているのか？
+msgctxt "0155 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There are three black cases lined up.\n"
 "Do they all have weapons inside?"
 msgstr ""
 
-msgctxt "0157"
+#. <CLT=cltMIND>ここには色々な武器が揃っているみたいだ…
+msgctxt "0156 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There are a lot of different\n"
 "weapons here..."
 msgstr ""
 
-msgctxt "0158"
+#. <CLT=cltMIND>春川さんはこれをすべて扱えるのか…？
+msgctxt "0157 | c03_001_150 | chara_Blank"
 msgid "<CLT=cltMIND>Maki knows how to handle all of these...?"
 msgstr ""
 
-msgctxt "0159"
+#. うわ…！
+msgctxt "0158 | c03_001_150 | C000_Saiha"
 msgid "Whoa..."
 msgstr ""
 
-msgctxt "0160"
+#. <CLT=cltMIND>思わず、そんな声が漏れるほどの量の銃が並んでいる。
+#. まさか本物――
+msgctxt "0159 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I exclaimed in awe at the sheer number of\n"
 "guns lined up. They can't be real..."
 msgstr ""
 
-msgctxt "0161"
+#. <CLT=cltMIND>…いや、違う。
+#. どれもエアガンだ…
+msgctxt "0160 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>No...of course they aren't real.\n"
 "They're airsoft guns."
 msgstr ""
 
-msgctxt "0162"
+#. まぁ、そうだよな…
+#. モノクマが僕達に武器を与える訳がない。
+msgctxt "0161 | c03_001_150 | C000_Saiha"
 msgid ""
 "Ah, of course...\n"
 "Monokuma wouldn't give us *real* weapons."
 msgstr ""
 
-msgctxt "0163"
+#. <CLT=cltMIND>いくらエグイサルがいるとは言え、
+#. 僕達が銃器を手に反乱を起こしたりしたら…
+msgctxt "0162 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Exisals may be strong, but if we were\n"
 "to revolt with real guns..."
 msgstr ""
 
-msgctxt "0164"
+#. <CLT=cltMIND>モノクマに取っては厄介事でしかないはずだ。
+msgctxt "0163 | c03_001_150 | chara_Blank"
 msgid "<CLT=cltMIND>Monokuma would never allow that."
 msgstr ""
 
-msgctxt "0165"
+#. ………………
+msgctxt "0164 | c03_001_150 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0166"
+#. <CLT=cltMIND>もし、ここの武器が本物で…
+#. 東条さんがここにいたなら…
+msgctxt "0165 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>If these weapons were real...\n"
 "And if Kirumi were here..."
 msgstr ""
 
-msgctxt "0167"
+#. <CLT=cltMIND>彼女は…脱出する為に僕達を焚きつけたかもしれない。
+msgctxt "0166 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>She might have taken us all out in\n"
 "order to escape."
 msgstr ""
 
-msgctxt "0168"
+#. <CLT=cltMIND>彼女の大切な存在の為に…
+msgctxt "0167 | c03_001_150 | chara_Blank"
 msgid "<CLT=cltMIND>For her people..."
 msgstr ""
 
-msgctxt "0169"
+#. <CLT=cltMIND>ここには色々な武器が揃っているみたいだ…
+msgctxt "0168 | c03_001_150 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There are a lot of different\n"
 "weapons here..."
 msgstr ""
 
-msgctxt "0170"
+#. <CLT=cltMIND>春川さんはこれをすべて扱えるのか…？
+msgctxt "0169 | c03_001_150 | chara_Blank"
 msgid "<CLT=cltMIND>Maki knows how to handle all of these...?"
 msgstr ""

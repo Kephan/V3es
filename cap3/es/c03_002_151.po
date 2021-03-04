@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,353 +11,456 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>へぇ、かなり広い道場だな。
+#. 畳も新しくて…いい匂いがしている。
+msgctxt "0000 | c03_002_151 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Whoa, this is a huge dojo...\n"
 "The tatami mats are new. They smell nice..."
 msgstr ""
 
-msgctxt "0002"
+#. んあー…めんどい…
+msgctxt "0001 | c03_002_151 | C009_Yumen"
 msgid "Nyeeeh...what a pain..."
 msgstr ""
 
-msgctxt "0003"
+#. ここにはマナもない…
+#. ウチには無縁な場所じゃというのに…
+msgctxt "0002 | c03_002_151 | C009_Yumen"
 msgid ""
 "There's no mana here...\n"
 "This is not my kind of place..."
 msgstr ""
 
-msgctxt "0004"
+#. こ、腰が痛い…
+msgctxt "0003 | c03_002_151 | C009_Yumen"
 msgid "M-My back hurts..."
 msgstr ""
 
-msgctxt "0005"
+#. 今度やったら、絶対に…
+#. キショいカエルに変えてくれる…
+msgctxt "0004 | c03_002_151 | C009_Yumen"
 msgid ""
 "If you do that again...\n"
 "I'll definitely turn you into a gross frog..."
 msgstr ""
 
-msgctxt "0006"
+#. 今は…腰の治療に魔力を回さねばならんからな…
+msgctxt "0005 | c03_002_151 | C009_Yumen"
 msgid ""
 "But right now...I have to use all my magic \n"
 "to fix my back..."
 msgstr ""
 
-msgctxt "0007"
+#. ほら、やっぱり転子の研究教室じゃないですか！
+#. だから言ったろ、このヤロー！
+msgctxt "0006 | c03_002_151 | C011_Chaba"
 msgid "See, this *is* my lab, you jerk!"
 msgstr ""
 
-msgctxt "0008"
+#. な、なんで怒ってるの？
+msgctxt "0007 | c03_002_151 | C000_Saiha"
 msgid "Wh-Why are you *angry*?"
 msgstr ""
 
-msgctxt "0009"
+#. 喜び過ぎて感情がおかしくなっているんです！
+#. 犬で言う、うれションですね！
+msgctxt "0008 | c03_002_151 | C011_Chaba"
 msgid ""
 "I'm so happy, I just can't contain my emotions!\n"
 "Like an excited dog that just pees everywhere!"
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>この感情の起伏…夢野さんと真逆だな。
+msgctxt "0009 | c03_002_151 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>An emotional rollercoaster...\n"
 "The complete opposite of Himiko."
 msgstr ""
 
-msgctxt "0011"
+#. いやはや、これだけ立派な道場があるなら、
+#. 楽しく激しく稽古ができそうですね！
+msgctxt "0010 | c03_002_151 | C011_Chaba"
 msgid ""
 "Wow, this is such a nice dojo! I'm sure\n"
 "sparring will be incredible here!"
 msgstr ""
 
-msgctxt "0012"
+#. でも、稽古相手がいないと――
+msgctxt "0011 | c03_002_151 | C000_Saiha"
 msgid "But, without a sparring partner—"
 msgstr ""
 
-msgctxt "0013"
+#. きいえええええええええええええええっ！
+msgctxt "0012 | c03_002_151 | C011_Chaba"
 msgid "HAIYAAAAAAAAHHH!!!!!"
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltSYSTEM>「ドッターン！！」
+msgctxt "0013 | c03_002_151 | chara_Blank"
 msgid "<CLT=cltSYSTEM>*slam!*"
 msgstr ""
 
-msgctxt "0015"
+#. わあああああああああああああっ！
+#. な、なんでっ！？
+msgctxt "0014 | c03_002_151 | C000_Saiha"
 msgid "AAUGH! Wh-What was that for!?"
 msgstr ""
 
-msgctxt "0016"
+#. いてて…てて…！
+#. 急に…何するんだよ…！
+msgctxt "0015 | c03_002_151 | C000_Saiha"
 msgid ""
 "Ow! Ow! Owww!\n"
 "Wh-Why are you throwing me?"
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltSTRONG>“ネオ合気道”<CLT=cltNORMAL>は超実戦型の合気道なのです！
+#. 必要なのは、稽古ではなく実戦なのですよっ！
+msgctxt "0016 | c03_002_151 | C011_Chaba"
 msgid ""
 "<CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL> is a super serious martial art!\n"
 "Instead of training, we just fight head-on!"
 msgstr ""
 
-msgctxt "0018"
+#. さぁ、夢野さん！
+#. 今です！　心臓を狙ってください！
+msgctxt "0017 | c03_002_151 | C011_Chaba"
 msgid "Now, Himiko! Aim for the heart!"
 msgstr ""
 
-msgctxt "0019"
+#. なんで、とどめをっ！？
+msgctxt "0018 | c03_002_151 | C000_Saiha"
 msgid "You're going to *start* with that!?"
 msgstr ""
 
-msgctxt "0020"
+#. はっはっは！　冗談ですよ。
+msgctxt "0019 | c03_002_151 | C011_Chaba"
 msgid "Hahaha! I'm just kidding!"
 msgstr ""
 
-msgctxt "0021"
+#. わ、わかり辛いよ！
+#. て言うか、なんでいきなり実戦に――
+msgctxt "0020 | c03_002_151 | C000_Saiha"
 msgid ""
 "*This* is just kidding?\n"
 "Why did we go straight into actual fighting—"
 msgstr ""
 
-msgctxt "0022"
+#. …最原さんは自分に自信がないんですね。
+msgctxt "0021 | c03_002_151 | C011_Chaba"
 msgid ""
 "You don't have a lot of confidence in\n"
 "yourself, do you, Shuichi?"
 msgstr ""
 
-msgctxt "0023"
+#. …え？
+msgctxt "0022 | c03_002_151 | C000_Saiha"
 msgid "...What?"
 msgstr ""
 
-msgctxt "0024"
+#. 自分に自信がなくて…自分自身の力を疑っている。
+msgctxt "0023 | c03_002_151 | C011_Chaba"
 msgid ""
 "You lack self-esteem...and because of that,\n"
 "you doubt your strength."
 msgstr ""
 
-msgctxt "0025"
+#. 少しずつ改善の兆しは見られているようですが、
+#. その傾向はまだ残っているようですね。
+msgctxt "0024 | c03_002_151 | C011_Chaba"
 msgid ""
 "You seem more confident than before, but\n"
 "I can tell you still question yourself."
 msgstr ""
 
-msgctxt "0026"
+#. …どうです、当たりでしょう！
+#. 転子は組んだ相手の心の迷いがわかるんです！
+msgctxt "0025 | c03_002_151 | C011_Chaba"
 msgid ""
 "...Well!? I'm right, aren't I!? I can tell when\n"
 "my sparring partner is burdened by doubt!"
 msgstr ""
 
-msgctxt "0027"
+#. そ、そう…かもね…
+msgctxt "0026 | c03_002_151 | C000_Saiha"
 msgid "...You might be right."
 msgstr ""
 
-msgctxt "0028"
+#. そんな最原さんには<CLT=cltSTRONG>“ネオ合気道”<CLT=cltNORMAL>をお勧めします！
+#. 心に迷いを持つ方にこそ、合気道はうってつけなのです！
+msgctxt "0027 | c03_002_151 | C011_Chaba"
 msgid ""
 "You know what works real good at lifting\n"
 "all that doubt!? <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0029"
+#. なにしろ、合気道は、
+#. 澄んだ心を重んじる<CLT=cltSTRONG>“和の武道”<CLT=cltNORMAL>ですからね！
+msgctxt "0028 | c03_002_151 | C011_Chaba"
 msgid ""
 "Because Aikido itself is a <CLT=cltSTRONG>Japanese martial art<CLT=cltNORMAL>,\n"
 "that treasures a pure heart above all else!"
 msgstr ""
 
-msgctxt "0030"
+#. という訳で、夢野さんもどうですか！？
+msgctxt "0029 | c03_002_151 | C011_Chaba"
 msgid "So, how about you, Himiko?"
 msgstr ""
 
-msgctxt "0031"
+#. …んあ？
+msgctxt "0030 | c03_002_151 | C009_Yumen"
 msgid "Nyeh?"
 msgstr ""
 
-msgctxt "0032"
+#. 夢野さんの魔法と、転子の<CLT=cltSTRONG>“ネオ合気道”<CLT=cltNORMAL>が合わされば、
+#. きっと、色んな事が力ずくでなんとかなるはずです！
+msgctxt "0031 | c03_002_151 | C011_Chaba"
 msgid ""
 "If we combine your magic with my Neo-Aikido,\n"
 "then we'd be able to solve things by force!"
 msgstr ""
 
-msgctxt "0033"
+#. <CLT=cltMIND>力ずくって…澄んだ心はどこに？
+msgctxt "0032 | c03_002_151 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>By force? I thought this was\n"
 "about being pure of heart..."
 msgstr ""
 
-msgctxt "0034"
+#. んあー…ウチは体を動かすのは嫌いじゃ。
+#. めんど――
+msgctxt "0033 | c03_002_151 | C009_Yumen"
 msgid ""
 "Nyeeeh...I don't wanna do any exercise.\n"
 "It's too much of a—"
 msgstr ""
 
-msgctxt "0035"
+#. きいえええええええええええええええっ！
+msgctxt "0034 | c03_002_151 | C011_Chaba"
 msgid "HAIYAAAAAAAAHHH!!!!!"
 msgstr ""
 
-msgctxt "0036"
+#. んああああああ～～。
+msgctxt "0035 | c03_002_151 | C009_Yumen"
 msgid "Nyeeeeeeeehhh..."
 msgstr ""
 
-msgctxt "0037"
+#. <CLT=cltSYSTEM>「ドッターン！！」
+msgctxt "0036 | c03_002_151 | chara_Blank"
 msgid "<CLT=cltSYSTEM>*slam!*"
 msgstr ""
 
-msgctxt "0038"
+#. なるほど…夢野さんは自分の感情をさらけ出す事を
+#. 恥ずかしがっているようですね…
+msgctxt "0037 | c03_002_151 | C011_Chaba"
 msgid ""
 "I see... It seems you are still too shy\n"
 "to show your emotions, Himiko."
 msgstr ""
 
-msgctxt "0039"
+#. もったいないですよ。
+#. 本当は、誰よりも心が豊かなはずなのに。
+msgctxt "0038 | c03_002_151 | C011_Chaba"
 msgid ""
 "What a waste. You have the richest heart\n"
 "of all."
 msgstr ""
 
-msgctxt "0040"
+#. やはり、夢野さんも<CLT=cltSTRONG>“ネオ合気道”<CLT=cltNORMAL>をやるべきです！
+#. 体を動かせば、表情を動かす事も得意になるはずです！
+msgctxt "0039 | c03_002_151 | C011_Chaba"
 msgid ""
 "You should do <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>, Himiko! Training\n"
 "your body will help you express your emotions."
 msgstr ""
 
-msgctxt "0041"
+#. さぁ、転子と共に汗を流し、
+#. その後で、共にシャワーで汗を流しましょう！
+msgctxt "0040 | c03_002_151 | C011_Chaba"
 msgid ""
 "Now, come sweat with me! And afterward,\n"
 "we'll hit the showers together!"
 msgstr ""
 
-msgctxt "0042"
+#. んあー…こ、腰が動かん…
+msgctxt "0041 | c03_002_151 | C009_Yumen"
 msgid "Nyeeeh... M-My back..."
 msgstr ""
 
-msgctxt "0043"
+#. ウチは今…魔法でお主をキショいカエルに
+#. 変えたい気分じゃ…
+msgctxt "0042 | c03_002_151 | C009_Yumen"
 msgid ""
 "I feel like...turning you into a gross frog \n"
 "with my magic right now..."
 msgstr ""
 
-msgctxt "0044"
+#. あっ…これは怒ってますね。
+#. 今度こそわかりますよ。
+msgctxt "0043 | c03_002_151 | C011_Chaba"
 msgid "Oh...you're angry. I can see it in your heart."
 msgstr ""
 
-msgctxt "0045"
+#. うん…僕でもわかるからね。
+msgctxt "0044 | c03_002_151 | C000_Saiha"
 msgid "Even I can see that..."
 msgstr ""
 
-msgctxt "0046"
+#. 合気道の極意を教えてあげましょう。
+msgctxt "0045 | c03_002_151 | C011_Chaba"
 msgid "I will tell you the secret of Aikido."
 msgstr ""
 
-msgctxt "0047"
+#. 合気道は、相手といたずらに強弱を競う事はしません。
+msgctxt "0046 | c03_002_151 | C011_Chaba"
 msgid ""
 "Aikido is not about competing for fun to see\n"
 "each other's strengths and weaknesses."
 msgstr ""
 
-msgctxt "0048"
+#. 入身と転換の体捌きと呼吸力から生まれる技によって、
+#. お互いに切磋琢磨し合って稽古を積み重ね…
+msgctxt "0047 | c03_002_151 | C011_Chaba"
 msgid ""
 "By working together and using techniques that\n"
 "make full use of your mind, body, and breath..."
 msgstr ""
 
-msgctxt "0049"
+#. そして、心身の錬成を図るのを目的としているのです。
+msgctxt "0048 | c03_002_151 | C011_Chaba"
 msgid ""
 "...you can measure your physical and mental\n"
 "growth. That is the true purpose of Aikido."
 msgstr ""
 
-msgctxt "0050"
+#. また、他人と優劣を競う事をしない為、
+#. 合気道は試合や競技を行いません。
+msgctxt "0049 | c03_002_151 | C011_Chaba"
 msgid ""
 "You do not compete for superiority in Aikido.\n"
 "In fact, in Aikido you do not compete at all."
 msgstr ""
 
-msgctxt "0051"
+#. つまり、他人を傷つける為の武道ではなく、
+#. 自分を高める為の武道なのです！
+msgctxt "0050 | c03_002_151 | C011_Chaba"
 msgid ""
 "Aikido is not a martial art for inflicting harm,\n"
 "but a way to improve yourself!"
 msgstr ""
 
-msgctxt "0052"
+#. どうです？　立派な武道でしょう？
+msgctxt "0051 | c03_002_151 | C011_Chaba"
 msgid "What do you think? Pretty amazing, right?"
 msgstr ""
 
-msgctxt "0053"
+#. <CLT=cltMIND>立派な武道だけど…
+#. だったら…なんで僕は投げ飛ばされたんだ？
+msgctxt "0052 | c03_002_151 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>That sounds like a good creed,\n"
 "but I still got thrown..."
 msgstr ""
 
-msgctxt "0054"
+#. <CLT=cltMIND>もう少し、ここを調べてみよう…
+msgctxt "0053 | c03_002_151 | chara_Blank"
 msgid "<CLT=cltMIND>I'll investigate around here a little more."
 msgstr ""
 
-msgctxt "0055"
+#. はい
+msgctxt "0054 | c03_002_151 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0056"
+#. いいえ
+msgctxt "0055 | c03_002_151 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0057"
+#. もしかして悩んでいるの？
+msgctxt "0056 | c03_002_151 | chara_Blank"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0058"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0057 | c03_002_151 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0059"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0058 | c03_002_151 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0060"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0059 | c03_002_151 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0061"
+#. <CLT=cltMIND>…なんだ、これ？
+msgctxt "0060 | c03_002_151 | chara_Blank"
 msgid "<CLT=cltMIND>What is this...?"
 msgstr ""
 
-msgctxt "0062"
+#. <CLT=cltMIND>木でできた大きな人形…
+#. いや、人形と言って良いのか？
+msgctxt "0061 | c03_002_151 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a large doll made of wood...\n"
 "Ah, wait...*is* it a doll?"
 msgstr ""
 
-msgctxt "0063"
+#. <CLT=cltMIND>これが見守ってくれる…って事なんだろうか？
+msgctxt "0062 | c03_002_151 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Is this supposed to watch over us\n"
 "and protect us?"
 msgstr ""
 
-msgctxt "0064"
+#. <CLT=cltMIND>畳は真新しい。
+#. いい匂いがしている…
+msgctxt "0063 | c03_002_151 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The tatami mats are new.\n"
 "They smell nice..."
 msgstr ""
 
-msgctxt "0065"
+#. <CLT=cltMIND>ネオン看板
+msgctxt "0064 | c03_002_151 | chara_Blank"
 msgid "<CLT=cltMIND>Neon Sign"
 msgstr ""
 
-msgctxt "0066"
+#. <CLT=cltMIND>これって…柱か？
+#. 何でこんな所に柱が立ってるんだろう？
+msgctxt "0065 | c03_002_151 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Is this...a pillar?\n"
 "Why is there a pillar here?"
 msgstr ""
 
-msgctxt "0067"
+#. <CLT=cltMIND>空中に、鎖で足場が吊されている…
+msgctxt "0066 | c03_002_151 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There's a scaffold suspended in\n"
 "the air with chains."
 msgstr ""
 
-msgctxt "0068"
+#. <CLT=cltMIND>これを飛び移っていく鍛錬でもするのか？
+#. まるでカンフー映画だ…
+msgctxt "0067 | c03_002_151 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Is this for some kind of jump training?\n"
 "It's like a kung-fu movie..."
 msgstr ""
 
-msgctxt "0069"
+#. <CLT=cltMIND>これって…柱か？
+#. 何でこんな所に柱が立ってるんだろう？
+msgctxt "0068 | c03_002_151 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Is this...a pillar?\n"
 "Why is there a pillar here?"

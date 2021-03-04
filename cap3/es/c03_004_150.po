@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,55 +11,69 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. はい
+msgctxt "0000 | c03_004_150 | non"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0002"
+#. いいえ
+msgctxt "0001 | c03_004_150 | non"
 msgid "No"
 msgstr ""
 
-msgctxt "0003"
+#. もしかして悩んでいるの？
+msgctxt "0002 | c03_004_150 | non"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0003 | c03_004_150 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0004 | c03_004_150 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0005 | c03_004_150 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>黒いケースが３つ並んでいる…
+#. これも、中に武器が入っているのか？
+msgctxt "0006 | c03_004_150 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There are three black cases lined up.\n"
 "Do they all have weapons inside?"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>ここには色々な武器が揃っているみたいだ…
+msgctxt "0007 | c03_004_150 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There are a lot of different\n"
 "weapons here..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>大量の銃が並んでいる…
+msgctxt "0008 | c03_004_150 | chara_Blank"
 msgid "<CLT=cltMIND>Look at all these guns..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>全部エアガンとはいえ、圧倒される光景だな…
+msgctxt "0009 | c03_004_150 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Even if they're all airsoft guns,\n"
 "it's a remarkable sight..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>ここには色々な武器が揃っているみたいだ…
+msgctxt "0010 | c03_004_150 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There are a lot of different\n"
 "weapons here..."

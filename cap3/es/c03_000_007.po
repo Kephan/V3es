@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,56 +11,71 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. あ…
+msgctxt "0000 | c03_000_007 | C000_Saiha"
 msgid "Ah..."
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>夢野さんのショーの装置がなくなってる。
+#. モノクマが片付けたんだろうか…
+msgctxt "0001 | c03_000_007 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Everything from Himiko's show is completely\n"
 "gone. Monokuma must have cleaned it up."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>でも…僕らの中には間違いなく刻み込まれている…
+#. あの時の、星くんの無残な姿が…
+msgctxt "0002 | c03_000_007 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>But...the sight of Ryoma's body...\n"
 "It's engraved into our minds. We'll never forget."
 msgstr ""
 
-msgctxt "0004"
+#. はい
+msgctxt "0003 | c03_000_007 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0005"
+#. いいえ
+msgctxt "0004 | c03_000_007 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0006"
+#. もしかして悩んでいるの？
+msgctxt "0005 | c03_000_007 | chara_Blank"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0006 | c03_000_007 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>このモニターって特注品だよな？
+msgctxt "0007 | c03_000_007 | chara_Blank"
 msgid "<CLT=cltMIND>This monitor has to be custom made..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>こんな物をわざわざ作るなんて、
+#. どこからどんな予算が出てるんだ？
+msgctxt "0008 | c03_000_007 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Why go out of their way to make this?\n"
 "Where is this budget coming from?"
 msgstr ""
 
-msgctxt "0010"
+#. バスケットゴール＿右
+msgctxt "0009 | c03_000_007 | chara_Blank"
 msgid "Basket Goal_Right"
 msgstr ""
 
-msgctxt "0011"
+#. バスケットゴール＿左
+msgctxt "0010 | c03_000_007 | chara_Blank"
 msgid "Basket Goal_Left"
 msgstr ""
 
-msgctxt "0012"
+#. スコアボード
+msgctxt "0011 | c03_000_007 | chara_Blank"
 msgid "Scoreboard"
 msgstr ""

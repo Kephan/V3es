@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,1462 +11,1914 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. ………………
+msgctxt "0000 | c03_006_007 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0002"
+#. <CLT=cltMIND>天海くんの学級裁判が終わった後で、
+#. 図書室に行った時もそうだったけど…
+msgctxt "0001 | c03_006_007 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It was the same way when we went to\n"
 "the library after Rantaro's class trial."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>…すっかりキレイになってるんだな。
+msgctxt "0002 | c03_006_007 | chara_Blank"
 msgid "<CLT=cltMIND>...All clean."
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltMIND>まるで…あんな事は最初からなかったみたいに。
+msgctxt "0003 | c03_006_007 | chara_Blank"
 msgid "<CLT=cltMIND>Like nothing ever happened."
 msgstr ""
 
-msgctxt "0005"
+#. あー、ねみぃ…朝っぱらからなんなんだよ。
+msgctxt "0004 | c03_006_007 | C014_Iruma"
 msgid "Ugh, man... I'm tired as fuck."
 msgstr ""
 
-msgctxt "0006"
+#. こっちはコンピューターいじりで、
+#. 夜更ししてんのによぉ。
+msgctxt "0005 | c03_006_007 | C014_Iruma"
 msgid "I was up all night fixing that computer."
 msgstr ""
 
-msgctxt "0007"
+#. あ、４階のコンピューターを調べてくれたの？
+#. どうだった？
+msgctxt "0006 | c03_006_007 | C000_Saiha"
 msgid ""
 "Ah, you took a look at the computer\n"
 "on the 4th floor? What do you think?"
 msgstr ""
 
-msgctxt "0008"
+#. あぁ…まだ調べ始めたばっかだから、
+#. 詳しい事はわかんねーけどよぉ…
+msgctxt "0007 | c03_006_007 | C014_Iruma"
 msgid ""
 "Yeah...I only just started working on it\n"
 "so I don't know the full specs, but..."
 msgstr ""
 
-msgctxt "0009"
+#. あれ…すっごいイイんだけど。
+#. あのね…激し過ぎて全然寝かせてくれないの。
+msgctxt "0008 | c03_006_007 | C014_Iruma"
 msgid ""
 "That thing...is pretty good. I mean, it's so\n"
 "intense it just won't let me sleep."
 msgstr ""
 
-msgctxt "0010"
+#. ………………
+msgctxt "0009 | c03_006_007 | C007_Ki-Bo"
 msgid "..."
 msgstr "..."
 
-msgctxt "0011"
+#. ククク…嫉妬かい？
+msgctxt "0010 | c03_006_007 | C006_Shing"
 msgid "Kehehe...are you jealous?"
 msgstr ""
 
-msgctxt "0012"
+#. …やめてください。
+#. コンピューターなんかに嫉妬する訳ないでしょう。
+msgctxt "0011 | c03_006_007 | C007_Ki-Bo"
 msgid ""
 "...Of course not. I would never be jealous\n"
 "of a computer."
 msgstr ""
 
-msgctxt "0013"
+#. ロボがコンピューターに…でしょ？
+#. 地味にありそうなんだけど。
+msgctxt "0012 | c03_006_007 | C012_Shiro"
 msgid ""
 "A robot jealous of a computer?\n"
 "It seems just plain possible."
 msgstr ""
 
-msgctxt "0014"
+#. ところで、オレって寝ぼけてるのかな？
+#. なんで<CLT=cltSTRONG>“彼女”<CLT=cltNORMAL>の姿が見えてるんだろ？
+msgctxt "0013 | c03_006_007 | C005_Oma__"
 msgid ""
 "Hey guys, am I sleepwalking or something?\n"
 "What's <CLT=cltSTRONG>she<CLT=cltNORMAL> doing here?"
 msgstr ""
 
-msgctxt "0015"
+#. ………………
+msgctxt "0014 | c03_006_007 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0016"
+#. そっか！　幻覚だね！
+#. オレらとは顔を合わさないって言ってたもんね！
+msgctxt "0015 | c03_006_007 | C005_Oma__"
 msgid ""
 "Oh, I see! I'm hallucinating! After what Maki\n"
 "said before, there's no way she'd be here!"
 msgstr ""
 
-msgctxt "0017"
+#. …バカ言ってんじゃねーよ。
+#. 集まらなかったら、何されるかわからねーんだぞ？
+msgctxt "0016 | c03_006_007 | C001_Momot"
 msgid ""
 "Don't say something so stupid. You'll never get\n"
 "to know her better if you never talk to her!"
 msgstr ""
 
-msgctxt "0018"
+#. 意外と、他のみんなはその方が良かったりして！
+msgctxt "0017 | c03_006_007 | C005_Oma__"
 msgid "Maybe everyone would prefer that!"
 msgstr ""
 
-msgctxt "0019"
+#. いっそ、人殺しの危険人物には、
+#. いなくなって貰った方がいいとか思ってたりして。
+msgctxt "0018 | c03_006_007 | C005_Oma__"
 msgid ""
 "Maybe everyone would prefer that this\n"
 "dangerous killer stays far away from us!"
 msgstr ""
 
-msgctxt "0020"
+#. もちろん、オレはそんな事思ってないけどね！
+msgctxt "0019 | c03_006_007 | C005_Oma__"
 msgid "Of course, I wouldn't prefer that at all!"
 msgstr ""
 
-msgctxt "0021"
+#. テメー、いい加減にしやがれっ！
+msgctxt "0020 | c03_006_007 | C001_Momot"
 msgid "You better cut it out!"
 msgstr ""
 
-msgctxt "0022"
+#. もー、そうだよー。
+#. 殺すとか殺されるとか平和な学園生活に相応しくないよ？
+msgctxt "0021 | c03_006_007 | C013_Yonag"
 msgid ""
 "He's right. Murder and death have no place in\n"
 "a peaceful academy life."
 msgstr ""
 
-msgctxt "0023"
+#. んあ…アンジーの言う通りじゃ。
+msgctxt "0022 | c03_006_007 | C009_Yumen"
 msgid "Nyeeeh...it's just like Angie said."
 msgstr ""
 
-msgctxt "0024"
+#. うん…アンジーさんの言う通りだよ。
+msgctxt "0023 | c03_006_007 | C012_Shiro"
 msgid "Yeah...it's just like Angie said."
 msgstr ""
 
-msgctxt "0025"
+#. <CLT=cltMIND>…ん？
+msgctxt "0024 | c03_006_007 | chara_Blank"
 msgid "<CLT=cltMIND>Huh?"
 msgstr ""
 
-msgctxt "0026"
+#. みんなっ！　大変だよっ！
+msgctxt "0025 | c03_006_007 | C004_Gokuh"
 msgid "Everyone! It serious!"
 msgstr ""
 
-msgctxt "0027"
+#. 大変って…
+#. まさか、壁の外から巨大昆虫が現れた！？
+msgctxt "0026 | c03_006_007 | C005_Oma__"
 msgid ""
 "Oh, no... The Colossal Insect is on the other\n"
 "side of the wall, isn't it!?"
 msgstr ""
 
-msgctxt "0028"
+#. あ、そこまで大変じゃないんだけど、
+#. ここに来る前に中庭に寄ったら――
+msgctxt "0027 | c03_006_007 | C004_Gokuh"
 msgid ""
 "No, not that. Gonta went to courtyard\n"
 "before coming here and—"
 msgstr ""
 
-msgctxt "0029"
+#. くまたせー！
+msgctxt "0028 | c03_006_007 | C029_Mono3"
 msgid "Thanks for bearing with us!"
 msgstr ""
 
-msgctxt "0030"
+#. もー、なんなのさっ！
+#. 急にこんな所に呼び出したりしてっ！
+msgctxt "0029 | c03_006_007 | C021_Mtaro"
 msgid ""
 "C'monnnnn, what is it? Why'd you call us\n"
 "out all of a sudden!?"
 msgstr ""
 
-msgctxt "0031"
+#. 呼び出したのはアタイ達の方よ？
+#. そんな事も忘れちゃったの？
+msgctxt "0030 | c03_006_007 | C023_Mfunn"
 msgid ""
 "We're the ones who called them out!\n"
 "Did you forget that, too?"
 msgstr ""
 
-msgctxt "0032"
+#. モノタロウノ心配ハ…後デスルトシテ、
+#. <CLT=cltSTRONG>“動機”<CLT=cltNORMAL>ヲ発表シヨウカ…
+msgctxt "0031 | c03_006_007 | C024_Mdam_"
 msgid ""
 "LET'S-WORRY-ABOUT-MONOTARO...LATER,\n"
 "AND-PRESENT-THE-<CLT=cltSTRONG>MOTIVE<CLT=cltNORMAL>-NOW."
 msgstr ""
 
-msgctxt "0033"
+#. やっぱり…<CLT=cltSTRONG>“動機”<CLT=cltNORMAL>か。
+msgctxt "0032 | c03_006_007 | C000_Saiha"
 msgid "So it is a <CLT=cltSTRONG>motive<CLT=cltNORMAL> after all."
 msgstr ""
 
-msgctxt "0034"
+#. にゃははー、どんな<CLT=cltSTRONG>“動機”<CLT=cltNORMAL>でも関係ないよー。
+#. アンジー達はもうコロシアイなんてしないもーん。
+msgctxt "0033 | c03_006_007 | C013_Yonag"
 msgid ""
 "Nyahaha! It doesn't matter what the <CLT=cltSTRONG>motive<CLT=cltNORMAL>\n"
 "is, we will not do the killing game anymore."
 msgstr ""
 
-msgctxt "0035"
+#. そ、その通りです！
+#. もう何も怖くありません！
+msgctxt "0034 | c03_006_007 | C011_Chaba"
 msgid ""
 "Th-That's right! We aren't afraid of anything\n"
 "anymore!"
 msgstr ""
 
-msgctxt "0036"
+#. …ボクらには神さまがいますからね。
+msgctxt "0035 | c03_006_007 | C007_Ki-Bo"
 msgid "...Because we have Atua."
 msgstr ""
 
-msgctxt "0037"
+#. <CLT=cltMIND>…え？
+msgctxt "0036 | c03_006_007 | chara_Blank"
 msgid "<CLT=cltMIND>...What?"
 msgstr ""
 
-msgctxt "0038"
+#. でもね、今回はただの<CLT=cltSTRONG>“動機”<CLT=cltNORMAL>じゃないの。
+#. かつてない恐怖をもたらす<CLT=cltSTRONG>“動機”<CLT=cltNORMAL>なのよ。
+msgctxt "0037 | c03_006_007 | C023_Mfunn"
 msgid ""
 "But it's no ordinary <CLT=cltSTRONG>motive<CLT=cltNORMAL>. This <CLT=cltSTRONG>motive<CLT=cltNORMAL> will\n"
 "inspire fear like never before."
 msgstr ""
 
-msgctxt "0039"
+#. …かつてない恐怖？
+msgctxt "0038 | c03_006_007 | C006_Shing"
 msgid "Fear like never before?"
 msgstr ""
 
-msgctxt "0040"
+#. コノ、カツテナイ恐怖ヲ前ニスレバ、
+#. キサマラモ一致団結スルシカ…ナクナルハズダヨ。
+msgctxt "0039 | c03_006_007 | C024_Mdam_"
 msgid ""
 "IF-YOU-FACE-A-FEAR-LIKE-NEVER-BEFORE,\n"
 "YOU'LL-HAVE-NO-CHOICE...BUT-TO-UNITE."
 msgstr ""
 
-msgctxt "0041"
+#. サァ、キサマラヲ恐怖ノドン底ニ叩キ落トス、
+#. 衝撃ノ<CLT=cltSTRONG>“動機”<CLT=cltNORMAL>ヲ…
+msgctxt "0040 | c03_006_007 | C024_Mdam_"
 msgid ""
 "NOW, FOR-THE-MOTIVE-THAT-WILL-CAST-\n"
 "YOU-DOWN-INTO-THE-DEPTHS-OF-TERROR..."
 msgstr ""
 
-msgctxt "0042"
+#. …仲良く発表しまーす！
+msgctxt "0041 | c03_006_007 | C029_Mono3"
 msgid "...We'll present it together!"
 msgstr ""
 
-msgctxt "0043"
+#. 今回の動機は<CLT=cltSTRONG>“転校生”<CLT=cltNORMAL>でーす！
+msgctxt "0042 | c03_006_007 | C021_Mtaro"
 msgid "This time, the motive is a <CLT=cltSTRONG>transfer student<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0044"
+#. そう！　なんと転校生が来ちゃうんだ！
+#. しかも、ただの転校生じゃなくて…
+msgctxt "0043 | c03_006_007 | C021_Mtaro"
 msgid ""
 "Yep! A new student is transferring!\n"
 "And not just any transfer student..."
 msgstr ""
 
-msgctxt "0045"
+#. 今まで死んだ４人の中から、
+#. 誰か１人を蘇らせて…
+msgctxt "0044 | c03_006_007 | C023_Mfunn"
 msgid ""
 "You get to resurrect one of the four\n"
 "people who've died so far..."
 msgstr ""
 
-msgctxt "0046"
+#. その人を<CLT=cltSTRONG>“転校生”<CLT=cltNORMAL>として迎えちゃうのよ！
+msgctxt "0045 | c03_006_007 | C023_Mfunn"
 msgid ""
 "...and welcome them back to the\n"
 "academy as a transfer student!"
 msgstr ""
 
-msgctxt "0047"
+#. …ねー？
+msgctxt "0046 | c03_006_007 | C029_Mono3"
 msgid "...Welllll?"
 msgstr ""
 
-msgctxt "0048"
+#. て、転校生…？
+msgctxt "0047 | c03_006_007 | C012_Shiro"
 msgid "A t-transfer student...?"
 msgstr ""
 
-msgctxt "0049"
+#. 誰か１人を蘇らせる…だと？
+msgctxt "0048 | c03_006_007 | C001_Momot"
 msgid "We can...resurrect someone?"
 msgstr ""
 
-msgctxt "0050"
+#. <CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>のやり方は、
+#. この<CLT=cltSTRONG>“屍者の書”<CLT=cltNORMAL>に書いてあるから。
+msgctxt "0049 | c03_006_007 | C021_Mtaro"
 msgid ""
 "The instructions for the <CLT=cltSTRONG>resurrection ritual<CLT=cltNORMAL>\n"
 "are written in the <CLT=cltSTRONG>Necronomicon<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0051"
+#. ここに書かれた儀式を手順通りに行う事で、
+#. 犠牲者を１人だけ蘇らせる事ができるよ。
+msgctxt "0050 | c03_006_007 | C021_Mtaro"
 msgid ""
 "By performing the ritual as written, you can\n"
 "resurrect one deceased victim."
 msgstr ""
 
-msgctxt "0052"
+#. ただし、生き返って<CLT=cltSTRONG>“転校生”<CLT=cltNORMAL>になれるのは、
+#. 死んだ４人のメンバーの内１人だけよ。
+msgctxt "0051 | c03_006_007 | C023_Mfunn"
 msgid ""
 "But only one of the four who have died \n"
 "so far can become the <CLT=cltSTRONG>transfer student<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0053"
+#. ちなみに、その人は復活した時点から、
+#. コロシアイ新学期のメンバーとして扱われるわ。
+msgctxt "0052 | c03_006_007 | C023_Mfunn"
 msgid ""
 "Whoever you choose, that person will be\n"
 "considered part of the killing game semester."
 msgstr ""
 
-msgctxt "0054"
+#. じゃあさ…生き返らせた直後に殺しても、
+#. それはルール内と見なされるんだね。
+msgctxt "0053 | c03_006_007 | C021_Mtaro"
 msgid ""
 "So technically, you can kill 'em again\n"
 "as soon as they're resurrected."
 msgstr ""
 
-msgctxt "0055"
+#. なるほど…そういう使い方もあるんだね。
+msgctxt "0054 | c03_006_007 | C021_Mtaro"
 msgid "Y'know...if you wanted to use it like that."
 msgstr ""
 
-msgctxt "0056"
+#. コレハ…仲良クナル為ノ動機ナンダケド。
+msgctxt "0055 | c03_006_007 | C024_Mdam_"
 msgid ""
 "THIS-MOTIVE...IS-SUPPOSED-TO-BRING-\n"
 "THEM-CLOSER-TOGETHER."
 msgstr ""
 
-msgctxt "0057"
+#. あっ…ご、ごめん！
+#. つい今までのクセでっ！
+msgctxt "0056 | c03_006_007 | C021_Mtaro"
 msgid "O-Oh...s-s-sorry! Old habits and such..."
 msgstr ""
 
-msgctxt "0058"
+#. モノダム…許してあげましょうよ。
+#. 許してあげるのも仲の良さじゃないかしら。
+msgctxt "0057 | c03_006_007 | C023_Mfunn"
 msgid ""
 "Monodam...let's forgive Monotaro.\n"
 "Forgiving is what friends do, y'know."
 msgstr ""
 
-msgctxt "0059"
+#. モノファニー…優シイネ。
+msgctxt "0058 | c03_006_007 | C024_Mdam_"
 msgid "MONOPHANIE...YOU'RE-NICE."
 msgstr ""
 
-msgctxt "0060"
+#. ケド…仲ノ良サッテ、
+#. 優シサダケジャナインダヨ。
+msgctxt "0059 | c03_006_007 | C024_Mdam_"
 msgid ""
 "BUT...THERE-IS-MORE-TO-FRIENDSHIP-\n"
 "THAN-BEING-NICE."
 msgstr ""
 
-msgctxt "0061"
+#. 仲間ガ間違ッタ時ニ厳シク罰スルノモ
+#. 仲ノ良サナンダヨ…
+msgctxt "0060 | c03_006_007 | C024_Mdam_"
 msgid ""
 "FRIENDS-ALSO-PUNISH-EACH-OTHER-\n"
 "WHEN-THEY-DO-SOMETHING-WRONG."
 msgstr ""
 
-msgctxt "0062"
+#. ダカラ…モノタロウヲ罰スルノハ、
+#. モノファニーニヤッテ貰ウネ。
+msgctxt "0061 | c03_006_007 | C024_Mdam_"
 msgid ""
 "THAT'S-WHY...I'LL-HAVE-YOU-PUNISH-\n"
 "MONOTARO."
 msgstr ""
 
-msgctxt "0063"
+#. …え！？　アタイが！？
+msgctxt "0062 | c03_006_007 | C023_Mfunn"
 msgid "...What!? Me!?"
 msgstr ""
 
-msgctxt "0064"
+#. や、やめてよ。モノファニー！
+msgctxt "0063 | c03_006_007 | C021_Mtaro"
 msgid "Please, no! Not Monophanie!"
 msgstr ""
 
-msgctxt "0065"
+#. 内心いつも見下しているモノファニーにだけは、
+#. 殴られたくないよっ！
+msgctxt "0064 | c03_006_007 | C021_Mtaro"
 msgid ""
 "I'm always mocking her when she's not\n"
 "looking! I don't wanna be punished by her!"
 msgstr ""
 
-msgctxt "0066"
+#. アタイ、やるわっ！
+msgctxt "0065 | c03_006_007 | C023_Mfunn"
 msgid "Fine, I'll do it!"
 msgstr ""
 
-msgctxt "0067"
+#. ………………
+msgctxt "0066 | c03_006_007 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0068"
+#. <CLT=cltMIND>僕らは、すっかり呆気に取られていた。
+msgctxt "0067 | c03_006_007 | chara_Blank"
 msgid "<CLT=cltMIND>We were all completely dumbfounded."
 msgstr ""
 
-msgctxt "0069"
+#. <CLT=cltMIND>この学園に連れて来られて以来、
+#. 非常識や非現実にはすっかり慣れた気でいたけど…
+msgctxt "0068 | c03_006_007 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I feel like this academy has prepared me\n"
 "for absurd situations..."
 msgstr ""
 
-msgctxt "0070"
+#. <CLT=cltMIND>今の話はそれを凌駕する非常識さで、
+#. あまりに理解不能だった。
+msgctxt "0069 | c03_006_007 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>But what I just heard was the most\n"
 "absurd thing so far."
 msgstr ""
 
-msgctxt "0071"
+#. て、転校生…？　死んだ人が蘇る…？
+msgctxt "0070 | c03_006_007 | C007_Ki-Bo"
 msgid ""
 "T-Transfer student...?\n"
 "R-Resurrecting the dead...?"
 msgstr ""
 
-msgctxt "0072"
+#. バ、バカ言ってんじゃねー！
+#. <CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>なんて起こる訳ねーだろ！
+msgctxt "0071 | c03_006_007 | C001_Momot"
 msgid ""
 "D-Don't say such a stupid thing! There's no \n"
 "way <CLT=cltSTRONG>resurrecting the dead<CLT=cltNORMAL> is possible!"
 msgstr ""
 
-msgctxt "0073"
+#. そ、そんな事…起っちゃならねーんだよ…
+msgctxt "0072 | c03_006_007 | C001_Momot"
 msgid "I-It just can't happen..."
 msgstr ""
 
-msgctxt "0074"
+#. ま、まったくだぜ…
+#. 誰が…そんな非科学的な話を信じるかっつーんだよ。
+msgctxt "0073 | c03_006_007 | C014_Iruma"
 msgid ""
 "Sh-Sheesh... Wh-Who the fuck would believe\n"
 "that load of unscientific bullshit?"
 msgstr ""
 
-msgctxt "0075"
+#. 科学的でないと信じられないなんて…
+#. 科学社会に生きる人間のエゴでしかないヨ。
+msgctxt "0074 | c03_006_007 | C006_Shing"
 msgid ""
 "Disbelief due to a lack of scientific merit...\n"
 "is simply the hubris of a scientific society."
 msgstr ""
 
-msgctxt "0076"
+#. この手の蘇り…すなわち<CLT=cltSTRONG>“黄泉返りの儀式”<CLT=cltNORMAL>というのは
+#. 世界各地の風習である<CLT=cltSTRONG>“お葬式”<CLT=cltNORMAL>が元になっているんだ。
+msgctxt "0075 | c03_006_007 | C006_Shing"
 msgid ""
 "This ritual...or rather, <CLT=cltSTRONG>resurrection ceremony<CLT=cltNORMAL>,\n"
 "stems from <CLT=cltSTRONG>funeral ceremonies<CLT=cltNORMAL> the world over."
 msgstr ""
 
-msgctxt "0077"
+#. ほら…<CLT=cltSTRONG>“葬儀”<CLT=cltNORMAL>と言うだろう？
+#. 死者を弔って黄泉に送る行為は一種の儀式なんだヨ。
+msgctxt "0076 | c03_006_007 | C006_Shing"
 msgid ""
 "See? They are similar, yes? The act of sending\n"
 "the dead to the next world is a sort of ritual."
 msgstr ""
 
-msgctxt "0078"
+#. それが…口伝や噂によって、
+#. 黄泉返りの儀式として誤って伝わったんだ。
+msgctxt "0077 | c03_006_007 | C006_Shing"
 msgid ""
 "Through rumors and legends, that ritual twisted\n"
 "into a way to return the dead to this world."
 msgstr ""
 
-msgctxt "0079"
+#. <CLT=cltMIND>お葬式…？
+msgctxt "0078 | c03_006_007 | chara_Blank"
 msgid "<CLT=cltMIND>A ritual..."
 msgstr ""
 
-msgctxt "0080"
+#. ………………
+msgctxt "0079 | c03_006_007 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0081"
+#. で、長々とそんな話をするって事は、
+#. 真宮寺ちゃんは今の話を信じてるんだね？
+msgctxt "0080 | c03_006_007 | C005_Oma__"
 msgid ""
 "Since you keep rambling about it, I'm guessing\n"
 "you really believe all that stuff, huh, Kiyo?"
 msgstr ""
 
-msgctxt "0082"
+#. ククク…何を言っているんだい。
+#. <CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>なんてある訳ないじゃないカ。
+msgctxt "0081 | c03_006_007 | C006_Shing"
 msgid ""
 "Kehehe... What are you saying?\n"
 "There is no way the dead can be <CLT=cltSTRONG>resurrected<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0083"
+#. …え？
+msgctxt "0082 | c03_006_007 | C000_Saiha"
 msgid "...What?"
 msgstr ""
 
-msgctxt "0084"
+#. 死者の魂が存在するのは間違いないけど、
+#. 死んだ人間が蘇る事はないヨ…
+msgctxt "0083 | c03_006_007 | C006_Shing"
 msgid ""
 "Without a doubt, the souls of the dead exist,\n"
 "but they cannot be brought back to life..."
 msgstr ""
 
-msgctxt "0085"
+#. 割れたガラスが元には戻らないように、
+#. 滅んだ肉体は元には戻らないのサ…
+msgctxt "0084 | c03_006_007 | C006_Shing"
 msgid ""
 "Dead flesh cannot be restored,\n"
 "just as broken glass cannot be mended..."
 msgstr ""
 
-msgctxt "0086"
+#. つまり、死者の魂は信じてるけど、
+#. 死者の蘇りは信じてないって事？
+msgctxt "0085 | c03_006_007 | C005_Oma__"
 msgid ""
 "So you believe in souls, but you don't believe\n"
 "those souls can be resurrected?"
 msgstr ""
 
-msgctxt "0087"
+#. ややこしいけど、掘り下げると話が長くなりそうだし、
+#. わかった事にするよ。
+msgctxt "0086 | c03_006_007 | C012_Shiro"
 msgid ""
 "That seems confusing, but I know if we ask, \n"
 "this conversation will just go on forever..."
 msgstr ""
 
-msgctxt "0088"
+#. し、真宮寺でさえ信じられねーっつーんなら…
+#. やっぱ…死者の蘇りなんてねーんだよ…
+msgctxt "0087 | c03_006_007 | C001_Momot"
 msgid ""
 "I-If not even Kiyo believes it, then...there's\n"
 "no such thing as resurrecting the dead."
 msgstr ""
 
-msgctxt "0089"
+#. 夢見がちな男死でさえ信じられないんですから、
+#. 堅実な女子はもっと信じられません！
+msgctxt "0088 | c03_006_007 | C011_Chaba"
 msgid ""
 "And if this idealistic degenerate can't believe\n"
 "it, no reasonable girl would believe it, either!"
 msgstr ""
 
-msgctxt "0090"
+#. んー、そうかなー？
+#. アンジーは死者が生き返ってもおかしくないと思うよー。
+msgctxt "0089 | c03_006_007 | C013_Yonag"
 msgid ""
 "Hmmm, you think so? I don't think it's\n"
 "strange for the dead to come back to life."
 msgstr ""
 
-msgctxt "0091"
+#. ひゃっひゃっひゃっひゃ！
+#. ドブスがなんか言い出したな！
+msgctxt "0090 | c03_006_007 | C014_Iruma"
 msgid ""
 "Hah-hahaha! The kooky bitch is finally\n"
 "talkin'!"
 msgstr ""
 
-msgctxt "0092"
+#. けど、残念だったな！
+#. カルト宗教家の言う事なんて誰が聞くかよっ！
+msgctxt "0091 | c03_006_007 | C014_Iruma"
 msgid ""
 "But too bad! No one's interested in your\n"
 "bullshit cult!"
 msgstr ""
 
-msgctxt "0093"
+#. いえ…待ってください。
+#. アンジーさんの話を聞きましょう。
+msgctxt "0092 | c03_006_007 | C007_Ki-Bo"
 msgid "No...wait. Let's hear what Angie has to say."
 msgstr ""
 
-msgctxt "0094"
+#. そうですね、他ならぬアンジーさんですから。
+msgctxt "0093 | c03_006_007 | C011_Chaba"
 msgid "Yes, Angie is free to speak."
 msgstr ""
 
-msgctxt "0095"
+#. にゃははー、喋っていいのー？
+#. やったー、じゃあ喋るねー。
+msgctxt "0094 | c03_006_007 | C013_Yonag"
 msgid ""
 "Nyahahaha, can I say it?\n"
 "Yaaaay! Okay, I'm gonna say it."
 msgstr ""
 
-msgctxt "0096"
+#. これも…神さまの思し召しだねー。
+msgctxt "0095 | c03_006_007 | C013_Yonag"
 msgid "Cuz...that's what Atua desires."
 msgstr ""
 
-msgctxt "0097"
+#. <CLT=cltMIND>な、なんだ…？
+#. 今の流れ…おかしくないか？
+msgctxt "0096 | c03_006_007 | chara_Blank"
 msgid "<CLT=cltMIND>I can't follow this conversation at all..."
 msgstr ""
 
-msgctxt "0098"
+#. ………………
+msgctxt "0097 | c03_006_007 | C001_Momot"
 msgid "..."
 msgstr "..."
 
-msgctxt "0099"
+#. どうしたの、百田くん？
+#. なんか…やたら顔色が悪いけど。
+msgctxt "0098 | c03_006_007 | C000_Saiha"
 msgid ""
 "What's wrong, Kaito?\n"
 "You don't look well..."
 msgstr ""
 
-msgctxt "0100"
+#. い、いや…別になんでもねぇよ。
+#. ちっと…体調が悪いだけだ…
+msgctxt "0099 | c03_006_007 | C001_Momot"
 msgid ""
 "N-No...it's nothing.\n"
 "I'm just...not feeling so good."
 msgstr ""
 
-msgctxt "0101"
+#. <CLT=cltMIND>…体調が悪い？　こんなに急に？
+msgctxt "0100 | c03_006_007 | chara_Blank"
 msgid "<CLT=cltMIND>All of a sudden?"
 msgstr ""
 
-msgctxt "0102"
+#. 死んだ人が蘇るなんて…信じられないよ。
+msgctxt "0101 | c03_006_007 | C004_Gokuh"
 msgid ""
 "Bring dead back to life...?\n"
 "Gonta no can believe that."
 msgstr ""
 
-msgctxt "0103"
+#. …山の家族が言ってたんだ。
+msgctxt "0102 | c03_006_007 | C004_Gokuh"
 msgid "Forest family teach Gonta..."
 msgstr ""
 
-msgctxt "0104"
+#. 生まれるのも失われるのも…
+#. 大いなる流れの一部なんだって。
+msgctxt "0103 | c03_006_007 | C004_Gokuh"
 msgid ""
 "Everything that born and everything that\n"
 "die...is part of grand flow."
 msgstr ""
 
-msgctxt "0105"
+#. そして、流れは絶対に
+#. 巻き戻ったりしないんだって…
+msgctxt "0104 | c03_006_007 | C004_Gokuh"
 msgid "And flow never rewind..."
 msgstr ""
 
-msgctxt "0106"
+#. もし、死んだみんなが
+#. 帰ってきてくれるのなら嬉しいけど…
+msgctxt "0105 | c03_006_007 | C004_Gokuh"
 msgid ""
 "Gonta would be happy if everything\n"
 "that die could come back..."
 msgstr ""
 
-msgctxt "0107"
+#. １度起きてしまった事は取り返しがつかない…！
+#. そんなの…ゴン太にだってわかるよ！
+msgctxt "0106 | c03_006_007 | C004_Gokuh"
 msgid ""
 "But even Gonta know, there no way to\n"
 "take back what already happen...!"
 msgstr ""
 
-msgctxt "0108"
+#. ゴン太くん、中庭の落書きって、
+#. あの『いはうま』って文字の事だよね？
+msgctxt "0107 | c03_006_007 | C000_Saiha"
 msgid ""
 "Gonta, you know about the letters\n"
 "written in the courtyard, right?"
 msgstr ""
 
-msgctxt "0109"
+#. そうなんだけど…ちょっと違うんだ。
+msgctxt "0108 | c03_006_007 | C004_Gokuh"
 msgid "Yeah...but it sorta different now."
 msgstr ""
 
-msgctxt "0110"
+#. ゴン太はここに来る途中、
+#. あの中庭の落書きを見に行ったんだけど…
+msgctxt "0109 | c03_006_007 | C004_Gokuh"
 msgid ""
 "On way here, Gonta go see writing in\n"
 "courtyard..."
 msgstr ""
 
-msgctxt "0111"
+#. いつの間にか、文字が書き足されてたんだよ。
+msgctxt "0110 | c03_006_007 | C004_Gokuh"
 msgid "And it have more writing this time."
 msgstr ""
 
-msgctxt "0112"
+#. 文字が…書き足されていた？
+msgctxt "0111 | c03_006_007 | C000_Saiha"
 msgid "More writing?"
 msgstr ""
 
-msgctxt "0113"
+#. 文字の意味はわからなかったけど、
+#. もしかしたら、あれって…
+msgctxt "0112 | c03_006_007 | C004_Gokuh"
 msgid ""
 "Gonta no could understand what writing\n"
 "mean, but maybe..."
 msgstr ""
 
-msgctxt "0114"
+#. 死んだみんなからのメッセージなんじゃないかな？
+msgctxt "0113 | c03_006_007 | C004_Gokuh"
 msgid "Maybe it message from dead?"
 msgstr ""
 
-msgctxt "0115"
+#. ほら、ゴン太達に『みんな生きている』って伝える為の
+#. メッセージなんだよ！
+msgctxt "0114 | c03_006_007 | C004_Gokuh"
 msgid ""
 "Maybe everyone leave message for us\n"
 "that say, \"Hey! We alive!\""
 msgstr ""
 
-msgctxt "0116"
+#. 死んだみんなからの…メッセージ？
+msgctxt "0115 | c03_006_007 | C000_Saiha"
 msgid "A message...from everyone who died?"
 msgstr ""
 
-msgctxt "0117"
+#. だって、この中の誰も書いてないんでしょ？
+#. だったら、ここにいる人以外が書いたはずだよね？
+msgctxt "0116 | c03_006_007 | C004_Gokuh"
 msgid ""
 "Cuz no one here write it, did they?\n"
 "So someone else musta write it, right?"
 msgstr ""
 
-msgctxt "0118"
+#. もしかして、この学園に潜んだ<CLT=cltSTRONG>“死者”<CLT=cltNORMAL>が、
+#. あのメッセージを書き足しているの？
+msgctxt "0117 | c03_006_007 | C012_Shiro"
 msgid ""
 "Are you saying a <CLT=cltSTRONG>dead person<CLT=cltNORMAL> hiding \n"
 "in the school wrote that message?"
 msgstr ""
 
-msgctxt "0119"
+#. つまり、あれは<CLT=cltSTRONG>“死者からのメッセージ”<CLT=cltNORMAL>なの？
+msgctxt "0118 | c03_006_007 | C012_Shiro"
 msgid ""
 "In other words...it's a <CLT=cltSTRONG>message from\n"
 "the dead<CLT=cltNORMAL>?"
 msgstr ""
 
-msgctxt "0120"
+#. ま、待てよ…今度は<CLT=cltSTRONG>“死者からのメッセージ”<CLT=cltNORMAL>って、
+#. どうなってやがんだよ…！
+msgctxt "0119 | c03_006_007 | C014_Iruma"
 msgid ""
 "W-Wait...a <CLT=cltSTRONG>message from the dead<CLT=cltNORMAL>!?\n"
 "What the actual fuck...!?"
 msgstr ""
 
-msgctxt "0121"
+#. ………………
+msgctxt "0120 | c03_006_007 | C001_Momot"
 msgid "..."
 msgstr "..."
 
-msgctxt "0122"
+#. どっちにしても、仲間が戻って来るなら、
+#. そんな神った事はないよねー。
+msgctxt "0121 | c03_006_007 | C013_Yonag"
 msgid ""
 "Either way, there's nothing more divine than\n"
 "being reunited with a friend."
 msgstr ""
 
-msgctxt "0123"
+#. <CLT=cltMIND>そう言いながら、
+#. アンジーさんは床に落ちた屍者の書を手に取った。
+msgctxt "0122 | c03_006_007 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>As she spoke, Angie picked the\n"
 "Necronomicon off the floor."
 msgstr ""
 
-msgctxt "0124"
+#. アンジーさん…それをどうするつもり？
+msgctxt "0123 | c03_006_007 | C006_Shing"
 msgid ""
 "Angie...whatever are you planning \n"
 "to do with that?"
 msgstr ""
 
-msgctxt "0125"
+#. まさか…本当に儀式をやるつもり？
+#. モノクマの<CLT=cltSTRONG>“動機”<CLT=cltNORMAL>なんだよ？
+msgctxt "0124 | c03_006_007 | C006_Shing"
 msgid ""
 "Are you...actually planning to perform the \n"
 "ritual? You do know it's a <CLT=cltSTRONG>motive<CLT=cltNORMAL>, yes?"
 msgstr ""
 
-msgctxt "0126"
+#. ですが、使う事が危険な<CLT=cltSTRONG>“動機”<CLT=cltNORMAL>ではなく、
+#. 使わない方が危険な<CLT=cltSTRONG>“動機”<CLT=cltNORMAL>という事もありますよね？
+msgctxt "0125 | c03_006_007 | C007_Ki-Bo"
 msgid ""
 "But perhaps it's a <CLT=cltSTRONG>motive<CLT=cltNORMAL> that's dangerous\n"
 "to ignore, rather than dangerous to use."
 msgstr ""
 
-msgctxt "0127"
+#. たとえば、死んだはずの人達が実は生きていた場合、
+#. ボクらがここで誰も蘇らせなかったら…
+msgctxt "0126 | c03_006_007 | C007_Ki-Bo"
 msgid ""
 "For example, maybe the people who've died\n"
 "are actually alive..."
 msgstr ""
 
-msgctxt "0128"
+#. 今度こそ、彼らは
+#. 本当に殺されてしまうのではないでしょうか？
+msgctxt "0127 | c03_006_007 | C007_Ki-Bo"
 msgid ""
 "And if we don't perform the ritual, maybe\n"
 "they will be killed for certain this time?"
 msgstr ""
 
-msgctxt "0129"
+#. えー、そうなったら大変だー。
+#. 生き残る可能性があった４人が全滅しちゃうー。
+msgctxt "0128 | c03_006_007 | C013_Yonag"
 msgid ""
 "Hm, it would be a problem if we allowed\n"
 "four potential survivors to die."
 msgstr ""
 
-msgctxt "0130"
+#. にゃははー。それを教えてくれたゴン太は偉いね。
+#. 死んだ４人の命の恩人だよ。
+msgctxt "0129 | c03_006_007 | C013_Yonag"
 msgid ""
 "Nyahaha. You're so smart for telling us, Gonta.\n"
 "You're a savior to those four people."
 msgstr ""
 
-msgctxt "0131"
+#. …えっ？
+msgctxt "0130 | c03_006_007 | C004_Gokuh"
 msgid "...Huh?"
 msgstr ""
 
-msgctxt "0132"
+#. <CLT=cltMIND>アンジーさんはいつものニコニコ顔のまま、
+#. ゴン太くんに歩み寄っていくと…
+msgctxt "0131 | c03_006_007 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Angie approached Gonta with her\n"
 "usual wide smile and..."
 msgstr ""
 
-msgctxt "0133"
+#. ぎゅううう。
+msgctxt "0132 | c03_006_007 | C013_Yonag"
 msgid "Hmmmmmm..."
 msgstr ""
 
-msgctxt "0134"
+#. …わっ！
+msgctxt "0133 | c03_006_007 | C004_Gokuh"
 msgid "...Ack!"
 msgstr ""
 
-msgctxt "0135"
+#. ゴン太はいつも頑張ってるね。
+#. みんなの為に体を張ってさ。
+msgctxt "0134 | c03_006_007 | C013_Yonag"
 msgid ""
 "You work so hard, Gonta. You're always\n"
 "trying to keep everyone safe."
 msgstr ""
 
-msgctxt "0136"
+#. 暴走しちゃう時もあったけど、
+#. それもみんなの事を思ってるからだもんね？
+msgctxt "0135 | c03_006_007 | C013_Yonag"
 msgid ""
 "Even when you go berserk, you're still\n"
 "considerate of everyone else, aren't you?"
 msgstr ""
 
-msgctxt "0137"
+#. わかってるよ…だって神さまは、
+#. 頑張るゴン太をいつも見ているから。
+msgctxt "0136 | c03_006_007 | C013_Yonag"
 msgid ""
 "I know this...because Atua is always\n"
 "watching you."
 msgstr ""
 
-msgctxt "0138"
+#. み、見ている…？　ゴン太を…いつも？
+msgctxt "0137 | c03_006_007 | C004_Gokuh"
 msgid "A-Always...watching...Gonta?"
 msgstr ""
 
-msgctxt "0139"
+#. …安心して、ゴン太は１人じゃないよ。
+msgctxt "0138 | c03_006_007 | C013_Yonag"
 msgid "...Don't worry. You're not alone, Gonta."
 msgstr ""
 
-msgctxt "0140"
+#. 神さまがちゃーんとゴン太を見守っててくれるからね。
+#. 優しいおばあちゃんみたいな…神さまがさ。
+msgctxt "0139 | c03_006_007 | C013_Yonag"
 msgid ""
 "Atua is like a gentle grandmother, watching\n"
 "over you and keeping you safe."
 msgstr ""
 
-msgctxt "0141"
+#. 優しい…おばあちゃん…
+msgctxt "0140 | c03_006_007 | C004_Gokuh"
 msgid "Grandmas...are nice..."
 msgstr ""
 
-msgctxt "0142"
+#. 優しいおばあちゃんってなんだよ。
+#. 神さまってイケメンなんじゃなかったのか？
+msgctxt "0141 | c03_006_007 | C014_Iruma"
 msgid ""
 "Gentle grandmother? I thought you\n"
 "said Atua was a handsome man?"
 msgstr ""
 
-msgctxt "0143"
+#. アンジーの神さまは、
+#. 見る人によってそのお姿を変えるんじゃ。
+msgctxt "0142 | c03_006_007 | C009_Yumen"
 msgid ""
 "Angie's Atua changes his appearance\n"
 "depending on who's looking."
 msgstr ""
 
-msgctxt "0144"
+#. 都合良過ぎて、うさん臭いなー。
+msgctxt "0143 | c03_006_007 | C005_Oma__"
 msgid "Well, that's not suspiciously convenient at all."
 msgstr ""
 
-msgctxt "0145"
+#. あ、そうだー。
+#. 良かったらゴン太も<CLT=cltSTRONG>“生徒会”<CLT=cltNORMAL>に入ればー？
+msgctxt "0144 | c03_006_007 | C013_Yonag"
 msgid ""
 "Oh yeah. Why don't you join our <CLT=cltSTRONG>student\n"
 "council<CLT=cltNORMAL>, Gonta?"
 msgstr ""
 
-msgctxt "0146"
+#. そうだよ！　ゴン太君も<CLT=cltSTRONG>“生徒会”<CLT=cltNORMAL>に入りなよ！
+#. ゴン太君がいたら頼もしいよ！
+msgctxt "0145 | c03_006_007 | C012_Shiro"
 msgid ""
 "Yeah! It'd be really reassuring if you were\n"
 "part of the <CLT=cltSTRONG>student council<CLT=cltNORMAL>, Gonta!"
 msgstr ""
 
-msgctxt "0147"
+#. うむ…学園の平和の為にお主の力を使うが良い。
+msgctxt "0146 | c03_006_007 | C009_Yumen"
 msgid ""
 "Mhm...you will use your power for \n"
 "the peace of the academy."
 msgstr ""
 
-msgctxt "0148"
+#. にゃははー、みんなゴン太が必要だって言ってるし、
+#. もう入っちゃいなよー。
+msgctxt "0147 | c03_006_007 | C013_Yonag"
 msgid ""
 "Nyahaha! See how much everyone needs\n"
 "you, Gonta? You should definitely join."
 msgstr ""
 
-msgctxt "0149"
+#. …ゴン太が必要？
+msgctxt "0148 | c03_006_007 | C004_Gokuh"
 msgid "...You need Gonta?"
 msgstr ""
 
-msgctxt "0150"
+#. うん、わかったよ！
+#. ゴン太も<CLT=cltSTRONG>“生徒会”<CLT=cltNORMAL>ってのに入る！
+msgctxt "0149 | c03_006_007 | C004_Gokuh"
 msgid "Okay! Gonta join <CLT=cltSTRONG>student council<CLT=cltNORMAL> too!"
 msgstr ""
 
-msgctxt "0151"
+#. ちょ、ちょっと待って。
+#. その前に…<CLT=cltSTRONG>“生徒会”<CLT=cltNORMAL>ってなんなの？
+msgctxt "0150 | c03_006_007 | C000_Saiha"
 msgid ""
 "W-Wait, before all of that, what exactly\n"
 "is this \"<CLT=cltSTRONG>student council<CLT=cltNORMAL>\"?"
 msgstr ""
 
-msgctxt "0152"
+#. もしかして、さっきからみんなの様子が
+#. おかしいのって――
+msgctxt "0151 | c03_006_007 | C000_Saiha"
 msgid "Is that why you've been acting weird—"
 msgstr ""
 
-msgctxt "0153"
+#. 昨日の夜、ボクらはアンジーさんの呼びかけで、
+#. どうすればコロシアイを根絶できるか話し合ったんです。
+msgctxt "0152 | c03_006_007 | C007_Ki-Bo"
 msgid ""
 "Last night, Angie summoned us to discuss\n"
 "how we can eradicate the killing game."
 msgstr ""
 
-msgctxt "0154"
+#. ウチとキーボと…茶柱と白銀でな。
+msgctxt "0153 | c03_006_007 | C009_Yumen"
 msgid "Me, Keebo...Tenko, and Tsumugi."
 msgstr ""
 
-msgctxt "0155"
+#. そして、１つの結論に辿り着いたのです！
+#. それが…
+msgctxt "0154 | c03_006_007 | C011_Chaba"
 msgid "And we arrived to a conclusion!"
 msgstr ""
 
-msgctxt "0156"
+#. 夜長アンジーさんを<CLT=cltSTRONG>“生徒会長”<CLT=cltNORMAL>とした
+#. <CLT=cltSTRONG>“才囚学園生徒会”<CLT=cltNORMAL>の結成です！
+msgctxt "0155 | c03_006_007 | C011_Chaba"
 msgid ""
 "This is the <CLT=cltSTRONG>Ultimate Academy Student Council<CLT=cltNORMAL>,\n"
 "with Angie Yonaga as our <CLT=cltSTRONG>president<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0157"
+#. …才囚学園生徒会？
+msgctxt "0156 | c03_006_007 | C000_Saiha"
 msgid "...Ultimate Academy Student Council?"
 msgstr ""
 
-msgctxt "0158"
+#. わたし達はアンジーさんをリーダーにして、
+#. みんなで一致団結する事にしたんだ。
+msgctxt "0157 | c03_006_007 | C012_Shiro"
 msgid ""
 "We've all banded together under the \n"
 "leadership of President Angie!"
 msgstr ""
 
-msgctxt "0159"
+#. マニフェストは…コロシアイの根絶です。
+msgctxt "0158 | c03_006_007 | C007_Ki-Bo"
 msgid ""
 "Our platform...is the wholesale eradication\n"
 "of the killing game."
 msgstr ""
 
-msgctxt "0160"
+#. んあー…ウチら生徒会が、
+#. コロシアイのない才囚学園を作ってやるわい。
+msgctxt "0159 | c03_006_007 | C009_Yumen"
 msgid ""
 "Nyeh... Our student council promises\n"
 "a killing game-free Ultimate Academy."
 msgstr ""
 
-msgctxt "0161"
+#. 才囚学園生徒会…？
+#. アンジーさんが生徒会長…？
+msgctxt "0160 | c03_006_007 | C000_Saiha"
 msgid "A student council... And Angie is the president?"
 msgstr ""
 
-msgctxt "0162"
+#. はい、今までみたいにみんなで別々の事を言ってても、
+#. 何もまとまりませんからね。
+msgctxt "0161 | c03_006_007 | C007_Ki-Bo"
 msgid ""
 "Yes, there can be no harmony between us\n"
 "if we keep saying different things."
 msgstr ""
 
-msgctxt "0163"
+#. お前が言うなよ！
+msgctxt "0162 | c03_006_007 | C005_Oma__"
 msgid "Oh, shut up!"
 msgstr ""
 
-msgctxt "0164"
+#. なんでですかっ！？
+msgctxt "0163 | c03_006_007 | C007_Ki-Bo"
 msgid "What!?"
 msgstr ""
 
-msgctxt "0165"
+#. まぁ、生徒会長って言っても形だけだよ。
+#. 生徒会の意思決定は神さまに委ねられているからね。
+msgctxt "0164 | c03_006_007 | C013_Yonag"
 msgid ""
 "Well, it's called the student council, but all\n"
 "the decision-making is done by Atua."
 msgstr ""
 
-msgctxt "0166"
+#. ですが、その神さまと対話できるアンジーさんこそ、
+#. 生徒会長に相応しいお方です。
+msgctxt "0165 | c03_006_007 | C007_Ki-Bo"
 msgid ""
 "But since Angie can speak with Atua, she's\n"
 "the only one worthy of leading the council."
 msgstr ""
 
-msgctxt "0167"
+#. んあ…まったくその通りじゃ。
+msgctxt "0166 | c03_006_007 | C009_Yumen"
 msgid "Nyeh...that's right."
 msgstr ""
 
-msgctxt "0168"
+#. うん、わたしもアンジーさんに付いていくよ。
+msgctxt "0167 | c03_006_007 | C012_Shiro"
 msgid "Yeah, I'm going to follow Angie, too."
 msgstr ""
 
-msgctxt "0169"
+#. にゃははー！　ありがとねー、みんなー！
+#. 神さまも喜んでるよー！
+msgctxt "0168 | c03_006_007 | C013_Yonag"
 msgid ""
 "Nyahahaha! Thanks, everyone!\n"
 "Atua is happy, too!"
 msgstr ""
 
-msgctxt "0170"
+#. やれやれ、みんなすっかり洗脳されちゃってるね。
+msgctxt "0169 | c03_006_007 | C005_Oma__"
 msgid "Ah geez, they've been totally brainwashed."
 msgstr ""
 
-msgctxt "0171"
+#. ククク…いつの間にか夜長さんが、
+#. ここまで勢力を伸ばしていたとはネ…
+msgctxt "0170 | c03_006_007 | C006_Shing"
 msgid ""
 "Kehehe... Angie has spread her influence\n"
 "before we'd even realized."
 msgstr ""
 
-msgctxt "0172"
+#. でも、よく考えれば納得できるけどネ。
+#. ここには宗教が広がる条件が揃ってるからサ。
+msgctxt "0171 | c03_006_007 | C006_Shing"
 msgid ""
 "But it makes sense if you think about it. This\n"
 "place has all the conditions for a cult to form."
 msgstr ""
 
-msgctxt "0173"
+#. 避けられない死に翻弄される不安…
+#. そこから解放されたい気持ちが宗教を生むものだからネ。
+msgctxt "0172 | c03_006_007 | C006_Shing"
 msgid ""
 "The fear of a death that cannot be avoided...\n"
 "Cults are born from a desire to escape that."
 msgstr ""
 
-msgctxt "0174"
+#. 神にでもすがりたくなる状況を利用して、
+#. この学園の支配を企んだって訳か。
+msgctxt "0173 | c03_006_007 | C005_Oma__"
 msgid ""
 "So she's using this situation to take over the\n"
 "school and make us dependent on \"Atua.\""
 msgstr ""
 
-msgctxt "0175"
+#. 利用したとは人聞きが悪いですね。
+msgctxt "0174 | c03_006_007 | C007_Ki-Bo"
 msgid "\"Using\" is a rude way to describe it."
 msgstr ""
 
-msgctxt "0176"
+#. 生徒会長は、この学園の平和を望み、
+#. ボクらはその崇高な精神に賛同したんです。
+msgctxt "0175 | c03_006_007 | C007_Ki-Bo"
 msgid ""
 "The president wants peace for this school,\n"
 "and we all agree with her noble wisdom."
 msgstr ""
 
-msgctxt "0177"
+#. そうだよっ！
+#. 生徒会長を悪く言うのは許さないよっ！
+msgctxt "0176 | c03_006_007 | C004_Gokuh"
 msgid ""
 "Yeah! Gonta not let anyone talk bad about\n"
 "student council!"
 msgstr ""
 
-msgctxt "0178"
+#. あっさり洗脳されてんじゃねーよ！
+msgctxt "0177 | c03_006_007 | C014_Iruma"
 msgid ""
 "You literally just fuckin' joined them, you\n"
 "brainwashed idiot!"
 msgstr ""
 
-msgctxt "0179"
+#. でもさ…その生徒会に
+#. 茶柱ちゃんが参加しているとは意外だね。
+msgctxt "0178 | c03_006_007 | C005_Oma__"
 msgid ""
 "But...I'm surprised Tenko decided to join\n"
 "the student council."
 msgstr ""
 
-msgctxt "0180"
+#. …えっ？　な、何がですか？
+msgctxt "0179 | c03_006_007 | C011_Chaba"
 msgid "Huh? Wh-Why?"
 msgstr ""
 
-msgctxt "0181"
+#. だって、キミとアンジーさんは、
+#. 夢野さんを巡ってよく対立していたよネ？
+msgctxt "0180 | c03_006_007 | C006_Shing"
 msgid ""
 "Because you and Angie were fighting \n"
 "over Himiko, were you not?"
 msgstr ""
 
-msgctxt "0182"
+#. べ、別に…いいじゃないですか…
+#. 転子も…ようやく神さまの偉大さに気が付いたんですよ…
+msgctxt "0181 | c03_006_007 | C011_Chaba"
 msgid ""
 "Wh-Who cares about that...?\n"
 "I...finally realized how great Atua is..."
 msgstr ""
 
-msgctxt "0183"
+#. そうそう、それよりさー、
+#. なんの話だっけー？
+msgctxt "0182 | c03_006_007 | C013_Yonag"
 msgid ""
 "That's right, that's right...\n"
 "Now what were we talking about again?"
 msgstr ""
 
-msgctxt "0184"
+#. あー、<CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>の話だったっけー。
+msgctxt "0183 | c03_006_007 | C013_Yonag"
 msgid "Ohhhh, that <CLT=cltSTRONG>resurrection ritual<CLT=cltNORMAL>, right?"
 msgstr ""
 
-msgctxt "0185"
+#. まぁ、この件は何もかも生徒会に任せてよ。
+#. 神さまに決めてもらえば安心だからさ。
+msgctxt "0184 | c03_006_007 | C013_Yonag"
 msgid ""
 "Just leave this to the student council. It's\n"
 "less burdensome if Atua makes the decision."
 msgstr ""
 
-msgctxt "0186"
+#. あ、安心って――
+msgctxt "0185 | c03_006_007 | C000_Saiha"
 msgid "Less burdensome?"
 msgstr ""
 
-msgctxt "0187"
+#. …安心なんじゃ。
+#. 神さまの決定なら間違いなく安心なんじゃ。
+msgctxt "0186 | c03_006_007 | C009_Yumen"
 msgid ""
 "That's a relief... If it's Atua's decision, \n"
 "then it's definitely the right one."
 msgstr ""
 
-msgctxt "0188"
+#. うん、神さまが間違える訳ないからね。
+msgctxt "0187 | c03_006_007 | C012_Shiro"
 msgid "Yeah, there's no way Atua would be wrong."
 msgstr ""
 
-msgctxt "0189"
+#. そうそう、神さまはいつだって正しいんだよ。
+msgctxt "0188 | c03_006_007 | C013_Yonag"
 msgid "Yep, yep. Atua is always right."
 msgstr ""
 
-msgctxt "0190"
+#. あんた達…本気なの？
+#. <CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>なんて明らかに罠だと思うけど？
+msgctxt "0189 | c03_006_007 | C010_Haruk"
 msgid ""
 "Are you guys serious? The <CLT=cltSTRONG>resurrection\n"
 "ritual<CLT=cltNORMAL> is clearly a trap."
 msgstr ""
 
-msgctxt "0191"
+#. にゃははー、大丈夫だよー。
+#. みんなが外に出たいと思わなければねー。
+msgctxt "0190 | c03_006_007 | C013_Yonag"
 msgid ""
 "Nyahaha, it'll be fine. As long as everyone\n"
 "puts aside their desire to leave."
 msgstr ""
 
-msgctxt "0192"
+#. ククク…とても僕らの意見を受け入れるような
+#. 雰囲気じゃないよネ…
+msgctxt "0191 | c03_006_007 | C006_Shing"
 msgid ""
 "Kehehe... I doubt they'd listen to anything \n"
 "we'd have to say."
 msgstr ""
 
-msgctxt "0193"
+#. <CLT=cltMIND>確かに、そんな空気じゃないけど、
+#. それでも、いつもの彼なら絶対に何か言うはずなのに…
+msgctxt "0192 | c03_006_007 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's true that they're probably not going\n"
 "to listen, but you could at least help too, Kaito..."
 msgstr ""
 
-msgctxt "0194"
+#. ………………
+msgctxt "0193 | c03_006_007 | C001_Momot"
 msgid "..."
 msgstr "..."
 
-msgctxt "0195"
+#. <CLT=cltMIND>百田くん…どうしたんだ？
+#. さっきからずっと黙ったままだ。
+msgctxt "0194 | c03_006_007 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>What's wrong with him?\n"
 "He's been quiet this whole time."
 msgstr ""
 
-msgctxt "0196"
+#. ………………
+msgctxt "0195 | c03_006_007 | C001_Momot"
 msgid "..."
 msgstr "..."
 
-msgctxt "0197"
+#. <CLT=cltMIND>結局、主導権は生徒会に握られたまま、
+#. 僕らはそれを止める事ができなかった。
+msgctxt "0196 | c03_006_007 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>In the end, we couldn't stop the\n"
 "student council."
 msgstr ""
 
-msgctxt "0198"
+#. <CLT=cltMIND>その場はそれで解散し、
+#. 僕らはそれぞれの個室へと戻っていった。
+msgctxt "0197 | c03_006_007 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>We left it at that and went\n"
 "our separate ways."
 msgstr ""
 
-msgctxt "0199"
+#. にしし…なんだか変な感じになってきたね。
+#. こういうのも、つまらなくないけど。
+msgctxt "0198 | c03_006_007 | C005_Oma__"
 msgid ""
 "Nee-heehee...it's getting kinda weird now,\n"
 "but at least it's not boring."
 msgstr ""
 
-msgctxt "0200"
+#. 中庭の落書きって…
+msgctxt "0199 | c03_006_007 | C005_Oma__"
 msgid "The writing in the courtyard..."
 msgstr ""
 
-msgctxt "0201"
+#. あぁ、あれの事かぁ！
+#. あんなの、すっかり忘れてたよ！
+msgctxt "0200 | c03_006_007 | C005_Oma__"
 msgid "Oh, yeeeah! I completely forgot about that!"
 msgstr ""
 
-msgctxt "0202"
+#. 神さま…夜長さんの言う神さまって、
+#. なんだろうネ…
+msgctxt "0201 | c03_006_007 | C006_Shing"
 msgid ""
 "Atua... I wonder what manner of god it is \n"
 "that Angie speaks of..."
 msgstr ""
 
-msgctxt "0203"
+#. やっぱり…民俗学者としては気になる？
+msgctxt "0202 | c03_006_007 | C000_Saiha"
 msgid "Does that bother you? As an anthropologist?"
 msgstr ""
 
-msgctxt "0204"
+#. いいや、僕は神という存在には興味ないヨ。
+#. それを生み出した存在には興味があるけどネ…
+msgctxt "0203 | c03_006_007 | C006_Shing"
 msgid ""
 "No, I have no interest in gods.\n"
 "But I have great interest in their creators..."
 msgstr ""
 
-msgctxt "0205"
+#. 神を生み出すのは人間…
+#. 僕はその人間という存在に興味があるんだ。
+msgctxt "0204 | c03_006_007 | C006_Shing"
 msgid ""
 "Humans are the ones who created gods...\n"
 "and I am very interested in humanity."
 msgstr ""
 
-msgctxt "0206"
+#. 人間が神という存在を生み出すに至った原因や理由…
+#. それを知りたいのサ。
+msgctxt "0205 | c03_006_007 | C006_Shing"
 msgid ""
 "I wish to know the causes and reasons\n"
 "why human beings create gods."
 msgstr ""
 
-msgctxt "0207"
+#. そういう意味では、
+#. 僕達のいるこの学校はとても興味深いヨ…
+msgctxt "0206 | c03_006_007 | C006_Shing"
 msgid ""
 "In that sense, this school is \n"
 "most interesting."
 msgstr ""
 
-msgctxt "0208"
+#. 大きな困難に巻き込まれた時こそ、
+#. 人は神を生み出すものだからサ…
+msgctxt "0207 | c03_006_007 | C006_Shing"
 msgid ""
 "Because it is during times of great crisis \n"
 "that humans create gods..."
 msgstr ""
 
-msgctxt "0209"
+#. ククク…ひょっとしたら、
+#. ここからも神が生まれるかもしれないネ。
+msgctxt "0208 | c03_006_007 | C006_Shing"
 msgid ""
 "Kehehe... Maybe a god shall be created \n"
 "here as well."
 msgstr ""
 
-msgctxt "0210"
+#. ………………
+msgctxt "0209 | c03_006_007 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0211"
+#. <CLT=cltMIND>アンジーさんも大概だけど、
+#. 真宮寺くんもやっぱりよくわからないよな。
+msgctxt "0210 | c03_006_007 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I get where Angie is coming from,\n"
 "but you, Kiyo?"
 msgstr ""
 
-msgctxt "0212"
+#. イミテーションねェ…
+msgctxt "0211 | c03_006_007 | C006_Shing"
 msgid "Imitations...?"
 msgstr ""
 
-msgctxt "0213"
+#. 直接、確認できていない星君はともかく、
+#. 天海君の遺体は確かに本物に見えたヨ。
+msgctxt "0212 | c03_006_007 | C006_Shing"
 msgid ""
 "Aside from Ryoma, who we couldn't directly \n"
 "examine, Rantaro's corpse looked very real."
 msgstr ""
 
-msgctxt "0214"
+#. それに、僕らの目の前で<CLT=cltSTRONG>“おしおき”<CLT=cltNORMAL>された
+#. 赤松さんと東条さん…
+msgctxt "0213 | c03_006_007 | C006_Shing"
 msgid ""
 "Kaede and Kirumi were both \"<CLT=cltSTRONG>punished<CLT=cltNORMAL>\"\n"
 "right before our eyes..."
 msgstr ""
 
-msgctxt "0215"
+#. 彼女達がもがき苦しむ姿が、
+#. マリオネットが真似たものとは到底、思えない。
+msgctxt "0214 | c03_006_007 | C006_Shing"
 msgid ""
 "I cannot imagine some mannequin\n"
 "could have imitated their suffering."
 msgstr ""
 
-msgctxt "0216"
+#. だからといって、死の瞬間、
+#. 偽物と入れ替えられたとも考えにくいと思うけど…
+msgctxt "0215 | c03_006_007 | C006_Shing"
 msgid ""
 "In addition, it is unlikely they were switched\n"
 "with a fake corpse right before their demise."
 msgstr ""
 
-msgctxt "0217"
+#. …早くアンジーさんの話を聞きましょう。
+msgctxt "0216 | c03_006_007 | C007_Ki-Bo"
 msgid "...Let's listen to what Angie has to say."
 msgstr ""
 
-msgctxt "0218"
+#. モノクマやエグイサルのような
+#. とんでもない科学力が存在するんですから…
+msgctxt "0217 | c03_006_007 | C007_Ki-Bo"
 msgid ""
 "Monokuma and the Exisals are evidence of\n"
 "ridiculous scientific advancements..."
 msgstr ""
 
-msgctxt "0219"
+#. ボクらにはわからない精巧な作り物を用意する事だって、
+#. 可能なはずです。
+msgctxt "0218 | c03_006_007 | C007_Ki-Bo"
 msgid ""
 "So it may be possible for them to create\n"
 "extremely convincing imitations."
 msgstr ""
 
-msgctxt "0220"
+#. …なんじゃ？
+#. ウチと話す事などないじゃろ。
+msgctxt "0219 | c03_006_007 | C009_Yumen"
 msgid ""
 "What?\n"
 "Don't talk to me about that."
 msgstr ""
 
-msgctxt "0221"
+#. ウチは…早くアンジーの話を聞きたいんじゃ。
+msgctxt "0220 | c03_006_007 | C009_Yumen"
 msgid "I...want to hear Angie talk."
 msgstr ""
 
-msgctxt "0222"
+#. …ウチはアンジーを支持しておる。
+#. アンジーが…すべて良きようにしてくれるはずじゃ。
+msgctxt "0221 | c03_006_007 | C009_Yumen"
 msgid ""
 "I...support Angie.\n"
 "She'll...make everything good."
 msgstr ""
 
-msgctxt "0223"
+#. 死者の蘇りなんて、バカバカしい…
+msgctxt "0222 | c03_006_007 | C010_Haruk"
 msgid "This resurrection ritual sounds stupid..."
 msgstr ""
 
-msgctxt "0224"
+#. そんな事の為に呼び出した訳？
+#. やっぱり無視すれば良かった。
+msgctxt "0223 | c03_006_007 | C010_Haruk"
 msgid ""
 "I got dragged here for this? I should've\n"
 "ignored you guys after all."
 msgstr ""
 
-msgctxt "0225"
+#. <CLT=cltSTRONG>“死んだ人が戻って来る”<CLT=cltNORMAL>なんて言い換えたところで、
+#. 同じだよ。
+msgctxt "0224 | c03_006_007 | C010_Haruk"
 msgid ""
 "<CLT=cltSTRONG>\"Returning the dead to us\"<CLT=cltNORMAL> is a different way\n"
 "of saying the same thing."
 msgstr ""
 
-msgctxt "0226"
+#. 天海は確かに死んでた。
+#. 赤松も東条も、私達の目の前で死んだんだ。
+msgctxt "0225 | c03_006_007 | C010_Haruk"
 msgid ""
 "We know Rantaro is dead, and we saw Kaede\n"
 "and Kirumi die right in front of us, too."
 msgstr ""
 
-msgctxt "0227"
+#. それを否定している事自体がおかしいって…
+#. あいつら、気が付いてないの？
+msgctxt "0226 | c03_006_007 | C010_Haruk"
 msgid ""
 "How can they deny what we all saw?\n"
 "Don't they realize how weird that is?"
 msgstr ""
 
-msgctxt "0228"
+#. な、なんですか？
+msgctxt "0227 | c03_006_007 | C011_Chaba"
 msgid "Wh-What?"
 msgstr ""
 
-msgctxt "0229"
+#. 転子がアンジーさんの話を聞きたがるのが、
+#. そんなにおかしいですか？
+msgctxt "0228 | c03_006_007 | C011_Chaba"
 msgid ""
 "Do you think it's strange that...I *want* to\n"
 "listen to Angie?"
 msgstr ""
 
-msgctxt "0230"
+#. 別にいいじゃないですか…
+#. 人の話をよく聞いて協力し合う事だって大切ですよ。
+msgctxt "0229 | c03_006_007 | C011_Chaba"
 msgid ""
 "So what? It's also important to listen to\n"
 "others, so we can work together."
 msgstr ""
 
-msgctxt "0231"
+#. イミテーションですか…！
+#. な、なるほど…転子にはできない発想です！
+msgctxt "0230 | c03_006_007 | C011_Chaba"
 msgid ""
 "They were imitations!? I-I see... I never would\n"
 "have thought of that!"
 msgstr ""
 
-msgctxt "0232"
+#. アンジーさんが言うのなら…
+#. 本当に死者が蘇るのかもしれない。
+msgctxt "0231 | c03_006_007 | C012_Shiro"
 msgid ""
 "If Angie is saying it...a dead person \n"
 "might really come back."
 msgstr ""
 
-msgctxt "0233"
+#. ねぇ、早く話を聞いてみようよ。
+msgctxt "0232 | c03_006_007 | C012_Shiro"
 msgid "Hey, let's hurry up and ask her."
 msgstr ""
 
-msgctxt "0234"
+#. そうだよ…今までの死体は全部偽物だったんだ。
+#. コロシアイで死んだ人なんて…いないんだよ。
+msgctxt "0233 | c03_006_007 | C012_Shiro"
 msgid ""
 "Yeah...all the dead bodies up till now must \n"
 "have been fake. No one's actually died."
 msgstr ""
 
-msgctxt "0235"
+#. アンジーさんがそう言ってるし、
+#. きっとそうなんだよ…
+msgctxt "0234 | c03_006_007 | C012_Shiro"
 msgid ""
 "That's what Angie's saying so it's \n"
 "probably right..."
 msgstr ""
 
-msgctxt "0236"
+#. えっと…アンジーさんは<CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>を信じるの？
+msgctxt "0235 | c03_006_007 | C000_Saiha"
 msgid ""
 "So...you believe you can...\n"
 "<CLT=cltSTRONG>revive the dead<CLT=cltNORMAL>, Angie?"
 msgstr ""
 
-msgctxt "0237"
+#. うーんと…<CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>って言っても、
+#. 本当に<CLT=cltSTRONG>“死んだ人が蘇る”<CLT=cltNORMAL>訳じゃないと思うよー。
+msgctxt "0236 | c03_006_007 | C013_Yonag"
 msgid ""
 "Umm...I don't think the <CLT=cltSTRONG>resurrection ritual<CLT=cltNORMAL>\n"
 "can really <CLT=cltSTRONG>bring the dead back to life<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0238"
+#. <CLT=cltSTRONG>“死んだ人が戻って来る”<CLT=cltNORMAL>ってだけでね。
+msgctxt "0237 | c03_006_007 | C013_Yonag"
 msgid ""
 "It's probably more like...<CLT=cltSTRONG>returning the\n"
 "dead to us<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0239"
+#. …どういう意味？
+msgctxt "0238 | c03_006_007 | C010_Haruk"
 msgid "...What do you mean?"
 msgstr ""
 
-msgctxt "0240"
+#. ほら、今までの犠牲者の死体って、
+#. いつの間にかキレイになくなってるでしょー？
+msgctxt "0239 | c03_006_007 | C013_Yonag"
 msgid ""
 "Y'know how the bodies of all the victims\n"
 "have been cleaned up?"
 msgstr ""
 
-msgctxt "0241"
+#. 本当に死体があったのかって思っちゃうくらいに。
+#. ううん、もしかしたら…
+msgctxt "0240 | c03_006_007 | C013_Yonag"
 msgid ""
 "So clean, it's like there was never a dead\n"
 "body to begin with? So maybe..."
 msgstr ""
 
-msgctxt "0242"
+#. 本当は死んでないのかもしれないよ？
+msgctxt "0241 | c03_006_007 | C013_Yonag"
 msgid "They were never dead to begin with?"
 msgstr ""
 
-msgctxt "0243"
+#. <CLT=cltMIND>死んで…ない？
+msgctxt "0242 | c03_006_007 | chara_Blank"
 msgid "<CLT=cltMIND>They weren't...dead?"
 msgstr ""
 
-msgctxt "0244"
+#. いや…それはあり得ないよ。
+#. だって、被害者の死体は僕らだって調べてるし――
+msgctxt "0243 | c03_006_007 | C000_Saiha"
 msgid ""
 "No, that's not possible. We inspected\n"
 "all of the bodies ourselves—"
 msgstr ""
 
-msgctxt "0245"
+#. でもでもー、良くできたイミテーションかも
+#. しれないよー？
+msgctxt "0244 | c03_006_007 | C013_Yonag"
 msgid ""
 "But, but it might've been a very accurate\n"
 "imitation!"
 msgstr ""
 
-msgctxt "0246"
+#. 作り物…って事？
+msgctxt "0245 | c03_006_007 | C000_Saiha"
 msgid "An imitation?"
 msgstr ""
 
-msgctxt "0247"
+#. なるほど…モノクマやエグイサルのような、
+#. とんでもない科学力が存在するくらいですしね…
+msgctxt "0246 | c03_006_007 | C007_Ki-Bo"
 msgid ""
 "Monokuma and the Exisals are evidence of\n"
 "ridiculous scientific advancements..."
 msgstr ""
 
-msgctxt "0248"
+#. ボクらに判別の付かない精巧な作り物を用意する事も、
+#. 可能かもしれません。
+msgctxt "0247 | c03_006_007 | C007_Ki-Bo"
 msgid ""
 "So it may be possible for them to create\n"
 "extremely convincing imitations."
 msgstr ""
 
-msgctxt "0249"
+#. アンジーさんがそう言うなら…
+#. わたしも地味にそんな気がしてきたよ。
+msgctxt "0248 | c03_006_007 | C012_Shiro"
 msgid ""
 "If that's what Angie says...\n"
 "Then I'm starting to plainly agree."
 msgstr ""
 
-msgctxt "0250"
+#. …ウチはとっくにアンジーを支持しておる。
+msgctxt "0249 | c03_006_007 | C009_Yumen"
 msgid "I've always supported Angie..."
 msgstr ""
 
-msgctxt "0251"
+#. わーい！　みんな、ありがとうー！
+msgctxt "0250 | c03_006_007 | C013_Yonag"
 msgid "Yayyy! Thank you, everyone!"
 msgstr ""
 
-msgctxt "0252"
+#. ちょっと…待ってよ！
+#. 僕はちゃんと自分の目と手で調べて――
+msgctxt "0251 | c03_006_007 | C000_Saiha"
 msgid ""
 "What? No, wait a minute!\n"
 "I saw them with my own eyes—"
 msgstr ""
 
-msgctxt "0253"
+#. んもー！　男死がいきなり声を荒げないでください！
+#. アンジーさんに失礼じゃないですか！
+msgctxt "0252 | c03_006_007 | C011_Chaba"
 msgid ""
 "Graaahhh! Don't raise your voice to Angie,\n"
 "you rude degenerate!"
 msgstr ""
 
-msgctxt "0254"
+#. ねぇ、終一は生きてて欲しくないの？
+#. 死んだみんなに生きてて欲しいと思わないの？
+msgctxt "0253 | c03_006_007 | C013_Yonag"
 msgid ""
 "Hey, you don't want them to be alive, Shuichi?\n"
 "You don't want the dead to be alive?"
 msgstr ""
 
-msgctxt "0255"
+#. そ、それは…思ってるよ。
+#. 生きていてくれればいいのにって…今でも思ってる。
+msgctxt "0254 | c03_006_007 | C000_Saiha"
 msgid ""
 "I-I do! I do want that! I wish they were\n"
 "still alive... Even now I think that."
 msgstr ""
 
-msgctxt "0256"
+#. だけど、いくらなんでも、
+#. そんな事が…
+msgctxt "0255 | c03_006_007 | C000_Saiha"
 msgid "But no matter how much we want that..."
 msgstr ""
 
-msgctxt "0257"
+#. あ、ちょっと待って！
+msgctxt "0256 | c03_006_007 | C004_Gokuh"
 msgid "Oh, wait!"
 msgstr ""
 
-msgctxt "0258"
+#. もし、みんなが生きてるとしたら、
+#. 今も学園のどこかにいるって事だよね？
+msgctxt "0257 | c03_006_007 | C004_Gokuh"
 msgid ""
 "If everyone alive, that mean they're somewhere\n"
 "in school, right?"
 msgstr ""
 
-msgctxt "0259"
+#. だったら…あの中庭の落書きも
+#. その人達がやったとは考えられないかな？
+msgctxt "0258 | c03_006_007 | C004_Gokuh"
 msgid ""
 "So...maybe one of them write message\n"
 "in courtyard?"
 msgstr ""
 
-msgctxt "0260"
+#. <CLT=cltMIND>…え？　中庭の落書き？
+msgctxt "0259 | c03_006_007 | chara_Blank"
 msgid "<CLT=cltMIND>The message in the courtyard?"
 msgstr ""
 
-msgctxt "0261"
+#. 終一はどうしてそんなに、
+#. アンジーを否定するのかなー？
+msgctxt "0260 | c03_006_007 | C013_Yonag"
 msgid "Why do you deny me so fiercely, Shuichi?"
 msgstr ""
 
-msgctxt "0262"
+#. 死んだみんななんて、もうどうでもいいの？
+#. 終一は冷たいなー。
+msgctxt "0261 | c03_006_007 | C013_Yonag"
 msgid ""
 "Do you not care about those who have died?\n"
 "I didn't realize you were so heartless."
 msgstr ""
 
-msgctxt "0263"
+#. <CLT=cltMIND>そんな…事ない。
+msgctxt "0262 | c03_006_007 | chara_Blank"
 msgid "<CLT=cltMIND>That's...not...true."
 msgstr ""
 
-msgctxt "0264"
+#. <CLT=cltMIND>彼女が…みんなが生きていてくれればいいのにって、
+#. 今でも思ってる。
+msgctxt "0263 | c03_006_007 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I still want her...I want everyone\n"
 "to be alive."
 msgstr ""
 
-msgctxt "0265"
+#. <CLT=cltMIND>だけど…いくらなんでも、
+#. そんな事が…
+msgctxt "0264 | c03_006_007 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>But no matter what we do,\n"
 "we can't...get them back..."
 msgstr ""
 
-msgctxt "0266"
+#. あ、あれ…なんで…、
+#. みんな、話を聞きたがってるのぉ…？
+msgctxt "0265 | c03_006_007 | C014_Iruma"
 msgid ""
 "H-Huh? Why...the fuck is everyone listenin'\n"
 "to this crap?"
 msgstr ""
 
-msgctxt "0267"
+#. もしかして…否定してるのって私だけ？
+#. あんなにイキがった事を言っちゃったのにぃ…
+msgctxt "0266 | c03_006_007 | C014_Iruma"
 msgid ""
 "Am I...the only one not fallin' for this?\n"
 "And I was so sure of myself, too..."
 msgstr ""
 
-msgctxt "0268"
+#. 中庭の落書きぃ？
+#. あんなモンをなんでここで持ち出すんだよ！
+msgctxt "0267 | c03_006_007 | C014_Iruma"
 msgid ""
 "Graffiti in the courtyard?\n"
 "Why's he bringing that up now!?"
 msgstr ""
 
-msgctxt "0269"
+#. 図体ばっかのデカチンの発想は訳わかんねーなぁ！
+msgctxt "0268 | c03_006_007 | C014_Iruma"
 msgid "I don't take ideas from giant mongos!"
 msgstr ""
 
-msgctxt "0270"
+#. <CLT=cltMIND>アンジーさんの話を聞いてみよう…
+msgctxt "0269 | c03_006_007 | chara_Blank"
 msgid "<CLT=cltMIND>Let's hear what Angie has to say..."
 msgstr ""
 
-msgctxt "0271"
+#. <CLT=cltMIND>中庭の落書きが…？
+msgctxt "0270 | c03_006_007 | chara_Blank"
 msgid "<CLT=cltMIND>Graffiti in the courtyard?"
 msgstr ""
 
-msgctxt "0272"
+#. はい
+msgctxt "0271 | c03_006_007 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0273"
+#. いいえ
+msgctxt "0272 | c03_006_007 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0274"
+#. もしかして悩んでいるの？
+msgctxt "0273 | c03_006_007 | chara_Blank"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0275"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0274 | c03_006_007 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0276"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0275 | c03_006_007 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0277"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0276 | c03_006_007 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0278"
+#. バスケットゴール＿右
+msgctxt "0277 | c03_006_007 | chara_Blank"
 msgid "Basket Goal_Right"
 msgstr ""
 
-msgctxt "0279"
+#. バスケットゴール＿左
+msgctxt "0278 | c03_006_007 | chara_Blank"
 msgid "Basket Goal_Left"
 msgstr ""
 
-msgctxt "0280"
+#. スコアボード
+msgctxt "0279 | c03_006_007 | chara_Blank"
 msgid "Score Board"
 msgstr ""

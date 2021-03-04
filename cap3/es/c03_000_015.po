@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,78 +11,101 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. はい
+msgctxt "0000 | c03_000_015 | non"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0002"
+#. いいえ
+msgctxt "0001 | c03_000_015 | non"
 msgid "No"
 msgstr ""
 
-msgctxt "0003"
+#. もしかして悩んでいるの？
+msgctxt "0002 | c03_000_015 | non"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0003 | c03_000_015 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0005"
+#. センサー
+msgctxt "0004 | c03_000_015 | chara_Blank"
 msgid "Sensor"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0005 | c03_000_015 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0006 | c03_000_015 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0008"
+#. ………………
+msgctxt "0007 | c03_000_015 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0009"
+#. <CLT=cltMIND>あの時…
+#. 僕が…気が付いていれば…
+msgctxt "0008 | c03_000_015 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>If I had only realized\n"
 "it at the time..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>ラジコンヘリか…
+#. こんな物まであるんだな。
+msgctxt "0009 | c03_000_015 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>A RC helicopter...\n"
 "So this place even has stuff like this..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>高跳びのバー…
+#. …何の役にも立たなさそうだ。
+msgctxt "0010 | c03_000_015 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>A high jump crossbar...\n"
 "...It doesn't seem particularly useful."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>マットが置いてある。
+msgctxt "0011 | c03_000_015 | chara_Blank"
 msgid "<CLT=cltMIND>There's a mat here."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>体育館の倉庫に置けば良いのに…
+#. どうしてここにあるんだろう？
+msgctxt "0012 | c03_000_015 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>They could've just kept this in the\n"
 "gym's storage. Why is it here?"
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>ハードルがあるけど…
+#. 使う機会はなさそうだ。
+msgctxt "0013 | c03_000_015 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There're hurdles here... Can't imagine\n"
 "we'd ever get a chance to use them."
 msgstr ""
 
-msgctxt "0015"
+#. 使い捨てカメラ
+msgctxt "0014 | c03_000_015 | chara_Blank"
 msgid "Disposable Camera"
 msgstr ""
 
-msgctxt "0016"
+#. 現像液
+msgctxt "0015 | c03_000_015 | chara_Blank"
 msgid "Chemical Solution"
 msgstr ""
