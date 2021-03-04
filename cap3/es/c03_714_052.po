@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,49 +11,63 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 生徒会だかなんだか知らねーが、勝手にしてろ！
+#. オレ様には関係ねーんだよ！
+msgctxt "0000 | c03_714_052 | C014_Iruma"
 msgid ""
 "I don't give two squirts of piss about the\n"
 "student council! It's got nothing to do with me!"
 msgstr ""
 
-msgctxt "0002"
+#. あんなウサギの糞みてーなヤツらが
+#. コロコロ集まったところで、意味なんてねーしな！
+msgctxt "0001 | c03_714_052 | C014_Iruma"
 msgid ""
 "If those turds wanna roll downhill together,\n"
 "that's fine by me!"
 msgstr ""
 
-msgctxt "0003"
+#. はい
+msgctxt "0002 | c03_714_052 | C014_Iruma"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0004"
+#. いいえ
+msgctxt "0003 | c03_714_052 | C014_Iruma"
 msgid "No"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_714_052 | C014_Iruma"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>…どうしよう？
+#. こんな入間さんを誘うのか？
+msgctxt "0005 | c03_714_052 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Should I hang out with Miu for a while?\n"
 "Even though it might not be safe to ask..."
 msgstr ""
 
-msgctxt "0007"
+#. あぁ？　その下痢便みてーな顔を
+#. こっちに向けるんじゃねーよ！
+msgctxt "0006 | c03_714_052 | C014_Iruma"
 msgid ""
 "Huh!? Get your diarrhea-lookin' face\n"
 "outta here!"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>入間さんに罵倒されたり、
+#. いきなり怯えられたりしながら過ごした…
+msgctxt "0007 | c03_714_052 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I spent some time taking Miu's verbal abuse,\n"
 "but she calmed down eventually."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>入間さんと少し仲良くなってしまった…
+msgctxt "0008 | c03_714_052 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I somehow ended up growing\n"
 "a little closer to Miu..."

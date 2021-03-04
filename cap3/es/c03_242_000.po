@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,632 +11,830 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. まず、<CLT=cltSTRONG>１人目の殺人<CLT=cltNORMAL>から振り返ってみよう。
+msgctxt "0000 | c03_242_000 | C000_Saiha"
 msgid "Let's look back at the <CLT=cltSTRONG>first murder<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0002"
+#. 昨日の深夜の事だ。
+#. <CLT=cltSTRONG>校舎４階の空き部屋<CLT=cltNORMAL>に犯人の姿があった。
+msgctxt "0001 | c03_242_000 | C000_Saiha"
 msgid ""
 "It was late last night. The culprit was in\n"
 "the <CLT=cltSTRONG>empty room on the 4th floor<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0003"
+#. 犯人はそこで、自分が計画した<CLT=cltSTRONG>“降霊術殺人”<CLT=cltNORMAL>の為の
+#. 仕掛けを準備していた。
+msgctxt "0002 | c03_242_000 | C000_Saiha"
 msgid ""
 "The culprit was preparing the <CLT=cltSTRONG>seance murder<CLT=cltNORMAL>\n"
 "they had planned."
 msgstr ""
 
-msgctxt "0004"
+#. 空き部屋の<CLT=cltSTRONG>“床板”<CLT=cltNORMAL>の内１枚を踏み抜けるように、
+#. それを支える<CLT=cltSTRONG>“横木”<CLT=cltNORMAL>を切断していたんだ。
+msgctxt "0003 | c03_242_000 | C000_Saiha"
 msgid ""
 "To use the <CLT=cltSTRONG>floorboard<CLT=cltNORMAL> as a seesaw, they had\n"
 "to cut the <CLT=cltSTRONG>crosspiece<CLT=cltNORMAL> supporting it."
 msgstr ""
 
-msgctxt "0005"
+#. 校舎４階には同じような空き部屋が３部屋あるけど、
+#. 犯人はその<CLT=cltSTRONG>すべての部屋<CLT=cltNORMAL>で同様の仕掛けを準備していた。
+msgctxt "0004 | c03_242_000 | C000_Saiha"
 msgid ""
 "The plan was to make the same preparations\n"
 "for all <CLT=cltSTRONG>three empty rooms<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0006"
+#. それは、降霊術をやる部屋を他人に選ばせる事によって、
+#. 自分に容疑が向かないようにする為だった。
+msgctxt "0005 | c03_242_000 | C000_Saiha"
 msgid ""
 "This would divert suspicion away from the\n"
 "culprit and to whoever picked a room."
 msgstr ""
 
-msgctxt "0007"
+#. 横木を切るには<CLT=cltSTRONG>“ノコギリ”<CLT=cltNORMAL>が必要だ。
+#. きっと犯人は倉庫から持って来たノコギリで…
+msgctxt "0006 | c03_242_000 | C000_Saiha"
 msgid ""
 "To cut the crosspieces, they needed a <CLT=cltSTRONG>saw<CLT=cltNORMAL>.\n"
 "I imagine they got one from the warehouse."
 msgstr ""
 
-msgctxt "0008"
+#. ３つの空き部屋すべての横木を切る予定だったんだ。
+msgctxt "0007 | c03_242_000 | C000_Saiha"
 msgid ""
 "They were planning to cut the\n"
 "crosspieces in all three rooms."
 msgstr ""
 
-msgctxt "0009"
+#. ところが、<CLT=cltSTRONG>真ん中の空き部屋<CLT=cltNORMAL>で作業をしていた時、
+#. 犯人にとって予定外の事が起こってしまったんだ。
+msgctxt "0008 | c03_242_000 | C000_Saiha"
 msgid ""
 "However, when the culprit was working on\n"
 "the <CLT=cltSTRONG>middle room<CLT=cltNORMAL>, the unexpected happened..."
 msgstr ""
 
-msgctxt "0010"
+#. 急に、真ん中の空き部屋を訪れた<CLT=cltSTRONG>アンジーさん<CLT=cltNORMAL>に、
+#. 仕掛けを準備している所を見られてしまったんだ。
+msgctxt "0009 | c03_242_000 | C000_Saiha"
 msgid ""
 "<CLT=cltSTRONG>Angie<CLT=cltNORMAL> walked into that room and saw\n"
 "the culprit making their preparations."
 msgstr ""
 
-msgctxt "0011"
+#. 彼女は“蘇りの儀式”の為に“火”が必要だった。
+#. そこで<CLT=cltSTRONG>“ロウソク”<CLT=cltNORMAL>を取りに空き部屋を訪れたんだ。
+msgctxt "0010 | c03_242_000 | C000_Saiha"
 msgid ""
 "She needed some fire for the ritual, and\n"
 "had gone to the room for a <CLT=cltSTRONG>candle<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0012"
+#. ただ、この時点で、
+#. 犯人は“床下の横木”を切っていただけだから…
+msgctxt "0011 | c03_242_000 | C000_Saiha"
 msgid ""
 "At that point, the culprit had not finished\n"
 "the setup and was just cutting crosspieces."
 msgstr ""
 
-msgctxt "0013"
+#. それが犯行の準備だと
+#. アンジーさんにはわからなかったはずだ。
+msgctxt "0012 | c03_242_000 | C000_Saiha"
 msgid ""
 "Angie might not have concluded that it\n"
 "was tied to some kind of murder plan."
 msgstr ""
 
-msgctxt "0014"
+#. だけど、見られた以上は、
+#. この仕掛けは使えなくなってしまう。
+msgctxt "0013 | c03_242_000 | C000_Saiha"
 msgid ""
 "But now that Angie had seen it, the\n"
 "culprit couldn't use the seesaw trick."
 msgstr ""
 
-msgctxt "0015"
+#. 普通なら、ここで犯行計画を諦めるはずだ。
+#. でも、今回の犯人は違ったんだ。
+msgctxt "0014 | c03_242_000 | C000_Saiha"
 msgid ""
 "Any other person might have just given\n"
 "up. But not our culprit."
 msgstr ""
 
-msgctxt "0016"
+#. 犯人は、床から外した<CLT=cltSTRONG>“床板”<CLT=cltNORMAL>を手に持つと、
+#. 不意をついてアンジーさんの<CLT=cltSTRONG>頭部<CLT=cltNORMAL>を殴った。
+msgctxt "0015 | c03_242_000 | C000_Saiha"
 msgid ""
 "The culprit took the floorboard they loosened\n"
 "and struck the unsuspecting Angie in the <CLT=cltSTRONG>head<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0017"
+#. 犯人は犯行計画を諦めないばかりか、
+#. このアクシデントを利用した<CLT=cltSTRONG>トリック<CLT=cltNORMAL>を閃いていたんだ。
+msgctxt "0016 | c03_242_000 | C000_Saiha"
 msgid ""
 "The culprit did not want to give up on\n"
 "their plan and had to <CLT=cltSTRONG>improvise<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0018"
+#. 犯人はアンジーさんの傷口に<CLT=cltSTRONG>“ガムテープ”<CLT=cltNORMAL>を巻いて、
+#. 簡易的に止血をすると…
+msgctxt "0017 | c03_242_000 | C000_Saiha"
 msgid ""
 "They wrapped <CLT=cltSTRONG>duct tape<CLT=cltNORMAL> around\n"
 "Angie's injury to stop the bleeding."
 msgstr ""
 
-msgctxt "0019"
+#. そのまま気絶したアンジーさんを背負って、
+#. <CLT=cltSTRONG>“超高校級の美術部”の研究教室<CLT=cltNORMAL>へと運び…
+msgctxt "0018 | c03_242_000 | C000_Saiha"
 msgid ""
 "Then they picked up her unconscious body\n"
 "and carried her to her <CLT=cltSTRONG>research lab<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0020"
+#. アンジーさんが気絶している間に、
+#. 急いで犯行に必要な準備に取り掛かったんだ。
+msgctxt "0019 | c03_242_000 | C000_Saiha"
 msgid ""
 "While she was unconscious, the culprit\n"
 "hurried to tie up this loose end."
 msgstr ""
 
-msgctxt "0021"
+#. 急いで準備をしなければならなかったから、
+#. 犯人にも焦りがあったんだろうね…
+msgctxt "0020 | c03_242_000 | C000_Saiha"
 msgid ""
 "But because they were in a hurry,\n"
 "they made a crucial oversight."
 msgstr ""
 
-msgctxt "0022"
+#. 剥がれた<CLT=cltSTRONG>“ガムテープ”<CLT=cltNORMAL>が彼女の下敷きになった事に
+#. 犯人は気が付かなかったんだ。
+msgctxt "0021 | c03_242_000 | C000_Saiha"
 msgid ""
 "They didn't notice the <CLT=cltSTRONG>duct tape<CLT=cltNORMAL> had\n"
 "peeled off, and was under Angie's body."
 msgstr ""
 
-msgctxt "0023"
+#. もっとも、これがなければ、
+#. 僕らは犯人のトリックを見破れなかったかもしれない。
+msgctxt "0022 | c03_242_000 | C000_Saiha"
 msgid ""
 "Without that evidence, we may never\n"
 "have figured out the culprit's trick."
 msgstr ""
 
-msgctxt "0024"
+#. そして、犯行計画に必要な道具を持って、
+#. “超高校級の美術部”の研究教室に戻ってきた犯人は…
+msgctxt "0023 | c03_242_000 | C000_Saiha"
 msgid ""
 "Carrying the supplies they needed, the\n"
 "culprit returned to the Ultimate Art Lab..."
 msgstr ""
 
-msgctxt "0025"
+#. <CLT=cltSTRONG>正面扉のシリンダー錠<CLT=cltNORMAL>を室内からロックすると…
+msgctxt "0024 | c03_242_000 | C000_Saiha"
 msgid "locked the <CLT=cltSTRONG>front door<CLT=cltNORMAL> from inside..."
 msgstr ""
 
-msgctxt "0026"
+#. “超高校級の民俗学者”の研究教室から持ってきた
+#. <CLT=cltSTRONG>“金箔の日本刀”<CLT=cltNORMAL>を構えた。
+msgctxt "0025 | c03_242_000 | C000_Saiha"
 msgid ""
 "and took out the <CLT=cltSTRONG>katana<CLT=cltNORMAL> they\n"
 "brought from their own lab."
 msgstr ""
 
-msgctxt "0027"
+#. それでアンジーさんの首の後ろを刺し、
+#. 今度こそ彼女を殺したんだ…！
+msgctxt "0026 | c03_242_000 | C000_Saiha"
 msgid ""
 "They then stabbed Angie in the back\n"
 "of the neck, finally killing her."
 msgstr ""
 
-msgctxt "0028"
+#. そして、犯人はその殺人を不可能殺人にする為、
+#. 現場を<CLT=cltSTRONG>密室<CLT=cltNORMAL>にしようとした。
+msgctxt "0027 | c03_242_000 | C000_Saiha"
 msgid ""
 "Then, to further confuse us, the culprit\n"
 "attempted to make a <CLT=cltSTRONG>locked-room mystery<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0029"
+#. その為に、倉庫から持って来たロープで、
+#. <CLT=cltSTRONG>４体の蝋人形<CLT=cltNORMAL>を逆さ吊りにしたんだ。
+msgctxt "0028 | c03_242_000 | C000_Saiha"
 msgid ""
 "First, they used rope from the warehouse and\n"
 "hung <CLT=cltSTRONG>four effigies<CLT=cltNORMAL> upside-down."
 msgstr ""
 
-msgctxt "0030"
+#. この蝋人形には２つの目的がある。
+msgctxt "0029 | c03_242_000 | C000_Saiha"
 msgid "There were two reasons for this."
 msgstr ""
 
-msgctxt "0031"
+#. １つは偽装工作として、
+#. 現場にオカルト的な印象を持たせる為…
+msgctxt "0030 | c03_242_000 | C000_Saiha"
 msgid ""
 "To overwhelm the room\n"
 "with an occult atmosphere..."
 msgstr ""
 
-msgctxt "0032"
+#. もう１つは密室を作るカギ…
+#. そう、文字通り<CLT=cltSTRONG>“鍵”<CLT=cltNORMAL>にする為だったんだ。
+msgctxt "0031 | c03_242_000 | C000_Saiha"
 msgid ""
 "And the other was the <CLT=cltSTRONG>key<CLT=cltNORMAL> to locking\n"
 "the room."
 msgstr ""
 
-msgctxt "0033"
+#. そして、犯人は凶器の日本刀を、
+#. <CLT=cltSTRONG>裏口扉<CLT=cltNORMAL>の近くにあった<CLT=cltSTRONG>赤松さんの蝋人形<CLT=cltNORMAL>に突き刺すと…
+msgctxt "0032 | c03_242_000 | C000_Saiha"
 msgid ""
 "The culprit stuck the katana into\n"
 "<CLT=cltSTRONG>Kaede's effigy<CLT=cltNORMAL> near the <CLT=cltSTRONG>rear entrance<CLT=cltNORMAL>..."
 msgstr ""
 
-msgctxt "0034"
+#. その蝋人形をグルグルと回して、
+#. 吊っているロープを捻っていったんだ。
+msgctxt "0033 | c03_242_000 | C000_Saiha"
 msgid ""
 "...and spun the effigy around\n"
 "to twist up the rope."
 msgstr ""
 
-msgctxt "0035"
+#. そして、十分にロープを捻ったところで手を離し、
+#. 素早く裏口扉から研究教室の外に出たんだ。
+msgctxt "0034 | c03_242_000 | C000_Saiha"
 msgid ""
 "After enough turns, the culprit let go\n"
 "and headed for the rear door."
 msgstr ""
 
-msgctxt "0036"
+#. すると、蝋人形はロープの復元力で回転し、
+#. 刺さっていた金箔の日本刀も一緒に回転する。
+msgctxt "0035 | c03_242_000 | C000_Saiha"
 msgid ""
 "Once released, the effigy began spinning,\n"
 "and the gold leaf katana with it."
 msgstr ""
 
-msgctxt "0037"
+#. 犯人はその回転を利用して、
+#. 日本刀の柄を<CLT=cltSTRONG>スライド錠のツマミ<CLT=cltNORMAL>に当てて施錠したんだ！
+msgctxt "0036 | c03_242_000 | C000_Saiha"
 msgid ""
 "The handle of the katana then hit the\n"
 "<CLT=cltSTRONG>sliding lock<CLT=cltNORMAL>, locking the door."
 msgstr ""
 
-msgctxt "0038"
+#. 普通に考えれば難しい仕掛けだと思うけど、
+#. あのスライド錠のツマミは弱い力でも動いたし…
+msgctxt "0037 | c03_242_000 | C000_Saiha"
 msgid ""
 "A difficult trick, but remember that the lock\n"
 "was so loose it moved at the slightest touch."
 msgstr ""
 
-msgctxt "0039"
+#. アンジーさんを殺害した後なら、
+#. 何度も試みる時間はあったはずだからね。
+msgctxt "0038 | c03_242_000 | C000_Saiha"
 msgid ""
 "The culprit also would have had the\n"
 "opportunity to attempt it many times."
 msgstr ""
 
-msgctxt "0040"
+#. 犯人はこの方法で裏口扉を施錠したものの、
+#. ガムテープの証拠を密室に残してきてしまったんだ。
+msgctxt "0039 | c03_242_000 | C000_Saiha"
 msgid ""
 "Once complete, the door was locked,\n"
 "but the duct tape was left behind."
 msgstr ""
 
-msgctxt "0041"
+#. いや…密室を作った後に気が付いたのかもしれないけど、
+#. もうすでに回収はできなくなっていた。
+msgctxt "0040 | c03_242_000 | C000_Saiha"
 msgid ""
 "Perhaps the culprit noticed it, but\n"
 "by that point it was too late."
 msgstr ""
 
-msgctxt "0042"
+#. その密室を再び開ける事は、
+#. 犯人にも不可能だったからだ。
+msgctxt "0041 | c03_242_000 | C000_Saiha"
 msgid ""
 "The room was sealed. There was no way\n"
 "for them to get back inside."
 msgstr ""
 
-msgctxt "0043"
+#. そして今朝、僕達は犯人が作り出した密室を開けて、
+#. アンジーさんの死体を発見した…
+msgctxt "0042 | c03_242_000 | C000_Saiha"
 msgid ""
 "Then, this morning, we opened up the\n"
 "room and discovered Angie's body..."
 msgstr ""
 
-msgctxt "0044"
+#. でも、それだけじゃ終わらなかった。
+#. 犯人はそこから<CLT=cltSTRONG>もう１人の殺害<CLT=cltNORMAL>を試みたんだ。
+msgctxt "0043 | c03_242_000 | C000_Saiha"
 msgid ""
 "But the culprit wasn't finished.\n"
 "They wanted <CLT=cltSTRONG>one more murder<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0045"
+#. そして、僕達はまんまと犯人の口車に乗り、
+#. <CLT=cltSTRONG>降霊術の儀式<CLT=cltNORMAL>に協力する事になってしまったんだ…！
+msgctxt "0044 | c03_242_000 | C000_Saiha"
 msgid ""
 "To do that, they manipulated us into\n"
 "performing the <CLT=cltSTRONG>seance<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0046"
+#. 降霊術の儀式は、３つ並んだ空き部屋の内、
+#. <CLT=cltSTRONG>真ん中の部屋<CLT=cltNORMAL>で行われる事になった…
+msgctxt "0045 | c03_242_000 | C000_Saiha"
 msgid ""
 "Of the three empty rooms, the <CLT=cltSTRONG>middle one<CLT=cltNORMAL>\n"
 "was chosen for the seance."
 msgstr ""
 
-msgctxt "0047"
+#. 僕も王馬くんに誘われて、
+#. キーボくんの代わりに儀式に参加する事になったんだ。
+msgctxt "0046 | c03_242_000 | C000_Saiha"
 msgid ""
 "I was invited by Kokichi to take Keebo's place\n"
 "in the seance."
 msgstr ""
 
-msgctxt "0048"
+#. <CLT=cltSTRONG>口寄せ役<CLT=cltNORMAL>には<CLT=cltSTRONG>茶柱さん<CLT=cltNORMAL>が立候補した。
+#. でも…まさかその彼女が殺されるとは思ってもなかった。
+msgctxt "0047 | c03_242_000 | C000_Saiha"
 msgid ""
 "Tenko volunteered to be the medium. But...\n"
 "she never imagined it would get her killed."
 msgstr ""
 
-msgctxt "0049"
+#. まず、犯人は儀式に必要だと言って、
+#. あるモノを使って茶柱さんの体勢を固定したんだ。
+msgctxt "0048 | c03_242_000 | C000_Saiha"
 msgid ""
 "To perform the seance, the culprit claimed\n"
 "they needed something for Tenko..."
 msgstr ""
 
-msgctxt "0050"
+#. 夢野さんに中庭で拾わせてきた<CLT=cltSTRONG>小さな石<CLT=cltNORMAL>だよ。
+msgctxt "0049 | c03_242_000 | C000_Saiha"
 msgid ""
 "A <CLT=cltSTRONG>small stone<CLT=cltNORMAL> that Himiko had\n"
 "brought from the courtyard."
 msgstr ""
 
-msgctxt "0051"
+#. 茶柱さんは犯人に言われるがまま、
+#. その石に額をつけ、亀のような体勢で丸くなった。
+msgctxt "0050 | c03_242_000 | C000_Saiha"
 msgid ""
 "Tenko, at the culprit's request, bowed\n"
 "her head until it was touching the stone."
 msgstr ""
 
-msgctxt "0052"
+#. 実は、標的がその<CLT=cltSTRONG>“体勢”<CLT=cltNORMAL>を取る事は、
+#. 犯人の考えた殺人計画にとってはとても重要だったんだ。
+msgctxt "0051 | c03_242_000 | C000_Saiha"
 msgid ""
 "That <CLT=cltSTRONG>position<CLT=cltNORMAL> was instrumental in\n"
 "making sure the murder went as planned."
 msgstr ""
 
-msgctxt "0053"
+#. 次に、僕と王馬くんとで、
+#. <CLT=cltSTRONG>魔法陣<CLT=cltNORMAL>の中に運んだ<CLT=cltSTRONG>鉄カゴ<CLT=cltNORMAL>を茶柱さんの上に被せた。
+msgctxt "0052 | c03_242_000 | C000_Saiha"
 msgid ""
 "Next, Kokichi and I placed the <CLT=cltSTRONG>iron cage<CLT=cltNORMAL> over\n"
 "Tenko, in the middle of the <CLT=cltSTRONG>magic circle<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0054"
+#. この後、この鉄カゴは<CLT=cltSTRONG>白い布<CLT=cltNORMAL>に覆われるんだけど、
+#. それをやる役目には犯人自らが名乗りを上げた。
+msgctxt "0053 | c03_242_000 | C000_Saiha"
 msgid ""
 "The culprit then volunteered to drape the\n"
 "<CLT=cltSTRONG>white cloth<CLT=cltNORMAL> over the iron cage."
 msgstr ""
 
-msgctxt "0055"
+#. あの時は気が付かなかったけど、
+#. それは、あるモノを鉄カゴに仕掛ける為だったんだ。
+msgctxt "0054 | c03_242_000 | C000_Saiha"
 msgid ""
 "We didn't realize it at the time, but that\n"
 "was a deliberate decision by the culprit."
 msgstr ""
 
-msgctxt "0056"
+#. そう…茶柱さんを殺害した<CLT=cltSTRONG>“凶器のカマ”<CLT=cltNORMAL>だよ。
+msgctxt "0055 | c03_242_000 | C000_Saiha"
 msgid ""
 "They needed to set up the <CLT=cltSTRONG>murder weapon<CLT=cltNORMAL>\n"
 "that was used to kill Tenko."
 msgstr ""
 
-msgctxt "0057"
+#. 犯人は鉄カゴに白い布を被せる際、
+#. こっそりと持ち込んでいた凶器を仕掛けたんだ。
+msgctxt "0056 | c03_242_000 | C000_Saiha"
 msgid ""
 "While they were covering the cage with the\n"
 "cloth, they secretly placed the sickle."
 msgstr ""
 
-msgctxt "0058"
+#. そして最後に、参加者４人で
+#. <CLT=cltSTRONG>“犬神様の木像”<CLT=cltNORMAL>を鉄カゴの上に乗せて<CLT=cltSTRONG>“固定”<CLT=cltNORMAL>した。
+msgctxt "0057 | c03_242_000 | C000_Saiha"
 msgid ""
 "Finally, four of us <CLT=cltSTRONG>placed<CLT=cltNORMAL> the\n"
 "<CLT=cltSTRONG>wooden statue<CLT=cltNORMAL> on top of the cage."
 msgstr ""
 
-msgctxt "0059"
+#. そう、犯人は木像の重さを利用して、
+#. 凶器を鉄カゴの底に“固定”していたんだ！
+msgctxt "0058 | c03_242_000 | C000_Saiha"
 msgid ""
 "The culprit used the weight of the statue to\n"
 "keep the murder weapon in place."
 msgstr ""
 
-msgctxt "0060"
+#. 儀式の準備を終えた僕らは、
+#. 犯人の先導の元、降霊術を始める事となった。
+msgctxt "0059 | c03_242_000 | C000_Saiha"
 msgid ""
 "After the preparations were complete,\n"
 "we began the seance."
 msgstr ""
 
-msgctxt "0061"
+#. まず、真っ暗闇の中で、
+#. 部屋の四隅に立った参加者が<CLT=cltSTRONG>“かごのこ”の歌<CLT=cltNORMAL>を歌った。
+msgctxt "0060 | c03_242_000 | C000_Saiha"
 msgid ""
 "In complete darkness, we each stood in one\n"
 "corner and sang \"<CLT=cltSTRONG>The Caged Child<CLT=cltNORMAL>\" song."
 msgstr ""
 
-msgctxt "0062"
+#. その歌が終わると、呼び出した死者の霊が
+#. 口寄せ役に憑依する…という事だった。
+msgctxt "0061 | c03_242_000 | C000_Saiha"
 msgid ""
 "When the song finished, the soul of the\n"
 "dead was supposed to enter the medium..."
 msgstr ""
 
-msgctxt "0063"
+#. でも、その儀式の裏では、
+#. <CLT=cltSTRONG>暗闇<CLT=cltNORMAL>を利用した恐ろしい殺人が行われていたんだ。
+msgctxt "0062 | c03_242_000 | C000_Saiha"
 msgid ""
 "but our culprit had another plan—to\n"
 "commit a murder in the <CLT=cltSTRONG>darkness<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0064"
+#. 歌が始まってすぐに、
+#. 犯人は茶柱さんの元へと移動を開始していた。
+msgctxt "0063 | c03_242_000 | C000_Saiha"
 msgid ""
 "Right after we started singing, the culprit\n"
 "began making their way toward Tenko."
 msgstr ""
 
-msgctxt "0065"
+#. もちろん、暗闇の中を普通に移動する事はできない。
+#. だから犯人は<CLT=cltSTRONG>“ガイド”<CLT=cltNORMAL>を事前に用意していたんだ。
+msgctxt "0064 | c03_242_000 | C000_Saiha"
 msgid ""
 "It would have been quite difficult to do in\n"
 "total darkness, but our culprit had a <CLT=cltSTRONG>guide<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0066"
+#. それは、床板に描かれていた<CLT=cltSTRONG>“塩の魔法陣”<CLT=cltNORMAL>だ。
+msgctxt "0065 | c03_242_000 | C000_Saiha"
 msgid ""
 "They used the lines of the\n"
 "<CLT=cltSTRONG>magic circle drawn with salt<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0067"
+#. 犯人は“塩の魔法陣”を手で触って辿る事で、
+#. 真っ暗闇の中を移動したんだ…
+msgctxt "0066 | c03_242_000 | C000_Saiha"
 msgid ""
 "The culprit felt for the salt and used it\n"
 "to guide them along."
 msgstr ""
 
-msgctxt "0068"
+#. そして、口寄せ役である茶柱さんがいる
+#. 魔法陣の中心へと辿り着いた犯人は…
+msgctxt "0067 | c03_242_000 | C000_Saiha"
 msgid ""
 "And when the culprit reached the\n"
 "center of the circle..."
 msgstr ""
 
-msgctxt "0069"
+#. 昨日の夜に準備していた“横木を切った床板”の位置を
+#. 確認した後…
+msgctxt "0068 | c03_242_000 | C000_Saiha"
 msgid ""
 "they found the floorboard that had its\n"
 "crosspiece cut off the night before..."
 msgstr ""
 
-msgctxt "0070"
+#. その“床板”を<CLT=cltSTRONG>強く踏み抜いた<CLT=cltNORMAL>…！
+msgctxt "0069 | c03_242_000 | C000_Saiha"
 msgid ""
 "Then lifted up their foot and\n"
 "<CLT=cltSTRONG>stomped down<CLT=cltNORMAL> hard on the floorboard!"
 msgstr ""
 
-msgctxt "0071"
+#. “床板”に座っていた茶柱さんの体は、
+#. シーソーのように持ち上がり…
+msgctxt "0070 | c03_242_000 | C000_Saiha"
 msgid "The floorboard lifted up like a seesaw..."
 msgstr ""
 
-msgctxt "0072"
+#. 鉄カゴの底に押し付けられる。
+msgctxt "0071 | c03_242_000 | C000_Saiha"
 msgid ""
 "...and pushed Tenko's body up toward\n"
 "the ceiling of the cage."
 msgstr ""
 
-msgctxt "0073"
+#. それと同時に、丸まった茶柱さんの首の後ろに、
+#. <CLT=cltSTRONG>鉄カゴの底に仕掛けたカマ<CLT=cltNORMAL>が突き刺さった…
+msgctxt "0072 | c03_242_000 | C000_Saiha"
 msgid ""
 "Tenko was stabbed in the back of the neck\n"
 "by the <CLT=cltSTRONG>sickle on the top of the cage<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0074"
+#. こうやって、犯人は僕らの目の前で
+#. 茶柱さんの命を奪っていたんだ…！
+msgctxt "0073 | c03_242_000 | C000_Saiha"
 msgid ""
 "She was killed right before our eyes\n"
 "and we didn't even see it!"
 msgstr ""
 
-msgctxt "0075"
+#. 犯行を終えた犯人は、
+#. 再び“塩の魔法陣”を辿って元いた部屋の隅へと戻り…
+msgctxt "0074 | c03_242_000 | C000_Saiha"
 msgid ""
 "After committing the crime, the culprit\n"
 "followed the salt back to their corner..."
 msgstr ""
 
-msgctxt "0076"
+#. 儀式を終わらせ、僕らに灯りを点けさせた。
+msgctxt "0075 | c03_242_000 | C000_Saiha"
 msgid ""
 "...finished the ritual, and had\n"
 "us light the candles."
 msgstr ""
 
-msgctxt "0077"
+#. そして、犯人の指示の元、
+#. 儀式の道具を順番に片付けていく最中に…
+msgctxt "0076 | c03_242_000 | C000_Saiha"
 msgid ""
 "We followed the culprit's directions and\n"
 "removed the equipment used for the seance..."
 msgstr ""
 
-msgctxt "0078"
+#. 僕らは茶柱さんの死体を発見したんだ。
+msgctxt "0077 | c03_242_000 | C000_Saiha"
 msgid "...and discovered Tenko's body."
 msgstr ""
 
-msgctxt "0079"
+#. そして、犯人は僕らが死体に注目している隙に、
+#. 白い布と一緒に回収した凶器を…
+msgctxt "0078 | c03_242_000 | C000_Saiha"
 msgid ""
 "And while we were all focused on the body,\n"
 "the culprit picked up the sickle..."
 msgstr ""
 
-msgctxt "0080"
+#. 空き部屋の<CLT=cltSTRONG>隅にあった隙間<CLT=cltNORMAL>から、
+#. 床下へ落としたんだ。
+msgctxt "0079 | c03_242_000 | C000_Saiha"
 msgid ""
 "...and dropped it under the floor through the\n"
 "<CLT=cltSTRONG>hole in the corner<CLT=cltNORMAL> of the room."
 msgstr ""
 
-msgctxt "0081"
+#. さらに、このトリックの仕上げは、
+#. 図らずも僕らの手によって完成していたんだ。
+msgctxt "0080 | c03_242_000 | C000_Saiha"
 msgid ""
 "Ironically...the final step of the murder\n"
 "was unwittingly carried out by us."
 msgstr ""
 
-msgctxt "0082"
+#. 犯人は僕らが犯行の痕跡を消すところまで想定して、
+#. このトリックを考えていたんだ。
+msgctxt "0081 | c03_242_000 | C000_Saiha"
 msgid ""
 "The culprit had planned the murder so that we\n"
 "would unintentionally destroy some evidence."
 msgstr ""
 
-msgctxt "0083"
+#. 僕らが消してしまった犯行の痕跡…
+#. それは犯人が暗闇の中で移動に使った<CLT=cltSTRONG>“塩の魔法陣”<CLT=cltNORMAL>だ。
+msgctxt "0082 | c03_242_000 | C000_Saiha"
 msgid ""
 "That evidence was the <CLT=cltSTRONG>magic circle<CLT=cltNORMAL>\n"
 "that the culprit used to navigate in the dark."
 msgstr ""
 
-msgctxt "0084"
+#. ただ、犯人にとって予想外だったのは、
+#. キーボくんが撮った<CLT=cltSTRONG>“写真”<CLT=cltNORMAL>だ。
+msgctxt "0083 | c03_242_000 | C000_Saiha"
 msgid ""
 "However, the culprit didn't know that\n"
 "Keebo had taken a <CLT=cltSTRONG>picture<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0085"
+#. お陰で助かったよ…これが無ければ、
+#. 魔法陣のねつ造を証明できなかったからね。
+msgctxt "0084 | c03_242_000 | C000_Saiha"
 msgid ""
 "He really saved us. Without that, we wouldn't\n"
 "know what changes were made to the circle."
 msgstr ""
 
-msgctxt "0086"
+#. でも、僕らは答えに辿り着いた。
+#. このねつ造を行えた人物は<CLT=cltSTRONG>魔法陣を描いた本人<CLT=cltNORMAL>だけだ…
+msgctxt "0085 | c03_242_000 | C000_Saiha"
 msgid ""
 "But now we know for certain. And we know\n"
 "the culprit <CLT=cltSTRONG>drew the magic circle<CLT=cltNORMAL>..."
 msgstr ""
 
-msgctxt "0087"
+#. <CLT=cltSTRONG>“超高校級の民俗学者”真宮寺是清<CLT=cltNORMAL>…
+#. キミがこの連続殺人の犯人だ！
+msgctxt "0086 | c03_242_000 | C000_Saiha"
 msgid ""
 "<CLT=cltSTRONG>Korekiyo Shinguji, the Ultimate Anthropologist<CLT=cltNORMAL>!\n"
 "You're the culprit behind these murders!"
 msgstr ""
 
-msgctxt "0088"
+#. 床下の横木を切る
+msgctxt "0087 | c03_242_000 | C000_Saiha"
 msgid "Cut crosspiece under the floor"
 msgstr ""
 
-msgctxt "0089"
+#. 外れた床板
+msgctxt "0088 | c03_242_000 | C000_Saiha"
 msgid "The removed floorboard"
 msgstr ""
 
-msgctxt "0090"
+#. ガムテープを貼る
+msgctxt "0089 | c03_242_000 | C000_Saiha"
 msgid "Stuck duct tape"
 msgstr ""
 
-msgctxt "0091"
+#. 金箔の日本刀を抜く
+msgctxt "0090 | c03_242_000 | C000_Saiha"
 msgid "Removed the gold leaf katana"
 msgstr ""
 
-msgctxt "0092"
+#. 赤松楓の蝋人形にブスリ
+msgctxt "0091 | c03_242_000 | C000_Saiha"
 msgid "Stabbed Kaede's effigy"
 msgstr ""
 
-msgctxt "0093"
+#. スライド錠にバチン
+msgctxt "0092 | c03_242_000 | C000_Saiha"
 msgid "Hit the sliding lock"
 msgstr ""
 
-msgctxt "0094"
+#. 王馬小吉のピッキング
+msgctxt "0093 | c03_242_000 | C000_Saiha"
 msgid "Kokichi's lock picking"
 msgstr ""
 
-msgctxt "0095"
+#. 夢野が拾ってきた小石
+msgctxt "0094 | c03_242_000 | C000_Saiha"
 msgid "The small stone Himiko brought"
 msgstr ""
 
-msgctxt "0096"
+#. カマは暗殺向き
+msgctxt "0095 | c03_242_000 | C000_Saiha"
 msgid "Sickle placed to kill"
 msgstr ""
 
-msgctxt "0097"
+#. 火を消す最原終一
+msgctxt "0096 | c03_242_000 | C000_Saiha"
 msgid "Shuichi extinquishes the flame"
 msgstr ""
 
-msgctxt "0098"
+#. 塩で出来た道筋
+msgctxt "0097 | c03_242_000 | C000_Saiha"
 msgid "The path made with salt"
 msgstr ""
 
-msgctxt "0099"
+#. 木の床板を強く踏む
+msgctxt "0098 | c03_242_000 | C000_Saiha"
 msgid "Stomp hard on the floorboard"
 msgstr ""
 
-msgctxt "0100"
+#. 現場を荒らすみんなの足
+msgctxt "0099 | c03_242_000 | C000_Saiha"
 msgid "Footsteps contaminating the scene"
 msgstr ""
 
-msgctxt "0101"
+#. 空き部屋にいた犯人は
+#. ノコギリで…？
+msgctxt "0100 | c03_242_000 | C000_Saiha"
 msgid ""
 "Who was the culprit with the\n"
 "saw in the empty room?"
 msgstr ""
 
-msgctxt "0102"
+#. 夜長アンジーを
+#. 気絶させた凶器は…？
+msgctxt "0101 | c03_242_000 | C000_Saiha"
 msgid "What weapon knocked Angie unconscious?"
 msgstr ""
 
-msgctxt "0103"
+#. 夜長アンジーを運ぶ際、
+#. 頭部の傷口を塞いだものは？
+msgctxt "0102 | c03_242_000 | C000_Saiha"
 msgid ""
 "What was compressing the injury\n"
 "on Angie's head while she was carried?"
 msgstr ""
 
-msgctxt "0104"
+#. 夜長アンジーを
+#. 殺害した凶器は？
+msgctxt "0103 | c03_242_000 | C000_Saiha"
 msgid "What weapon killed Angie?"
 msgstr ""
 
-msgctxt "0105"
+#. 日本刀を突き刺したのは
+#. 誰の蝋人形？
+msgctxt "0104 | c03_242_000 | C000_Saiha"
 msgid "Whose effigy was stabbed with the katana?"
 msgstr ""
 
-msgctxt "0106"
+#. 回転する日本刀の柄が…？
+msgctxt "0105 | c03_242_000 | C000_Saiha"
 msgid "The handle of the spinning katana..."
 msgstr ""
 
-msgctxt "0107"
+#. 夜長アンジーの死体発見時、
+#. 扉の鍵は誰が開けた？
+msgctxt "0106 | c03_242_000 | C000_Saiha"
 msgid ""
 "When Angie's body was found,\n"
 "who unlocked the door?"
 msgstr ""
 
-msgctxt "0108"
+#. 降霊術の儀式で、
+#. 茶柱転子が額をつけた目印は？
+msgctxt "0107 | c03_242_000 | C000_Saiha"
 msgid ""
 "What object did Tenko rest her\n"
 "forehead on during the seance?"
 msgstr ""
 
-msgctxt "0109"
+#. 犯人が鉄カゴに仕掛けた凶器とは…？
+msgctxt "0108 | c03_242_000 | C000_Saiha"
 msgid ""
 "What weapon did the culprit\n"
 "set up on the iron cage?"
 msgstr ""
 
-msgctxt "0110"
+#. ロウソクを消す役割は王馬小吉と誰？
+msgctxt "0109 | c03_242_000 | C000_Saiha"
 msgid ""
 "Who besides Kokichi was responsible\n"
 "for extinguishing the candles?"
 msgstr ""
 
-msgctxt "0111"
+#. 降霊術が行われた闇の中で、
+#. 犯人がで手で触れたガイドは？
+msgctxt "0110 | c03_242_000 | C000_Saiha"
 msgid ""
 "How was the culprit able to move around\n"
 "in the darkness during the seance?"
 msgstr ""
 
-msgctxt "0112"
+#. 鉄カゴまで近づいた犯人は…？
+msgctxt "0111 | c03_242_000 | C000_Saiha"
 msgid "When the culprit approached the cage..."
 msgstr ""
 
-msgctxt "0113"
+#. 塩の魔法陣の痕跡は、
+#. どうやって消えた？
+msgctxt "0112 | c03_242_000 | C000_Saiha"
 msgid "How did the magic circle get erased?"
 msgstr ""

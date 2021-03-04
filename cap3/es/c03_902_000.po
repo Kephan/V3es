@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,23 +11,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>何もない埃っぽい部屋を、
+#. ロウソクの薄明かりが点々と照らしている…
+msgctxt "0000 | c03_902_000 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Candles just barely light a dim,\n"
 "dusty room..."
 msgstr ""
 
-msgctxt "0002"
+#. 不気味な部屋だな…なんだか薄暗いし。
+msgctxt "0001 | c03_902_000 | C000_Saiha"
 msgid "This is creepy... Hard to see, too."
 msgstr ""
 
-msgctxt "0003"
+#. ホラー系オカルト少女マンガに出て来そうだよね。
+#. 惨劇館って感じでさ。
+msgctxt "0002 | c03_902_000 | C012_Shiro"
 msgid ""
 "It seems like something that would appear in an\n"
 "occult manga. There's a tragic feeling here."
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltMIND>本当に…何か出そうな雰囲気だ。
+msgctxt "0003 | c03_902_000 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It really does feel like something is\n"
 "going to pop out at you..."

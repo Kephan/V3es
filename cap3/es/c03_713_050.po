@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,52 +11,67 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. アンジーは何を思い出しちゃったのかなー？
+#. アンジーのお葬式なんて、あり得ないのになー。
+msgctxt "0000 | c03_713_050 | C013_Yonag"
 msgid ""
 "What could that memory mean? I mean, it's\n"
 "impossible that a funeral was held for me."
 msgstr ""
 
-msgctxt "0002"
+#. だって、アンジーには神さまがいるからねー。
+#. 死んじゃったりなんてしないんだよ？
+msgctxt "0001 | c03_713_050 | C013_Yonag"
 msgid ""
 "Cuz I have Atua. So I'm in no danger of\n"
 "dying, y'know?"
 msgstr ""
 
-msgctxt "0003"
+#. 未使用
+msgctxt "0002 | c03_713_050 | C013_Yonag"
 msgid ""
 "<CLT=cltMIND>Should I hang out with Angie for a while?\n"
 "She might be in a mood..."
 msgstr ""
 
-msgctxt "0004"
+#. はい
+msgctxt "0003 | c03_713_050 | C013_Yonag"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0005"
+#. いいえ
+msgctxt "0004 | c03_713_050 | C013_Yonag"
 msgid "No"
 msgstr ""
 
-msgctxt "0006"
+#. もしかして悩んでいるの？
+msgctxt "0005 | c03_713_050 | C013_Yonag"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltSYSTEM>…どうしよう？
+#. こんなアンジーさんを誘うのか？
+msgctxt "0006 | c03_713_050 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Should I hang out with Angie for a while?\n"
 "She might be in a mood..."
 msgstr ""
 
-msgctxt "0008"
+#. いいよー！
+#. じゃあ、何しよっかー？
+msgctxt "0007 | c03_713_050 | C013_Yonag"
 msgid "Okay! Then what should we do?"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>アンジーさんに、研究教室で
+#. 画材について教えて貰って過ごした…
+msgctxt "0008 | c03_713_050 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Angie spent some time showing me\n"
 "her art supplies in her lab."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>アンジーさんと少し仲良くなれたみたいだ…
+msgctxt "0009 | c03_713_050 | chara_Blank"
 msgid "<CLT=cltMIND>Angie and I grew a little closer today."
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,48 +11,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. あ、最原君…
+msgctxt "0000 | c03_704_053 | C004_Gokuh"
 msgid "Oh, Shuichi..."
 msgstr ""
 
-msgctxt "0002"
+#. あのね、ゴン太は生徒会の一員だから…
+msgctxt "0001 | c03_704_053 | C004_Gokuh"
 msgid "Um...Gonta is member of student council now..."
 msgstr ""
 
-msgctxt "0003"
+#. ちゃんと自覚を持って行動しなくちゃいけないって
+#. アンジーさんが言ってたんだ。
+msgctxt "0002 | c03_704_053 | C004_Gokuh"
 msgid "Angie tell Gonta, he need to set good example."
 msgstr ""
 
-msgctxt "0004"
+#. だから、最原君とは過ごせないんだ！
+#. ごめんなさいっ！
+msgctxt "0003 | c03_704_053 | C004_Gokuh"
 msgid ""
 "So Gonta no can spend time with you!\n"
 "Sorry!"
 msgstr ""
 
-msgctxt "0005"
+#. 一緒にすごす
+msgctxt "0004 | c03_704_053 | C004_Gokuh"
 msgid "Spend time together"
 msgstr ""
 
-msgctxt "0006"
+#. やっぱりやめる
+msgctxt "0005 | c03_704_053 | C004_Gokuh"
 msgid "Never mind"
 msgstr ""
 
-msgctxt "0007"
+#. もしかして悩んでいるの？
+msgctxt "0006 | c03_704_053 | C004_Gokuh"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltSYSTEM>獄原ゴン太と何をしますか？
+msgctxt "0007 | c03_704_053 | chara_Blank"
 msgid "<CLT=cltSYSTEM>What would you like to do with Gonta?"
 msgstr ""
 
-msgctxt "0009"
+#. 獄原ゴン太と一緒にすごすイベント４
+msgctxt "0008 | c03_704_053 | C004_Gokuh"
 msgid "Spending time with Gonta Gokuhara Event 4"
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>獄原ゴン太と何かをして、一緒にすごした
+msgctxt "0009 | c03_704_053 | chara_Blank"
 msgid "<CLT=cltMIND>I spent some time with Gonta..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>獄原ゴン太とすこし仲良くなれたようだ
+msgctxt "0010 | c03_704_053 | chara_Blank"
 msgid "<CLT=cltMIND>Gonta and I grew a little closer today."
 msgstr ""

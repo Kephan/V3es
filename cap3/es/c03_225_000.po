@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,496 +11,646 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. そうだ…あの床板って、
+#. <CLT=cltSTRONG>シーソー<CLT=cltNORMAL>になっていたんじゃないかな？
+msgctxt "0000 | c03_225_000 | C000_Saiha"
 msgid ""
 "That's right... The floorboard might have\n"
 "been used as a <CLT=cltSTRONG>seesaw<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0002"
+#. んあっ？　シーソーじゃと？
+msgctxt "0001 | c03_225_000 | C009_Yumen"
 msgid "Nyeh? A seesaw?"
 msgstr ""
 
-msgctxt "0003"
+#. 横木が切られていたのは、
+#. 床板の端の部分だったんだ。
+msgctxt "0002 | c03_225_000 | C000_Saiha"
 msgid ""
 "The crosspiece at one end of the\n"
 "floorboard had been cut off."
 msgstr ""
 
-msgctxt "0004"
+#. そして、床板を支えていた他の２本の横木は、
+#. 茶柱さんの真下と床板の中央付近にあった。
+msgctxt "0003 | c03_225_000 | C000_Saiha"
 msgid ""
 "The other two crosspieces holding up\n"
 "that board were close to the cage."
 msgstr ""
 
-msgctxt "0005"
+#. この状態で、横木がなくなった床板の端を
+#. 強く踏み抜くと…
+msgctxt "0004 | c03_225_000 | C000_Saiha"
 msgid ""
 "Meaning, if you were to apply force to the\n"
 "end of the floorboard with no crosspiece..."
 msgstr ""
 
-msgctxt "0006"
+#. 真ん中の横木とカゴの縁が支点となって、
+#. テコの要領で茶柱さんの下の床板が跳ね上がるんだ。
+msgctxt "0005 | c03_225_000 | C000_Saiha"
 msgid ""
 "...the next crosspiece would act as a fulcrum\n"
 "to turn the floorboard into a lever."
 msgstr ""
 
-msgctxt "0007"
+#. そこに乗っている茶柱さんの体ごとね。
+msgctxt "0006 | c03_225_000 | C000_Saiha"
 msgid ""
 "A lever capable of lifting up\n"
 "Tenko's entire body."
 msgstr ""
 
-msgctxt "0008"
+#. 体ごと…跳ね上がる？
+msgctxt "0007 | c03_225_000 | C010_Haruk"
 msgid "Her whole body...lifted up?"
 msgstr ""
 
-msgctxt "0009"
+#. 確かに、シーソーみてーだけどよ…
+#. 茶柱の体を跳ね上げてどうすんだ？
+msgctxt "0008 | c03_225_000 | C014_Iruma"
 msgid ""
 "Yeah, that sounds like a seesaw, alright...\n"
 "But why bother lifting Tenko's body?"
 msgstr ""
 
-msgctxt "0010"
+#. それじゃあ、茶柱を殺す事はできねーぞ…
+#. あいつを殺した凶器は<CLT=cltSTRONG>カマ<CLT=cltNORMAL>なんだからな。
+msgctxt "0009 | c03_225_000 | C001_Momot"
 msgid ""
 "They couldn't have killed Tenko like \n"
 "that...unless they used the <CLT=cltSTRONG>sickle<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0011"
+#. でも、このシーソーの仕掛けを使えば、
+#. カゴの中の茶柱さんをカマで殺す事が可能になるんだよ。
+msgctxt "0010 | c03_225_000 | C000_Saiha"
 msgid ""
 "That's exactly it. Using the seesaw trick,\n"
 "it was possible to kill Tenko with the sickle."
 msgstr ""
 
-msgctxt "0012"
+#. えっ？　どうやって？
+msgctxt "0011 | c03_225_000 | C012_Shiro"
 msgid "Huh? How?"
 msgstr ""
 
-msgctxt "0013"
+#. 犯人が茶柱さんを殺す為に、
+#. シーソーの仕掛けを利用したとすると…
+msgctxt "0012 | c03_225_000 | C000_Saiha"
 msgid ""
 "In order for the culprit to kill Tenko\n"
 "with the seesaw trick..."
 msgstr ""
 
-msgctxt "0014"
+#. 重要なのは…<CLT=cltSTRONG>カマを仕掛けてあった場所<CLT=cltNORMAL>だ。
+msgctxt "0013 | c03_225_000 | C000_Saiha"
 msgid ""
 "...the <CLT=cltSTRONG>placement of the sickle<CLT=cltNORAML> is the\n"
 "most important factor."
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>床板のシーソー…
+#. そして、カゴの底と白い布に残った血痕…
+msgctxt "0014 | c03_225_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>The floorboard seesaw, the cage,\n"
 "and the blood on the white fabric..."
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>そこから導き出される答え…
+msgctxt "0015 | c03_225_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>What conclusions can I\n"
 "draw from this?"
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>茶柱さんが殺害された瞬間、
+#. 凶器のカマは“あの場所”にあったはずだ。
+msgctxt "0016 | c03_225_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>There's only one place the sickle could\n"
 "have been that is consistent with the evidence..."
 msgstr ""
 
-msgctxt "0018"
+#. 鉄カゴのフチ
+msgctxt "0017 | c03_225_000 | C000_Saiha"
 msgid "Next to the cage"
 msgstr ""
 
-msgctxt "0019"
+#. 凶器のカマは、鉄カゴのフチにあったんだよ。
+msgctxt "0018 | c03_225_000 | C000_Saiha"
 msgid "The sickle was set up next to the cage."
 msgstr ""
 
-msgctxt "0020"
+#. そこに仕掛けてあって、
+#. 茶柱さんを殺す事ってできるのかなぁ…
+msgctxt "0019 | c03_225_000 | C012_Shiro"
 msgid ""
 "Would it really be able to kill\n"
 "Tenko if it was placed there?"
 msgstr ""
 
-msgctxt "0021"
+#. しかもフチだと、茶柱さんに気付かれちゃうと思うよ。
+msgctxt "0020 | c03_225_000 | C012_Shiro"
 msgid ""
 "Also, she probably would\n"
 "have noticed it there, right?"
 msgstr ""
 
-msgctxt "0022"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0021 | c03_225_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0023"
+#. 床板の裏
+msgctxt "0022 | c03_225_000 | C000_Saiha"
 msgid "Underneath the floorboard"
 msgstr ""
 
-msgctxt "0024"
+#. 床板の裏にカマを仕掛けて、
+#. シーソーの要領でカマが飛び出したんじゃないかな？
+msgctxt "0023 | c03_225_000 | C000_Saiha"
 msgid ""
 "Perhaps the sickle was attached to\n"
 "the underside of the floorboard?"
 msgstr ""
 
-msgctxt "0025"
+#. 床板の裏にあったら、
+#. いくらシーソーでも飛び出さないんじゃねーか？
+msgctxt "0024 | c03_225_000 | C001_Momot"
 msgid ""
 "Under the floorboard...? The floorboard\n"
 "woulda had to flip for it to hit her..."
 msgstr ""
 
-msgctxt "0026"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0025 | c03_225_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0027"
+#. 鉄カゴの底
+msgctxt "0026 | c03_225_000 | C000_Saiha"
 msgid "The top of the cage"
 msgstr ""
 
-msgctxt "0028"
+#. 被害者と床板の間
+msgctxt "0027 | c03_225_000 | C000_Saiha"
 msgid "Between the victim and the floorboard"
 msgstr ""
 
-msgctxt "0029"
+#. カマは茶柱さんと床板の間にあったんじゃないかな。
+#. シーソーの仕掛けでカマが飛び出した…とか。
+msgctxt "0028 | c03_225_000 | C000_Saiha"
 msgid ""
 "Perhaps the seesaw motion caused the\n"
 "sickle to pop up from the floorboard?"
 msgstr ""
 
-msgctxt "0030"
+#. そんなところにあったら
+#. 最初に転子が気が付くじゃろ…
+msgctxt "0029 | c03_225_000 | C009_Yumen"
 msgid ""
 "If it was there, Tenko would have\n"
 "seen it from the start..."
 msgstr ""
 
-msgctxt "0031"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0030 | c03_225_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0032"
+#. ………………
+msgctxt "0031 | c03_225_000 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0033"
+#. あれ？　どうしたの？
+#. 教えてくれるんじゃなかったの？
+msgctxt "0032 | c03_225_000 | C012_Shiro"
 msgid ""
 "Huh? What's wrong?\n"
 "Weren't you going to tell us?"
 msgstr ""
 
-msgctxt "0034"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0033 | c03_225_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0035"
+#. <CLT=cltMIND>茶柱さんが殺害された時
+#. 凶器のカマがあった場所は…
+msgctxt "0034 | c03_225_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Where was the sickle when\n"
 "Tenko was killed...?"
 msgstr ""
 
-msgctxt "0036"
+#. 凶器のカマを<CLT=cltSTRONG>鉄カゴの底<CLT=cltNORMAL>に仕掛けるんだよ。
+#. 刃だけを下に向けた状態でね。
+msgctxt "0035 | c03_225_000 | C000_Saiha"
 msgid ""
 "The sickle was at the top of the <CLT=cltSTRONG>iron cage<CLT=cltNORMAL>,\n"
 "with the blade facing down."
 msgstr ""
 
-msgctxt "0037"
+#. しかも、仕掛けたカマは、
+#. カゴの上から白い布を被せれば見えなくなってしまう…
+msgctxt "0036 | c03_225_000 | C000_Saiha"
 msgid ""
 "The reason we didn't see it was\n"
 "because of the fabric covering the cage."
 msgstr ""
 
-msgctxt "0038"
+#. さらに、その布の上に木像を置く事で、
+#. カマは完全に鉄カゴの底に固定されるんだ。
+msgctxt "0037 | c03_225_000 | C000_Saiha"
 msgid ""
 "Also, the wooden statue kept\n"
 "the blade in place."
 msgstr ""
 
-msgctxt "0039"
+#. ただ、カマにも厚みがあるから、
+#. 乗せた像はほんの少し傾くかもしれないけど…
+msgctxt "0038 | c03_225_000 | C000_Saiha"
 msgid ""
 "It's true that the sickle's handle was thick,\n"
 "which made the statue wobble..."
 msgstr ""
 
-msgctxt "0040"
+#. まぁ、あの木像くらいの重さがあれば、
+#. 問題なく固定できたはずだよ。
+msgctxt "0039 | c03_225_000 | C000_Saiha"
 msgid ""
 "but the statue's weight kept it\n"
 "from falling over."
 msgstr ""
 
-msgctxt "0041"
+#. そして、その状態で、
+#. さっきのシーソーの仕掛けを作動させれば…
+msgctxt "0040 | c03_225_000 | C000_Saiha"
 msgid ""
 "Once everything was in place, if you\n"
 "stepped hard enough on the seesaw..."
 msgstr ""
 
-msgctxt "0042"
+#. 跳ね上がった茶柱さんの体は、
+#. カマの刃が仕掛けられた鉄カゴの底に押し付けられて…
+msgctxt "0041 | c03_225_000 | C000_Saiha"
 msgid ""
 "Tenko's body would have shot upward\n"
 "and hit the blade on the top of the cage."
 msgstr ""
 
-msgctxt "0043"
+#. 丸まった体勢の彼女の首筋に、
+#. そのカマの刃が突き刺さってしまうんだ。
+msgctxt "0042 | c03_225_000 | C000_Saiha"
 msgid ""
 "She was bent over, meaning the sickle's\n"
 "blade would have connected with her neck."
 msgstr ""
 
-msgctxt "0044"
+#. カマの刃は１５センチ程度しかないから、
+#. 中の人を刺すにはリーチが足りないって話だったけど…
+msgctxt "0043 | c03_225_000 | C010_Haruk"
 msgid ""
 "The 6-inch sickle blade wasn't long enough \n"
 "to stab Tenko in her crouched position."
 msgstr ""
 
-msgctxt "0045"
+#. それを補う為のシーソーの仕掛けなんだね。
+msgctxt "0044 | c03_225_000 | C010_Haruk"
 msgid ""
 "But with the floorboard acting as a seesaw,\n"
 "it could compensate for the blade's length."
 msgstr ""
 
-msgctxt "0046"
+#. カマを被害者に近付けるのではなく、
+#. 被害者の方をカマに近付けるとは…
+msgctxt "0045 | c03_225_000 | C007_Ki-Bo"
 msgid ""
 "Bringing the victim to the sickle, rather than\n"
 "bringing the sickle to the victim..."
 msgstr ""
 
-msgctxt "0047"
+#. まさに、逆転の発想ですね！
+msgctxt "0046 | c03_225_000 | C007_Ki-Bo"
 msgid "That's definitely an unorthodox idea!"
 msgstr ""
 
-msgctxt "0048"
+#. 突拍子もねー方法だが…
+#. それならカゴの中の茶柱をカマで刺す事ができるな…
+msgctxt "0047 | c03_225_000 | C001_Momot"
 msgid ""
 "It's crazy, but it would explain how Tenko \n"
 "got stabbed while she was in the cage."
 msgstr ""
 
-msgctxt "0049"
+#. では…ウチらが聞いたあの音は、
+#. シーソーにする為に床板を踏み抜いた音だったんじゃな。
+msgctxt "0048 | c03_225_000 | C009_Yumen"
 msgid ""
 "So the sound we heard was the \n"
 "culprit stomping on the floorboard."
 msgstr ""
 
-msgctxt "0050"
+#. あの床板はその時の衝撃で外れちゃったんだね。
+msgctxt "0049 | c03_225_000 | C004_Gokuh"
 msgid "That impact make floorboard come loose."
 msgstr ""
 
-msgctxt "0051"
+#. なるほど！　名付けてシーソー殺人事件か！
+msgctxt "0050 | c03_225_000 | C014_Iruma"
 msgid ""
 "Looks like we got ourselves a good\n"
 "ol' fashioned seesaw homicide."
 msgstr ""
 
-msgctxt "0052"
+#. …って、なんだよ、シーソー殺人って！
+#. そんなメチャクチャな殺し方ありかよ！
+msgctxt "0051 | c03_225_000 | C014_Iruma"
 msgid ""
 "...Wait, what the hell's a seesaw homicide!?\n"
 "That's fucking crazy!"
 msgstr ""
 
-msgctxt "0053"
+#. メチャクチャだからいいんだよ。
+#. これはコロシアイゲームなんだよ？
+msgctxt "0052 | c03_225_000 | C005_Oma__"
 msgid ""
 "The craziness is what really makes the\n"
 "killing game fun, y'know?"
 msgstr ""
 
-msgctxt "0054"
+#. 逃げ延びる為には、普通の殺し方じゃなくて、
+#. 誰もが思い至らない殺し方にしないとね。
+msgctxt "0053 | c03_225_000 | C005_Oma__"
 msgid ""
 "They can't get away with murder the normal\n"
 "way, so they gotta think outside the box."
 msgstr ""
 
-msgctxt "0055"
+#. まぁ、そういう意味では犯人も頑張ったよ！
+#. つまらなくはないと思うよ！
+msgctxt "0054 | c03_225_000 | C005_Oma__"
 msgid ""
 "Kudos, culprit!\n"
 "You did a great job keeping me entertained!"
 msgstr ""
 
-msgctxt "0056"
+#. 本当…夢野さんもやってくれるよネ。
+msgctxt "0055 | c03_225_000 | C006_Shing"
 msgid "Indeed... Well played, Himiko."
 msgstr ""
 
-msgctxt "0057"
+#. …んあ？
+msgctxt "0056 | c03_225_000 | C009_Yumen"
 msgid "Nyeeeh?"
 msgstr ""
 
-msgctxt "0058"
+#. ククク…そうなんでしょ？
+#. この<CLT=cltSTRONG>“シーソー殺人”<CLT=cltNORMAL>を仕組んだ犯人って君でしょ？
+msgctxt "0057 | c03_225_000 | C006_Shing"
 msgid ""
 "Kehehe... It was you, wasn't it?\n"
 "The one behind this <CLT=cltSTRONG>seesaw homicide<CLT=cltNORMAL>?"
 msgstr ""
 
-msgctxt "0059"
+#. えっ！？　なんでそうなるのっ！？
+msgctxt "0058 | c03_225_000 | C004_Gokuh"
 msgid "Huh!? Why her!?"
 msgstr ""
 
-msgctxt "0060"
+#. この計画を実行できたのが、
+#. 彼女しかいないからだヨ…
+msgctxt "0059 | c03_225_000 | C006_Shing"
 msgid ""
 "Because she's the only one capable\n"
 "of carrying out this plan..."
 msgstr ""
 
-msgctxt "0061"
+#. 夢野さんしかいないって…どうして？
+msgctxt "0060 | c03_225_000 | C012_Shiro"
 msgid "The only one? Why's that?"
 msgstr ""
 
-msgctxt "0062"
+#. だって、この“シーソー殺人”を実行するには、
+#. 犯人は事前に現場で準備をしておく必要があるんだヨ？
+msgctxt "0061 | c03_225_000 | C006_Shing"
 msgid ""
 "Because this seesaw homicide required\n"
 "its location to be prepared beforehand."
 msgstr ""
 
-msgctxt "0063"
+#. 床下の横木を切っておく事ですね？
+msgctxt "0062 | c03_225_000 | C007_Ki-Bo"
 msgid ""
 "By cutting the crosspiece beneath the\n"
 "floorboard, you mean?"
 msgstr ""
 
-msgctxt "0064"
+#. その上で、犯人は被害者を
+#. その仕掛けがある部屋におびき寄せなければならない…
+msgctxt "0063 | c03_225_000 | C006_Shing"
 msgid ""
 "Then the culprit would need to lure\n"
 "their victim into the prepared room."
 msgstr ""
 
-msgctxt "0065"
+#. 夢野さん、君が降霊術をあの部屋でやる事にしたのは、
+#. そういう意図があったからなんだよネ？
+msgctxt "0064 | c03_225_000 | C006_Shing"
 msgid ""
 "That is why you chose that room\n"
 "for the seance, is it not, Himiko?"
 msgstr ""
 
-msgctxt "0066"
+#. ただ…空き部屋は３つあったよネ？
+#. どの部屋にするの？
+msgctxt "0065 | c03_225_000 | C006_Shing"
 msgid ""
 "However...there are three empty rooms.\n"
 "Which one shall we use?"
 msgstr ""
 
-msgctxt "0067"
+#. であれば…真ん中じゃな。
+#. そういう場合はど真ん中に決まっておる。
+msgctxt "0066 | c03_225_000 | C009_Yumen"
 msgid ""
 "Um...the middle room. The middle \n"
 "room's always best for stuff like this."
 msgstr ""
 
-msgctxt "0068"
+#. そう言や、降霊術の場所を決めたのは夢野だったな！
+msgctxt "0067 | c03_225_000 | C014_Iruma"
 msgid ""
 "Oh yeah! Himiko was the one who chose\n"
 "the site for the seance!"
 msgstr ""
 
-msgctxt "0069"
+#. ………………
+msgctxt "0068 | c03_225_000 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0070"
+#. きっと、彼女はどこかで、
+#. 僕がやろうとしていた降霊術の内容を知ったんだろうネ。
+msgctxt "0069 | c03_225_000 | C006_Shing"
 msgid ""
 "She likely found out about my\n"
 "plans for the seance somehow."
 msgstr ""
 
-msgctxt "0071"
+#. あれだけアピールしていた上に、
+#. 降霊術の文献も研究教室に置きっ放しでしたからね。
+msgctxt "0070 | c03_225_000 | C007_Ki-Bo"
 msgid ""
 "You were quite vocal about the seance, Kiyo.\n"
 "You even had instructions for it in your lab."
 msgstr ""
 
-msgctxt "0072"
+#. そして、この犯行計画を思い付いた夢野さんは
+#. 先にシーソーの仕掛けを作っておき…
+msgctxt "0071 | c03_225_000 | C006_Shing"
 msgid ""
 "Our culprit, Himiko, prepared her seesaw trap\n"
 "ahead of time..."
 msgstr ""
 
-msgctxt "0073"
+#. 僕が降霊術をやろうと言い出したタイミングで、
+#. 迷わず<CLT=cltSTRONG>“真ん中の空き部屋”<CLT=cltNORMAL>を提案したんだ。
+msgctxt "0072 | c03_225_000 | C006_Shing"
 msgid ""
 "Then she waited for me to host the seance, \n"
 "and suggested the <CLT=cltSTRONG>middle room<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0074"
+#. そうやって、まんまと
+#. あの部屋で降霊術をさせる事に成功した君は…
+msgctxt "0073 | c03_225_000 | C006_Shing"
 msgid ""
 "She led us all into holding the\n"
 "seance right where she wanted it."
 msgstr ""
 
-msgctxt "0075"
+#. そこで、計画通りに茶柱さんを殺したんだ。
+msgctxt "0074 | c03_225_000 | C006_Shing"
 msgid ""
 "Then, she killed Tenko.\n"
 "All according to plan."
 msgstr ""
 
-msgctxt "0076"
+#. う、嘘でしょ…？
+#. そんな事を…夢野さんが？
+msgctxt "0075 | c03_225_000 | C012_Shiro"
 msgid ""
 "Th-That's a lie, right?\n"
 "Himiko...did such a thing?"
 msgstr ""
 
-msgctxt "0077"
+#. ………………
+msgctxt "0076 | c03_225_000 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0078"
+#. よりにもよって、茶柱ちゃんが大好きだった夢野ちゃんが、
+#. 彼女を殺した犯人とはね…
+msgctxt "0077 | c03_225_000 | C005_Oma__"
 msgid ""
 "In the end, Himiko, who Tenko cherished \n"
 "and loved, tragically killed her..."
 msgstr ""
 
-msgctxt "0079"
+#. ちょ、ちょっと待ってよ！
+#. まだそう決まった訳じゃないよね！？
+msgctxt "0078 | c03_225_000 | C004_Gokuh"
 msgid "W-Wait! We don't know that, right!?"
 msgstr ""
 
-msgctxt "0080"
+#. 違うよね、夢野さん！？
+#. 夢野さんが茶柱さんを殺すはずないよね！？
+msgctxt "0079 | c03_225_000 | C004_Gokuh"
 msgid ""
 "He's wrong. Right, Himiko!?\n"
 "Himiko would never kill Tenko! Right!?"
 msgstr ""
 
-msgctxt "0081"
+#. …転子を…殺す？
+msgctxt "0080 | c03_225_000 | C009_Yumen"
 msgid "Kill...Tenko...?"
 msgstr ""
 
-msgctxt "0082"
+#. ウチが…転子を殺したじゃと？
+msgctxt "0081 | c03_225_000 | C009_Yumen"
 msgid "I...killed Tenko?"
 msgstr ""
 
-msgctxt "0083"
+#. ………………
+msgctxt "0082 | c03_225_000 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0084"
+#. 夢野…さん？
+msgctxt "0083 | c03_225_000 | C004_Gokuh"
 msgid "Himiko...?"
 msgstr ""
 
-msgctxt "0085"
+#. どうしたんですか、夢野さん？
+msgctxt "0084 | c03_225_000 | C007_Ki-Bo"
 msgid "What's wrong, Himiko?"
 msgstr ""
 
-msgctxt "0086"
+#. ………………
+msgctxt "0085 | c03_225_000 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0087"
+#. <CLT=cltMIND>確かに、シーソーの仕掛けがあった空き部屋に、
+#. みんなを誘導したのは夢野さんだったけど…
+msgctxt "0086 | c03_225_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>It is true that using the middle room\n"
 "was Himiko's idea..."
 msgstr ""
 
-msgctxt "0088"
+#. <CLT=cltMIND>でも、本当にそうなのか？
+#. 夢野さんが茶柱さんを殺したなんて…
+msgctxt "0087 | c03_225_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>But does that mean that\n"
 "Himiko really killed Tenko?"
 msgstr ""
 
-msgctxt "0089"
+#. <CLT=cltMIND>そんな事が本当にあるのか？
+msgctxt "0088 | c03_225_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>...Would something like that\n"
 "really happen...?"
 msgstr ""
 
-msgctxt "0090"
+#. <CLT=cltMIND>そんな残酷な事が…あっていいのか？
+msgctxt "0089 | c03_225_000 | C000_Saiha"
 msgid "<CLT=cltMIND>Something so cruel..."
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,40 +11,52 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 死んじゃったみんなが生きているのなら…
+#. 絶対に助け出さなくちゃ！
+msgctxt "0000 | c03_704_052 | C004_Gokuh"
 msgid ""
 "If everyone dead is really alive...we gotta\n"
 "save them! No matter what!"
 msgstr ""
 
-msgctxt "0002"
+#. はい
+msgctxt "0001 | c03_704_052 | C004_Gokuh"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0003"
+#. いいえ
+msgctxt "0002 | c03_704_052 | C004_Gokuh"
 msgid "No"
 msgstr ""
 
-msgctxt "0004"
+#. もしかして悩んでいるの？
+msgctxt "0003 | c03_704_052 | C004_Gokuh"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltSYSTEM>どうしよう？
+#. ゴン太くんを誘ってみるか？
+msgctxt "0004 | c03_704_052 | chara_Blank"
 msgid "<CLT=cltMIND>Should I hang out with Gonta for a while?"
 msgstr ""
 
-msgctxt "0006"
+#. みんなの為なら、ゴン太は盾にも槍にもなるよ！
+#. 任せて！
+msgctxt "0005 | c03_704_052 | C004_Gokuh"
 msgid ""
 "Gonta be shield! Gonta be spear!\n"
 "Gonta be whatever everyone need!"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>気合いの入り過ぎているゴン太くんを
+#. なだめながら過ごした…
+msgctxt "0006 | c03_704_052 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I spent some time trying to\n"
 "calm down Gonta."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>ゴン太くんと少し仲良くなれたみたいだ…
+msgctxt "0007 | c03_704_052 | chara_Blank"
 msgid "<CLT=cltMIND>Gonta and I grew a little closer today."
 msgstr ""

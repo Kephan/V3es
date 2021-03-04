@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,40 +11,51 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. …転子は、
+#. 神さまにお祈りを捧げるのに忙しいんです。
+msgctxt "0000 | c03_711_053 | C011_Chaba"
 msgid "...I'm busy praying to Atua."
 msgstr ""
 
-msgctxt "0002"
+#. 男死の相手をしているヒマなんてありませんので。
+#. あっちに行ってください。
+msgctxt "0001 | c03_711_053 | C011_Chaba"
 msgid ""
 "Go away. I don't have time for degenerates\n"
 "like you."
 msgstr ""
 
-msgctxt "0003"
+#. 一緒にすごす
+msgctxt "0002 | c03_711_053 | C011_Chaba"
 msgid "Spend time together"
 msgstr ""
 
-msgctxt "0004"
+#. やっぱりやめる
+msgctxt "0003 | c03_711_053 | C011_Chaba"
 msgid "Never mind"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_711_053 | C011_Chaba"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>茶柱転子と何をしますか？
+msgctxt "0005 | c03_711_053 | chara_Blank"
 msgid "<CLT=cltSYSTEM>What would you like to do with Tenko?"
 msgstr ""
 
-msgctxt "0007"
+#. 茶柱転子と一緒にすごすイベント４
+msgctxt "0006 | c03_711_053 | C011_Chaba"
 msgid "Spending time with Tenko Event 4"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>茶柱転子と何かをして、一緒にすごした
+msgctxt "0007 | c03_711_053 | chara_Blank"
 msgid "<CLT=cltMIND>I spent some time with Tenko..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>茶柱転子とすこし仲良くなれたようだ
+msgctxt "0008 | c03_711_053 | chara_Blank"
 msgid "<CLT=cltMIND>Tenko and I grew a little closer today."
 msgstr ""

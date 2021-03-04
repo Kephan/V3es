@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,61 +11,80 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>この部屋で他に調べられるところは
+#. なさそうだ…
+msgctxt "0000 | c03_902_004 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There doesn't seem to be anything\n"
 "else of interest in this room."
 msgstr ""
 
-msgctxt "0002"
+#. 特に意味のある物もなさそうだし…
+#. この部屋は、完全に空き部屋みたいだな。
+msgctxt "0001 | c03_902_004 | C000_Saiha"
 msgid ""
 "It doesn't look like there's anything important\n"
 "here... Just an empty room."
 msgstr ""
 
-msgctxt "0003"
+#. あ！　空き部屋はこの部屋だけじゃないよ。
+#. ほら、廊下に同じようなドアが３つ並んでたでしょ？
+msgctxt "0002 | c03_902_004 | C004_Gokuh"
 msgid ""
 "Oh! This not only empty room. You see\n"
 "three same-looking doors in hall, right?"
 msgstr ""
 
-msgctxt "0004"
+#. どの部屋もここと同じような空き部屋だったんだ。
+#. 明かりもロウソクしかなかったしね。
+msgctxt "0003 | c03_902_004 | C004_Gokuh"
 msgid ""
 "All those rooms empty, just like this one.\n"
 "And they only got candles for light too."
 msgstr ""
 
-msgctxt "0005"
+#. じゃあ…同じ空き部屋が３つ並んでいるんだ。
+msgctxt "0004 | c03_902_004 | C000_Saiha"
 msgid "Ah, so there are three of them."
 msgstr ""
 
-msgctxt "0006"
+#. どっちにしろ…こんな何もない部屋にはもう来ないから
+#. 気にしなくてもいいかもね。
+msgctxt "0005 | c03_902_004 | C004_Gokuh"
 msgid ""
 "Anyway, we no gotta worry. No reason we\n"
 "ever need to use empty room like this."
 msgstr ""
 
-msgctxt "0007"
+#. 確かに…そうだね。
+msgctxt "0006 | c03_902_004 | C000_Saiha"
 msgid "True..."
 msgstr ""
 
-msgctxt "0008"
+#. じゃあ…そろそろ出ない？
+#. 薄暗さと不安定な足元のせいで息が詰まってきたよ。
+msgctxt "0007 | c03_902_004 | C012_Shiro"
 msgid ""
 "Then...can we leave soon? The darkness and\n"
 "this shaky floor are making me nervous."
 msgstr ""
 
-msgctxt "0009"
+#. それに…これ以上ここにいると、
+#. 恐怖の新聞が窓を突き破って投げ込まれてきそうだし。
+msgctxt "0008 | c03_902_004 | C012_Shiro"
 msgid ""
 "It's only a matter of time before the shutters\n"
 "burst open and a newspaper gets blown in."
 msgstr ""
 
-msgctxt "0010"
+#. まぁ…窓はないけどね。
+msgctxt "0009 | c03_902_004 | C000_Saiha"
 msgid "But...there are no windows, though."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>でも…この空き部屋にはもう用事はないか。
+#. だったら、そろそろ出るとしよう。
+msgctxt "0010 | c03_902_004 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't have any reason to\n"
 "waste time in an empty room."

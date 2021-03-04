@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,317 +11,415 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. むしろ、カマの設置と回収の両方ができたのは、
+#. 真宮寺くんだけなんだ。
+msgctxt "0000 | c03_233_000 | C000_Saiha"
 msgid ""
 "The only person who could have set up the\n"
 "sickle and retrieved it afterward is Kiyo."
 msgstr ""
 
-msgctxt "0002"
+#. キミは<CLT=cltSTRONG>鉄カゴを白い布で覆う際<CLT=cltNORMAL>に、
+#. 凶器の設置と回収をしたんだ！
+msgctxt "0001 | c03_233_000 | C000_Saiha"
 msgid ""
 "That was done by <CLT=cltSTRONG>covering the\n"
 "cage with the white cloth<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0003"
+#. 白い布を鉄カゴに被せる時なら、
+#. みんなから隠すようにカマを設置できるし…
+msgctxt "0002 | c03_233_000 | C000_Saiha"
 msgid ""
 "You could have secretly placed the sickle\n"
 "when you draped the cloth..."
 msgstr ""
 
-msgctxt "0004"
+#. 同じように、カマを回収する時も、
+#. 白い布と一緒に外せばいいだけ…
+msgctxt "0003 | c03_233_000 | C000_Saiha"
 msgid ""
 "...and retrieved it afterward when you\n"
 "removed the cloth!"
 msgstr ""
 
-msgctxt "0005"
+#. 後は、死体が発見されて騒然となっている隙に、
+#. カマをこっそり床の隙間から床下に落とせ――
+msgctxt "0004 | c03_233_000 | C000_Saiha"
 msgid ""
 "Then, while everyone was distracted, you\n"
 "discreetly dropped the sickle under the floor."
 msgstr ""
 
-msgctxt "0006"
+#. 素晴らしい！　大正解ッ！
+msgctxt "0005 | c03_233_000 | C006_Shing"
 msgid "Wonderful! That's exactly correct!"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>…え？
+msgctxt "0006 | c03_233_000 | C000_Saiha"
 msgid "<CLT=cltMIND>...What?"
 msgstr ""
 
-msgctxt "0008"
+#. せ、正解って…
+#. じゃあ、テメーは認めんだな！？
+msgctxt "0007 | c03_233_000 | C001_Momot"
 msgid ""
 "It's correct...?\n"
 "Then why don't you give up already!?"
 msgstr ""
 
-msgctxt "0009"
+#. ククク…せっかくの手の込んだトリックも
+#. バレてしまってはただの徒労だネ。
+msgctxt "0008 | c03_233_000 | C006_Shing"
 msgid ""
 "Kehehe... The trick I put so much work\n"
 "into is just wasted effort now. Alas."
 msgstr ""
 
-msgctxt "0010"
+#. やはり…お主なんじゃな？
+#. お主が転子を殺したんじゃな？
+msgctxt "0009 | c03_233_000 | C009_Yumen"
 msgid "So...it was you? You killed Tenko!?"
 msgstr ""
 
-msgctxt "0011"
+#. 謝っても、許してもらえないよネ？
+#. 夢野さんは殺してしまいたいほど僕が憎いよネ？
+msgctxt "0010 | c03_233_000 | C006_Shing"
 msgid ""
 "Let me guess, you'll never forgive me.\n"
 "Himiko, you must hate me so very much."
 msgstr ""
 
-msgctxt "0012"
+#. おしおきで僕を殺せれば、
+#. 少しは気が晴れるだろうけど…
+msgctxt "0011 | c03_233_000 | C006_Shing"
 msgid ""
 "Maybe you'd feel better if I\n"
 "was executed by Monokuma..."
 msgstr ""
 
-msgctxt "0013"
+#. 残念ながら、それは不可能なんだ！
+msgctxt "0012 | c03_233_000 | C006_Shing"
 msgid ""
 "But unfortunately for you, \n"
 "that won't happen!"
 msgstr ""
 
-msgctxt "0014"
+#. だって、僕に投票したところで、
+#. “僕を含めたシロ全員”が全滅するだけだからネ！
+msgctxt "0013 | c03_233_000 | C006_Shing"
 msgid ""
 "Because if you vote for me, every spotless,\n"
 "including myself, will die."
 msgstr ""
 
-msgctxt "0015"
+#. あぁ？　ど、どういう事だよ？
+msgctxt "0014 | c03_233_000 | C014_Iruma"
 msgid "Whatchoo talkin' 'bout, Kiyo?"
 msgstr ""
 
-msgctxt "0016"
+#. ククク…まだわからないの？
+msgctxt "0015 | c03_233_000 | C006_Shing"
 msgid ""
 "Kehehe... \n"
 "You still don't understand?"
 msgstr ""
 
-msgctxt "0017"
+#. 僕が茶柱さんを殺してしまったのは事実だけど、
+#. そんな事は今回の学級裁判においては無意味なんだヨ。
+msgctxt "0016 | c03_233_000 | C006_Shing"
 msgid ""
 "I killed Tenko. That is the truth.\n"
 "But it is meaningless in this class trial."
 msgstr ""
 
-msgctxt "0018"
+#. 無意味…じゃと！？
+msgctxt "0017 | c03_233_000 | C009_Yumen"
 msgid "Meaningless!?"
 msgstr ""
 
-msgctxt "0019"
+#. そっか…モノクマの<CLT=cltSTRONG>追加ルール<CLT=cltNORMAL>の事だね？
+msgctxt "0018 | c03_233_000 | C005_Oma__"
 msgid "You mean Monokuma's <CLT=cltSTRONG>extra rule<CLT=cltNORMAL>, right?"
 msgstr ""
 
-msgctxt "0020"
+#. あぁ、クロが２人いた場合、
+#. 学級裁判での投票対象はどうなるのかって？
+msgctxt "0019 | c03_233_000 | C020_Monok"
 msgid ""
 "Ah, that's right. What happens to your votes\n"
 "if there are two blackened candidates?"
 msgstr ""
 
-msgctxt "0021"
+#. では、お答えしましょう！
+#. そういう場合は、<CLT=cltSTRONG>早い者勝ち<CLT=cltNORMAL>です！
+msgctxt "0020 | c03_233_000 | C020_Monok"
 msgid ""
 "Well, I have an answer for that!\n"
 "It's <CLT=cltSTRONG>first come, first served<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0022"
+#. あのネ…僕が殺したのは茶柱さんだけで、
+#. 夜長さんは殺してはいないんだヨ…
+msgctxt "0021 | c03_233_000 | C006_Shing"
 msgid ""
 "You see...I killed Tenko,\n"
 "but not Angie..."
 msgstr ""
 
-msgctxt "0023"
+#. だから、僕が茶柱さんを殺した事なんて、
+#. どうだっていい些細な問題なのサ…
+msgctxt "0022 | c03_233_000 | C006_Shing"
 msgid ""
 "For us, Tenko's death is \n"
 "nothing but a trivial issue..."
 msgstr ""
 
-msgctxt "0024"
+#. だって、学級裁判で見つけないといけないクロは、
+#. 先に死体が発見された<CLT=cltSTRONG>夜長さんを殺した犯人<CLT=cltNORMAL>だからネ。
+msgctxt "0023 | c03_233_000 | C006_Shing"
 msgid ""
 "Because the blackened in this trial is\n"
 "the <CLT=cltSTRONG>culprit who killed Angie<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0025"
+#. 些細な問題…じゃと！？
+msgctxt "0024 | c03_233_000 | C009_Yumen"
 msgid "A...trivial issue?"
 msgstr ""
 
-msgctxt "0026"
+#. いや、嘘に決まっておる！
+#. どうせ、アンジーもお主が殺したんじゃ！
+msgctxt "0025 | c03_233_000 | C009_Yumen"
 msgid ""
 "No...that's gotta be a lie.\n"
 "You probably killed Angie, too!"
 msgstr ""
 
-msgctxt "0027"
+#. それは無理だヨ。
+#. 僕は夜長さんの研究教室には入れないんだヨ？
+msgctxt "0026 | c03_233_000 | C006_Shing"
 msgid ""
 "That is simply not possible. Recall \n"
 "that I was unable to enter Angie's lab."
 msgstr ""
 
-msgctxt "0028"
+#. あ、そっか…アンジーさんの研究教室に入れたのって、
+#. 生徒会の人と王馬君だけだったね…
+msgctxt "0027 | c03_233_000 | C004_Gokuh"
 msgid ""
 "Oh... Only student council members and\n"
 "Kokichi could enter research lab..."
 msgstr ""
 
-msgctxt "0029"
+#. 夜長さんの教室に入れない僕に、
+#. どうやって彼女を殺せると言うの？
+msgctxt "0028 | c03_233_000 | C006_Shing"
 msgid ""
 "How could I have possibly killed Angie\n"
 "when I couldn't even enter her lab?"
 msgstr ""
 
-msgctxt "0030"
+#. そんな事は…なんとでもなる。
+#. 犯人は…お主以外には考えられん。
+msgctxt "0029 | c03_233_000 | C009_Yumen"
 msgid ""
 "We...can figure that out. No one else\n"
 "could've done it besides you."
 msgstr ""
 
-msgctxt "0031"
+#. 転子を殺したのがお主なら、
+#. アンジーだってお主が殺したに決まっておる！
+msgctxt "0030 | c03_233_000 | C009_Yumen"
 msgid ""
 "If you're the one who killed Tenko,\n"
 "you gotta be the one who killed Angie!"
 msgstr ""
 
-msgctxt "0032"
+#. 夢野さん、気持ちはわかりますが、
+#. いったん落ち着いて冷静に話し合いませんか？
+msgctxt "0031 | c03_233_000 | C007_Ki-Bo"
 msgid ""
 "I understand how you feel, Himiko. But maybe\n"
 "we can discuss this rationally and calmly."
 msgstr ""
 
-msgctxt "0033"
+#. 真宮寺クンの主張が真実だという可能性も、
+#. ゼロではありませんからね。
+msgctxt "0032 | c03_233_000 | C007_Ki-Bo"
 msgid ""
 "There is a non-zero possibility that Kiyo\n"
 "is telling the truth."
 msgstr ""
 
-msgctxt "0034"
+#. 気持ちはわかるって…ロボに人間の気持ちがわかるの？
+msgctxt "0033 | c03_233_000 | C005_Oma__"
 msgid ""
 "So you understand how she feels. I see...\n"
 "Wait! Robots can understand human feelings!?"
 msgstr ""
 
-msgctxt "0035"
+#. わ、わかりますよっ！
+#. わかろうと…ずっと頑張っているんですっ！
+msgctxt "0034 | c03_233_000 | C007_Ki-Bo"
 msgid ""
 "O-Of course I understand!\n"
 "I work...really hard to understand!"
 msgstr ""
 
-msgctxt "0036"
+#. おい…キーボまで取り乱してどうすんだよ。
+msgctxt "0035 | c03_233_000 | C001_Momot"
 msgid ""
 "Hey... Why're you gettin' all\n"
 "worked up, Keebo? Chill, dude."
 msgstr ""
 
-msgctxt "0037"
+#. もういいっ！　もう投票タイムじゃ！
+#. ウチはあやつに投票するぞっ！
+msgctxt "0036 | c03_233_000 | C009_Yumen"
 msgid ""
 "That's enough! It's Voting Time!\n"
 "I'm gonna vote for him!"
 msgstr ""
 
-msgctxt "0038"
+#. ククク…僕に投票しても、
+#. 夜長さんを殺したクロに喜ばれるだけだヨ？
+msgctxt "0037 | c03_233_000 | C006_Shing"
 msgid ""
 "Kehehe... Voting for me will only\n"
 "help the one who murdered Angie."
 msgstr ""
 
-msgctxt "0039"
+#. ホントに…真宮寺君じゃないの？
+msgctxt "0038 | c03_233_000 | C004_Gokuh"
 msgid "Isn't...Kiyo culprit?"
 msgstr ""
 
-msgctxt "0040"
+#. もちろんだヨ…
+#. 今回の件は僕にとっても誤算だったんだ。
+msgctxt "0039 | c03_233_000 | C006_Shing"
 msgid ""
 "Of course I'm not...\n"
 "This case was an error on my part."
 msgstr ""
 
-msgctxt "0041"
+#. ほら、モノクマのルールが追加されたのは
+#. ２人の死体が発見された後だったでしョ？
+msgctxt "0040 | c03_233_000 | C006_Shing"
 msgid ""
 "Monokuma added that rule after\n"
 "both bodies were found, yes?"
 msgstr ""
 
-msgctxt "0042"
+#. 茶柱さんを殺した時は僕も知らなかったんだ。
+#. 夜長さんの事件しか対象にならないなんてサ…
+msgctxt "0041 | c03_233_000 | C006_Shing"
 msgid ""
 "How was I to know that the trial\n"
 "would only be for Angie's killer?"
 msgstr ""
 
-msgctxt "0043"
+#. もちろん知っていたら、
+#. 無意味に茶柱さんを殺したりしなかったヨ。
+msgctxt "0042 | c03_233_000 | C006_Shing"
 msgid ""
 "Had I known, I certainly wouldn't\n"
 "have killed Tenko."
 msgstr ""
 
-msgctxt "0044"
+#. う、嘘じゃ…！
+#. 転子もアンジーもお主が殺したんじゃ…！
+msgctxt "0043 | c03_233_000 | C009_Yumen"
 msgid ""
 "Y-You're lying!\n"
 "You killed Tenko and Angie!"
 msgstr ""
 
-msgctxt "0045"
+#. いや、待って。
+#. 決め付けるのはちょっと危険だよ。
+msgctxt "0044 | c03_233_000 | C000_Saiha"
 msgid ""
 "Now hold on, jumping to conclusions here\n"
 "is dangerous."
 msgstr ""
 
-msgctxt "0046"
+#. そうだね、もう少し話し合ってみようよ。
+#. ここからゲームも一波乱あるかもしれないし。
+msgctxt "0045 | c03_233_000 | C005_Oma__"
 msgid ""
 "Mm-hm, we should talk it out more. This case\n"
 "might have juicy plot twists waiting to happen!"
 msgstr ""
 
-msgctxt "0047"
+#. …んな必要ねーだろ！
+#. どう考えたって犯人は真宮寺で決まりじゃねーか！
+msgctxt "0046 | c03_233_000 | C014_Iruma"
 msgid ""
 "Nuts to that! Any way you look at this case,\n"
 "Kiyo is obviously the culprit!"
 msgstr ""
 
-msgctxt "0048"
+#. そうだよね…それ以外に考えられないよね！
+msgctxt "0047 | c03_233_000 | C012_Shiro"
 msgid ""
 "Yeah... There's sorta no other \n"
 "way to look at it!"
 msgstr ""
 
-msgctxt "0049"
+#. いえ、しっかりと合理的な結論を出す前に、
+#. 投票を行うのは危険です！
+msgctxt "0048 | c03_233_000 | C007_Ki-Bo"
 msgid ""
 "No, it's too dangerous to vote before\n"
 "we arrive at a logical decision!"
 msgstr ""
 
-msgctxt "0050"
+#. おおーっと！　何やら議論が荒れてきたぞー！
+#. こういう時は…
+msgctxt "0049 | c03_233_000 | C020_Monok"
 msgid ""
 "Wowee! This argument is getting intense!\n"
 "At times like this..."
 msgstr ""
 
-msgctxt "0051"
+#. お待たせしましたー！
+#. 才囚学園が誇る<CLT=cltSTRONG>“変形裁判場”<CLT=cltNORMAL>でーす！
+msgctxt "0050 | c03_233_000 | C029_Mono3"
 msgid ""
 "The Ultimate Academy is proud to present\n"
 "its very own <CLT=cltSTRONG>morphenomenal trial grounds<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0052"
+#. ひゃっほー！　待ってましたー！
+msgctxt "0051 | c03_233_000 | C005_Oma__"
 msgid "Yippee! I've been waiting for this!"
 msgstr ""
 
-msgctxt "0053"
+#. なんで、テメーが待ってんだよ！
+msgctxt "0052 | c03_233_000 | C001_Momot"
 msgid "Why were *you* waiting for it?"
 msgstr ""
 
-msgctxt "0054"
+#. <CLT=cltMIND>真宮寺くんは茶柱さんを殺した事は認めた…
+#. でも、アンジーさんを殺した事まで認めた訳じゃない。
+msgctxt "0053 | c03_233_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Kiyo confessed to killing Tenko,\n"
 "but insists he didn't kill Angie."
 msgstr ""
 
-msgctxt "0055"
+#. <CLT=cltMIND>もちろん、真宮寺くんの事は許せないけど、
+#. すべての謎が解けてない以上は投票を急ぐべきじゃない。
+msgctxt "0054 | c03_233_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>We won't forgive Kiyo for what he did...\n"
 "but we can't vote until we know the facts."
 msgstr ""
 
-msgctxt "0056"
+#. <CLT=cltMIND>まずは、話し合うべき点をハッキリさせて、
+#. みんなに納得して貰うしかない…！
+msgctxt "0055 | c03_233_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I have to pin down the evidence\n"
 "and convince everyone!"

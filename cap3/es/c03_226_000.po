@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,160 +11,207 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. さーて、裁判も中盤に差し掛かり、
+#. ここで恒例の…
+msgctxt "0000 | c03_226_000 | C020_Monok"
 msgid ""
 "Looks like we've reached the intermission\n"
 "segment, which means it's time for our..."
 msgstr ""
 
-msgctxt "0002"
+#. 被害者当てクーイズ！
+msgctxt "0001 | c03_226_000 | C020_Monok"
 msgid "Guess the Victim Quiz!"
 msgstr ""
 
-msgctxt "0003"
+#. 犯人当てじゃなくて、被害者当て！？
+msgctxt "0002 | c03_226_000 | C023_Mfunn"
 msgid "A victim quiz!? Not a culprit quiz!?"
 msgstr ""
 
-msgctxt "0004"
+#. ある意味…被害者はこれを見ている人達だよ…
+#. こんな退屈なやり取りを長々と見せられてさ…
+msgctxt "0003 | c03_226_000 | C021_Mtaro"
 msgid ""
 "The only victims are the people who are\n"
 "still watching this drawn-out, boring crap..."
 msgstr ""
 
-msgctxt "0005"
+#. どうして、急にダウナーに？
+msgctxt "0004 | c03_226_000 | C023_Mfunn"
 msgid ""
 "Why are you being such a downer all\n"
 "of a sudden?"
 msgstr ""
 
-msgctxt "0006"
+#. 大丈夫ダヨ…ミンナ喜ンデイルハズダヨ。
+msgctxt "0005 | c03_226_000 | C024_Mdam_"
 msgid ""
 "IT-IS-OKAY...\n"
 "I-AM-SURE-EVERYONE-IS-HAPPY."
 msgstr ""
 
-msgctxt "0007"
+#. なんで、そんな事がわかるんだよ！
+#. 今だってこの会話をスキップしてるかもしれないよ！？
+msgctxt "0006 | c03_226_000 | C021_Mtaro"
 msgid ""
 "How do you know!? They could be skipping\n"
 "this entire conversation for all you know!"
 msgstr ""
 
-msgctxt "0008"
+#. もう嫌だっ！　やってらんないよ！
+#. 本当の被害者はオイラだよ！
+msgctxt "0007 | c03_226_000 | C021_Mtaro"
 msgid ""
 "I can't take it! I can't take it anymore!\n"
 "I'm the real victim here! Meeee!"
 msgstr ""
 
-msgctxt "0009"
+#. なんで逆ギレするのよっ！
+msgctxt "0008 | c03_226_000 | C023_Mfunn"
 msgid "Why are *you* getting upset!?"
 msgstr ""
 
-msgctxt "0010"
+#. そうやってメチャクチャな事ばっかり言われるアタイが
+#. 本当の被害者よ！
+msgctxt "0009 | c03_226_000 | C023_Mfunn"
 msgid ""
 "If anything, I'm the real victim! I gotta put\n"
 "up with all this nonsense all the time!"
 msgstr ""
 
-msgctxt "0011"
+#. ………………
+msgctxt "0010 | c03_226_000 | C024_Mdam_"
 msgid "..."
 msgstr "..."
 
-msgctxt "0012"
+#. はいっ！　正解はモノダムでーす！
+msgctxt "0011 | c03_226_000 | C020_Monok"
 msgid "That's the right answer, Monodam!"
 msgstr ""
 
-msgctxt "0013"
+#. なんでっ！？　何も言ってないのに！
+msgctxt "0012 | c03_226_000 | C023_Mfunn"
 msgid "Why!? He hasn't said anything!"
 msgstr ""
 
-msgctxt "0014"
+#. 何も言わないから正解なんだ。
+#. だって、被害者なんていないからね。
+msgctxt "0013 | c03_226_000 | C020_Monok"
 msgid "Exactly! Cuz there are no victims."
 msgstr ""
 
-msgctxt "0015"
+#. そう…このコロシアイでは、
+#. 殺されたとしても勝者なんだよ。
+msgctxt "0014 | c03_226_000 | C020_Monok"
 msgid ""
 "Yep... Even if you're killed in this killing\n"
 "game, you're a winner."
 msgstr ""
 
-msgctxt "0016"
+#. だって、みんなから死を悲しんでもらえるし、
+#. 死んだキャラの方が人気出るからね！
+msgctxt "0015 | c03_226_000 | C020_Monok"
 msgid ""
 "Cuz then everyone mourns you, and you get\n"
 "tons of posthumous popularity!"
 msgstr ""
 
-msgctxt "0017"
+#. さすがはお父ちゃん！
+#. そんな裏事情をバラさなくてもいいのに！
+msgctxt "0016 | c03_226_000 | C023_Mfunn"
 msgid ""
 "Oh, Daddy! You don't need to reveal these\n"
 "kind of behind-the-scenes details!"
 msgstr ""
 
-msgctxt "0018"
+#. 死んでこそキャラが立つんだね！
+#. じゃあ、オイラ達も早く死なないとね！
+msgctxt "0017 | c03_226_000 | C021_Mtaro"
 msgid ""
 "Dying makes you more popular!?\n"
 "Then we gotta die soon, too!"
 msgstr ""
 
-msgctxt "0019"
+#. ………………
+msgctxt "0018 | c03_226_000 | C024_Mdam_"
 msgid "..."
 msgstr "..."
 
-msgctxt "0020"
+#. ひゅー、どろどろー。
+#. 怖いんだぞー、お化けのモノマネだぞー。
+msgctxt "0019 | c03_226_000 | C021_Mtaro"
 msgid ""
 "Woooooooo... This is my impression of\n"
 "a spooky, scary ghoooooost..."
 msgstr ""
 
-msgctxt "0021"
+#. きゃあ、怖いーっ！　アタイ、お化けは平気だけど、
+#. お化けのモノマネは苦手なのよー！
+msgctxt "0020 | c03_226_000 | C023_Mfunn"
 msgid ""
 "Aghhhhhh! I'm fine with real ghosts, but\n"
 "impressions of them are too scary!"
 msgstr ""
 
-msgctxt "0022"
+#. ドウイウ理屈…？
+msgctxt "0021 | c03_226_000 | C024_Mdam_"
 msgid "LOGIC-DOES-NOT-COMPUTE..."
 msgstr ""
 
-msgctxt "0023"
+#. …あれ？　今なんか聞こえた？
+msgctxt "0022 | c03_226_000 | C021_Mtaro"
 msgid "...Huh? Did you hear something?"
 msgstr ""
 
-msgctxt "0024"
+#. …そう？　何も聞こえないわよ？
+msgctxt "0023 | c03_226_000 | C023_Mfunn"
 msgid "...No? I didn't hear anything."
 msgstr ""
 
-msgctxt "0025"
+#. ………………
+msgctxt "0024 | c03_226_000 | C024_Mdam_"
 msgid "..."
 msgstr "..."
 
-msgctxt "0026"
+#. ところで、怖いと言えば、
+#. オイラはおまんじゅうが怖いんだ。
+msgctxt "0025 | c03_226_000 | C021_Mtaro"
 msgid ""
 "You know what else is scary? Sweet buns.\n"
 "Yep! Tasty, tasty sweet buns."
 msgstr ""
 
-msgctxt "0027"
+#. あんなに丸いのに甘いなんて、
+#. 絶対に美味しいもん！
+msgctxt "0026 | c03_226_000 | C021_Mtaro"
 msgid "So round, so sweet, so delicious!"
 msgstr ""
 
-msgctxt "0028"
+#. …怖いのはどこいったの？
+msgctxt "0027 | c03_226_000 | C023_Mfunn"
 msgid "...That doesn't sound scary at all!"
 msgstr ""
 
-msgctxt "0029"
+#. 怖イト言エバ…
+#. オラハ…仲間ト離レ離レニナルノガ怖イヨ。
+msgctxt "0028 | c03_226_000 | C024_Mdam_"
 msgid ""
 "I'M-SCARED-TOO...\n"
 "SCARED-OF-LOSING-MY-FRIENDS."
 msgstr ""
 
-msgctxt "0030"
+#. …あれ？　今なんか聞こえた？
+msgctxt "0029 | c03_226_000 | C021_Mtaro"
 msgid "...Huh? Did you hear something?"
 msgstr ""
 
-msgctxt "0031"
+#. …そう？　何も聞こえないわよ？
+msgctxt "0030 | c03_226_000 | C023_Mfunn"
 msgid "...No? I didn't hear anything."
 msgstr ""
 
-msgctxt "0032"
+#. ………………
+msgctxt "0031 | c03_226_000 | C024_Mdam_"
 msgid "..."
 msgstr "..."

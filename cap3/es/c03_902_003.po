@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,59 +11,77 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>なんか…ここの床板って、
+#. 少し不安定な気がするな…
+msgctxt "0000 | c03_902_003 | chara_Blank"
 msgid "<CLT=cltMIND>These floorboards feel a bit unstable..."
 msgstr ""
 
-msgctxt "0002"
+#. あ…ここの床板って
+#. 釘で打ち付けられてる訳じゃないんだね。
+msgctxt "0001 | c03_902_003 | C004_Gokuh"
 msgid "Oh... This floorboard got no nails in it."
 msgstr ""
 
-msgctxt "0003"
+#. …そうなの？
+msgctxt "0002 | c03_902_003 | C000_Saiha"
 msgid "Ah, really?"
 msgstr ""
 
-msgctxt "0004"
+#. うん。床板を支える<CLT=cltSTRONG>“根太”<CLT=cltNORMAL>って横木の上に、
+#. 床板を並べて置いてあるだけみたいだよ。
+msgctxt "0003 | c03_902_003 | C004_Gokuh"
 msgid ""
 "Yeah. Floorboard just resting on top of\n"
 "<CLT=cltSTRONG>crosspiece<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0005"
+#. 足元が不安定な気がするのは…そのせいか。
+msgctxt "0004 | c03_902_003 | C000_Saiha"
 msgid "I suppose it's not just my imagination."
 msgstr ""
 
-msgctxt "0006"
+#. でも、隙間なく敷き詰められているし、
+#. １つ１つの床板は厚みもあって丈夫そうだから…
+msgctxt "0005 | c03_902_003 | C004_Gokuh"
 msgid ""
 "But each floorboard is thick and they got\n"
 "no gaps between them, so it look okay..."
 msgstr ""
 
-msgctxt "0007"
+#. 急に抜けたりする事はないんじゃないかな。
+#. 安心していいと思う。
+msgctxt "0006 | c03_902_003 | C004_Gokuh"
 msgid ""
 "Gonta not worry about falling through\n"
 "floor all of a sudden."
 msgstr ""
 
-msgctxt "0008"
+#. でも、足元もかなり薄暗くて…ちょっと歩き辛いね。
+msgctxt "0007 | c03_902_003 | C012_Shiro"
 msgid ""
 "But, it's pretty dark here...\n"
 "It's a little hard to see where we're stepping."
 msgstr ""
 
-msgctxt "0009"
+#. それと、部屋の隅の方は隙間もあるから、
+#. あっちはあんまり歩かない方がいいかもね。
+msgctxt "0008 | c03_902_003 | C012_Shiro"
 msgid ""
 "And in the corner, there's a hole in the floor,\n"
 "so it might not be good to go over there."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>かなり薄暗くて歩き辛い…
+msgctxt "0009 | c03_902_003 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's really dim, so it's difficult\n"
 "to move around..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>部屋の隅の方には隙間もあるみたいだから
+#. 気をつけて歩くようにしよう…
+msgctxt "0010 | c03_902_003 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I can see a gap in the corner.\n"
 "I should be careful..."

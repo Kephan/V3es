@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,151 +11,198 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 真宮寺くんがアンジーさんを殴った凶器は、
+#. シーソーの仕掛けにも使われたあの<CLT=cltSTRONG>床板<CLT=cltNORMAL>だよ！
+msgctxt "0000 | c03_241_000 | C000_Saiha"
 msgid ""
 "Kiyo hit Angie with the same <CLT=cltSTRONG>floorboard<CLT=cltNORMAL>\n"
 "used in the seesaw trick!"
 msgstr ""
 
-msgctxt "0002"
+#. うっ…ぐっ…！
+msgctxt "0001 | c03_241_000 | C006_Shing"
 msgid "Urgh...grgh!"
 msgstr ""
 
-msgctxt "0003"
+#. へー、どうしてあの床板が凶器ってわかるの？
+msgctxt "0002 | c03_241_000 | C005_Oma__"
 msgid ""
 "I seeee. And how do you know the \n"
 "floorboard was the murder weapon?"
 msgstr ""
 
-msgctxt "0004"
+#. あの床板の裏側にはわずかだけど血痕が付いていたんだ。
+#. 床下で発見したのと同じく、<CLT=cltSTRONG>乾いた血痕<CLT=cltNORMAL>がね。
+msgctxt "0003 | c03_241_000 | C000_Saiha"
 msgid ""
 "There was a small patch of <CLT=cltSTRONG>dried blood<CLT=cltNORMAL>\n"
 "on the underside of the floorboard."
 msgstr ""
 
-msgctxt "0005"
+#. それも、アンジーさんの血なんだね！？
+msgctxt "0004 | c03_241_000 | C004_Gokuh"
 msgid "Angie's blood?"
 msgstr ""
 
-msgctxt "0006"
+#. 犯人があの床板でアンジーさんを殴った時に、
+#. 付着したんだろうね…
+msgctxt "0005 | c03_241_000 | C000_Saiha"
 msgid ""
 "Blood that spattered there when the\n"
 "culprit struck Angie with the board."
 msgstr ""
 
-msgctxt "0007"
+#. でも、アンジーさんが床板で殴られた事を示す証拠は、
+#. それだけじゃないんだ。
+msgctxt "0006 | c03_241_000 | C000_Saiha"
 msgid ""
 "But that's not the only evidence that\n"
 "she was hit with that floorboard."
 msgstr ""
 
-msgctxt "0008"
+#. そもそも、床下にアンジーさんの血痕があった事自体が、
+#. あの床板が凶器って事を示しているんだよ。
+msgctxt "0007 | c03_241_000 | C000_Saiha"
 msgid ""
 "There's also the bloodstain under the\n"
 "floor to consider. For that to be there..."
 msgstr ""
 
-msgctxt "0009"
+#. あそこにアンジーさんの血痕があるって事は、
+#. 血が飛んだ時、床板はハマってなかったはずだからね。
+msgctxt "0008 | c03_241_000 | C000_Saiha"
 msgid ""
 "...the floorboard must not have been in\n"
 "place at the time of the attack."
 msgstr ""
 
-msgctxt "0010"
+#. そうですね、床板がハマったままだと、
+#. 血が床下まで飛ぶ事はありません。
+msgctxt "0009 | c03_241_000 | C007_Ki-Bo"
 msgid ""
 "Good point. Had the floorboard been in place,\n"
 "her blood wouldn't have splattered beneath it."
 msgstr ""
 
-msgctxt "0011"
+#. そして、あの床板が凶器だって事実が、
+#. 真宮寺くんの犯行だという事を物語っているんだ！
+msgctxt "0010 | c03_241_000 | C000_Saiha"
 msgid ""
 "Kiyo's earlier confession is further evidence\n"
 "that the floorboard was used!"
 msgstr ""
 
-msgctxt "0012"
+#. な、なんで…だヨ？
+msgctxt "0011 | c03_241_000 | C006_Shing"
 msgid "H-How?"
 msgstr ""
 
-msgctxt "0013"
+#. “シーソーの仕掛けに使われた床板”が凶器って事は、
+#. 犯人はその仕掛けを作った張本人としか考えられない…
+msgctxt "0012 | c03_241_000 | C010_Haruk"
 msgid ""
 "If the weapon used to hit Angie is the\n"
 "floorboard from the seesaw trick..."
 msgstr ""
 
-msgctxt "0014"
+#. つまり、シーソーの仕掛けで茶柱さんを殺したキミが、
+#. アンジーさんを殺したとしか考えられないんだ！
+msgctxt "0013 | c03_241_000 | C000_Saiha"
 msgid ""
 "It means the culprit knew about the seesaw.\n"
 "So the same person killed Tenko and Angie!"
 msgstr ""
 
-msgctxt "0015"
+#. あ…あァ…
+msgctxt "0014 | c03_241_000 | C006_Shing"
 msgid "Ah... Aaah..."
 msgstr ""
 
-msgctxt "0016"
+#. ああああああああああああああああァァァ！！
+msgctxt "0015 | c03_241_000 | C006_Shing"
 msgid "AAAAAAAAAAAAAAAAAAAAAAH!!!"
 msgstr ""
 
-msgctxt "0017"
+#. きっと、シーソーの準備の為、
+#. 真宮寺くんが外した床板を手にしているところに…
+msgctxt "0016 | c03_241_000 | C000_Saiha"
 msgid ""
 "I believe that while Kiyo was setting up\n"
 "the seesaw, he was holding the board..."
 msgstr ""
 
-msgctxt "0018"
+#. ちょうど、アンジーさんが来てしまったんだろうね。
+msgctxt "0017 | c03_241_000 | C000_Saiha"
 msgid "...when Angie walked in."
 msgstr ""
 
-msgctxt "0019"
+#. で、手にした床板でぶん殴ったって訳か！
+msgctxt "0018 | c03_241_000 | C014_Iruma"
 msgid "And he coldcocked her with the floorboard!"
 msgstr ""
 
-msgctxt "0020"
+#. 認めるしかないはずだよ。
+#. あんたはさっき茶柱の犯行を白状してるんだし。
+msgctxt "0019 | c03_241_000 | C010_Haruk"
 msgid ""
 "All you can do now is accept it. You even\n"
 "confessed to Tenko's murder already."
 msgstr ""
 
-msgctxt "0021"
+#. そうなんじゃな…
+#. それが…真実なんじゃな…
+msgctxt "0020 | c03_241_000 | C009_Yumen"
 msgid ""
 "So it's true...\n"
 "This...is the truth..."
 msgstr ""
 
-msgctxt "0022"
+#. う…ううゥ…うゥううゥ…
+msgctxt "0021 | c03_241_000 | C006_Shing"
 msgid "Uh... Uhh... Uuuhhh..."
 msgstr ""
 
-msgctxt "0023"
+#. どうやら…そろそろ終わりみてーだな。
+msgctxt "0022 | c03_241_000 | C001_Momot"
 msgid "Looks like we're almost at the end."
 msgstr ""
 
-msgctxt "0024"
+#. だったら、終一！
+#. 最後の大トリもテメーに任せたぜ！
+msgctxt "0023 | c03_241_000 | C001_Momot"
 msgid ""
 "Alright, Shuichi! I'll leave the finale\n"
 "to you! Bring down the house!"
 msgstr ""
 
-msgctxt "0025"
+#. 最原よ…頼む。
+#. もう…決着を付けてくれい…
+msgctxt "0024 | c03_241_000 | C009_Yumen"
 msgid "Shuichi...please. Put an end to this..."
 msgstr ""
 
-msgctxt "0026"
+#. アンジーと転子の為にも、
+#. こんな学級裁判はもう終わらせてくれいっ！
+msgctxt "0025 | c03_241_000 | C009_Yumen"
 msgid ""
 "For Angie and Tenko's sake...\n"
 "End this class trial!"
 msgstr ""
 
-msgctxt "0027"
+#. …うん、わかったよ。
+msgctxt "0026 | c03_241_000 | C000_Saiha"
 msgid "...I understand."
 msgstr ""
 
-msgctxt "0028"
+#. 最後にもう１度すべての犯行を振り返って、
+#. そこで、すべての真実を明らかにしよう！
+msgctxt "0027 | c03_241_000 | C000_Saiha"
 msgid "I'll go over everything one more time!"
 msgstr ""
 
-msgctxt "0029"
+#. 真宮寺くん、そろそろキミにも認めて貰うよ！
+#. いや、僕がここで認めさせてみせるっ！
+msgctxt "0028 | c03_241_000 | C000_Saiha"
 msgid ""
 "Kiyo...I want you to confess!\n"
 "No...I will force you to confess!"

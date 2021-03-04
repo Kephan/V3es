@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,47 +11,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>とか
+#. <CLT=cltSTRONG>“死者からのメッセージ”<CLT=cltNORMAL>って…
+msgctxt "0000 | c03_714_051 | C014_Iruma"
 msgid ""
 "<CLT=cltSTRONG>Resurrecting the dead<CLT=cltNORMAL>...\n"
 "<CLT=cltSTRONG>Messages from the dead<CLT=cltNORMAL>..."
 msgstr ""
 
-msgctxt "0002"
+#. いひ、いひひひひ…
+#. いよいよ、みんなおかしくなって来ちまったなぁ…
+msgctxt "0001 | c03_714_051 | C014_Iruma"
 msgid ""
 "Heh, hehehehehe...\n"
 "Everyone's goin' nuts now..."
 msgstr ""
 
-msgctxt "0003"
+#. はい
+msgctxt "0002 | c03_714_051 | C014_Iruma"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0004"
+#. いいえ
+msgctxt "0003 | c03_714_051 | C014_Iruma"
 msgid "No"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_714_051 | C014_Iruma"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>どうしよう？
+#. 入間さんを誘ってみるか？
+msgctxt "0005 | c03_714_051 | chara_Blank"
 msgid "<CLT=cltMIND>Should I hang out with Miu for a while?"
 msgstr ""
 
-msgctxt "0007"
+#. お、オレ様は信じてねーぞ…？
+#. そんな非科学的な事を…信じる訳ねーだろ…
+msgctxt "0006 | c03_714_051 | C014_Iruma"
 msgid ""
 "O-Of course...th-there's no way I'd ever\n"
 "believe that k-kinda unscientific bullshit..."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>そう言いつつも怯えた様子の入間さんに
+#. 寄り添って過ごした…
+msgctxt "0007 | c03_714_051 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Despite her tough words, she spent\n"
 "most of the day clinging to me..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>入間さんと少し仲良くなってしまった…
+msgctxt "0008 | c03_714_051 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I somehow ended up growing\n"
 "a little closer to Miu..."

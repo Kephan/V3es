@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,56 +11,71 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. おやおや？
+#. 誰にも投票しなかった人がいるようですね…
+msgctxt "0000 | c03_299_010 | C020_Monok"
 msgid ""
 "<CLT=cltMIND>Damn, I made\n"
 "too many mistakes!"
 msgstr ""
 
-msgctxt "0002"
+#. それは最原クン、オマエだっ！
+msgctxt "0001 | c03_299_010 | C020_Monok"
 msgid ""
 "<CLT=cltMIND>Do they...\n"
 "think I did it?"
 msgstr ""
 
-msgctxt "0003"
+#. 言ったよね？
+#. 投票しない人には“死”が与えられるって。
+msgctxt "0002 | c03_299_010 | C020_Monok"
 msgid "Hm? Done debating already?"
 msgstr ""
 
-msgctxt "0004"
+#. ということで、
+#. 最原クンには死んでもらいまーす！
+msgctxt "0003 | c03_299_010 | C020_Monok"
 msgid ""
 "Well, this next part's mandatory so let's\n"
 "get it over with. It's...Voting Time!"
 msgstr ""
 
-msgctxt "0005"
+#. うぷぷぷぷぷ…！
+msgctxt "0004 | c03_299_010 | C020_Monok"
 msgid "Puhuhuhu...!"
 msgstr ""
 
-msgctxt "0006"
+#. これで…本当に終わりなのか…？
+msgctxt "0005 | c03_299_010 | C000_Saiha"
 msgid "Is it...really over?"
 msgstr ""
 
-msgctxt "0007"
+#. リトライする
+msgctxt "0006 | c03_299_010 | C000_Saiha"
 msgid "Retry"
 msgstr ""
 
-msgctxt "0008"
+#. こんなところで、僕らは終われないんだ！
+msgctxt "0007 | c03_299_010 | C000_Saiha"
 msgid "I can't let it end like this!"
 msgstr ""
 
-msgctxt "0009"
+#. 準備を整えてリトライ
+msgctxt "0008 | c03_299_010 | C000_Saiha"
 msgid "Make preparations and retry"
 msgstr ""
 
-msgctxt "0010"
+#. こんなところで、僕らは終われないんだ！
+msgctxt "0009 | c03_299_010 | C000_Saiha"
 msgid "I can't let it end like this!"
 msgstr ""
 
-msgctxt "0011"
+#. あきらめる
+msgctxt "0010 | c03_299_010 | C000_Saiha"
 msgid "Quit"
 msgstr ""
 
-msgctxt "0012"
+#. リトライしますか？
+msgctxt "0011 | c03_299_010 | C000_Saiha"
 msgid "Would you like to retry?"
 msgstr ""

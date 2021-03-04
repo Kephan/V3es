@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,112 +11,144 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. これが僕らの辿り着いた真実だ！
+#. 間違っているところはないはずだよ！
+msgctxt "0000 | c03_243_000 | C000_Saiha"
 msgid ""
 "That's where my detective work\n"
 "leads us. It all fits!"
 msgstr ""
 
-msgctxt "0002"
+#. うう…ううううううう…
+msgctxt "0001 | c03_243_000 | C006_Shing"
 msgid "Uh... Uuuhhh..."
 msgstr ""
 
-msgctxt "0003"
+#. …是清や、時には潔さも必要よ。
+msgctxt "0002 | c03_243_000 | C006_Shing"
 msgid ""
 "Sweet Korekiyo, there are times when it's\n"
 "necessary to admit defeat."
 msgstr ""
 
-msgctxt "0004"
+#. い、潔さ…？
+msgctxt "0003 | c03_243_000 | C006_Shing"
 msgid "A-Admit...?"
 msgstr ""
 
-msgctxt "0005"
+#. ………………
+msgctxt "0004 | c03_243_000 | C006_Shing"
 msgid "..."
 msgstr "..."
 
-msgctxt "0006"
+#. そうだネ…うん、わかったヨ。
+msgctxt "0005 | c03_243_000 | C006_Shing"
 msgid "Yeah... Okay..."
 msgstr ""
 
-msgctxt "0007"
+#. 認めるんじゃな…ようやく。
+msgctxt "0006 | c03_243_000 | C009_Yumen"
 msgid "So you...finally admit you did it."
 msgstr ""
 
-msgctxt "0008"
+#. 残念だけど…そうだネ。
+msgctxt "0007 | c03_243_000 | C006_Shing"
 msgid "Unfortunately...yes."
 msgstr ""
 
-msgctxt "0009"
+#. うん…残念だヨ。
+#. とてもとても残念だったヨ。
+msgctxt "0008 | c03_243_000 | C006_Shing"
 msgid ""
 "Yes... It's unfortunate.\n"
 "Very, very unfortunate."
 msgstr ""
 
-msgctxt "0010"
+#. 僕は悔しいヨ。
+#. 僕は酷く後悔しているヨ。
+msgctxt "0009 | c03_243_000 | C006_Shing"
 msgid "My one regret... My only regret..."
 msgstr ""
 
-msgctxt "0011"
+#. …<CLT=cltSTRONG>友達１００人<CLT=cltNORMAL>できなかった事がネ。
+msgctxt "0010 | c03_243_000 | C006_Shing"
 msgid "...was not being able to make <CLT=cltSTRONG>100 friends<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0012"
+#. と、友達…１００人？
+msgctxt "0011 | c03_243_000 | C004_Gokuh"
 msgid "100...f-friends?"
 msgstr ""
 
-msgctxt "0013"
+#. ククク…僕の夢だったんだヨ。
+#. 友達１００人作るのがサ…
+msgctxt "0012 | c03_243_000 | C006_Shing"
 msgid "Kehehe... It was my dream to make 100 friends."
 msgstr ""
 
-msgctxt "0014"
+#. あァ、本当に残念だヨ！
+#. １００人まで…もう少しだったんだけどなァ！
+msgctxt "0013 | c03_243_000 | C006_Shing"
 msgid ""
 "Ooh, it's so unfortunate!\n"
 "I was so close to 100!"
 msgstr ""
 
-msgctxt "0015"
+#. キ、キミは…なんの話をしているんですか？
+#. まるで理解不能です。
+msgctxt "0014 | c03_243_000 | C007_Ki-Bo"
 msgid ""
 "Wh-What are you...talking about?\n"
 "I do not understand a word of this."
 msgstr ""
 
-msgctxt "0016"
+#. な、なんだろうと構うかよっ！
+#. さっさと投票タイムで電波野郎をぶっ殺そうぜっ！
+msgctxt "0015 | c03_243_000 | C014_Iruma"
 msgid ""
 "Who gives a fuck!? Let's vote for this kooky\n"
 "bastard and be done with this already!"
 msgstr ""
 
-msgctxt "0017"
+#. はーい、投票タイムですねー！
+#. 了解しましたー！
+msgctxt "0016 | c03_243_000 | C020_Monok"
 msgid "Roger that! One Voting Time, comin' up!"
 msgstr ""
 
-msgctxt "0018"
+#. デハ、シロトクロノ運命ヲ分ケル…
+msgctxt "0017 | c03_243_000 | C024_Mdam_"
 msgid "THE-HEART-RACING-EXCITEMENT-AS..."
 msgstr ""
 
-msgctxt "0019"
+#. ………………
+msgctxt "0018 | c03_243_000 | C021_Mtaro"
 msgid "..."
 msgstr "..."
 
-msgctxt "0020"
+#. ………………
+msgctxt "0019 | c03_243_000 | C023_Mfunn"
 msgid "..."
 msgstr "..."
 
-msgctxt "0021"
+#. では、シロとクロの運命を分ける…
+msgctxt "0020 | c03_243_000 | C020_Monok"
 msgid "The heart-racing excitement...!"
 msgstr ""
 
-msgctxt "0022"
+#. ワックワクでドッキドキの――
+msgctxt "0021 | c03_243_000 | C023_Mfunn"
 msgid ""
 "As the blackened and the spotless\n"
 "finally face off..."
 msgstr ""
 
-msgctxt "0023"
+#. 投票ターイム！！
+msgctxt "0022 | c03_243_000 | C031_MonoMono2"
 msgid "It's...VOTING TIME!!!"
 msgstr ""
 
-msgctxt "0024"
+#. ………………
+msgctxt "0023 | c03_243_000 | C024_Mdam_"
 msgid "..."
 msgstr "..."

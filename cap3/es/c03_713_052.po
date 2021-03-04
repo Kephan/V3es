@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,48 +11,62 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. “死者の蘇り”については、
+#. 生徒会に任せておいてねー。
+msgctxt "0000 | c03_713_052 | C013_Yonag"
 msgid ""
 "Let the student council handle this\n"
 "resurrection ritual business."
 msgstr ""
 
-msgctxt "0002"
+#. 今、神さまが誰を蘇らせるのか
+#. 考え中なんだってー。
+msgctxt "0001 | c03_713_052 | C013_Yonag"
 msgid ""
 "Right now, Atua is trying to figure out\n"
 "who we should resurrect."
 msgstr ""
 
-msgctxt "0003"
+#. はい
+msgctxt "0002 | c03_713_052 | C013_Yonag"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0004"
+#. いいえ
+msgctxt "0003 | c03_713_052 | C013_Yonag"
 msgid "No"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_713_052 | C013_Yonag"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>どうしよう？
+#. アンジーさんを誘ってみるか？
+msgctxt "0005 | c03_713_052 | chara_Blank"
 msgid "<CLT=cltMIND>Should I hang out with Angie for a while?"
 msgstr ""
 
-msgctxt "0007"
+#. 終一はやっぱり楓がいいの？
+msgctxt "0006 | c03_713_052 | C013_Yonag"
 msgid "Do you wanna resurrect Kaede?"
 msgstr ""
 
-msgctxt "0008"
+#. でも、神さまが決める事だからね。
+#. 楓じゃなくても、神さまが決めた事には逆らえないよ？
+msgctxt "0007 | c03_713_052 | C013_Yonag"
 msgid ""
 "Cuz if Atua decides it should be someone\n"
 "else, you gotta accept it, okay?"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>アンジーさんと過ごした…
+msgctxt "0008 | c03_713_052 | chara_Blank"
 msgid "<CLT=cltMIND>I spent some time with Angie..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>アンジーさんと少し仲良くなれたみたいだ…
+msgctxt "0009 | c03_713_052 | chara_Blank"
 msgid "<CLT=cltMIND>Angie and I grew a little closer today."
 msgstr ""

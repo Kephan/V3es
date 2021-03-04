@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,44 +11,57 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. そう言えば…
+#. あのハゲちゃったモノクマはそのままなのかな？
+msgctxt "0000 | c03_712_050 | C012_Shiro"
 msgid ""
 "Now that I'm thinking about it...\n"
 "I wonder if Monokuma's still bald."
 msgstr ""
 
-msgctxt "0002"
+#. 別に心配なんてしてないけど…
+#. 地味に気持ち悪いから止めてほしいよね。
+msgctxt "0001 | c03_712_050 | C012_Shiro"
 msgid ""
 "It's not that I'm worried about him...\n"
 "It's that he's just plain disgusting like that."
 msgstr ""
 
-msgctxt "0003"
+#. はい
+msgctxt "0002 | c03_712_050 | C012_Shiro"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0004"
+#. いいえ
+msgctxt "0003 | c03_712_050 | C012_Shiro"
 msgid "No"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_712_050 | C012_Shiro"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>どうしよう？
+#. 白銀さんを誘ってみるか？
+msgctxt "0005 | c03_712_050 | chara_Blank"
 msgid "<CLT=cltMIND>Should I hang out with Tsumugi for a while?"
 msgstr ""
 
-msgctxt "0007"
+#. まぁ、モノクマの事なんてどうでもいいか。
+#. それじゃ、一緒にお茶でも飲もう。
+msgctxt "0006 | c03_712_050 | C012_Shiro"
 msgid ""
 "Well, Monokuma doesn't matter.\n"
 "Let's drink some tea together."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>白銀さんとお茶を飲んで過ごした…
+msgctxt "0007 | c03_712_050 | chara_Blank"
 msgid "<CLT=cltMIND>I drank some tea with Tsumugi."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>白銀さんと少し仲良くなれたみたいだ…
+msgctxt "0008 | c03_712_050 | chara_Blank"
 msgid "<CLT=cltMIND>Tsumugi and I grew a little closer today."
 msgstr ""

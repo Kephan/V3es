@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,102 +11,135 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. そうだ、王馬くんの言う通りだ。
+#. 床板が外れたのは誰かが<CLT=cltSTRONG>踏み抜いた<CLT=cltNORMAL>せいだよ。
+msgctxt "0000 | c03_223_000 | C000_Saiha"
 msgid ""
 "Kokichi is right. The floorboard came loose\n"
 "because someone <CLT=cltSTRONG>stomped on it<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0002"
+#. でも、床板は全部ちゃんとはまってたよ？
+#. 最初に空き部屋に行った時にゴン太が調べたんだ！
+msgctxt "0001 | c03_223_000 | C004_Gokuh"
 msgid ""
 "But floorboards fit perfect. Gonta make sure\n"
 "first time we go to empty room!"
 msgstr ""
 
-msgctxt "0003"
+#. 最初に調べた時はそうかもしれないけど、
+#. 僕が捜査中に床下を調べた時は…
+msgctxt "0002 | c03_223_000 | C000_Saiha"
 msgid ""
 "When we first saw the room, yes. But when\n"
 "I looked again during the investigation..."
 msgstr ""
 
-msgctxt "0004"
+#. 床板を支えている横木が
+#. <CLT=cltSTRONG>１本だけ切断<CLT=cltNORMAL>されていたんだ…
+msgctxt "0003 | c03_223_000 | C000_Saiha"
 msgid ""
 "One of the crosspieces supporting the\n"
 "floorboards was <CLT=cltSTRONG>cut off<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0005"
+#. しかも、切断面を見る限り、
+#. 誰かの手で切られたのは間違いなさそうだよ。
+msgctxt "0004 | c03_223_000 | C000_Saiha"
 msgid ""
 "After examining the cut, I concluded\n"
 "that it must have been done deliberately."
 msgstr ""
 
-msgctxt "0006"
+#. 誰かって…犯人だよな？
+#. なんで、犯人はそんな事をしたんだ？
+msgctxt "0005 | c03_223_000 | C001_Momot"
 msgid ""
 "Someone? You mean the culprit, right? \n"
 "Why'd they do that?"
 msgstr ""
 
-msgctxt "0007"
+#. 横木を切って床板を踏み抜けるようにして、
+#. なんの意味があるんだろうネ…
+msgctxt "0006 | c03_223_000 | C006_Shing"
 msgid ""
 "What did the culprit stand to gain\n"
 "by cutting the crosspiece?"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>それをやった犯人の目的か…
+#. そうだな、大事なのはそこだよな。
+msgctxt "0007 | c03_223_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>What did they stand to gain?\n"
 "That's the question..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>その謎を突き止める為にも、
+#. いったん、あの床板と横木の状態を整理してみよう…
+msgctxt "0008 | c03_223_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>To solve this case, I'll need to think\n"
 "carefully about the crosspiece and floorboard."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>外れた床板の端には、
+#. 茶柱さんの死体があった…
+msgctxt "0009 | c03_223_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Tenko's body was at one end\n"
 "of the loose floorboard..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>そして、横木が切られていたのは、
+#. それとは逆の端だった。
+msgctxt "0010 | c03_223_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>And the crosspiece that had been cut\n"
 "was on the other end of the floorboard."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>横木がない部分の床板はカゴの外側だから、
+#. 降霊術の最中でも踏み抜く事はできたはず…
+msgctxt "0011 | c03_223_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>The unsupported part was outside the cage,\n"
 "so it could have been stomped on..."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>切られた横木は１本だけで、
+#. 床板を支えている他の２本の横木は無事だった。
+msgctxt "0012 | c03_223_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Only one of the crosspieces was cut.\n"
 "The other two were intact."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>その内の１本は、
+#. 茶柱さんのほぼ真下にあって…
+msgctxt "0013 | c03_223_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>One of them was right\n"
 "under Tenko..."
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>もう１本は床板のちょうど真ん中あたりを支えていた。
+#. 大体カゴの縁と同じあたりに位置していたはずだ。
+msgctxt "0014 | c03_223_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>And the other was in the center, right\n"
 "about where the edge of the cage was."
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>この状態で床板を踏み抜く事で、
+#. 犯人は何を狙ったんだ？
+msgctxt "0015 | c03_223_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>What was the culprit attempting to\n"
 "achieve by stomping on the floorboard?"
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>考えろ…考えるんだ…！
+msgctxt "0016 | c03_223_000 | C000_Saiha"
 msgid "<CLT=cltMIND>Think... Come on, think!"
 msgstr ""

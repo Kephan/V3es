@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,183 +11,226 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=size2>降霊術<CLT=size1>中に
+msgctxt "0000 | c03_220_001 | C007_Ki-Bo"
 msgid "Did anything seem"
 msgstr ""
 
-msgctxt "0002"
+#. 降霊術中に気になった事はありませんでしたか？
+msgctxt "0001 | c03_220_001 | C007_Ki-Bo"
 msgid "Did anything seem out of the ordinary during the seance?"
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=size2>気になった事<CLT=size1>は
+msgctxt "0002 | c03_220_001 | C007_Ki-Bo"
 msgid "<CLT=size1>out of the <CLT=size2>ordinary"
 msgstr ""
 
-msgctxt "0004"
+#. ありません
+msgctxt "0003 | c03_220_001 | C007_Ki-Bo"
 msgid "<CLT=size2>during<CLT=size1> the"
 msgstr ""
 
-msgctxt "0005"
+#. でしたか？
+msgctxt "0004 | c03_220_001 | C007_Ki-Bo"
 msgid "<CLT=size2>seance?"
 msgstr ""
 
-msgctxt "0006"
+#. 気になった事なら<CLT=size2>あるヨ<CLT=size1>…
+msgctxt "0005 | c03_220_001 | C006_Shing"
 msgid ""
 "There is something\n"
 "that <CLT=size2>bothers<CLT=size1> me."
 msgstr ""
 
-msgctxt "0007"
+#. 気になった事ならあるヨ…
+msgctxt "0006 | c03_220_001 | C006_Shing"
 msgid "There is something that bothers me."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=size2>降霊術<CLT=size1>が
+#. <CLT=size2>失敗<CLT=size1>した事だネ。
+msgctxt "0007 | c03_220_001 | C006_Shing"
 msgid ""
 "The fact that\n"
 "the <CLT=size2>seance<CLT=size1>\n"
 "<CLT=size2>failed."
 msgstr ""
 
-msgctxt "0009"
+#. 降霊術が失敗した事だネ。
+msgctxt "0008 | c03_220_001 | C006_Shing"
 msgid ""
 "The fact that the\n"
 "seance failed."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltAGREE><CLT=size2>手順<CLT=size1>は<CLT=size2>完璧<CLT=size1>だった<CLT=cltNORMAL>のに
+#. <CLT=size2>失敗<CLT=size1>するなんて…
+msgctxt "0009 | c03_220_001 | C006_Shing"
 msgid ""
 "The <CLT=cltAGREE><CLT=size2>ritual<CLT=size1> was <CLT=size2>perfect<CLT=size1>,\n"
 "and yet it <CLT=cltNORMAL><CLT=size2>failed."
 msgstr ""
 
-msgctxt "0011"
+#. 手順は完璧だったのに失敗するなんて…
+msgctxt "0010 | c03_220_001 | C006_Shing"
 msgid ""
 "The ritual was perfect,\n"
 "and yet it failed..."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=size2>絶対<CLT=size1>に<CLT=size2>おかしい<CLT=size1>ヨ。
+msgctxt "0011 | c03_220_001 | C006_Shing"
 msgid "How <CLT=size2>utterly strange."
 msgstr ""
 
-msgctxt "0013"
+#. 絶対におかしいヨ。
+msgctxt "0012 | c03_220_001 | C006_Shing"
 msgid "How utterly strange."
 msgstr ""
 
-msgctxt "0014"
+#. 気になった事といえば…
+msgctxt "0013 | c03_220_001 | C009_Yumen"
 msgid "Now that I think about it..."
 msgstr ""
 
-msgctxt "0015"
+#. 気になった事といえば…
+msgctxt "0014 | c03_220_001 | C009_Yumen"
 msgid "Now that I think about it..."
 msgstr ""
 
-msgctxt "0016"
+#. みなで
+msgctxt "0015 | c03_220_001 | C009_Yumen"
 msgid "While we were all"
 msgstr ""
 
-msgctxt "0017"
+#. みなで歌を歌っている最中に…
+msgctxt "0016 | c03_220_001 | C009_Yumen"
 msgid "While we were all singing the song..."
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=size3>歌
+msgctxt "0017 | c03_220_001 | C009_Yumen"
 msgid "<CLT=size3>singing"
 msgstr ""
 
-msgctxt "0019"
+#. を歌っている最中に…
+msgctxt "0018 | c03_220_001 | C009_Yumen"
 msgid "<CLT=size1>the song..."
 msgstr ""
 
-msgctxt "0020"
+#. <CLT=cltAGREE>何か<CLT=size2>落ちて来た
+msgctxt "0019 | c03_220_001 | C009_Yumen"
 msgid "I heard <CLT=cltAGREE>something <CLT=size2>fall."
 msgstr ""
 
-msgctxt "0021"
+#. 何か落ちて来た気がするんじゃが…
+msgctxt "0020 | c03_220_001 | C009_Yumen"
 msgid "I head something fall. I think..."
 msgstr ""
 
-msgctxt "0022"
+#. 気がするんじゃが…
+msgctxt "0021 | c03_220_001 | C009_Yumen"
 msgid "<CLT=size2>I think..."
 msgstr ""
 
-msgctxt "0023"
+#. それより<CLT=size2>あの
+msgctxt "0022 | c03_220_001 | C005_Oma__"
 msgid ""
 "I'm more\n"
 "<CLT=size2>concerned"
 msgstr ""
 
-msgctxt "0024"
+#. それよりあの暗闇が気になるよ！
+msgctxt "0023 | c03_220_001 | C005_Oma__"
 msgid ""
 "I'm more concerned about\n"
 "how dark it got in there!"
 msgstr ""
 
-msgctxt "0025"
+#. <CLT=size2>暗闇<CLT=size1>が気になるよ！
+msgctxt "0024 | c03_220_001 | C005_Oma__"
 msgid ""
 "<CLT=size1>about how <CLT=size2>dark\n"
 "<CLT=size1>it got in there!"
 msgstr ""
 
-msgctxt "0026"
+#. ホント、<CLT=size2>真っ暗<CLT=size1>だったよねー！
+msgctxt "0025 | c03_220_001 | C005_Oma__"
 msgid "I mean, it was totally <CLT=size2>pitch black!"
 msgstr ""
 
-msgctxt "0027"
+#. ホント、真っ暗だったよねー！
+msgctxt "0026 | c03_220_001 | C005_Oma__"
 msgid "I mean, it was totally pitch black!"
 msgstr ""
 
-msgctxt "0028"
+#. オレは<CLT=size2>ロウソク<CLT=size1>を
+#. <CLT=size2>点ける役目<CLT=size1>だったけど…
+msgctxt "0027 | c03_220_001 | C005_Oma__"
 msgid ""
 "My job was <CLT=size2>to relight\n"
 "<CLT=size1> the <CLT=size2>candles..."
 msgstr ""
 
-msgctxt "0029"
+#. オレはロウソクを点ける役目だったけど…
+msgctxt "0028 | c03_220_001 | C005_Oma__"
 msgid ""
 "My job was to relight\n"
 "the candles..."
 msgstr ""
 
-msgctxt "0030"
+#. <CLT=size2>壁沿い<CLT=size1>に<CLT=size2>移動<CLT=size1>するだけでも
+#. <CLT=size2>大変<CLT=size1>だったもん。
+msgctxt "0029 | c03_220_001 | C005_Oma__"
 msgid ""
 "<CLT=size2>Moving<CLT=size1> along the <CLT=size2>walls<CLT=size1> was\n"
 "seriously <CLT=size2>tough..."
 msgstr ""
 
-msgctxt "0031"
+#. 壁沿いに移動するだけでも大変だったもん。
+msgctxt "0030 | c03_220_001 | C005_Oma__"
 msgid ""
 "Moving along the walls\n"
 "was seriously tough..."
 msgstr ""
 
-msgctxt "0032"
+#. そういう問題じゃねーだろ！
+msgctxt "0031 | c03_220_001 | C014_Iruma"
 msgid "That's not outta the ordinary!"
 msgstr ""
 
-msgctxt "0033"
+#. そもそも成功するのかな…？
+msgctxt "0032 | c03_220_001 | C012_Shiro"
 msgid "Would it have worked in the first place...?"
 msgstr ""
 
-msgctxt "0034"
+#. だから、手順とか関係ねーよ！
+msgctxt "0033 | c03_220_001 | C014_Iruma"
 msgid "That doesn't matter, dammit!"
 msgstr ""
 
-msgctxt "0035"
+#. 歌って何？
+msgctxt "0034 | c03_220_001 | C004_Gokuh"
 msgid "What song?"
 msgstr ""
 
-msgctxt "0036"
+#. “かごのこ”の歌サ…
+msgctxt "0035 | c03_220_001 | C006_Shing"
 msgid "The Caged Child song..."
 msgstr ""
 
-msgctxt "0037"
+#. 落ちてる物なんてなかったでしョ…
+msgctxt "0036 | c03_220_001 | C006_Shing"
 msgid "We saw nothing that had fallen..."
 msgstr ""
 
-msgctxt "0038"
+#. じゃあ全裸になってもわからねーな！
+msgctxt "0037 | c03_220_001 | C010_Haruk"
 msgid "You'd never know if anyone was naked!"
 msgstr ""
 
-msgctxt "0039"
+#. 誰もやらないけどネ…
+msgctxt "0038 | c03_220_001 | C006_Shing"
 msgid "Why would anyone have gotten naked...?"
 msgstr ""

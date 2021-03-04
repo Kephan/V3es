@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,174 +11,217 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 降霊術を<CLT=size2>あの部屋で
+#. <CLT=size1>やる事になったのは…
+msgctxt "0000 | c03_228_001 | C006_Shing"
 msgid ""
 "Performing the seance\n"
 "<CLT=size2>in that room..."
 msgstr ""
 
-msgctxt "0002"
+#. 降霊術をあの部屋でやる事になったのは…
+msgctxt "0001 | c03_228_001 | C006_Shing"
 msgid "Performing the seance in that room..."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltAGREE><CLT=size2>夢野<CLT=size1>さんが<CLT=size2>　　　　選んだ<CLT=cltNORMAL><CLT=size1>からだヨ？
+msgctxt "0002 | c03_228_001 | C006_Shing"
 msgid ""
 "was\n"
 "<CLT=cltAGREE><CLT=size2>Himiko's<CLT=size2>　　 　<CLT=size1>decision<CLT=cltNORMAL>, was it not?"
 msgstr ""
 
-msgctxt "0004"
+#. 夢野さんが選んだからだヨ？
+msgctxt "0003 | c03_228_001 | C006_Shing"
 msgid "was Himiko's decision, was it not?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltAGREE><CLT=size2>誰か<CLT=size1>に
+msgctxt "0004 | c03_228_001 | C012_Shiro"
 msgid "<CLT=cltAGREE>What if someone"
 msgstr ""
 
-msgctxt "0006"
+#. 誰かに誘導された可能性もあるよね？
+msgctxt "0005 | c03_228_001 | C012_Shiro"
 msgid "What if someone steered her into picking that room?"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltAGREE><CLT=size2>誘導<CLT=size1>された
+msgctxt "0006 | c03_228_001 | C012_Shiro"
 msgid "<CLT=cltAGREE>steered her"
 msgstr ""
 
-msgctxt "0008"
+#. 可能性もあるよね？
+msgctxt "0007 | c03_228_001 | C012_Shiro"
 msgid "into picking that room?"
 msgstr ""
 
-msgctxt "0009"
+#. なぜ、夢野さんは<CLT=size2>３つ<CLT=size1>の
+msgctxt "0008 | c03_228_001 | C006_Shing"
 msgid "Of the three"
 msgstr ""
 
-msgctxt "0010"
+#. なぜ、夢野さんは３つの空き部屋の中から…
+msgctxt "0009 | c03_228_001 | C006_Shing"
 msgid "Of the three empty rooms..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=size2>空き部屋
+msgctxt "0010 | c03_228_001 | C006_Shing"
 msgid "<CLT=size2>empty rooms"
 msgstr ""
 
-msgctxt "0012"
+#. の中から…
+msgctxt "0011 | c03_228_001 | C006_Shing"
 msgid "<CLT=size2>..."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=size2>真ん中<CLT=size1>の<CLT=size2>部屋<CLT=size1>を選んだのか…
+msgctxt "0012 | c03_228_001 | C006_Shing"
 msgid "why did you select the <CLT=size2>middle<CLT=size1> one, Himiko?"
 msgstr ""
 
-msgctxt "0014"
+#. 真ん中の部屋を選んだのか…
+msgctxt "0013 | c03_228_001 | C006_Shing"
 msgid "why did you select the middle one, Himiko?"
 msgstr ""
 
-msgctxt "0015"
+#. 君がそこに<CLT=size3>罠<CLT=size1>を
+#. 仕掛けたからでしょ？
+msgctxt "0014 | c03_228_001 | C006_Shing"
 msgid ""
 "Because you laid\n"
 "your <CLT=size3>trap<CLT=size1> there?"
 msgstr ""
 
-msgctxt "0016"
+#. 君がそこに罠を仕掛けたからでしょ？
+msgctxt "0015 | c03_228_001 | C006_Shing"
 msgid "Because you laid your trap there?"
 msgstr ""
 
-msgctxt "0017"
+#. 本当に<CLT=size2>罠<CLT=size1>は<CLT=size2>あの部屋<CLT=size1>にしかなかったの？
+msgctxt "0016 | c03_228_001 | C004_Gokuh"
 msgid "Was <CLT=size2>trap<CLT=size1> only in <CLT=size2>that room?"
 msgstr ""
 
-msgctxt "0018"
+#. 本当に罠はあの部屋にしかなかったの？
+msgctxt "0017 | c03_228_001 | C004_Gokuh"
 msgid "Was trap only in that room?"
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltAGREE><CLT=size2>他の部屋
+msgctxt "0018 | c03_228_001 | C004_Gokuh"
 msgid "<CLT=cltAGREE><CLT=size2>Other rooms"
 msgstr ""
 
-msgctxt "0020"
+#. 他の部屋にもあったかもしれないよね！？
+msgctxt "0019 | c03_228_001 | C004_Gokuh"
 msgid "Other rooms maybe trapped, too!"
 msgstr ""
 
-msgctxt "0021"
+#. <CLT=cltAGREE>にも<CLT=size2>あった<CLT=cltNORMAL><CLT=size1>かもしれないよね！？
+msgctxt "0020 | c03_228_001 | C004_Gokuh"
 msgid "<CLT=cltAGREE>maybe <CLT=size2>trapped<CLT=cltNORMAL>,<CLT=size1> too!"
 msgstr ""
 
-msgctxt "0022"
+#. <CLT=size2>他の部屋
+msgctxt "0021 | c03_228_001 | C004_Gokuh"
 msgid "<CLT=size2>Other rooms"
 msgstr ""
 
-msgctxt "0023"
+#. <CLT=size2>他の部屋
+msgctxt "0022 | c03_228_001 | C004_Gokuh"
 msgid "<CLT=size2>Other rooms"
 msgstr ""
 
-msgctxt "0024"
+#. <CLT=size2>部屋<CLT=size1>を<CLT=size2>選んだ<CLT=size1>のが夢野だとしても…
+msgctxt "0023 | c03_228_001 | C001_Momot"
 msgid ""
 "Yeah, even if Himiko\n"
 "<CLT=size2>picked<CLT=size1> the <CLT=size2>room..."
 msgstr ""
 
-msgctxt "0025"
+#. 部屋を選んだのが夢野だとしても…
+msgctxt "0024 | c03_228_001 | C001_Momot"
 msgid "Yeah, even if Himiko picked the room..."
 msgstr ""
 
-msgctxt "0026"
+#. 仕掛けを作ったのは
+#. <CLT=size3>別人<CLT=size1>かもしれねーぞ！
+msgctxt "0025 | c03_228_001 | C001_Momot"
 msgid ""
 "<CLT=size2>someone else\n"
 "<CLT=size1>could've set that trap!"
 msgstr ""
 
-msgctxt "0027"
+#. 仕掛けを作ったのは別人かもしれねーぞ！
+msgctxt "0026 | c03_228_001 | C001_Momot"
 msgid ""
 "someone else\n"
 "could've set that trap!"
 msgstr ""
 
-msgctxt "0028"
+#. …どの意見も<CLT=size2>空虚<CLT=size1>だネ。
+msgctxt "0027 | c03_228_001 | C006_Shing"
 msgid ""
 "Your opinions\n"
 "are <CLT=size2>empty words."
 msgstr ""
 
-msgctxt "0029"
+#. …どの意見も空虚だネ。
+msgctxt "0028 | c03_228_001 | C006_Shing"
 msgid "Your opinions are empty words."
 msgstr ""
 
-msgctxt "0030"
+#. ………………
+msgctxt "0029 | c03_228_001 | C009_Yumen"
 msgid ".................."
 msgstr ""
 
-msgctxt "0031"
+#. ………………
+msgctxt "0030 | c03_228_001 | C009_Yumen"
 msgid ".................."
 msgstr ""
 
-msgctxt "0032"
+#. 確かにそうでした。
+msgctxt "0031 | c03_228_001 | C007_Ki-Bo"
 msgid "That is true..."
 msgstr ""
 
-msgctxt "0033"
+#. 私も聞いたよ…
+msgctxt "0032 | c03_228_001 | C012_Shiro"
 msgid "I heard her say it..."
 msgstr ""
 
-msgctxt "0034"
+#. 空き部屋を提案したのも
+#. 夢野ちゃんだったね！
+msgctxt "0033 | c03_228_001 | C005_Oma__"
 msgid ""
 "That empty room\n"
 "was Himiko's idea!"
 msgstr ""
 
-msgctxt "0035"
+#. 特に理由もなかったよね！
+msgctxt "0034 | c03_228_001 | C005_Oma__"
 msgid "There was no specific reason!"
 msgstr ""
 
-msgctxt "0036"
+#. ブスの癖に恐ろしいヤツだな！
+msgctxt "0035 | c03_228_001 | C014_Iruma"
 msgid "She's a savage little toad!"
 msgstr ""
 
-msgctxt "0037"
+#. 他の部屋は調査していませんね…
+msgctxt "0036 | c03_228_001 | C007_Ki-Bo"
 msgid "We never investigated the other rooms..."
 msgstr ""
 
-msgctxt "0038"
+#. それは無理あるでしょー？
+msgctxt "0037 | c03_228_001 | C005_Oma__"
 msgid "Are you sure about that?"
 msgstr ""
 
-msgctxt "0039"
+#. 共犯者がいるってこと？
+msgctxt "0038 | c03_228_001 | C010_Haruk"
 msgid "You mean an accomplice?"
 msgstr ""

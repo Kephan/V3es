@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,241 +11,320 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 夢野さんが何か落ちて来たと思ってるのって、
+#. あの<CLT=cltSTRONG>物音<CLT=cltNORMAL>のせいだよね？
+msgctxt "0000 | c03_221_000 | C000_Saiha"
 msgid ""
 "Himiko, you think that something fell\n"
 "because of that <CLT=cltSTRONG>sound<CLT=cltNORMAL> you heard, right?"
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltSYSTEM>「ドガッ…！」
+msgctxt "0001 | c03_221_000 | chara_Blank"
 msgid "<CLT=cltSYSTEM>*BANG!*"
 msgstr ""
 
-msgctxt "0003"
+#. 何か重い物が落ちて来て、
+#. 勢い良く床板にぶつかったような音じゃったが…
+msgctxt "0002 | c03_221_000 | C009_Yumen"
 msgid ""
 "It sounded like something heavy fell \n"
 "down and hit the floor really hard..."
 msgstr ""
 
-msgctxt "0004"
+#. あれは何が落ちて来た音だったんじゃ？
+msgctxt "0003 | c03_221_000 | C009_Yumen"
 msgid "What could've fallen down?"
 msgstr ""
 
-msgctxt "0005"
+#. そもそも、落ちて来たの？
+#. 空き部屋の天井に落ちてくる物なんてなかったよね？
+msgctxt "0004 | c03_221_000 | C005_Oma__"
 msgid ""
 "Fallen down? There wasn't anything on the\n"
 "ceiling that could've fallen down, right?"
 msgstr ""
 
-msgctxt "0006"
+#. …んあ？　違うのか？
+#. ウチはてっきりそう思っておったが…
+msgctxt "0005 | c03_221_000 | C009_Yumen"
 msgid ""
 "Nyeh? Am I wrong?\n"
 "I thought something fell, but..."
 msgstr ""
 
-msgctxt "0007"
+#. でも、確かに激しい物音だったね。
+#. 何かが床板にぶつかったのは間違いないはずだけど…
+msgctxt "0006 | c03_221_000 | C005_Oma__"
 msgid ""
 "The sound was pretty loud. It did seem\n"
 "like something hit the floorboards..."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>激しい物音…
+#. 何かが床板にぶつかった…か。
+msgctxt "0007 | c03_221_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Hmmm... A loud sound...\n"
 "Like something hit the floorboards..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>もしかしたら、あの物音って、
+#. 同じく暗闇の中で起きたアレと関係しているのかもな。
+msgctxt "0008 | c03_221_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Maybe that sound had something to do with\n"
 "the other thing that happened in the dark."
 msgstr ""
 
-msgctxt "0010"
+#. あの物音の事をもう少し思い出す事ができれば、
+#. 何かわかるんじゃないかな？
+msgctxt "0009 | c03_221_000 | C000_Saiha"
 msgid ""
 "If I could remember more about the sound,\n"
 "I might be able to figure something out..."
 msgstr ""
 
-msgctxt "0011"
+#. 少なくとも、
+#. 軽い物が落ちたような音ではなかったはずじゃ。
+msgctxt "0010 | c03_221_000 | C009_Yumen"
 msgid ""
 "Well, it definitely wasn't something \n"
 "light that fell down."
 msgstr ""
 
-msgctxt "0012"
+#. 物音自体をいくら思い出したって意味ないって…
+msgctxt "0011 | c03_221_000 | C005_Oma__"
 msgid ""
 "Well whatevs, it doesn't matter what kind\n"
 "of sound it made."
 msgstr ""
 
-msgctxt "0013"
+#. それより、物音がした時は暗闇だったでしょ？
+#. その時に起きた他の事が、音の原因だったりしない？
+msgctxt "0012 | c03_221_000 | C005_Oma__"
 msgid ""
 "Isn't it more important to note that the\n"
 "sound happened while it was dark?"
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0013 | c03_221_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0015"
+#. あの鉄カゴから出た音とは考えられないかな？
+msgctxt "0014 | c03_221_000 | C000_Saiha"
 msgid "Maybe...the iron cage made that sound?"
 msgstr ""
 
-msgctxt "0016"
+#. 鉄カゴが重かったのは確かだけど、
+#. 最後まで動いた形跡はなかったよね？
+msgctxt "0015 | c03_221_000 | C005_Oma__"
 msgid ""
 "The iron cage was heavy, but I don't think\n"
 "there were any signs of it being moved."
 msgstr ""
 
-msgctxt "0017"
+#. あれが原因とは考えられないんじゃないかなー？
+msgctxt "0016 | c03_221_000 | C005_Oma__"
 msgid "I don't think that's the cause, do you?"
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0017 | c03_221_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0019"
+#. カゴの上に載せていた犬の木像が落ちたら、
+#. あんな音が出ないかな？
+msgctxt "0018 | c03_221_000 | C000_Saiha"
 msgid ""
 "Maybe...the statue on top of the\n"
 "cage made that sound?"
 msgstr ""
 
-msgctxt "0020"
+#. それが床に落ちたらすごい音がしたと思うけど、
+#. 降霊術の後も鉄カゴの上にあったよね？
+msgctxt "0019 | c03_221_000 | C005_Oma__"
 msgid ""
 "It would be pretty loud if it dropped, but it \n"
 "was still on the cage after the seance."
 msgstr ""
 
-msgctxt "0021"
+#. そんな事も忘れちゃったの？
+#. 最原ちゃんらしくないねー。
+msgctxt "0020 | c03_221_000 | C005_Oma__"
 msgid ""
 "It's not like you to forget something\n"
 "like that, Shuichi."
 msgstr ""
 
-msgctxt "0022"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0021 | c03_221_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0023"
+#. カマが床下に落ちた音なんじゃないかな…
+msgctxt "0022 | c03_221_000 | C000_Saiha"
 msgid ""
 "Maybe...it was the sound of the\n"
 "sickle hitting the floor?"
 msgstr ""
 
-msgctxt "0024"
+#. それだったらあんな音は出んはずじゃ…
+#. もっと重たいものが落ちたような音だったからのぉ。
+msgctxt "0023 | c03_221_000 | C009_Yumen"
 msgid ""
 "If it was that, it wouldn't have made such \n"
 "a loud sound. It musta been heavier."
 msgstr ""
 
-msgctxt "0025"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0024 | c03_221_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0026"
+#. 困りましたね…
+#. 降霊術に参加した最原クン達が頼みなのですが…
+msgctxt "0025 | c03_221_000 | C007_Ki-Bo"
 msgid ""
 "How troubling... We need to rely on Shuichi\n"
 "and the other seance participants, but..."
 msgstr ""
 
-msgctxt "0027"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0026 | c03_221_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0028"
+#. それがどうしたの？
+#. 降霊術中に起きた物音とは関係なさそうだけど？
+msgctxt "0027 | c03_221_000 | C005_Oma__"
 msgid ""
 "And? That has nothing to do with the\n"
 "sound during the seance."
 msgstr ""
 
-msgctxt "0029"
+#. あんまり適当な事ばかり言ってると…
+#. 信用してもらえなくなるよ？
+msgctxt "0028 | c03_221_000 | C005_Oma__"
 msgid ""
 "Nobody is gonna believe you anymore if \n"
 "you keep saying random things, y'know?"
 msgstr ""
 
-msgctxt "0030"
+#. オメーが言うなっ！
+msgctxt "0029 | c03_221_000 | C014_Iruma"
 msgid "You don't get to say that!"
 msgstr ""
 
-msgctxt "0031"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0030 | c03_221_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0032"
+#. 降霊術中に起きた物音と
+#. 関係していそうな物は？
+msgctxt "0031 | c03_221_000 | C000_Saiha"
 msgid ""
 "What caused the sound that was\n"
 "heard during the seance?"
 msgstr ""
 
-msgctxt "0033"
+#. あの物音って…
+#. <CLT=cltSTRONG>床板が外れた事<CLT=cltNORMAL>と関係しているんじゃないかな？
+msgctxt "0032 | c03_221_000 | C000_Saiha"
 msgid ""
 "I think the floorboard coming off\n"
 "had something to do with that sound."
 msgstr ""
 
-msgctxt "0034"
+#. だって、あの物音も床板が外れたのも、
+#. 同じく暗闇の中で起きた事でしょ？
+msgctxt "0033 | c03_221_000 | C000_Saiha"
 msgid ""
 "That floorboard came loose at some\n"
 "point during the seance, right?"
 msgstr ""
 
-msgctxt "0035"
+#. じゃが…床板が外れただけで、
+#. あんな盛大な音がするかのぅ…
+msgctxt "0034 | c03_221_000 | C009_Yumen"
 msgid ""
 "Would the floorboard have made \n"
 "such a loud sound though?"
 msgstr ""
 
-msgctxt "0036"
+#. 結構な衝撃音だったよネ…
+msgctxt "0035 | c03_221_000 | C006_Shing"
 msgid ""
 "It was the sound of an\n"
 "intense impact..."
 msgstr ""
 
-msgctxt "0037"
+#. 逆に、それだけの衝撃があったから、
+#. 床板が外れたって考えられるんじゃない？
+msgctxt "0036 | c03_221_000 | C010_Haruk"
 msgid ""
 "If the impact was that intense, then\n"
 "it could have loosened the floorboard."
 msgstr ""
 
-msgctxt "0038"
+#. <CLT=cltMIND>確かにそうだな。
+#. でも、床板が外れるほどの強い衝撃か…
+msgctxt "0037 | c03_221_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>That is true. There would have had\n"
 "to be a strong impact to make that sound."
 msgstr ""
 
-msgctxt "0039"
+#. <CLT=cltMIND>その衝撃ってなんだ？
+#. 一体何が考えられるんだ？
+msgctxt "0038 | c03_221_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>But what was it?\n"
 "What could it possible be?"
 msgstr ""
 
-msgctxt "0040"
+#. ………………
+msgctxt "0039 | c03_221_000 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0041"
+#. おーし、だったら次はそれだ！
+#. こういう時こそ、オレらみんなで協力して考えるぞ！
+msgctxt "0040 | c03_221_000 | C001_Momot"
 msgid ""
 "Alright then, let's go with that! We all \n"
 "gotta put our heads together now!"

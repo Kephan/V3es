@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,177 +11,220 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=size2>アンジー<CLT=size1>ちゃんが
+#. <CLT=size2>殺された<CLT=size1>のは…
+msgctxt "0000 | c03_236_001 | C005_Oma__"
 msgid ""
 "The <CLT=size2>art\n"
 "<CLT=size2>research lab..."
 msgstr ""
 
-msgctxt "0002"
+#. アンジーちゃんが殺されたのは…
+msgctxt "0001 | c03_236_001 | C005_Oma__"
 msgid "The art research lab..."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=size2>美術部<CLT=size1>の
+#. <CLT=size2>研究教室
+msgctxt "0002 | c03_236_001 | C005_Oma__"
 msgid ""
 "is <CLT=size2>not\n"
 "<CLT=size2>where<CLT=size1> Angie"
 msgstr ""
 
-msgctxt "0004"
+#. 美術部の研究教室じゃなくて…
+msgctxt "0003 | c03_236_001 | C005_Oma__"
 msgid "is not where Angie was killed..."
 msgstr ""
 
-msgctxt "0005"
+#. じゃなくて…
+msgctxt "0004 | c03_236_001 | C005_Oma__"
 msgid "was <CLT=size2>killed..."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=size2>本当<CLT=size1>は、
+#. <CLT=cltWEAK><CLT=size2>空き部屋
+#. <CLT=cltNORMAL><CLT=size1>だったんだよ！
+msgctxt "0005 | c03_236_001 | C005_Oma__"
 msgid ""
 "She was <CLT=size2>killed<CLT=size1> in\n"
 "<CLT=cltWEAK>the <CLT=size2>empty room\n"
 "<CLT=cltNORMAL><CLT=size1>instead!"
 msgstr ""
 
-msgctxt "0007"
+#. 本当は空き部屋だったんだよ！
+msgctxt "0006 | c03_236_001 | C005_Oma__"
 msgid ""
 "She was killed in the empty room\n"
 "instead!"
 msgstr ""
 
-msgctxt "0008"
+#. あいつは<CLT=size2>自分<CLT=size1>から<CLT=size2>教室<CLT=size1>を<CLT=size2>出た<CLT=size1>のか？
+msgctxt "0007 | c03_236_001 | C001_Momot"
 msgid "She <CLT=size2>left<CLT=size1> her <CLT=size2>lab<CLT=size1> on <CLT=size2>her own...?"
 msgstr ""
 
-msgctxt "0009"
+#. あいつは自分から教室を出たのか？
+msgctxt "0008 | c03_236_001 | C001_Momot"
 msgid "She left her lab on her own...?"
 msgstr ""
 
-msgctxt "0010"
+#. なんで<CLT=size2>空き部屋<CLT=size1>なんかに<CLT=size2>行くの？
+msgctxt "0009 | c03_236_001 | C006_Shing"
 msgid ""
 "But why would she go into\n"
 "an <CLT=size2>empty room?"
 msgstr ""
 
-msgctxt "0011"
+#. なんで空き部屋なんかに行くの？
+msgctxt "0010 | c03_236_001 | C006_Shing"
 msgid ""
 "But why would she go into\n"
 "an empty room?"
 msgstr ""
 
-msgctxt "0012"
+#. あそこには<CLT=size2>何もなかった<CLT=size1>はずだヨ？
+msgctxt "0011 | c03_236_001 | C006_Shing"
 msgid ""
 "There shouldn't have been \n"
 "<CLT=size2>anything<CLT=size1> in <CLT=size2>there."
 msgstr ""
 
-msgctxt "0013"
+#. あそこには何もなかったはずだヨ？
+msgctxt "0012 | c03_236_001 | C006_Shing"
 msgid "There shouldn't have been anything in there."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=size2>ロウソク<CLT=size1>ならありましたが…
+msgctxt "0013 | c03_236_001 | C007_Ki-Bo"
 msgid "Except for <CLT=size2>candles..."
 msgstr ""
 
-msgctxt "0015"
+#. ロウソクならありましたが…
+msgctxt "0014 | c03_236_001 | C007_Ki-Bo"
 msgid "Except for candles..."
 msgstr ""
 
-msgctxt "0016"
+#. それだ！
+msgctxt "0015 | c03_236_001 | C014_Iruma"
 msgid "That's it!"
 msgstr ""
 
-msgctxt "0017"
+#. それだ！　お目当てはロウソクだ！
+msgctxt "0016 | c03_236_001 | C014_Iruma"
 msgid "That's it! She wanted a candle!"
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltAGREE>お目当て<CLT=size1>は<CLT=size2>ロウソク<CLT=cltNORMAL><CLT=size1>だ！
+msgctxt "0017 | c03_236_001 | C014_Iruma"
 msgid "<CLT=cltAGREE>She wanted a <CLT=size2>candle<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0019"
+#. あいつは<CLT=size2>夜時間<CLT=size1>も<CLT=size2>起きていられる<CLT=size1>ように…
+msgctxt "0018 | c03_236_001 | C014_Iruma"
 msgid "To keep herself <CLT=size2>awake<CLT=size1> at <CLT=size2>night..."
 msgstr ""
 
-msgctxt "0020"
+#. あいつは夜時間も起きていられるように…
+msgctxt "0019 | c03_236_001 | C014_Iruma"
 msgid "To keep herself awake at night..."
 msgstr ""
 
-msgctxt "0021"
+#. 眠気覚ましに
+msgctxt "0020 | c03_236_001 | C014_Iruma"
 msgid "she would"
 msgstr ""
 
-msgctxt "0022"
+#. 眠気覚ましに体にロウを垂らしたんだ！
+msgctxt "0021 | c03_236_001 | C014_Iruma"
 msgid "she would drip hot wax on her body!"
 msgstr ""
 
-msgctxt "0023"
+#. <CLT=size2>体<CLT=size1>に
+msgctxt "0022 | c03_236_001 | C014_Iruma"
 msgid "<CLT=size1>drip hot"
 msgstr ""
 
-msgctxt "0024"
+#. <CLT=size2>ロウ
+msgctxt "0023 | c03_236_001 | C014_Iruma"
 msgid "<CLT=size2>wax"
 msgstr ""
 
-msgctxt "0025"
+#. を垂らしたんだ！
+msgctxt "0024 | c03_236_001 | C014_Iruma"
 msgid "on her body!"
 msgstr ""
 
-msgctxt "0026"
+#. <CLT=size2>そんな事<CLT=size1>するのは
+msgctxt "0025 | c03_236_001 | C012_Shiro"
 msgid ""
 "That <CLT=size2>sounds<CLT=size1>\n"
 "like something"
 msgstr ""
 
-msgctxt "0027"
+#. そんな事するのは入間さんだけだよ。
+msgctxt "0026 | c03_236_001 | C012_Shiro"
 msgid "That sounds like something only you would do, Miu."
 msgstr ""
 
-msgctxt "0028"
+#. <CLT=cltAGREE><CLT=size2>入間<CLT=size1>さん<CLT=size2>だけ<CLT=cltNORMAL><CLT=size1>だよ。
+msgctxt "0027 | c03_236_001 | C012_Shiro"
 msgid ""
 "<CLT=cltAGREE><CLT=size2>only you<CLT=size1> would do,\n"
 "<CLT=size2>Miu<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0029"
+#. 空き部屋に用事が？
+msgctxt "0028 | c03_236_001 | C004_Gokuh"
 msgid "Angie forget something there?"
 msgstr ""
 
-msgctxt "0030"
+#. 意味不明だヨ…
+msgctxt "0029 | c03_236_001 | C006_Shing"
 msgid "That's beyond comprehension..."
 msgstr ""
 
-msgctxt "0031"
+#. 信じられんのぅ…
+msgctxt "0030 | c03_236_001 | C009_Yumen"
 msgid "I don't buy it..."
 msgstr ""
 
-msgctxt "0032"
+#. どういうことでしょう？
+msgctxt "0031 | c03_236_001 | C007_Ki-Bo"
 msgid "What do you mean?"
 msgstr ""
 
-msgctxt "0033"
+#. ロウソクがあってもねぇ…
+msgctxt "0032 | c03_236_001 | C012_Shiro"
 msgid "Why candles...?"
 msgstr ""
 
-msgctxt "0034"
+#. 何に使うんだ？
+msgctxt "0033 | c03_236_001 | C001_Momot"
 msgid "What'd she want them for?"
 msgstr ""
 
-msgctxt "0035"
+#. えっ？
+msgctxt "0034 | c03_236_001 | C007_Ki-Bo"
 msgid "What?"
 msgstr ""
 
-msgctxt "0036"
+#. …は？
+msgctxt "0035 | c03_236_001 | C010_Haruk"
 msgid "...Eh?"
 msgstr ""
 
-msgctxt "0037"
+#. いきなり何だよ！
+msgctxt "0036 | c03_236_001 | C001_Momot"
 msgid "What's going on in your head?"
 msgstr ""
 
-msgctxt "0038"
+#. 入間ちゃんはそうなんだね！
+msgctxt "0037 | c03_236_001 | C005_Oma__"
 msgid "Typical Miu!"
 msgstr ""
 
-msgctxt "0039"
+#. えっ？そ、そうなの…？
+msgctxt "0038 | c03_236_001 | C014_Iruma"
 msgid "Huh? Ya think so...?"
 msgstr ""

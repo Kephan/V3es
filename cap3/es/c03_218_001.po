@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,194 +11,243 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. やっぱり
+msgctxt "0000 | c03_218_001 | C010_Haruk"
 msgid "So far,"
 msgstr ""
 
-msgctxt "0002"
+#. やっぱり自殺の可能性は高いと思う。
+msgctxt "0001 | c03_218_001 | C010_Haruk"
 msgid ""
 "So far, suicide seems to be\n"
 "the best explanation."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=size4>自
+msgctxt "0002 | c03_218_001 | C010_Haruk"
 msgid "<CLT=size2>sui"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=size4>殺
+msgctxt "0003 | c03_218_001 | C010_Haruk"
 msgid "<CLT=size2>cide"
 msgstr ""
 
-msgctxt "0005"
+#. の<CLT=size2>可能性<CLT=size1>は<CLT=size2>高い<CLT=size1>と思う。
+msgctxt "0004 | c03_218_001 | C010_Haruk"
 msgid "seems to be the <CLT=size2>best<CLT=size1> explanation."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=size2>彼女<CLT=size1>は
+msgctxt "0005 | c03_218_001 | C005_Oma__"
 msgid "Her plan was to"
 msgstr ""
 
-msgctxt "0007"
+#. 彼女はみんなを道連れにする為に…
+msgctxt "0006 | c03_218_001 | C005_Oma__"
 msgid "Her plan was to take us down with her..."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltWEAK><CLT=size2>みんな<CLT=size1>を<CLT=size2>道連れ
+msgctxt "0007 | c03_218_001 | C005_Oma__"
 msgid "<CLT=cltWEAK><CLT=size2>take<CLT=size1> us <CLT=size2>down"
 msgstr ""
 
-msgctxt "0009"
+#. にする為に…
+msgctxt "0008 | c03_218_001 | C005_Oma__"
 msgid "<CLT=size1>with her..."
 msgstr ""
 
-msgctxt "0010"
+#. その<CLT=size2>真相<CLT=size1>を
+msgctxt "0009 | c03_218_001 | C005_Oma__"
 msgid "so she <CLT=size3>hid"
 msgstr ""
 
-msgctxt "0011"
+#. その真相を隠そうとしたんだよ。
+msgctxt "0010 | c03_218_001 | C005_Oma__"
 msgid "so she hid her true intentions."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=size2>隠そう<CLT=size1>としたんだよ。
+msgctxt "0011 | c03_218_001 | C005_Oma__"
 msgid "her <CLT=size2>true<CLT=size1> intentions."
 msgstr ""
 
-msgctxt "0013"
+#. 転子は<CLT=size2>そんなヤツ<CLT=size1>では<CLT=size2>ない！
+msgctxt "0012 | c03_218_001 | C009_Yumen"
 msgid "Tenko's <CLT=size1.5>not<CLT=size1> that <CLT=size1.5>kind<CLT=size1> of <CLT=size1.5>person!"
 msgstr ""
 
-msgctxt "0014"
+#. 転子はそんなヤツではない！
+msgctxt "0013 | c03_218_001 | C009_Yumen"
 msgid "Tenko's not that kind of person!"
 msgstr ""
 
-msgctxt "0015"
+#. でも、<CLT=size2>茶柱<CLT=size1>さんが<CLT=size2>自殺<CLT=size1>だとすると…
+msgctxt "0014 | c03_218_001 | C012_Shiro"
 msgid "But if <CLT=size2>Tenko<CLT=size1> did commit <CLT=size2>suicide..."
 msgstr ""
 
-msgctxt "0016"
+#. でも、茶柱さんが自殺だとすると…
+msgctxt "0015 | c03_218_001 | C012_Shiro"
 msgid "But if Tenko did commit suicide..."
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=size2>降霊術中<CLT=size1>に<CLT=size2>死んだ
+msgctxt "0016 | c03_218_001 | C012_Shiro"
 msgid "it <CLT=size1>would explain<CLT=size1> how <CLT=size1>she"
 msgstr ""
 
-msgctxt "0018"
+#. 降霊術中に死んだ謎は解けるよね。
+msgctxt "0017 | c03_218_001 | C012_Shiro"
 msgid ""
 "it would explain how she\n"
 "died during the seance."
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=size6>謎
+msgctxt "0018 | c03_218_001 | C012_Shiro"
 msgid "<CLT=size4>died"
 msgstr ""
 
-msgctxt "0020"
+#. は<CLT=size2>解ける<CLT=size1>よね。
+msgctxt "0019 | c03_218_001 | C012_Shiro"
 msgid "during the <CLT=size1>seance."
 msgstr ""
 
-msgctxt "0021"
+#. あいつ自身が<CLT=size2>こっそり
+msgctxt "0020 | c03_218_001 | C014_Iruma"
 msgid "She could've <CLT=size2>secretly"
 msgstr ""
 
-msgctxt "0022"
+#. あいつ自身がこっそりカマを持ち込んで…
+msgctxt "0021 | c03_218_001 | C014_Iruma"
 msgid "She could've secretly brought the sickle..."
 msgstr ""
 
-msgctxt "0023"
+#. <CLT=cltWEAK><CLT=size2>カマ<CLT=size1>を<CLT=size2>持ち込んで<CLT=cltNORMAL><CLT=size1>…
+msgctxt "0022 | c03_218_001 | C014_Iruma"
 msgid "<CLT=cltWEAK><CLT=size2>brought<CLT=size1> the <CLT=size2>sickle<CLT=cltNORMAL>..."
 msgstr ""
 
-msgctxt "0024"
+#. <CLT=size2>自
+msgctxt "0023 | c03_218_001 | C014_Iruma"
 msgid "<CLT=size2>and"
 msgstr ""
 
-msgctxt "0025"
+#. 自分を刺せばいいだけだからな！
+msgctxt "0024 | c03_218_001 | C014_Iruma"
 msgid "and then stabbed herself with it!"
 msgstr ""
 
-msgctxt "0026"
+#. <CLT=size2>分<CLT=size1>を
+msgctxt "0025 | c03_218_001 | C014_Iruma"
 msgid "<CLT=size2>then"
 msgstr ""
 
-msgctxt "0027"
+#. <CLT=size2>刺せばいい<CLT=size1>だけだからな！
+msgctxt "0026 | c03_218_001 | C014_Iruma"
 msgid "<CLT=size2>stabbed herself <CLT=size1>with it!"
 msgstr ""
 
-msgctxt "0028"
+#. 最後に、彼女は
+msgctxt "0027 | c03_218_001 | C006_Shing"
 msgid "Finally,"
 msgstr ""
 
-msgctxt "0029"
+#. 最後に、彼女は余力を振り絞って…
+msgctxt "0028 | c03_218_001 | C006_Shing"
 msgid "Finally, with the last of her strength..."
 msgstr ""
 
-msgctxt "0030"
+#. <CLT=cltWEAK><CLT=size2>余力を
+msgctxt "0029 | c03_218_001 | C006_Shing"
 msgid "<CLT=cltWEAK><CLT=size2>with the"
 msgstr ""
 
-msgctxt "0031"
+#. <CLT=cltWEAK><CLT=size2>振り絞って<CLT=cltNORMAL>…
+msgctxt "0030 | c03_218_001 | C006_Shing"
 msgid "<CLT=cltWEAK><CLT=size2>last of her strength<CLT=cltNORMAL>..."
 msgstr ""
 
-msgctxt "0032"
+#. <CLT=size2>カマを
+msgctxt "0031 | c03_218_001 | C006_Shing"
 msgid "<CLT=size2>she threw "
 msgstr ""
 
-msgctxt "0033"
+#. カマを床下に投げ捨てればいいだけ…
+msgctxt "0032 | c03_218_001 | C006_Shing"
 msgid "she threw the sickle underneath the floor."
 msgstr ""
 
-msgctxt "0034"
+#. <CLT=size2>床下に
+msgctxt "0033 | c03_218_001 | C006_Shing"
 msgid "the <CLT=size2>sickle"
 msgstr ""
 
-msgctxt "0035"
+#. <CLT=size2>投げ
+#. 捨て
+#. れば
+msgctxt "0034 | c03_218_001 | C006_Shing"
 msgid "<CLT=size2>underneath"
 msgstr ""
 
-msgctxt "0036"
+#. いいだけ…
+msgctxt "0035 | c03_218_001 | C006_Shing"
 msgid "the floor."
 msgstr ""
 
-msgctxt "0037"
+#. 話の筋は
+#. 通っているよネ。
+msgctxt "0036 | c03_218_001 | C006_Shing"
 msgid ""
 "All the\n"
 "pieces fit."
 msgstr ""
 
-msgctxt "0038"
+#. 話の筋は通っているよネ。
+msgctxt "0037 | c03_218_001 | C006_Shing"
 msgid "All the pieces fit."
 msgstr ""
 
-msgctxt "0039"
+#. あり得るだろうネ。
+msgctxt "0038 | c03_218_001 | C006_Shing"
 msgid "It is possible."
 msgstr ""
 
-msgctxt "0040"
+#. 嘘じゃ…
+msgctxt "0039 | c03_218_001 | C009_Yumen"
 msgid "That's a lie..."
 msgstr ""
 
-msgctxt "0041"
+#. み、道連れ！？
+msgctxt "0040 | c03_218_001 | C004_Gokuh"
 msgid ""
 "Take us down\n"
 "with her!?"
 msgstr ""
 
-msgctxt "0042"
+#. ロクな事しねぇな！
+msgctxt "0041 | c03_218_001 | C014_Iruma"
 msgid "Dick move!"
 msgstr ""
 
-msgctxt "0043"
+#. 果たしてそう言い切れるのかな…？
+msgctxt "0042 | c03_218_001 | C006_Shing"
 msgid "Can you say that for sure?"
 msgstr ""
 
-msgctxt "0044"
+#. 確かにつじつまは合うね…
+msgctxt "0043 | c03_218_001 | C004_Gokuh"
 msgid "Makes sense to Gonta..."
 msgstr ""
 
-msgctxt "0045"
+#. 服の下にも隠せるしね。
+msgctxt "0044 | c03_218_001 | C010_Haruk"
 msgid "Or hide it under her clothes."
 msgstr ""
 
-msgctxt "0046"
+#. 思考中
+msgctxt "0045 | c03_218_001 | C006_Shing"
 msgid "Consider..."
 msgstr ""

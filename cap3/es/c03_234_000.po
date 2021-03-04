@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,151 +11,196 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. すぐ投票する！
+msgctxt "0000 | c03_234_000 | non"
 msgid "Vote now!"
 msgstr ""
 
-msgctxt "0002"
+#. まだ投票しない！
+msgctxt "0001 | c03_234_000 | non"
 msgid "Don't vote yet!"
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>投票派の人達は真宮寺くんの自白で、
+#. 動揺してしまっているだけだ。
+msgctxt "0002 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>They want to vote...but they're making\n"
 "a rash decision because of Kiyo's confession."
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltMIND>僕らの主張を落ち着いて聞いてもらえれば、
+#. 投票を待ってくれるはずだ！
+msgctxt "0003 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>If we get them to listen to our points,\n"
 "I'm sure they'll want to hold off voting!"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>真宮寺くんの自白、衝撃的ではあったけど…
+#. クロと断言できる根拠はまだない。
+msgctxt "0004 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Kiyo's confession was shocking...\n"
 "but we can't be certain he's the blackened."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>冷静にみんなの主張を合わせていこう。
+#. 態勢が整ったところで、一気に説得する…！
+msgctxt "0005 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>We need to match up our ideas and\n"
 "persuade them all at once!"
 msgstr ""
 
-msgctxt "0007"
+#. 転子もアンジーも真宮寺が殺したんじゃ！
+msgctxt "0006 | c03_234_000 | C009_Yumen"
 msgid "Kiyo killed Tenko and Angie!"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>論点がかみ合わないと、こっちの印象が悪くなる。
+#. 味方に不用意な発言をさせちゃダメだ。
+msgctxt "0007 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>When we aren't consistent, our position\n"
 "looks weak. We have to work together!"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>今、投票したら真実にたどり着けないかもしれない。
+#. ここは僕達の主張を通すぞ！
+msgctxt "0008 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>If we vote now, we'll never know the truth.\n"
 "We have to defend that point!"
 msgstr ""
 
-msgctxt "0010"
+#. そいつがアンジーの研究教室に押し入って殺ったんだ！
+msgctxt "0009 | c03_234_000 | C014_Iruma"
 msgid ""
 "The culprit forced their way into\n"
 "Angie's lab and killed her!"
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>論点がかみ合わないと、こっちの印象が悪くなる。
+#. 味方に不用意な発言をさせちゃダメだ。
+msgctxt "0010 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>When we aren't consistent, our position\n"
 "looks weak. We have to work together!"
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>今、投票したら真実にたどり着けないかもしれない。
+#. ここは僕達の主張を通すぞ！
+msgctxt "0011 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>If we vote now, we'll never know the truth.\n"
 "We have to defend that point!"
 msgstr ""
 
-msgctxt "0013"
+#. 凶器の刀も、真宮寺の研究教室にあったんだぜ！？
+msgctxt "0012 | c03_234_000 | C001_Momot"
 msgid ""
 "The katana was found\n"
 "in Kiyo's lab!"
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>論点がかみ合わないと、こっちの印象が悪くなる。
+#. 味方に不用意な発言をさせちゃダメだ。
+msgctxt "0013 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>When we aren't consistent, our position\n"
 "looks weak. We have to work together!"
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>今、投票したら真実にたどり着けないかもしれない。
+#. ここは僕達の主張を通すぞ！
+msgctxt "0014 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>If we vote now, we'll never know the truth.\n"
 "We have to defend that point!"
 msgstr ""
 
-msgctxt "0016"
+#. 茶柱さんを殺したのにクロじゃないの？
+msgctxt "0015 | c03_234_000 | C004_Gokuh"
 msgid ""
 "Kiyo's not the blackened, even\n"
 "though he killed Tenko?"
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>論点がかみ合わないと、こっちの印象が悪くなる。
+#. 味方に不用意な発言をさせちゃダメだ。
+msgctxt "0016 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>When we aren't consistent, our position\n"
 "looks weak. We have to work together!"
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltMIND>今、投票したら真実にたどり着けないかもしれない。
+#. ここは僕達の主張を通すぞ！
+msgctxt "0017 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>If we vote now, we'll never know the truth.\n"
 "We have to defend that point!"
 msgstr ""
 
-msgctxt "0019"
+#. 最初から追加ルールを盾にする気だったんだよ。
+msgctxt "0018 | c03_234_000 | C010_Haruk"
 msgid ""
 "He planned to use the extra rule to shield\n"
 "himself from the start."
 msgstr ""
 
-msgctxt "0020"
+#. <CLT=cltMIND>論点がかみ合わないと、こっちの印象が悪くなる。
+#. 味方に不用意な発言をさせちゃダメだ。
+msgctxt "0019 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>When we aren't consistent, our position\n"
 "looks weak. We have to work together!"
 msgstr ""
 
-msgctxt "0021"
+#. <CLT=cltMIND>今、投票したら真実にたどり着けないかもしれない。
+#. ここは僕達の主張を通すぞ！
+msgctxt "0020 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>If we vote now, we'll never know the truth.\n"
 "We have to defend that point!"
 msgstr ""
 
-msgctxt "0022"
+#. 茶柱さん殺害の謎は解けたんだし…
+#. 投票じゃダメなの？
+msgctxt "0021 | c03_234_000 | C012_Shiro"
 msgid ""
 "We solved the mystery of Tenko's\n"
 "death... Can't we just vote now?"
 msgstr ""
 
-msgctxt "0023"
+#. <CLT=cltMIND>論点がかみ合わないと、こっちの印象が悪くなる。
+#. 味方に不用意な発言をさせちゃダメだ。
+msgctxt "0022 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>When we aren't consistent, our position\n"
 "looks weak. We have to work together!"
 msgstr ""
 
-msgctxt "0024"
+#. <CLT=cltMIND>今、投票したら真実にたどり着けないかもしれない。
+#. ここは僕達の主張を通すぞ！
+msgctxt "0023 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>If we vote now, we'll never know the truth.\n"
 "We have to defend that point!"
 msgstr ""
 
-msgctxt "0025"
+#. <CLT=cltMIND>く…あちらの主張に押し負けてしまった…！
+#. <CLT=cltNORMAL>
+msgctxt "0024 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>No! Their arguments\n"
 "were too overwhelming!<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0026"
+#. <CLT=cltMIND>あと少しなんだ。
+#. みんなを説得できるまであきらめないぞ！
+msgctxt "0025 | c03_234_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Just a bit more... We can't\n"
 "give up until everyone is convinced!"

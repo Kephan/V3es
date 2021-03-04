@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,23 +11,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. で、<CLT=size2>床板<CLT=size1>が<CLT=size2>外れた理由<CLT=size1>はなんだ！？
+msgctxt "0000 | c03_222_001 | C001_Momot"
 msgid ""
 "So, <CLT=size2>what<CLT=size1> made \n"
 "the <CLT=size2>floorboard<CLT=size1> come <CLT=size2>loose!?"
 msgstr ""
 
-msgctxt "0002"
+#. で、床板が外れた理由はなんだ！？
+msgctxt "0001 | c03_222_001 | C001_Momot"
 msgid "So, what made the floorboard come loose!?"
 msgstr ""
 
-msgctxt "0003"
+#. あの<CLT=size2>音<CLT=size1>からして
+msgctxt "0002 | c03_222_001 | C006_Shing"
 msgid ""
 "Judging from the\n"
 "<CLT=size2>sound,"
 msgstr ""
 
-msgctxt "0004"
+#. あの音からしてかなりの衝撃だとは思うけど…
+msgctxt "0003 | c03_222_001 | C006_Shing"
 msgid ""
 "Judging from the sound,\n"
 "there must\n"
@@ -35,253 +39,315 @@ msgid ""
 "considerable force..."
 msgstr ""
 
-msgctxt "0005"
+#. かなりの
+#. <CLT=size4>衝撃
+msgctxt "0004 | c03_222_001 | C006_Shing"
 msgid "there must have been"
 msgstr ""
 
-msgctxt "0006"
+#. だとは思うけど…
+msgctxt "0005 | c03_222_001 | C006_Shing"
 msgid ""
 "considerable\n"
 "<CLT=size4>force..."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=size2>降霊術<CLT=size1>に<CLT=size2>参加<CLT=size1>した<CLT=size2>誰か<CLT=size1>が…
+msgctxt "0006 | c03_222_001 | C012_Shiro"
 msgid "<CLT=size2>Someone<CLT=size1> who <CLT=size2>participated<CLT=size1> in the <CLT=size2>seance..."
 msgstr ""
 
-msgctxt "0008"
+#. 降霊術に参加した誰かが…
+msgctxt "0007 | c03_222_001 | C012_Shiro"
 msgid "Someone who participated in the seance..."
 msgstr ""
 
-msgctxt "0009"
+#. 勢い良く
+msgctxt "0008 | c03_222_001 | C012_Shiro"
 msgid "maybe that person"
 msgstr ""
 
-msgctxt "0010"
+#. 勢い良く床板を剥がしたとか？
+msgctxt "0009 | c03_222_001 | C012_Shiro"
 msgid "maybe that person tore off the floorboard?"
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltAGREE>床板　　　　　
+msgctxt "0010 | c03_222_001 | C012_Shiro"
 msgid "<CLT=cltAGREE>tore            "
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltAGREE>を剥がした
+msgctxt "0011 | c03_222_001 | C012_Shiro"
 msgid "<CLT=cltAGREE>off the "
 msgstr ""
 
-msgctxt "0013"
+#. とか？
+msgctxt "0012 | c03_222_001 | C012_Shiro"
 msgid "<CLT=cltAGREE>floorboard<CLT=cltNORMAL>?"
 msgstr ""
 
-msgctxt "0014"
+#. そんなの大した
+msgctxt "0013 | c03_222_001 | C014_Iruma"
 msgid "That wouldn't make"
 msgstr ""
 
-msgctxt "0015"
+#. そんなの大した衝撃音にならねーだろ！
+msgctxt "0014 | c03_222_001 | C014_Iruma"
 msgid "That wouldn't make such a loud crash!"
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=size2>衝撃音
+msgctxt "0015 | c03_222_001 | C014_Iruma"
 msgid "such a loud"
 msgstr ""
 
-msgctxt "0017"
+#. にならねーだろ！
+msgctxt "0016 | c03_222_001 | C014_Iruma"
 msgid ""
 "<CLT=size2>crashing\n"
 "sound!"
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=size2>カゴ<CLT=size1>の<CLT=size2>上<CLT=size1>に乗せた
+msgctxt "0017 | c03_222_001 | C009_Yumen"
 msgid "Maybe the"
 msgstr ""
 
-msgctxt "0019"
+#. カゴの上に乗せた木像が落ちたんじゃ。
+msgctxt "0018 | c03_222_001 | C009_Yumen"
 msgid "Maybe the wooden statue fell over."
 msgstr ""
 
-msgctxt "0020"
+#. <CLT=cltAGREE><CLT=size2>木像
+msgctxt "0019 | c03_222_001 | C009_Yumen"
 msgid "<CLT=cltAGREE>wooden statue"
 msgstr ""
 
-msgctxt "0021"
+#. <CLT=cltAGREE>が<CLT=size2>落ちた<CLT=cltNORMAL><CLT=size1>んじゃ。
+msgctxt "0020 | c03_222_001 | C009_Yumen"
 msgid "<CLT=cltAGREE>fell <CLT=size2>over<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0022"
+#. 木像はずっと<CLT=size2>カゴ<CLT=size1>に
+#. <CLT=size2>乗ってた<CLT=size1>んじゃねーのか！
+msgctxt "0021 | c03_222_001 | C014_Iruma"
 msgid ""
 "But that statue was still\n"
 "<CLT=size1>on <CLT=size2>top<CLT=size1> of the <CLT=size2>cage!"
 msgstr ""
 
-msgctxt "0023"
+#. 木像はずっとカゴに乗ってたんじゃねーのか！
+msgctxt "0022 | c03_222_001 | C014_Iruma"
 msgid "But that statue was still on top of the cage!"
 msgstr ""
 
-msgctxt "0024"
+#. <CLT=size2>床下<CLT=size1>に
+#. 潜んでいた<CLT=size2>犯人<CLT=size1>が…
+msgctxt "0023 | c03_222_001 | C004_Gokuh"
 msgid ""
 "<CLT=size2>Culprit<CLT=size1> hide\n"
 "<CLT=size2>under floor..."
 msgstr ""
 
-msgctxt "0025"
+#. 床下に潜んでいた犯人が…
+msgctxt "0024 | c03_222_001 | C004_Gokuh"
 msgid "Culprit hide under floor..."
 msgstr ""
 
-msgctxt "0026"
+#. <CLT=size2>下<CLT=size1>から<CLT=size2>思いっ切り
+msgctxt "0025 | c03_222_001 | C004_Gokuh"
 msgid "<CLT=size2>then"
 msgstr ""
 
-msgctxt "0027"
+#. 下から思いっ切り立ち上がったんだよ！
+msgctxt "0026 | c03_222_001 | C004_Gokuh"
 msgid "then stood up, with such might!"
 msgstr ""
 
-msgctxt "0028"
+#. <CLT=cltAGREE><CLT=size2>立ち上がった<CLT=cltNORMAL><CLT=size1>んだよ！
+msgctxt "0027 | c03_222_001 | C004_Gokuh"
 msgid "<CLT=cltAGREE><CLT=size2>stood up<CLT=cltNORMAL>,<CLT=size1> with such might!"
 msgstr ""
 
-msgctxt "0029"
+#. 床下には<CLT=size2>誰<CLT=size1>も<CLT=size2>いねー
+#. <CLT=size1>って話だったろ！
+msgctxt "0028 | c03_222_001 | C014_Iruma"
 msgid ""
 "But we already said\n"
 "there was <CLT=size2>no one\n"
 "<CLT=size1>under the floor!"
 msgstr ""
 
-msgctxt "0030"
+#. 床下には誰もいねーって話だったろ！
+msgctxt "0029 | c03_222_001 | C014_Iruma"
 msgid ""
 "But we already said there was \n"
 "no one under the floor!"
 msgstr ""
 
-msgctxt "0031"
+#. <CLT=size3>誰か<CLT=size1>が上から
+msgctxt "0030 | c03_222_001 | C005_Oma__"
 msgid "<CLT=size3>Some<CLT=size1>one"
 msgstr ""
 
-msgctxt "0032"
+#. 誰かが上から勢い良く床板を踏み抜いたんだ！
+msgctxt "0031 | c03_222_001 | C005_Oma__"
 msgid ""
 "Someone must have stomped\n"
 "through the floorboard!"
 msgstr ""
 
-msgctxt "0033"
+#. 勢い良く
+msgctxt "0032 | c03_222_001 | C005_Oma__"
 msgid "must have"
 msgstr ""
 
-msgctxt "0034"
+#. <CLT=cltAGREE>床板を踏み抜いた
+msgctxt "0033 | c03_222_001 | C005_Oma__"
 msgid ""
 "<CLT=cltAGREE>stomped through\n"
 "the floorboard"
 msgstr ""
 
-msgctxt "0035"
+#. んだ！
+msgctxt "0034 | c03_222_001 | C005_Oma__"
 msgid "!"
 msgstr "!"
 
-msgctxt "0036"
+#. 踏み抜くと外れる床板なんて
+#. <CLT=size2>危ねーなぁ！
+msgctxt "0035 | c03_222_001 | C014_Iruma"
 msgid ""
 "A floorboard that comes loose when\n"
 "you step on it is <CLT=size2>dangerous!"
 msgstr ""
 
-msgctxt "0037"
+#. 踏み抜くと外れる床板なんて危ねーなぁ！
+msgctxt "0036 | c03_222_001 | C014_Iruma"
 msgid ""
 "A floorboard that's loose enough\n"
 "to stomp through is dangerous!"
 msgstr ""
 
-msgctxt "0038"
+#. つーか、なんで<CLT=size2>オレ様<CLT=size1>が
+msgctxt "0037 | c03_222_001 | C014_Iruma"
 msgid "God, it's like I'm the <CLT=size2>only<CLT=size1> one"
 msgstr ""
 
-msgctxt "0039"
+#. つーか、なんでオレ様がツッコミ役なんだ！
+msgctxt "0038 | c03_222_001 | C014_Iruma"
 msgid ""
 "God, it's like I'm the only one\n"
 "here who's staying on the ball!"
 msgstr ""
 
-msgctxt "0040"
+#. <CLT=size2>ツッコミ役
+msgctxt "0039 | c03_222_001 | C014_Iruma"
 msgid "here who's <CLT=size2>staying<CLT=size1>"
 msgstr ""
 
-msgctxt "0041"
+#. なんだ！
+msgctxt "0040 | c03_222_001 | C014_Iruma"
 msgid "on the ball!"
 msgstr ""
 
-msgctxt "0042"
+#. <CLT=size2>夜<CLT=size1>の<CLT=size2>ツッコまれ役<CLT=size1>は
+#. 下手なのにね。
+msgctxt "0041 | c03_222_001 | C005_Oma__"
 msgid ""
 "You hardly have any experience\n"
 "with <CLT=size2>balls<CLT=size1> to say that, Miu."
 msgstr ""
 
-msgctxt "0043"
+#. 夜のツッコまれ役は下手なのにね。
+msgctxt "0042 | c03_222_001 | C005_Oma__"
 msgid ""
 "You hardly have any experience\n"
 "with balls to say that, Miu."
 msgstr ""
 
-msgctxt "0044"
+#. <CLT=size2>バ、バカ<CLT=size1>…
+msgctxt "0043 | c03_222_001 | C014_Iruma"
 msgid "<CLT=size2>D...Don't be"
 msgstr ""
 
-msgctxt "0045"
+#. バ、バカ…言ってんじゃねーよ…
+msgctxt "0044 | c03_222_001 | C014_Iruma"
 msgid "Gh!! I-Idiot..."
 msgstr ""
 
-msgctxt "0046"
+#. 言ってんじゃねーよ…
+msgctxt "0045 | c03_222_001 | C014_Iruma"
 msgid "<CLT=size2>stupid..."
 msgstr ""
 
-msgctxt "0047"
+#. <CLT=size2>パンツ<CLT=size1>の<CLT=size2>中<CLT=size1>の
+msgctxt "0046 | c03_222_001 | C014_Iruma"
 msgid "Don'tcha know!?"
 msgstr ""
 
-msgctxt "0048"
+#. パンツの中のボールはトモダチさっ！
+msgctxt "0047 | c03_222_001 | C014_Iruma"
 msgid "Don'tcha know!? Me and balls are the best of friends!"
 msgstr ""
 
-msgctxt "0049"
+#. <CLT=cltAGREE><CLT=size2>ボール<CLT=size1>は<CLT=size2>トモダチ<CLT=size1>さっ！
+msgctxt "0048 | c03_222_001 | C014_Iruma"
 msgid "<CLT=cltAGREE><CLT=size1.5>Me<CLT=size1> and <CLT=size1.5>Balls<CLT=size1> are the best of <CLT=size1.5>friends!"
 msgstr ""
 
-msgctxt "0050"
+#. みんなで考えるぞ！
+msgctxt "0049 | c03_222_001 | C001_Momot"
 msgid "Come on guys, let's work together!"
 msgstr ""
 
-msgctxt "0051"
+#. 何がありますかね？
+msgctxt "0050 | c03_222_001 | C007_Ki-Bo"
 msgid "I wonder what that was."
 msgstr ""
 
-msgctxt "0052"
+#. 爆発音とか？
+msgctxt "0051 | c03_222_001 | C010_Haruk"
 msgid "Considerable force?"
 msgstr ""
 
-msgctxt "0053"
+#. 想像できないね。
+msgctxt "0052 | c03_222_001 | C010_Haruk"
 msgid "That's hard to imagine."
 msgstr ""
 
-msgctxt "0054"
+#. 落ちてたっけ？
+msgctxt "0053 | c03_222_001 | C005_Oma__"
 msgid "Did it fall?"
 msgstr ""
 
-msgctxt "0055"
+#. それはシュールだネ…
+msgctxt "0054 | c03_222_001 | C006_Shing"
 msgid "How surreal."
 msgstr ""
 
-msgctxt "0056"
+#. 誰かって…誰？
+msgctxt "0055 | c03_222_001 | C010_Haruk"
 msgid "Someone? Who?"
 msgstr ""
 
-msgctxt "0057"
+#. 勝手にやってるだけでしョ？
+msgctxt "0056 | c03_222_001 | C006_Shing"
 msgid "Oh my... Here it comes..."
 msgstr ""
 
-msgctxt "0058"
+#. えっ？突然の下ネタ！？
+msgctxt "0057 | c03_222_001 | C012_Shiro"
 msgid "Eh? A dirty joke!?"
 msgstr ""
 
-msgctxt "0059"
+#. 下ネタの
+msgctxt "0058 | c03_222_001 | C012_Shiro"
 msgid "Why are you so"
 msgstr ""
 
-msgctxt "0060"
+#. オーバーヘッドキック！
+msgctxt "0059 | c03_222_001 | C012_Shiro"
 msgid "proud of that!?"
 msgstr ""

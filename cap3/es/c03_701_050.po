@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,46 +11,59 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. やれやれ…
+#. どいつもこいつも同じような事を言いやがって。
+msgctxt "0000 | c03_701_050 | C001_Momot"
 msgid ""
 "Geez...\n"
 "Everyone's saying the same thing."
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltSTRONG>“人殺し”<CLT=cltNORMAL>だからって
+#. 一括りにしていいもんじゃねーだろ？
+msgctxt "0001 | c03_701_050 | C001_Momot"
 msgid ""
 "It's not okay to lump them together just \n"
 "because they've both <CLT=cltSTRONG>killed<CLT=cltNORMAL> someone."
 msgstr ""
 
-msgctxt "0003"
+#. はい
+msgctxt "0002 | c03_701_050 | C001_Momot"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0004"
+#. いいえ
+msgctxt "0003 | c03_701_050 | C001_Momot"
 msgid "No"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_701_050 | C001_Momot"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>どうしよう？
+#. 百田くんを誘ってみるか？
+msgctxt "0005 | c03_701_050 | chara_Blank"
 msgid "<CLT=cltMIND>Should I hang out with Kaito for a while?"
 msgstr ""
 
-msgctxt "0007"
+#. 赤松も東条も…結果としちゃ人殺しだけどよ、
+#. それを<CLT=cltSTRONG>“殺人鬼”<CLT=cltNORMAL>みたいな連中と一緒にする気か？
+msgctxt "0006 | c03_701_050 | C001_Momot"
 msgid ""
 "Kaede and Kirumi...did both kill someone...\n"
 "But that doesn't make them <CLT=cltSTRONG>murderous fiends<CLT=cltNORMAL>..."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>百田くんと、しんみりした時間を過ごした…
+msgctxt "0007 | c03_701_050 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I spent some quiet time alone\n"
 "with Kaito..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>百田くんと少し仲良くなれたみたいだ…
+msgctxt "0008 | c03_701_050 | chara_Blank"
 msgid "<CLT=cltMIND>Kaito and I grew a little closer today."
 msgstr ""

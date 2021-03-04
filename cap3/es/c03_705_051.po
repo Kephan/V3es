@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,47 +11,60 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. まさかのアンジーちゃん台頭か…
+msgctxt "0000 | c03_705_051 | C005_Oma__"
 msgid "Angie's rise to domination..."
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltSTRONG>“超高校級の総統”<CLT=cltNORMAL>としては、
+#. お株を奪われちゃった感じだよー。
+msgctxt "0001 | c03_705_051 | C005_Oma__"
 msgid ""
 "I feel like someone took all my stocks away...\n"
 "I'm a worthless <CLT=cltSTRONG>Ultimate Supreme Leader<CLT=cltNORMAL>..."
 msgstr ""
 
-msgctxt "0003"
+#. はい
+msgctxt "0002 | c03_705_051 | C005_Oma__"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0004"
+#. いいえ
+msgctxt "0003 | c03_705_051 | C005_Oma__"
 msgid "No"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_705_051 | C005_Oma__"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>どうしよう？
+#. 王馬くんを誘ってみるか？
+msgctxt "0005 | c03_705_051 | chara_Blank"
 msgid "<CLT=cltMIND>Should I hang out with Kokichi for a while?"
 msgstr ""
 
-msgctxt "0007"
+#. ま、オレは宗教なんて専門外だし、
+#. そもそも、ああいうやり方は好きじゃないんだよね。
+msgctxt "0006 | c03_705_051 | C005_Oma__"
 msgid ""
 "Well, cults are outside my area of expertise,\n"
 "and I don't like resorting to that either."
 msgstr ""
 
-msgctxt "0008"
+#. あ、これは嘘じゃないよ？
+msgctxt "0007 | c03_705_051 | C005_Oma__"
 msgid "Oh, that's not a lie, okay?"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>王馬くんと過ごした…
+msgctxt "0008 | c03_705_051 | chara_Blank"
 msgid "<CLT=cltMIND>I spent some time with Kokichi..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>王馬くんと少し仲良くなってしまった…
+msgctxt "0009 | c03_705_051 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Kokichi and I grew a little closer today,\n"
 "despite my misgivings..."

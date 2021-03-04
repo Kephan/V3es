@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,501 +11,652 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. そうだ、それも<CLT=cltSTRONG>魔法陣<CLT=cltNORMAL>だよ！
+#. 犯人は魔法陣を触りながら移動したんだ！
+msgctxt "0000 | c03_231_000 | C000_Saiha"
 msgid ""
 "That's it! The <CLT=cltSTRONG>magic circle<CLT=cltNORMAL>!\n"
 "They used the magic circle!"
 msgstr ""
 
-msgctxt "0002"
+#. ほら、あの魔法陣は<CLT=cltSTRONG>塩<CLT=cltNORMAL>で描いてあったでしょ？
+msgctxt "0001 | c03_231_000 | C000_Saiha"
 msgid ""
 "Remember? The magic circle was\n"
 "drawn with <CLT=cltSTRONG>salt<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0003"
+#. 塩ならチョークや絵の具と違って、
+#. 手で触れた感触がハッキリと伝わるはずだよ。
+msgctxt "0002 | c03_231_000 | C000_Saiha"
 msgid ""
 "The culprit used the salt's texture\n"
 "to feel their way through the dark."
 msgstr ""
 
-msgctxt "0004"
+#. なるほど…真宮寺クンはその魔法陣を手で触りながら、
+#. 踏み抜ける床板の所まで移動したんですね…
+msgctxt "0003 | c03_231_000 | C007_Ki-Bo"
 msgid ""
 "I see... So Kiyo traced the magic circle with\n"
 "his hands to get to the loose floorboard."
 msgstr ""
 
-msgctxt "0005"
+#. そっか、キミが魔法陣をわざわざ塩で描いたのは、
+#. あれを目印にする為だったんだね。
+msgctxt "0004 | c03_231_000 | C005_Oma__"
 msgid ""
 "Ooh, I see. You drew the magic circle\n"
 "with salt to use it as a guide."
 msgstr ""
 
-msgctxt "0006"
+#. ………………
+msgctxt "0005 | c03_231_000 | C006_Shing"
 msgid "..."
 msgstr "..."
 
-msgctxt "0007"
+#. ククク…面白い発想だけど、
+#. 残念だネ…それは間違いだヨ。
+msgctxt "0006 | c03_231_000 | C006_Shing"
 msgid ""
 "Kehehe... An interesting thought.\n"
 "It is unfortunate that it is so wrong."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>…えっ？
+msgctxt "0007 | c03_231_000 | C000_Saiha"
 msgid "<CLT=cltMIND>...What?"
 msgstr ""
 
-msgctxt "0009"
+#. あの文献を思い出してご覧ヨ。
+#. 魔法陣はどうなっていたっけ？
+msgctxt "0008 | c03_231_000 | C006_Shing"
 msgid ""
 "Recall the document.\n"
 "What did the magic circle look like?"
 msgstr ""
 
-msgctxt "0010"
+#. あぁ…文献によると、
+#. 魔法陣って部屋の隅まで届いてなかったっけ…
+msgctxt "0009 | c03_231_000 | C005_Oma__"
 msgid ""
 "Based on the document, the magic circle\n"
 "wouldn't reach the corners of the room."
 msgstr ""
 
-msgctxt "0011"
+#. それがなんだよ？
+msgctxt "0010 | c03_231_000 | C014_Iruma"
 msgid "So what?"
 msgstr ""
 
-msgctxt "0012"
+#. いいかい？　僕らは部屋が暗闇になった時、
+#. それぞれ部屋の四隅に立っていたんだヨ？
+msgctxt "0011 | c03_231_000 | C006_Shing"
 msgid ""
 "When the room was darkened, each of \n"
 "us was in a corner of the room, yes?"
 msgstr ""
 
-msgctxt "0013"
+#. 魔法陣が部屋の隅まで伸びていないと、
+#. それを触りながらの移動なんてできないよネ？
+msgctxt "0012 | c03_231_000 | C006_Shing"
 msgid ""
 "The magic circle didn't reach us,\n"
 "so I could not have followed it, yes?"
 msgstr ""
 
-msgctxt "0014"
+#. それは文献にある魔法陣の話じゃろ！？
+msgctxt "0013 | c03_231_000 | C009_Yumen"
 msgid ""
 "But you're talking about the\n"
 "magic circle in the document!"
 msgstr ""
 
-msgctxt "0015"
+#. 真宮寺が描いた魔法陣が
+#. それと一緒だったとは限らんではないか！
+msgctxt "0014 | c03_231_000 | C009_Yumen"
 msgid ""
 "That doesn't mean the circle you\n"
 "drew was the same!"
 msgstr ""
 
-msgctxt "0016"
+#. いいや、僕は間違いなくその文献通りに描いたヨ。
+#. 僕はあの魔法陣を完璧に暗記しているからネ。
+msgctxt "0015 | c03_231_000 | C006_Shing"
 msgid ""
 "No, I most definitely drew it exactly\n"
 "the same. I have it perfectly memorized."
 msgstr ""
 
-msgctxt "0017"
+#. け、結局…どっちなの？
+#. どうにか確認できないのかな？
+msgctxt "0016 | c03_231_000 | C012_Shiro"
 msgid ""
 "U-Um...so which is it?\n"
 "Is there any way to check?"
 msgstr ""
 
-msgctxt "0018"
+#. それは無理だよ。
+#. あの魔法陣はすっかり踏み荒らされてたし。
+msgctxt "0017 | c03_231_000 | C010_Haruk"
 msgid ""
 "Not anymore. The magic circle is a complete\n"
 "mess from being trampled on."
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltMIND>そうか…それも狙いの１つなんだな。
+msgctxt "0018 | c03_231_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I see... Another\n"
 "piece of the puzzle."
 msgstr ""
 
-msgctxt "0020"
+#. <CLT=cltMIND>塩で描いた魔法陣なら、
+#. 死体を発見した後に色んな人が踏んでくれるから…
+msgctxt "0019 | c03_231_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Drawing the circle with salt all but\n"
 "guaranteed it would be temporary."
 msgstr ""
 
-msgctxt "0021"
+#. <CLT=cltMIND>…自然と証拠隠滅にもなる。
+#. 犯人はそれも狙って塩で魔法陣を描いたんだ。
+msgctxt "0020 | c03_231_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>The investigation itself would have\n"
 "gotten rid of the evidence. Clever."
 msgstr ""
 
-msgctxt "0022"
+#. みなさん、ちょっといいですか？
+msgctxt "0021 | c03_231_000 | C007_Ki-Bo"
 msgid "Everyone, may I have your attention please?"
 msgstr ""
 
-msgctxt "0023"
+#. うーん…困ったね。
+#. 今となってはもう確認する術はないみたいだし…
+msgctxt "0022 | c03_231_000 | C005_Oma__"
 msgid ""
 "Hmm...what a pain.\n"
 "We don't have any way to check it now..."
 msgstr ""
 
-msgctxt "0024"
+#. みなさん、ちょっといいですか！？
+msgctxt "0023 | c03_231_000 | C007_Ki-Bo"
 msgid ""
 "E-Excuse me, everyone. May I have your\n"
 "attention please!?"
 msgstr ""
 
-msgctxt "0025"
+#. だとすると、魔法陣についてこれ以上話し合っても、
+#. らちが明かないね！
+msgctxt "0024 | c03_231_000 | C005_Oma__"
 msgid ""
 "Welp, I guess there's no point in discussing\n"
 "the magic circle anymore!"
 msgstr ""
 
-msgctxt "0026"
+#. あのっ！　ちょっといいですかっ！？
+msgctxt "0025 | c03_231_000 | C007_Ki-Bo"
 msgid "Hey! May I have your attention!?"
 msgstr ""
 
-msgctxt "0027"
+#. だから、光るのはやめろってんだよ！
+#. 眩しいだろーが！
+msgctxt "0026 | c03_231_000 | C001_Momot"
 msgid ""
 "Augh! I said cut that out!\n"
 "It's too bright!"
 msgstr ""
 
-msgctxt "0028"
+#. すみません…
+#. どうしても話を聞いて貰いたくて。
+msgctxt "0027 | c03_231_000 | C007_Ki-Bo"
 msgid ""
 "I apologize... I just wanted everyone\n"
 "to listen to me."
 msgstr ""
 
-msgctxt "0029"
+#. で、話って？
+msgctxt "0028 | c03_231_000 | C012_Shiro"
 msgid "About what?"
 msgstr ""
 
-msgctxt "0030"
+#. 実は、ボクが入間さんに追加して貰った機能は、
+#. ライト機能だけではないんです。
+msgctxt "0029 | c03_231_000 | C007_Ki-Bo"
 msgid ""
 "I had Miu add another function to my body,\n"
 "in addition to the flashlight."
 msgstr ""
 
-msgctxt "0031"
+#. なッ…！
+#. オメー…まさかアレを使う気か…？
+msgctxt "0030 | c03_231_000 | C014_Iruma"
 msgid ""
 "What the...!? No way...\n"
 "Did you really...?"
 msgstr ""
 
-msgctxt "0032"
+#. や、やめろ！　ダメだ！
+#. あれはそんな事の為に追加した機能じゃ――
+msgctxt "0031 | c03_231_000 | C014_Iruma"
 msgid ""
 "S-Stop! You can't! I didn't install it\n"
 "for that purp—"
 msgstr ""
 
-msgctxt "0033"
+#. 使わせてください！
+#. あの機能を使えばみなさんを救えるかもしれないんです！
+msgctxt "0032 | c03_231_000 | C007_Ki-Bo"
 msgid ""
 "Please, let me use it! With it, I might\n"
 "be able to save everyone!"
 msgstr ""
 
-msgctxt "0034"
+#. いいから…その機能ってなんなんだよ？
+msgctxt "0033 | c03_231_000 | C001_Momot"
 msgid "Alright, so...what is this function?"
 msgstr ""
 
-msgctxt "0035"
+#. …<CLT=cltSTRONG>録画機能<CLT=cltNORMAL>です。
+msgctxt "0034 | c03_231_000 | C007_Ki-Bo"
 msgid "...It's an <CLT=cltSTRONG>image recording function<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0036"
+#. えっ？　録画機能！？
+msgctxt "0035 | c03_231_000 | C004_Gokuh"
 msgid "Huh? Image recording!?"
 msgstr ""
 
-msgctxt "0037"
+#. 正確には、ボクの中にある記憶を
+#. 写真のように紙に印刷する機能なのですが…
+msgctxt "0036 | c03_231_000 | C007_Ki-Bo"
 msgid ""
 "Specifically, this function allows me to \n"
 "dispense a printout of my own memory..."
 msgstr ""
 
-msgctxt "0038"
+#. …ひとまず、やってみましょう。
+msgctxt "0037 | c03_231_000 | C007_Ki-Bo"
 msgid "...I'll give it a try."
 msgstr ""
 
-msgctxt "0039"
+#. …いきますよ。
+msgctxt "0038 | c03_231_000 | C007_Ki-Bo"
 msgid "...Ready?"
 msgstr ""
 
-msgctxt "0040"
+#. <CLT=cltSYSTEM>「ウイーーーーーン」
+msgctxt "0039 | c03_231_000 | chara_Blank"
 msgid "<CLT=cltSYSTEM>*whirrrrrr*"
 msgstr ""
 
-msgctxt "0041"
+#. …って、口からかよ！
+msgctxt "0040 | c03_231_000 | C001_Momot"
 msgid "From your mouth!?"
 msgstr ""
 
-msgctxt "0042"
+#. それと同じような魔法を…
+#. かつて、ウチもやった事があるのぅ。
+msgctxt "0041 | c03_231_000 | C009_Yumen"
 msgid "I've...also used magic like that before."
 msgstr ""
 
-msgctxt "0043"
+#. これは、ボクが降霊術の集まりから
+#. 追い出された時の記憶です。
+msgctxt "0042 | c03_231_000 | C007_Ki-Bo"
 msgid ""
 "This printout is my memory of being\n"
 "kicked out of the seance."
 msgstr ""
 
-msgctxt "0044"
+#. 空き部屋の床が広く映っていると思うので、
+#. 確認してみてください。
+msgctxt "0043 | c03_231_000 | C007_Ki-Bo"
 msgid ""
 "Please confirm that the floor of the empty\n"
 "room is clearly visible."
 msgstr ""
 
-msgctxt "0045"
+#. さぁ、どうぞ！
+#. しっかりと手に取って調べてみてください！
+msgctxt "0044 | c03_231_000 | C007_Ki-Bo"
 msgid ""
 "Go on! Take the picture and see\n"
 "for yourself!"
 msgstr ""
 
-msgctxt "0046"
+#. う、うん…わかったよ。
+msgctxt "0045 | c03_231_000 | C000_Saiha"
 msgid "Ah, o-okay. Got it."
 msgstr ""
 
-msgctxt "0047"
+#. <CLT=cltMIND>と、僕はキーボくんの口から吐き出された紙を
+#. しぶしぶ手に取った。
+msgctxt "0046 | c03_231_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I reluctantly took the paper\n"
 "from Keebo's mouth."
 msgstr ""
 
-msgctxt "0048"
+#. <CLT=cltMIND>これが…降霊術で使われた魔法陣か…
+msgctxt "0047 | c03_231_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>So this is the magic\n"
 "circle used for the seance..."
 msgstr ""
 
-msgctxt "0049"
+#. どうですか、最原クン？
+#. 何か気付いた事はありますか？
+msgctxt "0048 | c03_231_000 | C007_Ki-Bo"
 msgid ""
 "Well, Shuichi?\n"
 "Do you notice anything?"
 msgstr ""
 
-msgctxt "0050"
+#. <CLT=cltMIND>気付いた事か…
+msgctxt "0049 | c03_231_000 | C000_Saiha"
 msgid "<CLT=cltMIND>Notice anything..."
 msgstr ""
 
-msgctxt "0051"
+#. えーと…
+#. ここら辺がおかしいんじゃないかな。
+msgctxt "0050 | c03_231_000 | C000_Saiha"
 msgid ""
 "Ah, hm. I think something\n"
 "is off about this area here."
 msgstr ""
 
-msgctxt "0052"
+#. そう？
+#. 見た感じ、文献の挿絵と同じだと思うけど？
+msgctxt "0051 | c03_231_000 | C005_Oma__"
 msgid ""
 "Hm? As far as I can tell, it looks the same\n"
 "as the drawing in the document."
 msgstr ""
 
-msgctxt "0053"
+#. 部屋の隅から移動した方法を考えているんだから、
+#. そこら辺を探した方が良いんじゃないの？
+msgctxt "0052 | c03_231_000 | C005_Oma__"
 msgid ""
 "Since we're trying to find out how the culprit\n"
 "moved from the corner, maybe check there?"
 msgstr ""
 
-msgctxt "0054"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0053 | c03_231_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0055"
+#. 鉄カゴが置かれた部分が怪しいんじゃないかな。
+msgctxt "0054 | c03_231_000 | C000_Saiha"
 msgid ""
 "The area where the cage was\n"
 "placed is suspicious..."
 msgstr ""
 
-msgctxt "0056"
+#. 魔法陣の中央を気にしても意味ないでしょ？
+msgctxt "0055 | c03_231_000 | C005_Oma__"
 msgid ""
 "Is there really a point in paying attention to\n"
 "the center of the magic circle?"
 msgstr ""
 
-msgctxt "0057"
+#. 問題は、部屋の端から移動した方法なんだから、
+#. 中央よりも端にヒントがありそうだけど？
+msgctxt "0056 | c03_231_000 | C005_Oma__"
 msgid ""
 "We need to focus more on the corners of the\n"
 "room rather than the center, right?"
 msgstr ""
 
-msgctxt "0058"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0057 | c03_231_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0059"
+#. 中央から外に向かって、
+#. 何もないのが気になるよ。
+msgctxt "0058 | c03_231_000 | C000_Saiha"
 msgid ""
 "This area in the center\n"
 "is empty..."
 msgstr ""
 
-msgctxt "0060"
+#. そこは魔法陣の中央に行くための通り道だよね？
+#. 文献と全く同じだと思うけど？
+msgctxt "0059 | c03_231_000 | C005_Oma__"
 msgid ""
 "Isn't that just the pathway to the center of the\n"
 "circle? It's drawn the same in the document."
 msgstr ""
 
-msgctxt "0061"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0060 | c03_231_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0062"
+#. ………………
+msgctxt "0061 | c03_231_000 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0063"
+#. …最原クン、どうでしょうか？
+msgctxt "0062 | c03_231_000 | C007_Ki-Bo"
 msgid "...Well, Shuichi?"
 msgstr ""
 
-msgctxt "0064"
+#. 僕の新機能では、力になれなかったでしょうか…
+msgctxt "0063 | c03_231_000 | C007_Ki-Bo"
 msgid "Was my new function helpful...?"
 msgstr ""
 
-msgctxt "0065"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0064 | c03_231_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0066"
+#. 魔法陣の写真を見て気付いた点は？
+msgctxt "0065 | c03_231_000 | C000_Saiha"
 msgid ""
 "What part of the magic circle\n"
 "is the most suspicious?"
 msgstr ""
 
-msgctxt "0067"
+#. 助かったよ、キーボくん。
+#. キミのお陰で見破る事ができたよ。
+msgctxt "0066 | c03_231_000 | C000_Saiha"
 msgid ""
 "This helped a lot, Keebo.\n"
 "Without you..."
 msgstr ""
 
-msgctxt "0068"
+#. …<CLT=cltSTRONG>真宮寺くんの嘘<CLT=cltNORMAL>をね。
+msgctxt "0067 | c03_231_000 | C000_Saiha"
 msgid ""
 "...I never would have seen through\n"
 "<CLT=cltSTRONG>Kiyo's lie<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0069"
+#. …僕の嘘？
+msgctxt "0068 | c03_231_000 | C006_Shing"
 msgid "My lie...?"
 msgstr ""
 
-msgctxt "0070"
+#. 真宮寺くん…キミはさっき、
+#. 文献通りに魔法陣を描いたって言ってたけど…
+msgctxt "0069 | c03_231_000 | C000_Saiha"
 msgid ""
 "You just said that you drew the magic circle\n"
 "exactly as it appears in the document."
 msgstr ""
 
-msgctxt "0071"
+#. それは嘘だよね。
+msgctxt "0070 | c03_231_000 | C000_Saiha"
 msgid "But that's a lie, isn't it?"
 msgstr ""
 
-msgctxt "0072"
+#. ほら、現場に描いてあった魔法陣は
+#. 文献と違って<CLT=cltSTRONG>部屋の隅まで線が伸びている<CLT=cltNORMAL>んだ。
+msgctxt "0071 | c03_231_000 | C000_Saiha"
 msgid ""
 "The magic circle at the scene had\n"
 "<CLT=cltSTRONG>lines that stretched to the room's corners<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0073"
+#. これなら、部屋の隅からでも、
+#. 魔法陣を辿って問題の床板まで移動できるよね。
+msgctxt "0072 | c03_231_000 | C000_Saiha"
 msgid ""
 "Which means that you would be able to find\n"
 "the floorboard from anywhere in the room."
 msgstr ""
 
-msgctxt "0074"
+#. やはり、文献とは違ったか！
+msgctxt "0073 | c03_231_000 | C009_Yumen"
 msgid ""
 "So it was different from the document\n"
 "after all!"
 msgstr ""
 
-msgctxt "0075"
+#. 夢野さんが気付いてくれたお陰だね！
+#. それと…キーボ君のお陰だよ！
+msgctxt "0074 | c03_231_000 | C004_Gokuh"
 msgid ""
 "All because Himiko noticed!\n"
 "And...because of Keebo, too!"
 msgstr ""
 
-msgctxt "0076"
+#. １番最初に感謝されるべきはオレ様だろ！
+#. オレ様がキーボにその機能を追加したお陰だからな！
+msgctxt "0075 | c03_231_000 | C014_Iruma"
 msgid ""
 "Hey, where's my thanks!? I'm the one\n"
 "who installed that function into Keebo!"
 msgstr ""
 
-msgctxt "0077"
+#. そう言や…さっきテメーは計画がどうこう言ってたな。
+#. それって、なんの事だ？
+msgctxt "0076 | c03_231_000 | C001_Momot"
 msgid ""
 "Hey, yeah. What was it you were\n"
 "saying about its purpose?"
 msgstr ""
 
-msgctxt "0078"
+#. あ、あぁ…実はキーボの録画機能って
+#. オレ様のコンディションチェックの為のものなんだよ…
+msgctxt "0077 | c03_231_000 | C014_Iruma"
 msgid ""
 "O-Oh... To be honest, the purpose of that image\n"
 "recording function is to monitor my health..."
 msgstr ""
 
-msgctxt "0079"
+#. その機能で…毎日のウンコを録画して…
+#. 健康状態をチェックしようと思ってだな…
+msgctxt "0078 | c03_231_000 | C014_Iruma"
 msgid ""
 "Specifically, I make Keebo use that function\n"
 "every day to...*sigh*... analyze my turds..."
 msgstr ""
 
-msgctxt "0080"
+#. はぁ！？　何言ってるの！？
+msgctxt "0079 | c03_231_000 | C012_Shiro"
 msgid "Your what!? Why!?"
 msgstr ""
 
-msgctxt "0081"
+#. ウ、ウンコってのはな、
+#. 腸内細菌と腸細胞の働きを示すバロメーターなんだぞ！
+msgctxt "0080 | c03_231_000 | C014_Iruma"
 msgid ""
 "Sh-Shit is a great indicator of intestinal\n"
 "health and gut bacteria quality!"
 msgstr ""
 
-msgctxt "0082"
+#. キレのいいウンコをつくる能力が、
+#. 女の美しさにも大きく関係してるって訳で…
+msgctxt "0081 | c03_231_000 | C014_Iruma"
 msgid ""
 "Plus, taking a satisfying shit does wonders\n"
 "for a woman's natural beauty, so..."
 msgstr ""
 
-msgctxt "0083"
+#. ほ、ほら見ろ！　ドン引きじゃねーか！
+#. だから、計画の話をするのは嫌だったんだ！
+msgctxt "0082 | c03_231_000 | C014_Iruma"
 msgid ""
 "S-See! You're all grossed out! This is why\n"
 "I didn't wanna tell you about my plan!"
 msgstr ""
 
-msgctxt "0084"
+#. ウンコの話などどうでもいいっ！
+msgctxt "0083 | c03_231_000 | C009_Yumen"
 msgid ""
 "Quit talking about your poop!\n"
 "No one cares!"
 msgstr ""
 
-msgctxt "0085"
+#. それより、そろそろ観念したらどうじゃ！
+#. 真宮寺よ…転子を殺したのはお主なんじゃろ！？
+msgctxt "0084 | c03_231_000 | C009_Yumen"
 msgid ""
 "Kiyo...you killed Tenko, didn't you?\n"
 "Just give up and admit it already."
 msgstr ""
 
-msgctxt "0086"
+#. ………………
+msgctxt "0085 | c03_231_000 | C006_Shing"
 msgid "..."
 msgstr "..."
 
-msgctxt "0087"
+#. …どう、真宮寺くん？
+#. 何か反論があるなら言って――
+msgctxt "0086 | c03_231_000 | C000_Saiha"
 msgid "So, Kiyo, if you have any objections, you can—"
 msgstr ""
 
-msgctxt "0088"
+#. じゃあ、せっかくだから反論しておこうかな。
+msgctxt "0087 | c03_231_000 | C006_Shing"
 msgid ""
 "Well, since you've given me the\n"
 "option, I will most certainly object."
 msgstr ""
 
-msgctxt "0089"
+#. 本当はどうでもいいんだけど、
+#. ちょっとした記念にネ。
+msgctxt "0088 | c03_231_000 | C006_Shing"
 msgid ""
 "To be honest, it's unimportant.\n"
 "But it may be an amusing diversion."
 msgstr ""
 
-msgctxt "0090"
+#. <CLT=cltMIND>ど、どうでもいい…？
+msgctxt "0089 | c03_231_000 | C000_Saiha"
 msgid "<CLT=cltMIND>Unimportant...?"
 msgstr ""
 
-msgctxt "0091"
+#. さァ、最原君の才能を観察させて貰うヨ！
+#. 君はこの不思議に答えを出せるかな！？
+msgctxt "0090 | c03_231_000 | C006_Shing"
 msgid ""
 "Now I shall bear witness to your\n"
 "abilities, Shuichi! Do entertain me!"

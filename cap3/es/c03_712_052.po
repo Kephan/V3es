@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,56 +11,72 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 生徒会って言えば…
+msgctxt "0000 | c03_712_052 | C012_Shiro"
 msgid "Speaking of student councils..."
 msgstr ""
 
-msgctxt "0002"
+#. フィクションの生徒会って、
+#. 凄い権力持ってたりする事が多いよね。
+msgctxt "0001 | c03_712_052 | C012_Shiro"
 msgid ""
 "Fictional student councils usually have\n"
 "a huge amount of authority."
 msgstr ""
 
-msgctxt "0003"
+#. はい
+msgctxt "0002 | c03_712_052 | C012_Shiro"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0004"
+#. いいえ
+msgctxt "0003 | c03_712_052 | C012_Shiro"
 msgid "No"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_712_052 | C012_Shiro"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>どうしよう？
+#. 白銀さんを誘ってみるか？
+msgctxt "0005 | c03_712_052 | chara_Blank"
 msgid "<CLT=cltMIND>Should I hang out with Tsumugi for a while?"
 msgstr ""
 
-msgctxt "0007"
+#. ホスト部開いたり、スキル持ちだったり…
+#. ひたすらだべってたり、ごきげんよう症候群だったり…
+msgctxt "0006 | c03_712_052 | C012_Shiro"
 msgid ""
 "Some open host clubs, some have crazy powers,\n"
 "some cook, some always say \"good day to you\"..."
 msgstr ""
 
-msgctxt "0008"
+#. まぁ、うちの生徒会だって全員<CLT=cltSTRONG>“超高校級”<CLT=cltNORMAL>だから
+#. 十分対抗できてるか。
+msgctxt "0007 | c03_712_052 | C012_Shiro"
 msgid ""
 "Well, our student council members are all \n"
 "<CLT=cltSTRONG>Ultimates<CLT=cltNORMAL>, so we can definitely compete."
 msgstr ""
 
-msgctxt "0009"
+#. …むしろ、フィクションに勝ってる気もするよね！
+msgctxt "0008 | c03_712_052 | C012_Shiro"
 msgid ""
 "We might even surpass those fictional\n"
 "student councils!"
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>白銀さんに、生徒会ネタを使った
+#. アニメや漫画について、じっくり語られた…
+msgctxt "0009 | c03_712_052 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Tsumugi told me the long and colorful\n"
 "history of student councils in anime..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>白銀さんと少し仲良くなれたみたいだ…
+msgctxt "0010 | c03_712_052 | chara_Blank"
 msgid "<CLT=cltMIND>Tsumugi and I grew a little closer today."
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,46 +11,59 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 古代エジプト、バビロン、ギリシア、古代ローマ…
+#. 死者の霊と交信する術は、遙か昔からあったんだ。
+msgctxt "0000 | c03_706_050 | C006_Shing"
 msgid ""
 "Ancient Egypt, Babylon, Greece, Rome...\n"
 "Many cultures have ways to speak with the dead."
 msgstr ""
 
-msgctxt "0002"
+#. 世界中で、様々な形の儀式が形成されたんだヨ。
+#. <CLT=cltNORMAL>“かごのこ”<CLT=cltNORMAL>もその１つなんだ…
+msgctxt "0001 | c03_706_050 | C006_Shing"
 msgid ""
 "Many seances have been created all around the \n"
 "world. <CLT=cltNORMAL>The Caged Child<CLT=cltNORMAL> is but one of them."
 msgstr ""
 
-msgctxt "0003"
+#. はい
+msgctxt "0002 | c03_706_050 | C006_Shing"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0004"
+#. いいえ
+msgctxt "0003 | c03_706_050 | C006_Shing"
 msgid "No"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_706_050 | C006_Shing"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>どうしよう？
+#. 真宮寺くんを誘ってみるか？
+msgctxt "0005 | c03_706_050 | chara_Blank"
 msgid "<CLT=cltMIND>Should I hang out with Kiyo for a while?"
 msgstr ""
 
-msgctxt "0007"
+#. ククク…
+#. やっぱりキミも死者と話がしたいの？
+msgctxt "0006 | c03_706_050 | C006_Shing"
 msgid ""
 "Kehehe... Do you wish to speak \n"
 "with the dead as well?"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>真宮寺くんに、降霊術について延々と聞かされた…
+msgctxt "0007 | c03_706_050 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I listened to Kiyo talk endlessly\n"
 "about seances..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>真宮寺くんと少し仲良くなれたみたいだ…
+msgctxt "0008 | c03_706_050 | chara_Blank"
 msgid "<CLT=cltMIND>Kiyo and I grew a little closer today."
 msgstr ""

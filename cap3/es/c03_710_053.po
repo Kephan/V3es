@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,46 +11,58 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>なんて…あるわけがないよ。
+msgctxt "0000 | c03_710_053 | C010_Haruk"
 msgid "There's no way you can <CLT=cltSTRONG>resurrect the dead<CLT=cltNORMAL>..."
 msgstr ""
 
-msgctxt "0002"
+#. 天海は確かに死んでた…
+#. 赤松も東条も、私達の目の前で死んだんだ。
+msgctxt "0001 | c03_710_053 | C010_Haruk"
 msgid ""
 "Rantaro definitely died... Kaede and Kirumi\n"
 "died right before our very eyes..."
 msgstr ""
 
-msgctxt "0003"
+#. はい
+msgctxt "0002 | c03_710_053 | C010_Haruk"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0004"
+#. いいえ
+msgctxt "0003 | c03_710_053 | C010_Haruk"
 msgid "No"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_710_053 | C010_Haruk"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>どうしよう？
+#. 春川さんを誘ってみるか？
+msgctxt "0005 | c03_710_053 | chara_Blank"
 msgid "<CLT=cltMIND>Should I hang out with Maki for a while?"
 msgstr ""
 
-msgctxt "0007"
+#. …別に良いけど。
+msgctxt "0006 | c03_710_053 | C010_Haruk"
 msgid "...Fine."
 msgstr ""
 
-msgctxt "0008"
+#. 私は特にしたい事もないし…あんたに任せる。
+msgctxt "0007 | c03_710_053 | C010_Haruk"
 msgid ""
 "I don't feel like doing anything particular,\n"
 "so I'll let you decide."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>春川さんと過ごした…
+msgctxt "0008 | c03_710_053 | chara_Blank"
 msgid "<CLT=cltMIND>I spent some time with Maki..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>春川さんと少し仲良くなれたみたいだ…
+msgctxt "0009 | c03_710_053 | chara_Blank"
 msgid "<CLT=cltMIND>Maki and I grew a little closer today."
 msgstr ""

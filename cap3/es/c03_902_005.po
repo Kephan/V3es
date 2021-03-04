@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,29 +11,38 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 自分で言っておいてなんだけど…
+#. やっぱり、ここって何か出そうだよ。
+msgctxt "0000 | c03_902_005 | C012_Shiro"
 msgid ""
 "Even though I said all that...it seems like\n"
 "something is going to jump out after all."
 msgstr ""
 
-msgctxt "0002"
+#. 田舎の古いお屋敷にありがちな
+#. 座敷牢っぽい感じもするし…
+msgctxt "0001 | c03_902_005 | C012_Shiro"
 msgid ""
 "This feels like one of those old abandoned\n"
 "asylums full of lunatics or criminals."
 msgstr ""
 
-msgctxt "0003"
+#. もし、中庭に池があったら、
+#. 翌朝に誰かの足が生えちゃうレベルだよ。
+msgctxt "0002 | c03_902_005 | C012_Shiro"
 msgid ""
 "To the point that I'd half-expect to see\n"
 "a corpse burst through a wall and chase us."
 msgstr ""
 
-msgctxt "0004"
+#. …ごめん、笑えないね。
+msgctxt "0003 | c03_902_005 | C012_Shiro"
 msgid "Sorry...that's not something to joke about."
 msgstr ""
 
-msgctxt "0005"
+#. 自分で言っておいてなんだけど…
+#. やっぱり、ここって何か出そうだよ。
+msgctxt "0004 | c03_902_005 | C012_Shiro"
 msgid ""
 "Even though I said all that...it seems like\n"
 "something is going to jump out after all."

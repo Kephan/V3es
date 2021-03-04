@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,54 +11,73 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 転子もアンジーも
+#. <CLT=cltWEAK>真宮寺<CLT=cltNORMAL>が
+#. 殺したんじゃ！
+msgctxt "0000 | c03_234_001 | C009_Yumen"
 msgid ""
 "<CLT=cltWEAK>Kiyo<CLT=cltNORMAL> killed\n"
 "Tenko and Angie!"
 msgstr ""
 
-msgctxt "0002"
+#. 転子もアンジーも真宮寺が殺したんじゃ！
+msgctxt "0001 | c03_234_001 | C009_Yumen"
 msgid ""
 "Kiyo killed\n"
 "Tenko and Angie!"
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltWEAK>真宮寺<CLT=cltNORMAL>クンが
+#. アンジーさんを
+#. 殺したとは
+#. 限りません！
+msgctxt "0002 | c03_234_001 | C007_Ki-Bo"
 msgid ""
 "We don't know for\n"
 "certain that <CLT=cltWEAK>Kiyo<CLT=cltNORMAL>\n"
 "killed Angie!"
 msgstr ""
 
-msgctxt "0004"
+#. 真宮寺クンがアンジーさんを殺したとは限りません！
+msgctxt "0003 | c03_234_001 | C007_Ki-Bo"
 msgid ""
 "We don't know for certain that Kiyo\n"
 "killed Angie!"
 msgstr ""
 
-msgctxt "0005"
+#. 真宮寺
+msgctxt "0004 | c03_234_001 | C007_Ki-Bo"
 msgid "Kiyo"
 msgstr ""
 
-msgctxt "0006"
+#. 真宮寺
+msgctxt "0005 | c03_234_001 | C007_Ki-Bo"
 msgid "Kiyo"
 msgstr ""
 
-msgctxt "0007"
+#. そいつが<CLT=cltWEAK>アンジー<CLT=cltNORMAL>
+#. の研究教室に
+#. 押し入って
+#. 殺ったんだ！
+msgctxt "0006 | c03_234_001 | C014_Iruma"
 msgid ""
 "He forced his way\n"
 "into <CLT=cltWEAK>Angie<CLT=cltNORMAL>'s research\n"
 "lab and killed her!"
 msgstr ""
 
-msgctxt "0008"
+#. そいつがアンジーの研究教室に押し入って殺ったんだ！
+msgctxt "0007 | c03_234_001 | C014_Iruma"
 msgid ""
 "He forced his way\n"
 "into Angie's research\n"
 "lab and killed her!"
 msgstr ""
 
-msgctxt "0009"
+#. 彼は<CLT=cltWEAK>アンジー<CLT=cltNORMAL>
+#. さんの教室には
+#. 入れなかったんだよ。
+msgctxt "0008 | c03_234_001 | C000_Saiha"
 msgid ""
 "But he couldn't\n"
 "get into\n"
@@ -66,7 +85,8 @@ msgid ""
 "research lab..."
 msgstr ""
 
-msgctxt "0010"
+#. 彼はアンジーさんの教室には入れなかったんだよ。
+msgctxt "0009 | c03_234_001 | C000_Saiha"
 msgid ""
 "But he couldn't\n"
 "get into\n"
@@ -74,29 +94,38 @@ msgid ""
 "research lab..."
 msgstr ""
 
-msgctxt "0011"
+#. アンジー
+msgctxt "0010 | c03_234_001 | C000_Saiha"
 msgid "Angie"
 msgstr ""
 
-msgctxt "0012"
+#. アンジー
+msgctxt "0011 | c03_234_001 | C000_Saiha"
 msgid "Angie"
 msgstr ""
 
-msgctxt "0013"
+#. 凶器の刀も、
+#. 真宮寺の
+#. <CLT=cltWEAK>研究教室<CLT=cltNORMAL>に
+#. あったんだぜ！？
+msgctxt "0012 | c03_234_001 | C001_Momot"
 msgid ""
 "The katana\n"
 "was found\n"
 "in Kiyo's <CLT=cltWEAK>lab<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0014"
+#. 凶器の刀も、真宮寺の研究教室にあったんだぜ！？
+msgctxt "0013 | c03_234_001 | C001_Momot"
 msgid ""
 "The katana\n"
 "was found\n"
 "in Kiyo's lab!"
 msgstr ""
 
-msgctxt "0015"
+#. 僕の<CLT=cltWEAK>研究教室<CLT=cltNORMAL>には、
+#. 誰でも入れたヨ。
+msgctxt "0014 | c03_234_001 | C006_Shing"
 msgid ""
 "Anyone\n"
 "could have\n"
@@ -104,7 +133,8 @@ msgid ""
 "my <CLT=cltWEAK>lab<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0016"
+#. 僕の研究教室には、誰でも入れたヨ。
+msgctxt "0015 | c03_234_001 | C006_Shing"
 msgid ""
 "Anyone\n"
 "could have\n"
@@ -112,15 +142,20 @@ msgid ""
 "my lab."
 msgstr ""
 
-msgctxt "0017"
+#. 研究教室
+msgctxt "0016 | c03_234_001 | C006_Shing"
 msgid "Lab"
 msgstr ""
 
-msgctxt "0018"
+#. 研究教室
+msgctxt "0017 | c03_234_001 | C006_Shing"
 msgid "Lab"
 msgstr ""
 
-msgctxt "0019"
+#. 茶柱さんを
+#. 殺したのに
+#. <CLT=cltWEAK>クロ<CLT=cltNORMAL>じゃないの？
+msgctxt "0018 | c03_234_001 | C004_Gokuh"
 msgid ""
 "So Kiyo\n"
 "did kill Tenko,\n"
@@ -128,34 +163,45 @@ msgid ""
 "<CLT=cltWEAK>blackened<CLT=cltNORMAL>?"
 msgstr ""
 
-msgctxt "0020"
+#. 茶柱さんを殺したのにクロじゃないの？
+msgctxt "0019 | c03_234_001 | C004_Gokuh"
 msgid ""
 "So Kiyo did kill Tenko,\n"
 "but he not blackened?"
 msgstr ""
 
-msgctxt "0021"
+#. だから<CLT=cltWEAK>クロ<CLT=cltNORMAL>が
+#. ２人いた可能性が
+#. あるんだって。
+msgctxt "0020 | c03_234_001 | C005_Oma__"
 msgid ""
 "Perhaps there's a\n"
 "second <CLT=cltWEAK>blackened<CLT=cltNORMAL>\n"
 "we need to find."
 msgstr ""
 
-msgctxt "0022"
+#. だからクロが２人いた可能性があるんだって。
+msgctxt "0021 | c03_234_001 | C005_Oma__"
 msgid ""
 "Perhaps there's a second blackened\n"
 "we need to find."
 msgstr ""
 
-msgctxt "0023"
+#. クロ
+msgctxt "0022 | c03_234_001 | C005_Oma__"
 msgid "Blackened"
 msgstr ""
 
-msgctxt "0024"
+#. クロ
+msgctxt "0023 | c03_234_001 | C005_Oma__"
 msgid "Blackened"
 msgstr ""
 
-msgctxt "0025"
+#. 最初から追加
+#. <CLT=cltWEAK>ルール<CLT=cltNORMAL>を
+#. 盾にする気
+#. だったんだよ。
+msgctxt "0024 | c03_234_001 | C010_Haruk"
 msgid ""
 "He was planning to\n"
 "use the new <CLT=cltWEAK>rule<CLT=cltNORMAL>\n"
@@ -163,13 +209,18 @@ msgid ""
 "all along."
 msgstr ""
 
-msgctxt "0026"
+#. 最初から追加ルールを盾にする気だったんだよ。
+msgctxt "0025 | c03_234_001 | C010_Haruk"
 msgid ""
 "He was planning to use the new rule\n"
 "to protect himself all along."
 msgstr ""
 
-msgctxt "0027"
+#. それは無いヨ。
+#. <CLT=cltWEAK>ルール<CLT=cltNORMAL>の追加は
+#. ２人が殺害
+#. された後だ。
+msgctxt "0026 | c03_234_001 | C006_Shing"
 msgid ""
 "Not possible.\n"
 "That <CLT=cltWEAK>rule<CLT=cltNORMAL> \n"
@@ -177,7 +228,9 @@ msgid ""
 "after both murders."
 msgstr ""
 
-msgctxt "0028"
+#. それは無いヨ。
+#. ルールの追加は２人が殺害された後だ。
+msgctxt "0027 | c03_234_001 | C006_Shing"
 msgid ""
 "Not possible.\n"
 "That rule\n"
@@ -185,15 +238,20 @@ msgid ""
 "after both murders."
 msgstr ""
 
-msgctxt "0029"
+#. ルール
+msgctxt "0028 | c03_234_001 | C006_Shing"
 msgid "Rule"
 msgstr ""
 
-msgctxt "0030"
+#. ルール
+msgctxt "0029 | c03_234_001 | C006_Shing"
 msgid "Rule"
 msgstr ""
 
-msgctxt "0031"
+#. 茶柱さん殺害の
+#. <CLT=cltWEAK>謎<CLT=cltNORMAL>は解けたんだし…
+#. 投票じゃダメなの？
+msgctxt "0030 | c03_234_001 | C012_Shiro"
 msgid ""
 "We solved the\n"
 "<CLT=cltWEAK>mystery<CLT=cltNORMAL> of Tenko's\n"
@@ -201,13 +259,18 @@ msgid ""
 "just vote now?"
 msgstr ""
 
-msgctxt "0032"
+#. 茶柱さん殺害の謎は解けたんだし…
+#. 投票じゃダメなの？
+msgctxt "0031 | c03_234_001 | C012_Shiro"
 msgid ""
 "We solved the mystery of Tenko's\n"
 "death... Can't we just vote now?"
 msgstr ""
 
-msgctxt "0033"
+#. いや、彼女の事件
+#. にもまだ<CLT=cltWEAK>謎<CLT=cltNORMAL>は
+#. 残っているんだ！
+msgctxt "0032 | c03_234_001 | C000_Saiha"
 msgid ""
 "Not yet!\n"
 "There's still\n"
@@ -215,7 +278,8 @@ msgid ""
 "to solve!"
 msgstr ""
 
-msgctxt "0034"
+#. いや、彼女の事件にもまだ謎は残っているんだ！
+msgctxt "0033 | c03_234_001 | C000_Saiha"
 msgid ""
 "Not yet!\n"
 "There's still\n"
@@ -223,10 +287,12 @@ msgid ""
 "to solve!"
 msgstr ""
 
-msgctxt "0035"
+#. 謎
+msgctxt "0034 | c03_234_001 | C000_Saiha"
 msgid "Mystery"
 msgstr ""
 
-msgctxt "0036"
+#. 謎
+msgctxt "0035 | c03_234_001 | C000_Saiha"
 msgid "Mystery"
 msgstr ""

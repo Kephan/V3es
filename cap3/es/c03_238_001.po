@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,43 +11,56 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=size2>　　　夜長<CLT=size1>さんは
+msgctxt "0000 | c03_238_001 | C006_Shing"
 msgid "<CLT=size2>　　　Angie<CLT=size1> was"
 msgstr ""
 
-msgctxt "0002"
+#. 夜長さんは最初に空き部屋で襲われて…
+msgctxt "0001 | c03_238_001 | C006_Shing"
 msgid "Angie was attacked in the empty room first..."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=size2>　　　最初<CLT=size1>に
+msgctxt "0002 | c03_238_001 | C006_Shing"
 msgid "<CLT=size2>　　　attacked"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=size2>　　　空き部屋<CLT=size1>で
+msgctxt "0003 | c03_238_001 | C006_Shing"
 msgid "<CLT=size2>　　　<CLT=size1>in the empty room"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=size2>　　　<CLT=size1>襲われて…
+msgctxt "0004 | c03_238_001 | C006_Shing"
 msgid "<CLT=size2>　　　first..."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=size2>研究教室<CLT=size1>に<CLT=size2>　　　
+msgctxt "0005 | c03_238_001 | C006_Shing"
 msgid "And then<CLT=size2>　　　"
 msgstr ""
 
-msgctxt "0007"
+#. 研究教室に運ばれてきたって？
+msgctxt "0006 | c03_238_001 | C006_Shing"
 msgid "And then carried into the research lab?<CLT=size2>　　　"
 msgstr ""
 
-msgctxt "0008"
+#. 運ばれて<CLT=size2>　　　
+msgctxt "0007 | c03_238_001 | C006_Shing"
 msgid "<CLT=size2>carried　　　"
 msgstr ""
 
-msgctxt "0009"
+#. きたって？<CLT=size2>　　　
+msgctxt "0008 | c03_238_001 | C006_Shing"
 msgid "into the research lab?<CLT=size2>　　　"
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=size2>あり得ない！
+#. <CLT=size3>　
+#. 　
+#. 　
+msgctxt "0009 | c03_238_001 | C006_Shing"
 msgid ""
 "<CLT=size2>Impossible!\n"
 "<CLT=size3>　\n"
@@ -55,11 +68,16 @@ msgid ""
 "　"
 msgstr ""
 
-msgctxt "0011"
+#. あり得ない！　あり得ないヨ！
+msgctxt "0010 | c03_238_001 | C006_Shing"
 msgid "Impossible! Impossible!"
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=size3>　
+#. 　
+#. 　
+#. <CLT=size2>あり得ないヨ！
+msgctxt "0011 | c03_238_001 | C006_Shing"
 msgid ""
 "<CLT=size3>　\n"
 "　\n"
@@ -67,113 +85,145 @@ msgid ""
 "<CLT=size2>Impossible!"
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=size2>　　<CLT=size1>そんなのは
+msgctxt "0012 | c03_238_001 | C006_Shing"
 msgid "<CLT=size2>　　<CLT=size1>That's"
 msgstr ""
 
-msgctxt "0014"
+#. そんなのはただの妄想だッ！
+msgctxt "0013 | c03_238_001 | C006_Shing"
 msgid "That's nothing but a delusion!"
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=size2>　　ただ<CLT=size1>の
+msgctxt "0014 | c03_238_001 | C006_Shing"
 msgid "<CLT=size2>　　<CLT=size1>nothing"
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=size2>　　妄想<CLT=size1>だッ！
+msgctxt "0015 | c03_238_001 | C006_Shing"
 msgid "<CLT=size2>　　<CLT=size1>but a delusion!"
 msgstr ""
 
-msgctxt "0017"
+#. いつからここは
+#. <CLT=size2>妄想<CLT=size1>を<CLT=size2>語る場<CLT=size1>に
+#. なったのサ！
+msgctxt "0016 | c03_238_001 | C006_Shing"
 msgid ""
 "You intend to <CLT=size2>poison\n"
 "<CLT=size1>our <CLT=size2>minds<CLT=size1> with\n"
 "your <CLT=size2>delusions!?"
 msgstr ""
 
-msgctxt "0018"
+#. いつからここは妄想を語る場になったのサ！
+msgctxt "0017 | c03_238_001 | C006_Shing"
 msgid ""
 "You intend to poison our minds\n"
 "with your delusions!?"
 msgstr ""
 
-msgctxt "0019"
+#. 妄想…なんかじゃない…
+msgctxt "0018 | c03_238_001 | C000_Saiha"
 msgid "It's no delusion."
 msgstr ""
 
-msgctxt "0020"
+#. 妄想…なんかじゃない。
+#. アンジーさんの２つの外傷が物語っているんだ。
+msgctxt "0019 | c03_238_001 | C000_Saiha"
 msgid ""
 "It's no delusion.\n"
 "Angie's two external wounds\n"
 "tell the story."
 msgstr ""
 
-msgctxt "0021"
+#. アンジーさんの<CLT=size2>２つ<CLT=size1>の<CLT=size2>外傷<CLT=size1>
+#. が物語っているんだ。
+msgctxt "0020 | c03_238_001 | C000_Saiha"
 msgid ""
 "Angie's <CLT=size2>two external wounds<CLT=size1>\n"
 "tell the story."
 msgstr ""
 
-msgctxt "0022"
+#. 彼女は<CLT=size2>空き部屋<CLT=size1>で<CLT=size2>殴打<CLT=size1>された後、
+msgctxt "0021 | c03_238_001 | C000_Saiha"
 msgid ""
 "After she was <CLT=size2>struck\n"
 "<CLT=size1>in the <CLT=size2>empty room,"
 msgstr ""
 
-msgctxt "0023"
+#. 彼女は空き部屋で殴打された後、
+#. 美術部の研究教室に運ばれてから殺されたんだ！
+msgctxt "0022 | c03_238_001 | C000_Saiha"
 msgid ""
 "After she was struck in the empty room,\n"
 "she was carried to the art research lab\n"
 "and then killed!"
 msgstr ""
 
-msgctxt "0024"
+#. 美術部の<CLT=size2>研究教室<CLT=size1>に運ばれてから
+#. <CLT=size2>殺された<CLT=size1>んだ！
+msgctxt "0023 | c03_238_001 | C000_Saiha"
 msgid ""
 "she was carried to\n"
 "the <CLT=size2>art research lab<CLT=size1>\n"
 "and then <CLT=size2>killed!"
 msgstr ""
 
-msgctxt "0025"
+#. <CLT=size2>犯人<CLT=size1>が<CLT=size2>　　　
+msgctxt "0024 | c03_238_001 | C006_Shing"
 msgid "You say<CLT=size2>　　　"
 msgstr ""
 
-msgctxt "0026"
+#. 犯人が傷を負った夜長さんを運んだの？
+msgctxt "0025 | c03_238_001 | C006_Shing"
 msgid "You say the culprit carried Angie's body?<CLT=size2>　　　"
 msgstr ""
 
-msgctxt "0027"
+#. 傷を負った<CLT=size2>　　　
+msgctxt "0026 | c03_238_001 | C006_Shing"
 msgid "the <CLT=size2>culprit　　　"
 msgstr ""
 
-msgctxt "0028"
+#. <CLT=size2>夜長<CLT=size1>さんを<CLT=size2>　　　
+msgctxt "0027 | c03_238_001 | C006_Shing"
 msgid "carried<CLT=size2>　　　"
 msgstr ""
 
-msgctxt "0029"
+#. 運んだの？<CLT=size2>　　　
+msgctxt "0028 | c03_238_001 | C006_Shing"
 msgid "<CLT=size2>Angie's<CLT=size1> body?<CLT=size2>　　　"
 msgstr ""
 
-msgctxt "0030"
+#. <CLT=size2>　　　運ぶ
+msgctxt "0029 | c03_238_001 | C006_Shing"
 msgid "<CLT=size2>　　　And"
 msgstr ""
 
-msgctxt "0031"
+#. 運ぶ時に血痕は落ちなかったの！？
+msgctxt "0030 | c03_238_001 | C006_Shing"
 msgid "And not a single drop of blood fell!?"
 msgstr ""
 
-msgctxt "0032"
+#. <CLT=size2>　　　時<CLT=size1>に
+msgctxt "0031 | c03_238_001 | C006_Shing"
 msgid "<CLT=size2>　　　not<CLT=size1> a"
 msgstr ""
 
-msgctxt "0033"
+#. <CLT=size2>　　　血痕<CLT=size1>は
+msgctxt "0032 | c03_238_001 | C006_Shing"
 msgid "<CLT=size2>　　　<CLT=size1>single drop"
 msgstr ""
 
-msgctxt "0034"
+#. <CLT=size2>　　　<CLT=size1>落ちなかったの！？
+msgctxt "0033 | c03_238_001 | C006_Shing"
 msgid "<CLT=size2>　　　<CLT=size1>of <CLT=size2>blood<CLT=size1> fell!?"
 msgstr ""
 
-msgctxt "0035"
+#. <CLT=size2>廊下<CLT=size1>にも<CLT=size2>空き部屋<CLT=size1>にも
+#. <CLT=size3>　
+#. 　
+#. 　
+msgctxt "0034 | c03_238_001 | C006_Shing"
 msgid ""
 "The <CLT=size2>hallway<CLT=size1> and\n"
 "<CLT=size2>empty room<CLT=size1> had\n"
@@ -182,11 +232,16 @@ msgid ""
 "　"
 msgstr ""
 
-msgctxt "0036"
+#. 廊下にも空き部屋にも血痕はない！
+msgctxt "0035 | c03_238_001 | C006_Shing"
 msgid "The hallway and empty room had no bloodstains!"
 msgstr ""
 
-msgctxt "0037"
+#. <CLT=size3>　
+#. 　
+#. 　
+#. <CLT=cltWEAK><CLT=size2>血痕はない！
+msgctxt "0036 | c03_238_001 | C006_Shing"
 msgid ""
 "<CLT=size3>　\n"
 "　\n"
@@ -194,53 +249,66 @@ msgid ""
 "<CLT=cltWEAK><CLT=size1>no <CLT=size2>bloodstains!"
 msgstr ""
 
-msgctxt "0038"
+#. 後で拭き取ったにしても…
+msgctxt "0037 | c03_238_001 | C006_Shing"
 msgid ""
 "Even if you wiped\n"
 "them down later,"
 msgstr ""
 
-msgctxt "0039"
+#. 後で拭き取ったにしても…
+msgctxt "0038 | c03_238_001 | C006_Shing"
 msgid "Even if you wiped them down later,"
 msgstr ""
 
-msgctxt "0040"
+#. その<CLT=size2>痕跡<CLT=size1>や
+msgctxt "0039 | c03_238_001 | C006_Shing"
 msgid "there'd still"
 msgstr ""
 
-msgctxt "0041"
+#. その痕跡や証拠が残ってるはずだヨ！？
+msgctxt "0040 | c03_238_001 | C006_Shing"
 msgid "there'd still be traces of evidence left behind!"
 msgstr ""
 
-msgctxt "0042"
+#. <CLT=size2>証拠<CLT=size1>が
+msgctxt "0041 | c03_238_001 | C006_Shing"
 msgid "be <CLT=size2>traces"
 msgstr ""
 
-msgctxt "0043"
+#. 残ってる
+msgctxt "0042 | c03_238_001 | C006_Shing"
 msgid "of <CLT=size2>evidence"
 msgstr ""
 
-msgctxt "0044"
+#. はずだヨ！？
+msgctxt "0043 | c03_238_001 | C006_Shing"
 msgid "left behind!"
 msgstr ""
 
-msgctxt "0045"
+#. <CLT=size2>でも、
+msgctxt "0044 | c03_238_001 | C006_Shing"
 msgid "<CLT=size2>But"
 msgstr ""
 
-msgctxt "0046"
+#. でも、どこにも証拠はなかったよネ！？
+msgctxt "0045 | c03_238_001 | C006_Shing"
 msgid "But there was no evidence anywhere, was there, Shuichi!?"
 msgstr ""
 
-msgctxt "0047"
+#. <CLT=cltWEAK>どこにも<CLT=size2>証拠<CLT=size1>はなかった
+msgctxt "0046 | c03_238_001 | C006_Shing"
 msgid "<CLT=cltWEAK>there was no <CLT=size2>evidence<CLT=size1> anywhere,"
 msgstr ""
 
-msgctxt "0048"
+#. <CLT=size2>よネ！？
+msgctxt "0047 | c03_238_001 | C006_Shing"
 msgid "<CLT=size1>was there, <CLT=size2>Shuichi!?"
 msgstr ""
 
-msgctxt "0049"
+#. ご、ごめん…
+#. もう一度最初から話してくれないかな？
+msgctxt "0048 | c03_238_001 | C000_Saiha"
 msgid ""
 "I'm sorry...\n"
 "Could you start over from the beginning?"

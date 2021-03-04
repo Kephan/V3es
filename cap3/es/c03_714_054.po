@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,51 +11,64 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. なんだ、ハメ原か！
+#. どーした、欲求不満を垂れ流してる面しやがって！
+msgctxt "0000 | c03_714_054 | C014_Iruma"
 msgid ""
 "Man, Shuichi! You're lookin' even more\n"
 "pent up than usual!"
 msgstr ""
 
-msgctxt "0002"
+#. 未使用
+msgctxt "0001 | c03_714_054 | C014_Iruma"
 msgid ""
 "<CLT=cltMIND>Should I hang out with Miu for a while?\n"
 "Even though it might not be safe to ask..."
 msgstr ""
 
-msgctxt "0003"
+#. はい
+msgctxt "0002 | c03_714_054 | C014_Iruma"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0004"
+#. いいえ
+msgctxt "0003 | c03_714_054 | C014_Iruma"
 msgid "No"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_714_054 | C014_Iruma"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>…どうしよう？
+#. こんな入間さんを誘うのか？
+msgctxt "0005 | c03_714_054 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Should I hang out with Miu for a while?\n"
 "Even though it might not be safe to ask..."
 msgstr ""
 
-msgctxt "0007"
+#. ちょっ…
+#. ホントに欲求不満なのか、テメー…
+msgctxt "0006 | c03_714_054 | C014_Iruma"
 msgid "Hey... Are you really that pent up?"
 msgstr ""
 
-msgctxt "0008"
+#. だ、だが、オレ様はそんなに安くねーぞ！？
+msgctxt "0007 | c03_714_054 | C014_Iruma"
 msgid "C-Cuz...I'm not THAT easy, y'know!"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>入間さんと、微妙に距離のある時間を過ごした…
+msgctxt "0008 | c03_714_054 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I spent some time with Miu,\n"
 "but she seemed oddly distant..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>入間さんと少し仲良くなってしまった…
+msgctxt "0009 | c03_714_054 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I somehow ended up growing\n"
 "a little closer to Miu..."

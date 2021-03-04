@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,13 +11,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. さて、投票が終わったようなので、
+#. それでは、結果発表でーす！
+msgctxt "0000 | c03_245_000 | C020_Monok"
 msgid ""
 "Now then, it seems the voting has finished. \n"
 "Let's see the result."
 msgstr ""
 
-msgctxt "0002"
+#. 投票の結果、クロとなるのは誰か！？
+#. その答えは正解なのか不正解なのかー！？
+msgctxt "0001 | c03_245_000 | C020_Monok"
 msgid ""
 "Who'll be chosen as the blackened!? Will you make\n"
 "the right choice or the dreadfully wrong one!?"

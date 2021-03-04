@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,971 +11,1270 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. うわー、マジかー！
+#. またまた大正解だー！
+msgctxt "0000 | c03_300_332 | C020_Monok"
 msgid "Wow! Seriously!? You're correct again!"
 msgstr ""
 
-msgctxt "0002"
+#. な、なんとっ！　これで３回連続正解だぁーーー！！
+msgctxt "0001 | c03_300_332 | C020_Monok"
 msgid ""
 "A-Amazing! This is the third correct\n"
 "verdict in a row!"
 msgstr ""
 
-msgctxt "0003"
+#. じゃあ、後１２回連続正解すれば、
+#. ボーナスチャレンジだね！
+msgctxt "0002 | c03_300_332 | C021_Mtaro"
 msgid ""
 "If you manage to get 12 correct verdicts in\n"
 "a row, you'll proceed to the bonus round!"
 msgstr ""
 
-msgctxt "0004"
+#. これ、そんなに続くのっ！？
+msgctxt "0003 | c03_300_332 | C023_Mfunn"
 msgid "How's this gonna last that long!?"
 msgstr ""
 
-msgctxt "0005"
+#. ………………
+msgctxt "0004 | c03_300_332 | C024_Mdam_"
 msgid "..."
 msgstr "..."
 
-msgctxt "0006"
+#. …ようやく終わりましたね。
+msgctxt "0005 | c03_300_332 | C007_Ki-Bo"
 msgid "...It's finally over."
 msgstr ""
 
-msgctxt "0007"
+#. …いや、まだじゃ。
+#. ウチはまだ…聞いておらん。
+msgctxt "0006 | c03_300_332 | C009_Yumen"
 msgid ""
 "No, not yet.\n"
 "I haven't...heard his answer yet."
 msgstr ""
 
-msgctxt "0008"
+#. 真宮寺よ…なぜじゃ？
+#. なぜ…お主はアンジーと転子を殺したんじゃ？
+msgctxt "0007 | c03_300_332 | C009_Yumen"
 msgid ""
 "Kiyo...why?\n"
 "Why did you kill Angie and Tenko?"
 msgstr ""
 
-msgctxt "0009"
+#. そうだよっ！　どんな<CLT=cltSTRONG>“動機”<CLT=cltNORMAL>があったとしても、
+#. ２人も殺す必要なかったじゃないかっ！
+msgctxt "0008 | c03_300_332 | C004_Gokuh"
 msgid ""
 "Yeah! He no need to kill them both, no\n"
 "matter what <CLT=cltSTRONG>motive<CLT=cltNORMAL> he have!"
 msgstr ""
 
-msgctxt "0010"
+#. …動機？
+msgctxt "0009 | c03_300_332 | C006_Shing"
 msgid "Motive?"
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>による転校生…ってヤツのせい？
+msgctxt "0010 | c03_300_332 | C012_Shiro"
 msgid ""
 "Did your motive have something to do with \n"
 "the transfer student who was <CLT=cltSTRONG>resurrected<CLT=cltNORMAL>?"
 msgstr ""
 
-msgctxt "0012"
+#. でも、あんな動機が
+#. どうして人殺しの引き金になったの？
+msgctxt "0011 | c03_300_332 | C012_Shiro"
 msgid ""
 "Even if it did, though...\n"
 "How did that trigger a murder?"
 msgstr ""
 
-msgctxt "0013"
+#. 百田ちゃんみたいに、
+#. <CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>が怖いから…なんて理由じゃないよね？
+msgctxt "0012 | c03_300_332 | C005_Oma__"
 msgid ""
 "Don't tell me... Were you actually scared of\n"
 "the <CLT=cltSTRONG>resurrection ritual<CLT=cltNORMAL>, Kaito?"
 msgstr ""
 
-msgctxt "0014"
+#. う、うるせーよ…！
+#. 誰も怖いなんて言ってねーだろ…！
+msgctxt "0013 | c03_300_332 | C001_Momot"
 msgid ""
 "Sh-Shut up!\n"
 "I never said I was scared!"
 msgstr ""
 
-msgctxt "0015"
+#. ククク…<CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>なんて関係ないヨ。
+msgctxt "0014 | c03_300_332 | C006_Shing"
 msgid ""
 "Kehehe... The <CLT=cltSTRONG>resurrection ritual<CLT=cltNORMAL>\n"
 "had nothing to do with it."
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>…え？
+msgctxt "0015 | c03_300_332 | chara_Blank"
 msgid "<CLT=cltMIND>Nothing to do with it...?"
 msgstr ""
 
-msgctxt "0017"
+#. 仲間として、最後に話しておくけど…
+#. 僕は最初から<CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>なんて信じてないからネ。
+msgctxt "0016 | c03_300_332 | C006_Shing"
 msgid ""
 "Because we're friends, I'll tell you...\n"
 "I never once believed in the <CLT=cltSTRONG>ritual<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0018"
+#. そんな事の為に…人を殺したりはしないヨ。
+msgctxt "0017 | c03_300_332 | C006_Shing"
 msgid ""
 "I would never kill someone\n"
 "over such a silly thing as that."
 msgstr ""
 
-msgctxt "0019"
+#. …あの動機は関係ないって事？
+msgctxt "0018 | c03_300_332 | C010_Haruk"
 msgid "...So it has nothing to do with the motive?"
 msgstr ""
 
-msgctxt "0020"
+#. だ、だったら…なぜなんじゃ？
+msgctxt "0019 | c03_300_332 | C009_Yumen"
 msgid "Th-Then...why?"
 msgstr ""
 
-msgctxt "0021"
+#. 愛する人の為…だよ。
+msgctxt "0020 | c03_300_332 | C006_Shing"
 msgid "For the one that I love..."
 msgstr ""
 
-msgctxt "0022"
+#. 僕には…愛する人がいるんだ。
+msgctxt "0021 | c03_300_332 | C006_Shing"
 msgid "There is...someone that I love."
 msgstr ""
 
-msgctxt "0023"
+#. 心の底から愛している…
+#. とてもとても…愛おしくて大事な人がネ。
+msgctxt "0022 | c03_300_332 | C006_Shing"
 msgid ""
 "From the bottom of my heart.\n"
 "Someone so dear...someone I long for."
 msgstr ""
 
-msgctxt "0024"
+#. 僕は…彼女を心の底から愛している。
+#. そして、彼女も心の底から僕を愛してくれている…
+msgctxt "0023 | c03_300_332 | C006_Shing"
 msgid ""
 "I love her with all my heart.\n"
 "And she loves me with all her heart."
 msgstr ""
 
-msgctxt "0025"
+#. そう、僕らは永遠の愛を誓い合った、
+#. 運命の恋人同士なんだヨ。
+msgctxt "0024 | c03_300_332 | C006_Shing"
 msgid ""
 "Yes, we vowed an endless love to\n"
 "each other...forever bound by fate."
 msgstr ""
 
-msgctxt "0026"
+#. 強い愛で結ばれている僕らを、
+#. 何人たりともジャマする事はできない…
+msgctxt "0025 | c03_300_332 | C006_Shing"
 msgid ""
 "None can come between us.\n"
 "We are bound by an intense love..."
 msgstr ""
 
-msgctxt "0027"
+#. …周りから何を言われようともネ。
+msgctxt "0026 | c03_300_332 | C006_Shing"
 msgid "No matter what anyone says."
 msgstr ""
 
-msgctxt "0028"
+#. 不意打ちのリア充自慢かよ…！
+#. クソッ！　一番効くヤツじゃねーか…！
+msgctxt "0027 | c03_300_332 | C014_Iruma"
 msgid ""
 "Braggin' about your perfect love life!?\n"
 "Fuck you! Some of us aren't that lucky...!"
 msgstr ""
 
-msgctxt "0029"
+#. テメーはその恋人に会う為に、
+#. どうしても外に出たかったって訳か…
+msgctxt "0028 | c03_300_332 | C001_Momot"
 msgid ""
 "So to see this lover of yours,\n"
 "you had to escape..."
 msgstr ""
 
-msgctxt "0030"
+#. その為に…アンジーと転子を犠牲にしたのか？
+#. じゃが、どうして２人も殺す必要が――
+msgctxt "0029 | c03_300_332 | C009_Yumen"
 msgid ""
 "That's why you killed Angie and Tenko?\n"
 "But, why did you need to kill both-"
 msgstr ""
 
-msgctxt "0031"
+#. 外に出る為に殺したのかと問われれば、
+#. 『それは違う』と僕は答えるヨ。
+msgctxt "0030 | c03_300_332 | C006_Shing"
 msgid ""
 "If you asked if I did it to escape this\n"
 "place, my answer would be... \"No.\""
 msgstr ""
 
-msgctxt "0032"
+#. だって、外に出る必要なんてないからネ。
+#. 僕の愛する人は…この中にいるんだからサ。
+msgctxt "0031 | c03_300_332 | C006_Shing"
 msgid ""
 "Because I have no need to escape \n"
 "this place. The one I love...is inside."
 msgstr ""
 
-msgctxt "0033"
+#. <CLT=cltMIND>えっ？　この中に？
+msgctxt "0032 | c03_300_332 | chara_Blank"
 msgid "<CLT=cltMIND>Inside?"
 msgstr ""
 
-msgctxt "0034"
+#. オ、オレ様じゃねーぞ！
+#. オレ様は…あんなヤツの恋人じゃねー！
+msgctxt "0033 | c03_300_332 | C014_Iruma"
 msgid ""
 "D-Don't look at me!\n"
 "I...I'm not his lover!"
 msgstr ""
 
-msgctxt "0035"
+#. まぁ、キミみたいな下品なスカトロビッチなんて、
+#. 誰も好きになる訳ないからね。
+msgctxt "0034 | c03_300_332 | C005_Oma__"
 msgid ""
 "Calm down, no one would want a disgusting\n"
 "shit-stuffed bitch like you anyway."
 msgstr ""
 
-msgctxt "0036"
+#. ぶりゅりゅりゅりゅりゅ！
+msgctxt "0035 | c03_300_332 | C014_Iruma"
 msgid "Wh-Wh-What the what!?!?"
 msgstr ""
 
-msgctxt "0037"
+#. 真宮寺！　誰なんだよ！？
+#. テメーの愛する人ってのは誰なんだっ！？
+msgctxt "0036 | c03_300_332 | C001_Momot"
 msgid ""
 "Kiyo! Who is it!?\n"
 "Who's this person you love!?"
 msgstr ""
 
-msgctxt "0038"
+#. …本当に私達の中にいるの？
+msgctxt "0037 | c03_300_332 | C010_Haruk"
 msgid "...Is it really one of us?"
 msgstr ""
 
-msgctxt "0039"
+#. ンー…『この中にいる』と言っても、
+#. みんなの中にいるって意味じゃなくて…
+msgctxt "0038 | c03_300_332 | C006_Shing"
 msgid ""
 "Mmm... When I say \"inside,\" \n"
 "I do not mean \"inside this academy.\""
 msgstr ""
 
-msgctxt "0040"
+#. 僕の中にいる…という意味なんだ。
+msgctxt "0039 | c03_300_332 | C006_Shing"
 msgid "I mean...inside me."
 msgstr ""
 
-msgctxt "0041"
+#. そう、僕の愛する<CLT=cltSTRONG>“姉さん”<CLT=cltNORMAL>は、
+#. 今も僕の中にいるんだヨ！
+msgctxt "0040 | c03_300_332 | C006_Shing"
 msgid ""
 "Yes, the one I love lives inside me.\n"
 "My dearest <CLT=cltSTRONG>Sister<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0042"
+#. ね、姉さん！？
+msgctxt "0041 | c03_300_332 | C004_Gokuh"
 msgid "S-Sister!?"
 msgstr ""
 
-msgctxt "0043"
+#. オ、オレ様じゃねーぞ！
+#. オレ様は…あんなヤツの姉貴じゃねー！
+msgctxt "0042 | c03_300_332 | C014_Iruma"
 msgid ""
 "D-Don't look at me!\n"
 "I...I'm not his sister!"
 msgstr ""
 
-msgctxt "0044"
+#. もちろん、わかってるって。
+#. キミと家族だったらとっくに自殺してるはずだもん。
+msgctxt "0043 | c03_300_332 | C005_Oma__"
 msgid ""
 "Well, duh. If you were his sister, he\n"
 "would've killed himself already."
 msgstr ""
 
-msgctxt "0045"
+#. でも、姉さんって？
+#. さっきは…恋人って言ってなかった？
+msgctxt "0044 | c03_300_332 | C012_Shiro"
 msgid ""
 "Your sister? But...didn't you say \n"
 "she was your lover?"
 msgstr ""
 
-msgctxt "0046"
+#. ククク…不思議な事じゃないヨ。
+#. 姉さんが僕の恋人ってだけだからネ。
+msgctxt "0045 | c03_300_332 | C006_Shing"
 msgid ""
 "Kehehe... It is not that difficult.\n"
 "My sister is my lover."
 msgstr ""
 
-msgctxt "0047"
+#. 僕は彼女を深く愛していた…
+#. そして、彼女は僕を深く愛してくれていた…
+msgctxt "0046 | c03_300_332 | C006_Shing"
 msgid ""
 "I loved her so deeply...\n"
 "And she loved me so deeply..."
 msgstr ""
 
-msgctxt "0048"
+#. そこに…姉弟なんてものは関係ないのサ。
+msgctxt "0047 | c03_300_332 | C006_Shing"
 msgid ""
 "The fact that we were siblings...\n"
 "meant nothing to us."
 msgstr ""
 
-msgctxt "0049"
+#. いくら<CLT=cltSTRONG>“許されない愛”<CLT=cltNORMAL>と言われようと、
+#. 僕らの愛をジャマする事は誰にもできない…
+msgctxt "0048 | c03_300_332 | C006_Shing"
 msgid ""
 "They called it \"<CLT=cltSTRONG>forbidden love<CLT=cltNORMAL>,\" but\n"
 "none could stop the love we shared..."
 msgstr ""
 
-msgctxt "0050"
+#. あァ…姉さんの体温が懐かしいヨ…
+msgctxt "0049 | c03_300_332 | C006_Shing"
 msgid "Ooh... How I long for my sister's warmth..."
 msgstr ""
 
-msgctxt "0051"
+#. 僕は姉さんの体温を感じている時だけ、
+#. 本物の愛を実感する事ができたんだ。
+msgctxt "0050 | c03_300_332 | C006_Shing"
 msgid ""
 "The only time I felt at peace...was when \n"
 "I was enveloped in my sister's warmth!"
 msgstr ""
 
-msgctxt "0052"
+#. だから…そんな愛する姉さんの為に、
+#. 僕はどうしても――
+msgctxt "0051 | c03_300_332 | C006_Shing"
 msgid ""
 "That is why...for my beloved sister...\n"
 "I had to-"
 msgstr ""
 
-msgctxt "0053"
+#. こ、ここから出なきゃいけなかったって話か…！
+msgctxt "0052 | c03_300_332 | C001_Momot"
 msgid "Y-You had to escape from here, right?"
 msgstr ""
 
-msgctxt "0054"
+#. そうじゃなくて…
+#. 彼女の為に殺さなければいけなかったんだ。
+msgctxt "0053 | c03_300_332 | C006_Shing"
 msgid ""
 "No...\n"
 "I had to kill for her."
 msgstr ""
 
-msgctxt "0055"
+#. …え？
+msgctxt "0054 | c03_300_332 | C000_Saiha"
 msgid "...What?"
 msgstr ""
 
-msgctxt "0056"
+#. 姉さんは昔から病気がちでネ…
+msgctxt "0055 | c03_300_332 | C006_Shing"
 msgid "Sister was very sickly..."
 msgstr ""
 
-msgctxt "0057"
+#. 幼い頃から、ずっと入院と退院を繰り返していたんだ。
+msgctxt "0056 | c03_300_332 | C006_Shing"
 msgid ""
 "She was always in and out of the \n"
 "hospital ever since she was a child."
 msgstr ""
 
-msgctxt "0058"
+#. そのせいで友達もいなくて…
+#. 彼女はいつも寂しそうだった。
+msgctxt "0057 | c03_300_332 | C006_Shing"
 msgid ""
 "Because of that, she didn't have many \n"
 "friends. She always seemed so lonely..."
 msgstr ""
 
-msgctxt "0059"
+#. 悲しいけど…僕では弟や恋人になれたとしても、
+#. 姉さんの友達にはなれないだろ？
+msgctxt "0058 | c03_300_332 | C006_Shing"
 msgid ""
 "Even if I could be her little brother \n"
 "and her lover, I couldn't be her friend."
 msgstr ""
 
-msgctxt "0060"
+#. だから、僕が友達を作ってあげようと思ったんだ。
+#. <CLT=cltSTRONG>“死んだ姉さん”<CLT=cltNORMAL>の為にネ。
+msgctxt "0059 | c03_300_332 | C006_Shing"
 msgid ""
 "So I thought I'd find her some friends.\n"
 "Friends for my <CLT=cltSTRONG>dear deceased sister<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0061"
+#. し、死んだ…？
+msgctxt "0060 | c03_300_332 | C000_Saiha"
 msgid "Deceased...?"
 msgstr ""
 
-msgctxt "0062"
+#. 霊になった姉さんの友達なんだから、
+#. 同じく、霊になって貰わないとダメでしョ？
+msgctxt "0061 | c03_300_332 | C006_Shing"
 msgid ""
 "My sister is now a ghost, so her\n"
 "friends should be ghosts, too, right?"
 msgstr ""
 
-msgctxt "0063"
+#. その為に…僕はいっぱい殺したヨ！
+#. 友達１００人目指してネ！
+msgctxt "0062 | c03_300_332 | C006_Shing"
 msgid ""
 "For Sister's sake...I've killed many!\n"
 "To send her 100 friends!"
 msgstr ""
 
-msgctxt "0064"
+#. みんな、姉さんの友達に相応しい、
+#. 素晴らしい人達だったヨ！
+msgctxt "0063 | c03_300_332 | C006_Shing"
 msgid ""
 "They were all wonderful people!\n"
 "Worthy of being Sister's friends!"
 msgstr ""
 
-msgctxt "0065"
+#. な、何を…言ってるの？
+msgctxt "0064 | c03_300_332 | C004_Gokuh"
 msgid "Wh-What...?"
 msgstr ""
 
-msgctxt "0066"
+#. 理解不能です…！
+#. あまりにも…理解不能過ぎます…！
+msgctxt "0065 | c03_300_332 | C007_Ki-Bo"
 msgid ""
 "This is too impossible to understand...!\n"
 "Too...impossible!"
 msgstr ""
 
-msgctxt "0067"
+#. ククク…姉さんはとても喜んでくれてたヨ。
+msgctxt "0066 | c03_300_332 | C006_Shing"
 msgid "Kehehe... Sister is very happy."
 msgstr ""
 
-msgctxt "0068"
+#. えぇ、是清…とても嬉しかったわ。
+#. あなたのお陰で寂しくない…ありがとう。
+msgctxt "0067 | c03_300_332 | C006_Shing"
 msgid ""
 "Yes, Korekiyo... I am very happy.\n"
 "Thanks to you, I am not lonely."
 msgstr ""
 
-msgctxt "0069"
+#. も、もしかして…
+#. その…口紅の時の真宮寺君って…
+msgctxt "0068 | c03_300_332 | C012_Shiro"
 msgid ""
 "C-Could it be...that the lipstick\n"
 "version of Kiyo is..."
 msgstr ""
 
-msgctxt "0070"
+#. …是清の姉です。
+#. 弟がいつも世話になっております。
+msgctxt "0069 | c03_300_332 | C006_Shing"
 msgid ""
 "I am Korekiyo's older sister. Thank you \n"
 "for looking after my little brother."
 msgstr ""
 
-msgctxt "0071"
+#. な…なんだよぉ！！
+msgctxt "0070 | c03_300_332 | C001_Momot"
 msgid "Wh-What the hell!?"
 msgstr ""
 
-msgctxt "0072"
+#. 愛する姉さんを病気で失った後、
+#. 僕は悲しくて…気が狂いそうになったんだ…
+msgctxt "0071 | c03_300_332 | C006_Shing"
 msgid ""
 "After I lost my beloved sister, I was \n"
 "so distraught, I nearly went mad."
 msgstr ""
 
-msgctxt "0073"
+#. でも、そんな僕を救ってくれたのは、
+#. やっぱり姉さんだった。
+msgctxt "0072 | c03_300_332 | C006_Shing"
 msgid "But Sister came to save me."
 msgstr ""
 
-msgctxt "0074"
+#. ある時の降霊術で会いに来てくれた姉さんは、
+#. そのまま、僕の中に留まってくれたんだ…
+msgctxt "0073 | c03_300_332 | C006_Shing"
 msgid ""
 "She visited me during one of my\n"
 "seances and stayed inside me..."
 msgstr ""
 
-msgctxt "0075"
+#. ククク…お陰で僕はいつでも姉さんに会えるんだ…
+#. もう寂しくないんだヨ…
+msgctxt "0074 | c03_300_332 | C006_Shing"
 msgid ""
 "Kehehe...now I can see her whenever\n"
 "I want. I'm never lonely..."
 msgstr ""
 
-msgctxt "0076"
+#. 素晴らしいわ、是清…
+#. あなたの愛がこの不可能を可能にしたのよ。
+msgctxt "0075 | c03_300_332 | C006_Shing"
 msgid ""
 "That's wonderful, Korekiyo.\n"
 "Your love made the impossible, possible."
 msgstr ""
 
-msgctxt "0077"
+#. マ、マジ…かよ！
+#. オレは…霊と喋ってんのか！？
+msgctxt "0076 | c03_300_332 | C001_Momot"
 msgid ""
 "A-Are you...serious!?\n"
 "Is this...really a spirit!?"
 msgstr ""
 
-msgctxt "0078"
+#. あんなの…ただの妄想だよ。
+msgctxt "0077 | c03_300_332 | C010_Haruk"
 msgid "He's just delusional..."
 msgstr ""
 
-msgctxt "0079"
+#. うふふ…愛の力を信じられないなんて、
+#. 可哀想な女ね…
+msgctxt "0078 | c03_300_332 | C006_Shing"
 msgid ""
 "Hmhmhm... What a sad girl who can't \n"
 "even believe in the power of love..."
 msgstr ""
 
-msgctxt "0080"
+#. ………………
+msgctxt "0079 | c03_300_332 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0081"
+#. ど、どっちにしろ…完璧にイカれてんな。
+#. だって…死人の為に殺したって事だろ？
+msgctxt "0080 | c03_300_332 | C014_Iruma"
 msgid ""
 "E-Either way, he's totally outta his mind.\n"
 "I mean...he killed for a dead chick."
 msgstr ""
 
-msgctxt "0082"
+#. しかも『いっぱい殺した』って言ってたよね？
+#. それって、今回の２人どころじゃないって事だよね？
+msgctxt "0081 | c03_300_332 | C005_Oma__"
 msgid ""
 "You said you killed a lot already, right? \n"
 "So it wasn't just the two you killed here?"
 msgstr ""
 
-msgctxt "0083"
+#. な、なんじゃと…？
+msgctxt "0082 | c03_300_332 | C009_Yumen"
 msgid "Wh-What?"
 msgstr ""
 
-msgctxt "0084"
+#. にしし…彼がイカれているのは、
+#. ここに来る前からだったみたいだね…
+msgctxt "0083 | c03_300_332 | C005_Oma__"
 msgid ""
 "Nee-heehee... Seems like he was already\n"
 "crazy before he got here..."
 msgstr ""
 
-msgctxt "0085"
+#. だって、キミの目的は、
+#. 『誰かを殺して外に出る』事じゃなくて…
+msgctxt "0084 | c03_300_332 | C005_Oma__"
 msgid ""
 "You didn't kill to escape from here—\n"
 "that wasn't your purpose from the get-go..."
 msgstr ""
 
-msgctxt "0086"
+#. 単に、たくさん殺す事だったんだもんね！？
+msgctxt "0085 | c03_300_332 | C005_Oma__"
 msgid "You just wanted to slaughter a bunch, huh!?"
 msgstr ""
 
-msgctxt "0087"
+#. やめてヨ…僕は無差別殺人鬼じゃないんだ。
+#. 誰でもいいって訳じゃないんだヨ。
+msgctxt "0086 | c03_300_332 | C006_Shing"
 msgid ""
 "Do not make me out to be some\n"
 "bloodthirsty, indiscriminate killer."
 msgstr ""
 
-msgctxt "0088"
+#. 姉さんの友達に相応しいと思った女性しか、
+#. 殺さないんだからサ…
+msgctxt "0087 | c03_300_332 | C006_Shing"
 msgid ""
 "I only kill girls who I think are \n"
 "worthy of being Sister's friends."
 msgstr ""
 
-msgctxt "0089"
+#. …女性？
+msgctxt "0088 | c03_300_332 | C000_Saiha"
 msgid "Only girls?"
 msgstr ""
 
-msgctxt "0090"
+#. そうか…だからキミは、
+#. 降霊術で口寄せ役を決める時に…
+msgctxt "0089 | c03_300_332 | C000_Saiha"
 msgid ""
 "I see... So when we were deciding\n"
 "on who should be the medium..."
 msgstr ""
 
-msgctxt "0091"
+#. その前に、口寄せ役を選ぼうか。
+#. できれば同じ女性がいいんだけど…
+msgctxt "0090 | c03_300_332 | C006_Shing"
 msgid ""
 "Before that, let's choose a spiritual\n"
 "medium. It would work best with a girl..."
 msgstr ""
 
-msgctxt "0092"
+#. 女性がいい…って言ったんだな。
+msgctxt "0091 | c03_300_332 | C000_Saiha"
 msgid "You said it would work best with a girl."
 msgstr ""
 
-msgctxt "0093"
+#. 僕は、ここでの生活を通じて、
+#. じっくりとみんなを観察してきたんだけど…
+msgctxt "0092 | c03_300_332 | C006_Shing"
 msgid ""
 "I spent my time evaluating\n"
 "all the girls here..."
 msgstr ""
 
-msgctxt "0094"
+#. 春川さんと入間さん以外の女性は、
+#. みんな合格だったヨ！
+msgctxt "0093 | c03_300_332 | C006_Shing"
 msgid ""
 "And besides Maki and Miu,\n"
 "they were all worthy!"
 msgstr ""
 
-msgctxt "0095"
+#. みんな、姉さんの友達に相応しい！
+msgctxt "0094 | c03_300_332 | C006_Shing"
 msgid "All worthy of being Sister's friends!"
 msgstr ""
 
-msgctxt "0096"
+#. みんな…相応しいじゃと？
+msgctxt "0095 | c03_300_332 | C009_Yumen"
 msgid "All...worthy?"
 msgstr ""
 
-msgctxt "0097"
+#. つーか、なんでオレ様が外れてんだよっ！
+#. まぁ、いいけどな！
+msgctxt "0096 | c03_300_332 | C014_Iruma"
 msgid ""
 "Hey, how come I'm not included!?\n"
 "I mean, not like I care!"
 msgstr ""
 
-msgctxt "0098"
+#. では…２人目の犠牲者は、
+#. 転子ではなくてウチでも良かったという事か？
+msgctxt "0097 | c03_300_332 | C009_Yumen"
 msgid ""
 "Then...the second vicitim...\n"
 "could've been me?"
 msgstr ""
 
-msgctxt "0099"
+#. だとしたら…転子はウチの身代わりになったのか？
+msgctxt "0098 | c03_300_332 | C009_Yumen"
 msgid "Tenko...died in place of me?"
 msgstr ""
 
-msgctxt "0100"
+#. …であれば、ウチがやるぞ。
+msgctxt "0099 | c03_300_332 | C009_Yumen"
 msgid "Then I'll do it."
 msgstr ""
 
-msgctxt "0101"
+#. アンジーの魂が体に入ってくるなら、
+#. その役はウチ以外には考えられん。
+msgctxt "0100 | c03_300_332 | C009_Yumen"
 msgid ""
 "I can't think of anyone but me\n"
 "that Angie's spirit should go in."
 msgstr ""
 
-msgctxt "0102"
+#. …いいえ、転子がやります。
+msgctxt "0101 | c03_300_332 | C011_Chaba"
 msgid "...No, I'll do it."
 msgstr ""
 
-msgctxt "0103"
+#. もちろん、夢野さんでも良かったけど、
+#. 茶柱さんが名乗り出てくれたのは嬉しかったなァ…
+msgctxt "0102 | c03_300_332 | C006_Shing"
 msgid ""
 "Himiko would've been great, but\n"
 "Tenko volunteering made me so happy..."
 msgstr ""
 
-msgctxt "0104"
+#. 彼女のひたむきな想いは、
+#. 姉さんの友達に相応しい高潔さだったからサ…
+msgctxt "0103 | c03_300_332 | C006_Shing"
 msgid ""
 "Her noble, earnest heart made\n"
 "her a perfect friend for Sister."
 msgstr ""
 
-msgctxt "0105"
+#. 何せ…夢野さんの為に、
+#. 危険を承知で生徒会に潜入するくらいだもんネ。
+msgctxt "0104 | c03_300_332 | C006_Shing"
 msgid ""
 "She even infiltrated the student\n"
 "council to protect Himiko."
 msgstr ""
 
-msgctxt "0106"
+#. えっ？　潜入って…そうだったの？
+msgctxt "0105 | c03_300_332 | C004_Gokuh"
 msgid "Huh? Infiltrate? Really?"
 msgstr ""
 
-msgctxt "0107"
+#. でも…真宮寺くんはどうしてそれを？
+msgctxt "0106 | c03_300_332 | C000_Saiha"
 msgid "But...how did you...?"
 msgstr ""
 
-msgctxt "0108"
+#. ククク…それくらいは経験でわかるヨ。
+#. 今まで様々な人間を見てきたからネ。
+msgctxt "0107 | c03_300_332 | C006_Shing"
 msgid ""
 "Kehehe... It was obvious to me.\n"
 "I have studied many people."
 msgstr ""
 
-msgctxt "0109"
+#. そう！　彼女はこの学園に渦巻き出した闇に、
+#. １人で果敢に立ち向かっていたんだ！
+msgctxt "0108 | c03_300_332 | C006_Shing"
 msgid ""
 "Yes! She stood up against the\n"
 "darkness of this school all by herself!"
 msgstr ""
 
-msgctxt "0110"
+#. …敬愛する友人の為にサ！
+msgctxt "0109 | c03_300_332 | C006_Shing"
 msgid "All for her beloved friend!"
 msgstr ""
 
-msgctxt "0111"
+#. 僕はその姿に感動したんだ！
+#. 素晴らしい！　彼女こそ姉さんの友達に相応しいって！
+msgctxt "0110 | c03_300_332 | C006_Shing"
 msgid ""
 "I was so touched by that! Wonderful!\n"
 "She was a perfect friend for Sister!"
 msgstr ""
 
-msgctxt "0112"
+#. ククク…夢野さんが嫌う意味がわからないヨ。
+msgctxt "0111 | c03_300_332 | C006_Shing"
 msgid ""
 "Kehehe... I can't understand why\n"
 "you didn't like her, Himiko."
 msgstr ""
 
-msgctxt "0113"
+#. ………………
+msgctxt "0112 | c03_300_332 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0114"
+#. まァ…いずれは夢野さんも、
+#. 姉さんの友達になって貰うつもりだったけどネ…
+msgctxt "0113 | c03_300_332 | C006_Shing"
 msgid ""
 "Though...I was planning on having you \n"
 "become Sister's friend, too...eventually."
 msgstr ""
 
-msgctxt "0115"
+#. な、なんなの…それ？
+#. 本当に、君はそんな事の為に――
+msgctxt "0114 | c03_300_332 | C004_Gokuh"
 msgid "Wh-What...? You do all that for—"
 msgstr ""
 
-msgctxt "0116"
+#. いやー、何もかも殺しの為だったなんて、
+#. そこまでくると潔いねー。
+msgctxt "0115 | c03_300_332 | C005_Oma__"
 msgid ""
 "Wooow, you did all that just to kill. For you\n"
 "to go that far...that's pretty impressive."
 msgstr ""
 
-msgctxt "0117"
+#. じゃあ、キミが<CLT=cltSTRONG>“かごのこ”<CLT=cltNORMAL>に興味を持ってたのも、
+#. あれで誰かを殺す為なんだね？
+msgctxt "0116 | c03_300_332 | C005_Oma__"
 msgid ""
 "You were interested in <CLT=cltSTRONG>The Caged Child<CLT=cltNORMAL>,\n"
 "just so you could use it to kill someone, right?"
 msgstr ""
 
-msgctxt "0118"
+#. もちろん、民俗学者としての興味もあったヨ。
+#. けど、それ以上に…
+msgctxt "0117 | c03_300_332 | C006_Shing"
 msgid ""
 "It interested me as an anthropologist,\n"
 "of course. But more than that..."
 msgstr ""
 
-msgctxt "0119"
+#. 姉さんの為に殺したい！
+#. その気持ちが上回っていたのは事実だヨ！
+msgctxt "0118 | c03_300_332 | C006_Shing"
 msgid ""
 "I wanted to kill for Sister!\n"
 "I cannot deny that overpowering feeling!"
 msgstr ""
 
-msgctxt "0120"
+#. ………………
+msgctxt "0119 | c03_300_332 | C001_Momot"
 msgid "..."
 msgstr "..."
 
-msgctxt "0121"
+#. 百田くん…大丈夫？
+#. また顔色が悪くなってるけど…
+msgctxt "0120 | c03_300_332 | C000_Saiha"
 msgid ""
 "Kaito, are you okay?\n"
 "You look...kinda pale..."
 msgstr ""
 
-msgctxt "0122"
+#. き、気にすんな…
+#. それより…今は真宮寺の話だろ。
+msgctxt "0121 | c03_300_332 | C001_Momot"
 msgid ""
 "D-Don't worry about it... \n"
 "Let's focus on Kiyo right now."
 msgstr ""
 
-msgctxt "0123"
+#. ただ…これだけは弁解しておくけど、
+#. 初めから２人も殺すつもりじゃなかったんだ。
+msgctxt "0122 | c03_300_332 | C006_Shing"
 msgid ""
 "Allow me to explain, though.\n"
 "I did not plan to kill both of them."
 msgstr ""
 
-msgctxt "0124"
+#. だって、ここから出た後であれば、
+#. いくらでもチャンスはあるしネ。
+msgctxt "0123 | c03_300_332 | C006_Shing"
 msgid ""
 "I knew I would have plenty of\n"
 "chances after escaping this place."
 msgstr ""
 
-msgctxt "0125"
+#. けど、準備の途中で夜長さんに見つかって、
+#. 僕は思わぬ形で彼女を殺してしまった…
+msgctxt "0124 | c03_300_332 | C006_Shing"
 msgid ""
 "But Angie walked in on me preparing and \n"
 "I ended up killing her a different way."
 msgstr ""
 
-msgctxt "0126"
+#. それなら、もう１人殺しておこうと思ってネ。
+msgctxt "0125 | c03_300_332 | C006_Shing"
 msgid ""
 "So I figured I may as well kill\n"
 "someone else, too."
 msgstr ""
 
-msgctxt "0127"
+#. だって…せっかく降霊術を使ったトリックも
+#. 残っていたからネ。
+msgctxt "0126 | c03_300_332 | C006_Shing"
 msgid ""
 "After all, it would be a shame to just\n"
 "waste the seance trick I prepared."
 msgstr ""
 
-msgctxt "0128"
+#. そ、そんな…！　ついでみたいに…！
+msgctxt "0127 | c03_300_332 | C012_Shiro"
 msgid ""
 "Y-You're talking like...you killed her\n"
 "just because you could..."
 msgstr ""
 
-msgctxt "0129"
+#. ついでと言うか…
+#. 友達は１人でも多い方が姉さんも喜ぶからネ。
+msgctxt "0128 | c03_300_332 | C006_Shing"
 msgid ""
 "No, not just because I could...\n"
 "I was sending another friend to Sister."
 msgstr ""
 
-msgctxt "0130"
+#. 是清、気持ちは嬉しいけど…
+#. やっぱり欲張り過ぎは良くなかったわね。
+msgctxt "0129 | c03_300_332 | C006_Shing"
 msgid ""
 "Korekiyo, you're such a thoughtful little\n"
 "brother. But it was bad to get greedy."
 msgstr ""
 
-msgctxt "0131"
+#. そうだネ…お陰で姉さんに
+#. 友達１００人作ってあげられなくなってしまったヨ…
+msgctxt "0130 | c03_300_332 | C006_Shing"
 msgid ""
 "You're right... Because of that, now I\n"
 "can't send 100 friends to Sister."
 msgstr ""
 
-msgctxt "0132"
+#. …これで、わかってもらえたかしら？
+#. 今のが是清の罪のすべてよ…
+msgctxt "0131 | c03_300_332 | C006_Shing"
 msgid ""
 "Do you understand now? Those were the\n"
 "circumstances of Korekiyo's crime."
 msgstr ""
 
-msgctxt "0133"
+#. わ、わかりません。
+#. やっぱり…まるで理解不能です。
+msgctxt "0132 | c03_300_332 | C007_Ki-Bo"
 msgid ""
 "I...I do not understand. This is all too\n"
 "impossible for me to understand."
 msgstr ""
 
-msgctxt "0134"
+#. そ、そうだよ…死んだお姉さんの為に、
+#. 生きている仲間を２人も殺したなんて…！
+msgctxt "0133 | c03_300_332 | C004_Gokuh"
 msgid ""
 "Th-That right... Killing two friends for your\n"
 "dead sister!?"
 msgstr ""
 
-msgctxt "0135"
+#. そんなのおかしいよ！　絶対におかしいって！
+msgctxt "0134 | c03_300_332 | C004_Gokuh"
 msgid "That...wrong! That so wrong!"
 msgstr ""
 
-msgctxt "0136"
+#. ククク…そんなに怒らないでヨ。
+msgctxt "0135 | c03_300_332 | C006_Shing"
 msgid "Kehehe... Oh, don't get so worked up."
 msgstr ""
 
-msgctxt "0137"
+#. 僕はね…姉さんの死を経験して、
+#. わかった事があるんだ。
+msgctxt "0136 | c03_300_332 | C006_Shing"
 msgid ""
 "There's something I learned after\n"
 "Sister's death..."
 msgstr ""
 
-msgctxt "0138"
+#. 死ぬって言っても形が変わるだけなんだヨ。
+#. 霊となって魂は生き続けるのサ。
+msgctxt "0137 | c03_300_332 | C006_Shing"
 msgid ""
 "Death only changes a person's form.\n"
 "The soul lives on as a ghost."
 msgstr ""
 
-msgctxt "0139"
+#. そうね…私が霊になっても、
+#. いつも是清の傍にいるようにね。
+msgctxt "0138 | c03_300_332 | C006_Shing"
 msgid ""
 "That's right. Even though I'm a ghost now,\n"
 "I am always by Korekiyo's side."
 msgstr ""
 
-msgctxt "0140"
+#. 姉さん、ありがとう…愛しているヨ。
+msgctxt "0139 | c03_300_332 | C006_Shing"
 msgid ""
 "Thank you, Sister...\n"
 "I love you."
 msgstr ""
 
-msgctxt "0141"
+#. ふ、ふざけるなっ！
+msgctxt "0140 | c03_300_332 | C009_Yumen"
 msgid "C-Cut it out already!"
 msgstr ""
 
-msgctxt "0142"
+#. ウチには…お主の言っている事がまるでわからん。
+#. お主の想いも…まるで理解できん。
+msgctxt "0141 | c03_300_332 | C009_Yumen"
 msgid ""
 "I don't understand anything you're saying.\n"
 "Nothing's making sense."
 msgstr ""
 
-msgctxt "0143"
+#. 理不尽じゃ！　どうしてアンジーと転子は、
+#. こんな理不尽な事で死ななければならなかったんじゃ！
+msgctxt "0142 | c03_300_332 | C009_Yumen"
 msgid ""
 "It's not fair! Why did Angie and Tenko \n"
 "have to die for something so unfair!?"
 msgstr ""
 
-msgctxt "0144"
+#. 理不尽なのが<CLT=cltSTRONG>“死”<CLT=cltNORMAL>ってヤツだからね。
+msgctxt "0143 | c03_300_332 | C020_Monok"
 msgid "Because <CLT=cltSTRONG>death<CLT=cltNORMAL> is unfair."
 msgstr ""
 
-msgctxt "0145"
+#. んあっ！？
+msgctxt "0144 | c03_300_332 | C009_Yumen"
 msgid "Nyeh!?"
 msgstr ""
 
-msgctxt "0146"
+#. <CLT=cltSTRONG>“理不尽な死”<CLT=cltNORMAL>こそが、
+#. 死の本来あるべき形なんだよ。
+msgctxt "0145 | c03_300_332 | C009_Yumen"
 msgid "All deaths are <CLT=cltSTRONG>unfair deaths<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0147"
+#. だから、死を扱うニュースでも、
+#. 視聴率がいいのは理不尽な死のニュースばかりでしょ？
+msgctxt "0146 | c03_300_332 | C009_Yumen"
 msgid ""
 "Why do you think news stations get such high\n"
 "ratings when they're reporting about death?"
 msgstr ""
 
-msgctxt "0148"
+#. みんな…<CLT=cltSTRONG>“理不尽な死”<CLT=cltNORMAL>の方が好きなんだよ。
+msgctxt "0147 | c03_300_332 | C009_Yumen"
 msgid "Because...everyone likes unfair deaths."
 msgstr ""
 
-msgctxt "0149"
+#. そういう視点から言えば…このコロシアイって、
+#. まさにそれを体現しているよね？
+msgctxt "0148 | c03_300_332 | C005_Oma__"
 msgid ""
 "Well if you look at it like that, this whole\n"
 "killing game embodies that philosophy, right?"
 msgstr ""
 
-msgctxt "0150"
+#. 才能ある高校生同士が
+#. 理不尽にコロシアイさせられるなんてさ…
+msgctxt "0149 | c03_300_332 | C005_Oma__"
 msgid ""
 "Gifted high school students forced to play\n"
 "a killing game..."
 msgstr ""
 
-msgctxt "0151"
+#. もしこれを見ている人がいたら、
+#. きっと、楽しくて仕方がないんだろうね！
+msgctxt "0150 | c03_300_332 | C005_Oma__"
 msgid ""
 "Man! If people were watching this, they\n"
 "would get a kick out of it!"
 msgstr ""
 
-msgctxt "0152"
+#. <CLT=cltMIND>これを…見ている人？
+msgctxt "0151 | c03_300_332 | chara_Blank"
 msgid "<CLT=cltMIND>If people were watching this...?"
 msgstr ""
 
-msgctxt "0153"
+#. バカ言ってんじゃねーよ！
+#. 楽しめるのはテメーみてーな悪趣味なヤツだけだ！
+msgctxt "0152 | c03_300_332 | C014_Iruma"
 msgid ""
 "Knock off the bullshit! Only sick fucks\n"
 "would enjoy watching this!"
 msgstr ""
 
-msgctxt "0154"
+#. うん、まったくだよ！
+#. 当事者じゃなかったら楽しみまくってるところだよ！
+msgctxt "0153 | c03_300_332 | C005_Oma__"
 msgid ""
 "Hell yeah! If I wasn't in this killing game,\n"
 "I would have so much fun watching!"
 msgstr ""
 
-msgctxt "0155"
+#. ククク…このコロシアイの謎は
+#. いまだ不思議だらけだけど…
+msgctxt "0154 | c03_300_332 | C006_Shing"
 msgid ""
 "Kehehe... The nature of this killing\n"
 "game is yet shrouded in mystery..."
 msgstr ""
 
-msgctxt "0156"
+#. 僕にはもう関係ないかな。
+#. すでに友人としての説明責任は果たしたし…
+msgctxt "0155 | c03_300_332 | C006_Shing"
 msgid ""
 "But my role in it is over. I have \n"
 "finished my explanation to you, friends."
 msgstr ""
 
-msgctxt "0157"
+#. …そろそろ会いに行くとするヨ。
+#. 愛する姉さんに。
+msgctxt "0156 | c03_300_332 | C006_Shing"
 msgid ""
 "I think I shall go and see her now...\n"
 "My beloved sister..."
 msgstr ""
 
-msgctxt "0158"
+#. 友達１００人作ってやれなかった事だけが心残りだけど、
+#. また姉さんに会えるんだネ…
+msgctxt "0157 | c03_300_332 | C006_Shing"
 msgid ""
 "I was unable to send her 100 friends,\n"
 "but at least I can see her again now."
 msgstr ""
 
-msgctxt "0159"
+#. いいのよ、優しい是清…
+#. 早くこちらにいらっしゃい。
+msgctxt "0158 | c03_300_332 | C006_Shing"
 msgid ""
 "It's alright, sweet Korekiyo...\n"
 "Come to me."
 msgstr ""
 
-msgctxt "0160"
+#. すでに覚悟は固まっているみたいだね。
+#. だったら、さっそく始めましょうか…
+msgctxt "0159 | c03_300_332 | C020_Monok"
 msgid ""
 "Looks like you're already prepared.\n"
 "Now then, let's get started..."
 msgstr ""
 
-msgctxt "0161"
+#. お楽しみのおしおきターイム！
+msgctxt "0160 | c03_300_332 | C020_Monok"
 msgid ""
 "It's the moment you've all been\n"
 "waiting for—Punishment Time!"
 msgstr ""
 
-msgctxt "0162"
+#. おしおき…タイム…！
+msgctxt "0161 | c03_300_332 | C000_Saiha"
 msgid "Punishment Time..."
 msgstr ""
 
-msgctxt "0163"
+#. 姉さん…やっとだネ。
+#. やっと愛する姉さんとまた会えるんだネ。
+msgctxt "0162 | c03_300_332 | C006_Shing"
 msgid ""
 "My beloved sister... At long last...\n"
 "I'll finally get to see you again..."
 msgstr ""
 
-msgctxt "0164"
+#. えぇ…これからはもう、
+#. 誰にもジャマされる事はないわ。
+msgctxt "0163 | c03_300_332 | C006_Shing"
 msgid ""
 "Yes... From now on, no one\n"
 "will try to stop us."
 msgstr ""
 
-msgctxt "0165"
+#. 周りの目や陰口を気にしてコソコソ隠れる必要もない…
+#. ありのままに愛し合う事ができる…
+msgctxt "0164 | c03_300_332 | C006_Shing"
 msgid ""
 "We can be together without having\n"
 "to hide our love from others..."
 msgstr ""
 
-msgctxt "0166"
+#. ま、待て…！　ウチはまだ納得しておらんぞ…！
+msgctxt "0165 | c03_300_332 | C009_Yumen"
 msgid "W-Wait! I can't accept this!"
 msgstr ""
 
-msgctxt "0167"
+#. だから…納得できる死なんて、
+#. どこにも存在しないんだヨ…
+msgctxt "0166 | c03_300_332 | C006_Shing"
 msgid ""
 "Like I said, there's no such thing\n"
 "as a death that can be accepted."
 msgstr ""
 
-msgctxt "0168"
+#. …様々な国の様々な文化に葬儀があるのは
+#. なんでだと思う？
+msgctxt "0167 | c03_300_332 | C006_Shing"
 msgid ""
 "Why do you think so many different\n"
 "cultures have funeral rites?"
 msgstr ""
 
-msgctxt "0169"
+#. 霊や死者の蘇りの噂が絶えないのは、
+#. なんでだと思う？
+msgctxt "0168 | c03_300_332 | C006_Shing"
 msgid ""
 "Why do you think rumors of ways\n"
 "to resurrect the dead never cease?"
 msgstr ""
 
-msgctxt "0170"
+#. 生きている人間は、無理矢理でも理由を付けて、
+#. 周りの死を受け入れるしかないのサ…
+msgctxt "0169 | c03_300_332 | C006_Shing"
 msgid ""
 "The living must find a reason, however \n"
 "forced, to accept death when it happens."
 msgstr ""
 
-msgctxt "0171"
+#. 死とどんな関係を築くかは、
+#. どう生きるのかって意味でもあるんだヨ？
+msgctxt "0170 | c03_300_332 | C006_Shing"
 msgid ""
 "How you come to terms with death\n"
 "also determines how you live, yes?"
 msgstr ""
 
-msgctxt "0172"
+#. な、なんじゃと…？
+msgctxt "0171 | c03_300_332 | C009_Yumen"
 msgid "Wh-What...?"
 msgstr ""
 
-msgctxt "0173"
+#. 僕なりの答えはこれだったけど…
+#. 君らはどうだろうネ？
+msgctxt "0172 | c03_300_332 | C006_Shing"
 msgid ""
 "That was the answer I reached.\n"
 "How about you?"
 msgstr ""
 
-msgctxt "0174"
+#. これから、どうやって
+#. 死と向き合う生き方をするんだろうネ？
+msgctxt "0173 | c03_300_332 | C006_Shing"
 msgid "How will you live a life that faces death?"
 msgstr ""
 
-msgctxt "0175"
+#. では、<CLT=cltSTRONG>“超高校級の民俗学者”<CLT=cltNORMAL>である真宮寺是清クンの為に
+#. スペシャルなおしおきを用意させて頂きましたーっ！！
+msgctxt "0174 | c03_300_332 | C020_Monok"
 msgid ""
 "I've prepared a special punishment for the\n"
 "<CLT=cltSTRONG>Ultimate Anthropologist<CLT=cltNORMAL>, Korekiyo Shinguji!"
 msgstr ""
 
-msgctxt "0176"
+#. 僕はこの先もずっと見ているヨ！
+#. 霊となっても君らの仲間としてずっと見ているからネ！
+msgctxt "0175 | c03_300_332 | C006_Shing"
 msgid ""
 "I will watch over you all as a ghost!\n"
 "As your friend, I will watch over you!"
 msgstr ""
 
-msgctxt "0177"
+#. 私と是清だけじゃなくて…
+#. 今まで死んだみんなも一緒にね。
+msgctxt "0176 | c03_300_332 | C006_Shing"
 msgid ""
 "It won't be just me and Korekiyo...\n"
 "All those who died will be watching."
 msgstr ""
 
-msgctxt "0178"
+#. ククク…君らが仲間の死とどう向き合って、
+#. どんな答えを出すか…
+msgctxt "0177 | c03_300_332 | C006_Shing"
 msgid ""
 "Kehehe... I'll be watching to see how \n"
 "you face the death of your friends."
 msgstr ""
 
-msgctxt "0179"
+#. …ずっとずっと見ているからネ。
+msgctxt "0178 | c03_300_332 | C006_Shing"
 msgid "I'll be watching...forever and ever..."
 msgstr ""
 
-msgctxt "0180"
+#. 張り切っていきましょう！
+#. おしおきターイム！
+msgctxt "0179 | c03_300_332 | C020_Monok"
 msgid ""
 "Let's give it everything we've got!\n"
 "It's...PUNISHMENT TIIIME!"

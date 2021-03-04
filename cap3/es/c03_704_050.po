@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,50 +11,64 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. あっ！　最原君！
+msgctxt "0000 | c03_704_050 | C004_Gokuh"
 msgid "Oh, Shuichi!"
 msgstr ""
 
-msgctxt "0002"
+#. ちょうどよかった！
+#. ゴン太、聞きたい事があるんだ。
+msgctxt "0001 | c03_704_050 | C004_Gokuh"
 msgid ""
 "Perfect timing! Gonta need to ask you\n"
 "something!"
 msgstr ""
 
-msgctxt "0003"
+#. はい
+msgctxt "0002 | c03_704_050 | C004_Gokuh"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0004"
+#. いいえ
+msgctxt "0003 | c03_704_050 | C004_Gokuh"
 msgid "No"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_704_050 | C004_Gokuh"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>どうしよう？
+#. ゴン太くんと過ごすか？
+msgctxt "0005 | c03_704_050 | chara_Blank"
 msgid "<CLT=cltMIND>Should I hang out with Gonta for a while?"
 msgstr ""
 
-msgctxt "0007"
+#. ゴン太達が死んでいないって事はわかったんだけど…
+#. 『文化祭の出し物』がなんなのかわからなくって。
+msgctxt "0006 | c03_704_050 | C004_Gokuh"
 msgid ""
 "Gonta know we not dead...but Gonta not\n"
 "know what school festival items is for..."
 msgstr ""
 
-msgctxt "0008"
+#. …偽のお葬式をやる事なの？
+#. どうしてそんな事をするの？
+msgctxt "0007 | c03_704_050 | C004_Gokuh"
 msgid ""
 "...We gonna hold a fake funeral?\n"
 "Why we gonna do that?"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>ゴン太くんに、文化祭について説明して過ごした…
+msgctxt "0008 | c03_704_050 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I spent some time explaining to\n"
 "Gonta what a school festival was."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>ゴン太くんと少し仲良くなれたみたいだ…
+msgctxt "0009 | c03_704_050 | chara_Blank"
 msgid "<CLT=cltMIND>Gonta and I grew a little closer today."
 msgstr ""

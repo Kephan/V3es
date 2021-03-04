@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=size1.5>僕が犯人だと言うなら…
+msgctxt "0000 | c03_232_001 | C006_Shing"
 msgid ""
 "<CLT=size1.5>If you\n"
 "are\n"
@@ -22,11 +23,13 @@ msgid ""
 "culprit..."
 msgstr ""
 
-msgctxt "0002"
+#. 僕が犯人だと言うなら…
+msgctxt "0001 | c03_232_001 | C006_Shing"
 msgid "If you are going to claim I am the culprit..."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=size1.5>凶器のカマの件はどうなるの？
+msgctxt "0002 | c03_232_001 | C006_Shing"
 msgid ""
 "<CLT=size1.5>then\n"
 "what\n"
@@ -36,11 +39,13 @@ msgid ""
 "weapon?"
 msgstr ""
 
-msgctxt "0004"
+#. 凶器のカマの件はどうなるの？
+msgctxt "0003 | c03_232_001 | C006_Shing"
 msgid "then what of the murder weapon?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=size1.5>鉄カゴの底に仕掛けられてたんでしョ？
+msgctxt "0004 | c03_232_001 | C006_Shing"
 msgid ""
 "<CLT=size1.5>It was\n"
 "set up\n"
@@ -49,11 +54,13 @@ msgid ""
 "cage."
 msgstr ""
 
-msgctxt "0006"
+#. 鉄カゴの底に仕掛けられてたんでしョ？
+msgctxt "0005 | c03_232_001 | C006_Shing"
 msgid "It was set up in the cage."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=size1.5>だったら、それができたのって…
+msgctxt "0006 | c03_232_001 | C006_Shing"
 msgid ""
 "<CLT=size1.5>The\n"
 "only\n"
@@ -63,11 +70,13 @@ msgid ""
 "that..."
 msgstr ""
 
-msgctxt "0008"
+#. だったら、それができたのって…
+msgctxt "0007 | c03_232_001 | C006_Shing"
 msgid "The only people capable of that..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=size2>鉄カゴを運んできた王馬君か最原君…
+msgctxt "0008 | c03_232_001 | C006_Shing"
 msgid ""
 "<CLT=size2>are\n"
 "Kokichi\n"
@@ -78,11 +87,13 @@ msgid ""
 "the cage."
 msgstr ""
 
-msgctxt "0010"
+#. 鉄カゴを運んできた王馬君か最原君…
+msgctxt "0009 | c03_232_001 | C006_Shing"
 msgid "are Kokichi and Shuichi, who carried the cage."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=size1.5>君達なんじゃないの？
+msgctxt "0010 | c03_232_001 | C006_Shing"
 msgid ""
 "<CLT=size1.5>So\n"
 "suspicion\n"
@@ -92,110 +103,137 @@ msgid ""
 "them."
 msgstr ""
 
-msgctxt "0012"
+#. 君達なんじゃないの？
+msgctxt "0011 | c03_232_001 | C006_Shing"
 msgid "So suspicion should fall on them."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=size2>カマ<CLT=size1>を<CLT=size2>置くだけ<CLT=size1>なら
+#. 僕らにもできたけど、
+msgctxt "0012 | c03_232_001 | C000_Saiha"
 msgid ""
 "True, we could've <CLT=size2>placed<CLT=size1>\n"
 "the sickle <CLT=size2>there,"
 msgstr ""
 
-msgctxt "0014"
+#. カマを置くだけなら僕らにもできたけど、
+#. 後でそれを回収するのは無理だよ。
+msgctxt "0013 | c03_232_001 | C000_Saiha"
 msgid ""
 "True, we could've placed the sickle there,\n"
 "but we could not have removed it later."
 msgstr ""
 
-msgctxt "0015"
+#. 後でそれを<CLT=size2>回収<CLT=size1>するのは<CLT=size2>無理<CLT=size1>だよ。
+msgctxt "0014 | c03_232_001 | C000_Saiha"
 msgid ""
 "but we <CLT=size2>could not\n"
 "<CLT=size1>have <CLT=size2>removed<CLT=size1> it later."
 msgstr ""
 
-msgctxt "0016"
+#. だって、<CLT=size2>鉄カゴ<CLT=size1>を<CLT=size2>外した<CLT=size1>のは
+msgctxt "0015 | c03_232_001 | C000_Saiha"
 msgid ""
 "Because we weren't the ones who\n"
 "<CLT=size2>lifted<CLT=size1> the <CLT=size2>cage."
 msgstr ""
 
-msgctxt "0017"
+#. だって、鉄カゴを外したのは
+#. 僕らじゃなくて夢野さんだからね。
+msgctxt "0016 | c03_232_001 | C000_Saiha"
 msgid ""
 "Because we weren't the ones who\n"
 "lifted the cage.\n"
 "That was Himiko."
 msgstr ""
 
-msgctxt "0018"
+#. 僕らじゃなくて<CLT=size2>夢野<CLT=size1>さんだからね。
+msgctxt "0017 | c03_232_001 | C000_Saiha"
 msgid "That was <CLT=size2>Himiko."
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=size1.5>カマを回収できたのは夢野さんだけ…
+msgctxt "0018 | c03_232_001 | C006_Shing"
 msgid ""
 "<CLT=size1.5>The only person who could have\n"
 "collected the sickle is Himiko..."
 msgstr ""
 
-msgctxt "0020"
+#. カマを回収できたのは夢野さんだけ…
+msgctxt "0019 | c03_232_001 | C006_Shing"
 msgid "The only person who could have collected the sickle is Himiko..."
 msgstr ""
 
-msgctxt "0021"
+#. <CLT=size1.5>カマの設置が可能なのは王馬君と最原君…
+msgctxt "0020 | c03_232_001 | C006_Shing"
 msgid ""
 "<CLT=size1.5>But the only people who could have\n"
 "placed the sickle are Kokichi and Shuichi."
 msgstr ""
 
-msgctxt "0022"
+#. カマの設置が可能なのは王馬君と最原君…
+msgctxt "0021 | c03_232_001 | C006_Shing"
 msgid "But the only people who could have placed the sickle are Kokichi and Shuichi."
 msgstr ""
 
-msgctxt "0023"
+#. <CLT=size1.5>この相違をどう埋めるかは
+msgctxt "0022 | c03_232_001 | C006_Shing"
 msgid "<CLT=size1.5>But in regards to"
 msgstr ""
 
-msgctxt "0024"
+#. この相違をどう埋めるかは別として…
+msgctxt "0023 | c03_232_001 | C006_Shing"
 msgid "But in regards to that dilemma..."
 msgstr ""
 
-msgctxt "0025"
+#. <CLT=size1.5>別として…
+msgctxt "0024 | c03_232_001 | C006_Shing"
 msgid "<CLT=size1.5>that dilemma..."
 msgstr ""
 
-msgctxt "0026"
+#. <CLT=size1.5>鉄カゴの設置にも回収にも
+msgctxt "0025 | c03_232_001 | C006_Shing"
 msgid "<CLT=size1.5>I did not carry the cage,"
 msgstr ""
 
-msgctxt "0027"
+#. 鉄カゴの設置にも回収にも携わってない僕には…
+msgctxt "0026 | c03_232_001 | C006_Shing"
 msgid "I did not carry the cage, nor did I lift it."
 msgstr ""
 
-msgctxt "0028"
+#. <CLT=size1.5>携わってない僕には…
+msgctxt "0027 | c03_232_001 | C006_Shing"
 msgid "<CLT=size1.5>nor did I lift it."
 msgstr ""
 
-msgctxt "0029"
-msgid "<CLT=cltWEAK>I had <CLT=size1.5>no opportunity"
+#. <CLT=size1.5><CLT=cltWEAK>どちらもできなかった
+msgctxt "0028 | c03_232_001 | C006_Shing"
+msgid "I had <CLT=size1.5><CLT=cltWEAK>no opportunity"
 msgstr ""
 
-msgctxt "0030"
+#. どちらもできなかったはずだヨ？
+msgctxt "0029 | c03_232_001 | C006_Shing"
 msgid "I had no opportunity to touch the sickle."
 msgstr ""
 
-msgctxt "0031"
+#. <CLT=size1.5>はずだヨ？
+msgctxt "0030 | c03_232_001 | C006_Shing"
 msgid "<CLT=size1.5>to touch the sickle."
 msgstr ""
 
-msgctxt "0032"
+#. <CLT=size1.5>つまり、僕は犯人じゃないって事だネ。
+msgctxt "0031 | c03_232_001 | C006_Shing"
 msgid "<CLT=size1.5>So simply put, I am not the killer."
 msgstr ""
 
-msgctxt "0033"
+#. つまり、僕は犯人じゃないって事だネ。
+msgctxt "0032 | c03_232_001 | C006_Shing"
 msgid "So simply put, I am not the killer."
 msgstr ""
 
-msgctxt "0034"
+#. ご、ごめん…
+#. もう一度最初から話してくれないかな？
+msgctxt "0033 | c03_232_001 | C000_Saiha"
 msgid ""
 "I'm sorry...\n"
 "Could you start over from the beginning?"

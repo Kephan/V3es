@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,101 +11,132 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. それが何の証拠になるの？
+#. 最原ちゃん、ひょっとして情に流されてない？
+msgctxt "0000 | c03_218_000 | C005_Oma__"
 msgid ""
 "Shuichi, is that evidence? Or are you letting\n"
 "your emotions get the best of you?"
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0001 | c03_218_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0003"
+#. カマだったら服の下に隠し持っておけたはずだよ。
+msgctxt "0002 | c03_218_000 | C010_Haruk"
 msgid ""
 "She could've hidden the sickle under\n"
 "her clothes."
 msgstr ""
 
-msgctxt "0004"
+#. 殺しのプロが言うんだから間違いないね！
+msgctxt "0003 | c03_218_000 | C005_Oma__"
 msgid "If killer girl says so, then I believe it!"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0004 | c03_218_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0006"
+#. カマを投げ捨てるくらいはできたと思うヨ？
+msgctxt "0005 | c03_218_000 | C006_Shing"
 msgid ""
 "She would have been able to throw\n"
 "it away in time, no?"
 msgstr ""
 
-msgctxt "0007"
+#. 茶柱さんが即死していたとしたら、
+#. 無理だろうけどネ。
+msgctxt "0006 | c03_218_000 | C006_Shing"
 msgid ""
 "That is, I suppose, unless her\n"
 "death was instant."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0007 | c03_218_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>みんなは茶柱さんが自殺したと思い込んでいる…
+msgctxt "0008 | c03_218_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone thinks that\n"
 "Tenko committed suicide..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>でも、それは謎から目を背けて、
+#. 手っ取り早い真相に飛び付いているだけだ。
+msgctxt "0009 | c03_218_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>But only because they're latching\n"
 "onto the easiest answer..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>彼女には、カマを捨てる余力なんてなかった。
+#. そう思わせる嘘をつくしかない…！
+msgctxt "0010 | c03_218_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>She wouldn't have had the strength to\n"
 "throw away the sickle... I have to lie..."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>みんなは茶柱さんが自殺したと思い込んでいる…
+msgctxt "0011 | c03_218_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone thinks that\n"
 "Tenko committed suicide..."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>でも、それは謎から目を背けて、
+#. 手っ取り早い真相に飛び付いているだけだ。
+msgctxt "0012 | c03_218_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>But only because they're latching\n"
 "onto the easiest answer..."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>この状況を覆すには、
+#. その自殺方法が実現不可能だと思わせるしかない…！
+msgctxt "0013 | c03_218_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>To get out of this, I need to make\n"
 "them think their suicide theory wouldn't work."
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>みんなは茶柱さんが自殺したと思い込んでいる…
+msgctxt "0014 | c03_218_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone thinks that\n"
 "Tenko committed suicide..."
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>でも、それは謎から目を背けて、
+#. 手っ取り早い真相に飛び付いているだけだ。
+msgctxt "0015 | c03_218_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>But only because they're latching\n"
 "onto the easiest answer..."
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>この状況を覆すには、
+#. その自殺方法が実現不可能だと思わせるしかない…！
+msgctxt "0016 | c03_218_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>To get out of this, I need to make\n"
 "them think their suicide theory wouldn't work."

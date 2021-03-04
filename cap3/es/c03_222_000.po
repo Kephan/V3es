@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,131 +11,174 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 暗闇の中で床板を剥がすというのは
+#. 無理がないでしょうか？
+msgctxt "0000 | c03_222_000 | C007_Ki-Bo"
 msgid ""
 "Removing a floorboard in total darkness\n"
 "seems somewhat impossible, does it not?"
 msgstr ""
 
-msgctxt "0002"
+#. 床板自体も重そうですし、
+#. 降霊術中にするのは困難だと思います。
+msgctxt "0001 | c03_222_000 | C007_Ki-Bo"
 msgid ""
 "I think it would've been difficult to remove\n"
 "that heavy floorboard during the seance..."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0002 | c03_222_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0004"
+#. あの木像は相当重かったから、
+#. かなり大きい音はするだろうけど…
+msgctxt "0003 | c03_222_000 | C005_Oma__"
 msgid ""
 "The dog statue would make a pretty loud\n"
 "noise, since it's heavy..."
 msgstr ""
 
-msgctxt "0005"
+#. 一人じゃ元の場所に戻せないよね？
+msgctxt "0004 | c03_222_000 | C005_Oma__"
 msgid ""
 "But the culprit wouldn't be able to lift it \n"
 "back up on the cage alone, right?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0005 | c03_222_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0007"
+#. あんな頑丈な床板に頭を打ち付けたら
+#. 犯人の方が死ぬよ。
+msgctxt "0006 | c03_222_000 | C010_Haruk"
 msgid ""
 "If the culprit hit their head on that tough\n"
 "floorboard, they would be dead."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0007 | c03_222_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0009"
+#. 踏み抜くなんて…そんな事あるのかな？
+msgctxt "0008 | c03_222_000 | C004_Gokuh"
 msgid ""
 "Step through floor...\n"
 "Is that even possible?"
 msgstr ""
 
-msgctxt "0010"
+#. ゴン太が調べた時は、
+#. 床板は横木の上にちゃんとはまってたよ？
+msgctxt "0009 | c03_222_000 | C004_Gokuh"
 msgid ""
 "When Gonta investigate, floorboard\n"
 "fit perfect on crosspiece."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0010 | c03_222_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0012"
+#. えっ！？
+#. 最原のボールもトモダチだって言うの…？
+msgctxt "0011 | c03_222_000 | C014_Iruma"
 msgid ""
 "What!? You got some new \"friends\" you\n"
 "want me to meet, Shuichi...?"
 msgstr ""
 
-msgctxt "0013"
+#. こ、こんなところでイキナリ…？
+#. や、やめてよっ…！
+msgctxt "0012 | c03_222_000 | C014_Iruma"
 msgid ""
 "Here...? Now...?\n"
 "C-Cut it out...!"
 msgstr ""
 
-msgctxt "0014"
+#. ………………
+msgctxt "0013 | c03_222_000 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0015"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0014 | c03_222_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>床板が外れるほどの強い衝撃ってなんだ？
+msgctxt "0015 | c03_222_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>What would have made a strong enough\n"
 "impact to knock the floorboard loose?"
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>そういえば、床下の横木が
+#. 不自然になくなっていたな…
+msgctxt "0016 | c03_222_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Now that I think about it, there was\n"
 "something off about the floor crosspiece..."
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltMIND>ひょっとして、
+#. それが関係しているんじゃないか？
+msgctxt "0017 | c03_222_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Could that have something\n"
 "to do with it?"
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltMIND>床板が外れるほどの強い衝撃ってなんだ？
+msgctxt "0018 | c03_222_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>What would have made a strong enough\n"
 "impact to knock the floorboard loose?"
 msgstr ""
 
-msgctxt "0020"
+#. <CLT=cltMIND>実際に起きた事とみんなの意見を照らし合わせれば、
+#. 暗闇で何が起きたのか見えてくるかもしれない…
+msgctxt "0019 | c03_222_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>If I think about everyone's testimony,\n"
 "and combine it with the facts..."
 msgstr ""
 
-msgctxt "0021"
+#. <CLT=cltMIND>床板が外れるほどの強い衝撃ってなんだ？
+msgctxt "0020 | c03_222_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>What would have made a strong enough\n"
 "impact to knock the floorboard loose?"
 msgstr ""
 
-msgctxt "0022"
+#. <CLT=cltMIND>実際に起きた事とみんなの意見を照らし合わせれば、
+#. 暗闇で何が起きたのか見えてくるかもしれない…
+msgctxt "0021 | c03_222_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>If I think about everyone's testimony,\n"
 "and combine it with the facts..."

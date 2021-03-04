@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,29 +11,38 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>壁に掛けられたロウソク…
+#. この部屋の明かりはこれだけだ。
+msgctxt "0000 | c03_902_002 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The candles on the walls are the\n"
 "only light in the room..."
 msgstr ""
 
-msgctxt "0002"
+#. ここって…窓がないんだね。
+#. ロウソクを消したら、きっと真っ暗だよ。
+msgctxt "0001 | c03_902_002 | C004_Gokuh"
 msgid ""
 "There no windows here... It get pitch black\n"
 "if candles go out."
 msgstr ""
 
-msgctxt "0003"
+#. あ、消さないで。
+#. わたし…暗いのはあんまり好きじゃないんだ。
+msgctxt "0002 | c03_902_002 | C012_Shiro"
 msgid ""
 "Ah, please don't put them out...\n"
 "I don't really like the dark."
 msgstr ""
 
-msgctxt "0004"
+#. 好きな人…あんまりいないと思うよ。
+msgctxt "0003 | c03_902_002 | C000_Saiha"
 msgid "I can't imagine many people do..."
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>壁に掛けられたロウソク…
+#. この部屋の明かりはこれだけだ。
+msgctxt "0004 | c03_902_002 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The candles on the walls are the\n"
 "only light in the room..."

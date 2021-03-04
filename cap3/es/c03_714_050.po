@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,51 +11,66 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. よく考えてみたら、このオレ様の葬式が
+#. あんなにショボい訳がねーしなっ！
+msgctxt "0000 | c03_714_050 | C014_Iruma"
 msgid ""
 "Y'know, if I did die, my funeral would be way\n"
 "more awesome than that shitty memory!"
 msgstr ""
 
-msgctxt "0002"
+#. 当然、国…いや、地球を上げての
+#. 壮大な式になるだろ！
+msgctxt "0001 | c03_714_050 | C014_Iruma"
 msgid ""
 "The whole country...no, the whole world\n"
 "would mourn my passing!"
 msgstr ""
 
-msgctxt "0003"
+#. 一緒にすごす
+msgctxt "0002 | c03_714_050 | C014_Iruma"
 msgid "Spend time together"
 msgstr ""
 
-msgctxt "0004"
+#. やっぱりやめる
+msgctxt "0003 | c03_714_050 | C014_Iruma"
 msgid "Never mind"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_714_050 | C014_Iruma"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>どうしよう？
+#. 入間さんを誘ってみるか？
+msgctxt "0005 | c03_714_050 | chara_Blank"
 msgid "<CLT=cltSYSTEM>What would you like to do with Miu?"
 msgstr ""
 
-msgctxt "0007"
+#. さては、葬式を見せられて
+#. 死ぬ前に童貞を捨てたくなったか！？
+msgctxt "0006 | c03_714_050 | C014_Iruma"
 msgid ""
 "You wanna lose your virginity before you\n"
 "die!?"
 msgstr ""
 
-msgctxt "0008"
+#. ひゃっひゃっひゃ！
+#. テメーの短小じゃ、オレ様は満足できねーな！
+msgctxt "0007 | c03_714_050 | C014_Iruma"
 msgid ""
 "Hah-haha! Too bad! It's gonna take more\n"
 "than what you're packin' to satisfy me!"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>入間さんと過ごした…
+msgctxt "0008 | c03_714_050 | chara_Blank"
 msgid "<CLT=cltMIND>I spent some time with Miu..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>入間さんと少し仲良くなってしまった…
+msgctxt "0009 | c03_714_050 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I somehow ended up growing\n"
 "a little closer to Miu..."

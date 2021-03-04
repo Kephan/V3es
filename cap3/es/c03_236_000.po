@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,93 +11,124 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. あれれー？
+#. 最原ちゃんも気付いてないのかなー？
+msgctxt "0000 | c03_236_000 | C005_Oma__"
 msgid ""
 "Huuuuuuuuuuh?\n"
 "Shuichi doesn't know eeeeitheeer?"
 msgstr ""
 
-msgctxt "0002"
+#. 断言するよ。
+#. アンジーちゃんが殺されたのは空き部屋！
+msgctxt "0001 | c03_236_000 | C005_Oma__"
 msgid ""
 "O-kay, I'll tell you!\n"
 "Angie was killed in the empty room!"
 msgstr ""
 
-msgctxt "0003"
+#. …まあ、嘘かもしれないけどねー！
+msgctxt "0002 | c03_236_000 | C005_Oma__"
 msgid "...But I could be lying, so who knooooows!"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0003 | c03_236_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0005"
+#. なんだよダサイ原！
+#. テメー童貞のくせに趣味だけは立派じゃねえか！
+msgctxt "0004 | c03_236_000 | C014_Iruma"
 msgid ""
 "What the hell!? I didn't expect a virgin\n"
 "like you to have that kinda hobby!"
 msgstr ""
 
-msgctxt "0006"
+#. そうじゃなくてさ…
+#. アンジーちゃんが死の直前に何をしようとしてたか…
+msgctxt "0005 | c03_236_000 | C005_Oma__"
 msgid ""
 "No, not that... What was Angie trying to do \n"
 "right before her death?"
 msgstr ""
 
-msgctxt "0007"
+#. そこを思い出してみると、いいんじゃない？
+msgctxt "0006 | c03_236_000 | C005_Oma__"
 msgid ""
 "I'm just saying it might help a lot to \n"
 "remember that detail, riiiight?"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0007 | c03_236_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0009"
+#. なんでそんな事がわかんだよ！
+#. みんなやるだろ！？　ロウソクの熱さが程良くて…
+msgctxt "0008 | c03_236_000 | C014_Iruma"
 msgid ""
 "How do you know? Am I really the only one\n"
 "who likes to pour hot wax on my..."
 msgstr ""
 
-msgctxt "0010"
+#. あれ…？　やらない…？
+msgctxt "0009 | c03_236_000 | C014_Iruma"
 msgid "Huh...? I am?"
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0010 | c03_236_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>王馬くんは何に気付いたんだ…？
+msgctxt "0011 | c03_236_000 | C000_Saiha"
 msgid "<CLT=cltMIND>What did Kokichi see?"
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>空き部屋にあったのはロウソクだけなはず…
+#. だとしたら、なぜロウソクを取りに行ったんだ？
+msgctxt "0012 | c03_236_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>There were only candles in there...\n"
 "Why would she have needed a candle?"
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>王馬くんは何に気付いたんだ…？
+msgctxt "0013 | c03_236_000 | C000_Saiha"
 msgid "<CLT=cltMIND>What did Kokichi see?"
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>アンジーさんの行動…
+#. そこに手掛かりが隠されているのか…？
+msgctxt "0014 | c03_236_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Something Angie did...\n"
 "There has to be a clue there!"
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>王馬くんは何に気付いたんだ…？
+msgctxt "0015 | c03_236_000 | C000_Saiha"
 msgid "<CLT=cltMIND>What did Kokichi see?"
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>アンジーさんの行動…
+#. そこに手掛かりが隠されているのか…？
+msgctxt "0016 | c03_236_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Something Angie did...\n"
 "There has to be a clue there!"

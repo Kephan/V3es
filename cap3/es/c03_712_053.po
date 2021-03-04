@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,42 +11,52 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. …ごめん、生徒会は
+#. 神さまへのお祈りとか儀式の準備で忙しいんだ。
+msgctxt "0000 | c03_712_053 | C012_Shiro"
 msgid ""
 "Sorry...the student council is busy praying \n"
 "to Atua and preparing for the ritual."
 msgstr ""
 
-msgctxt "0002"
+#. 邪魔すると…罰が当たるかもよ？
+msgctxt "0001 | c03_712_053 | C012_Shiro"
 msgid ""
 "If you get in our way...something bad\n"
 "might happen..."
 msgstr ""
 
-msgctxt "0003"
+#. 一緒にすごす
+msgctxt "0002 | c03_712_053 | C012_Shiro"
 msgid "Spend time together"
 msgstr ""
 
-msgctxt "0004"
+#. やっぱりやめる
+msgctxt "0003 | c03_712_053 | C012_Shiro"
 msgid "Never mind"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_712_053 | C012_Shiro"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>白銀つむぎと何をしますか？
+msgctxt "0005 | c03_712_053 | chara_Blank"
 msgid "<CLT=cltSYSTEM>What would you like to do with Tsumugi?"
 msgstr ""
 
-msgctxt "0007"
+#. 白銀つむぎと一緒にすごすイベント４
+msgctxt "0006 | c03_712_053 | C012_Shiro"
 msgid "Spend time with Tsumugi Shirogane Event 4"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>白銀つむぎと何かをして、一緒にすごした
+msgctxt "0007 | c03_712_053 | chara_Blank"
 msgid "<CLT=cltMIND>I spent some time with Tsumugi..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>白銀つむぎとすこし仲良くなれたようだ
+msgctxt "0008 | c03_712_053 | chara_Blank"
 msgid "<CLT=cltMIND>Tsumugi and I grew a little closer today."
 msgstr ""

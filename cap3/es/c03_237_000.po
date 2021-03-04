@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,355 +11,466 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. そうだよ！　アンジーさんは
+#. 空き部屋にあったロウソクを取りに行ったんだ！
+msgctxt "0000 | c03_237_000 | C000_Saiha"
 msgid ""
 "That's it! Angie went to that room\n"
 "to get a candle!"
 msgstr ""
 
-msgctxt "0002"
+#. 熱いヤツを垂らす為にな！
+msgctxt "0001 | c03_237_000 | C014_Iruma"
 msgid "Yeah! For kinky waxplay!"
 msgstr ""
 
-msgctxt "0003"
+#. じゃなくて…アンジーさんがやろうとしていた
+#. 例の儀式の為だよ。
+msgctxt "0002 | c03_237_000 | C000_Saiha"
 msgid ""
 "Uh, no... Angie was gonna use it\n"
 "for the ritual."
 msgstr ""
 
-msgctxt "0004"
+#. 屍者の書によると、
+#. 例の<CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>はこういう手順で行われるんだ。
+msgctxt "0003 | c03_237_000 | C000_Saiha"
 msgid ""
 "According to the Necronomicon, to\n"
 "<CLT=cltSTRONG>resurrect the dead<CLT=cltNORMAL>..."
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltSYSTEM>人形を用意した後は、
+#. この屍者の書を<CLT=cltSTRONG>燃やして<CLT=cltSYSTEM>灰にしてください。
+msgctxt "0004 | c03_237_000 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>After preparing the effigy,\n"
 "burn this Necronomicon to ashes."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>燃やす際の火傷や一酸化炭素中毒には
+#. くれぐれもご注意ください。
+msgctxt "0005 | c03_237_000 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>Use caution! Be mindful of\n"
 "carbon monoxide poisoning!"
 msgstr ""
 
-msgctxt "0007"
+#. …燃やす為ですか？
+#. それで、ロウソクが必要だったのではないですか？
+msgctxt "0006 | c03_237_000 | C007_Ki-Bo"
 msgid ""
 "Then, did she seek out a candle so she\n"
 "could burn the book?"
 msgstr ""
 
-msgctxt "0008"
+#. そうか！　美術部の研究教室には、
+#. 屍者の書を燃やす為の火がなかったから…
+msgctxt "0007 | c03_237_000 | C001_Momot"
 msgid ""
 "That's right! There's nothing to start a fire\n"
 "with in Angie's lab..."
 msgstr ""
 
-msgctxt "0009"
+#. 近くの空き部屋にロウソクがあった事を思い出して、
+#. それを取りに行ったんだな！
+msgctxt "0008 | c03_237_000 | C001_Momot"
 msgid ""
 "So she went to go get a candle from\n"
 "one of the empty rooms!"
 msgstr ""
 
-msgctxt "0010"
+#. そこで、犯人に襲われちまったって訳か！
+msgctxt "0009 | c03_237_000 | C014_Iruma"
 msgid "And that's when the culprit attacked her!"
 msgstr ""
 
-msgctxt "0011"
+#. その時に床下まで飛び散った血痕が、
+#. そのまま残って乾いちゃったんだね…
+msgctxt "0010 | c03_237_000 | C004_Gokuh"
 msgid ""
 "That's why there was dried blood under\n"
 "floor..."
 msgstr ""
 
-msgctxt "0012"
+#. だとすると、アンジーちゃんが襲われた部屋は、
+#. オレらが降霊術をやったのと同じ部屋って事になるね…
+msgctxt "0011 | c03_237_000 | C005_Oma__"
 msgid ""
 "Which means, Angie was attacked in\n"
 "the same room the seance was held!"
 msgstr ""
 
-msgctxt "0013"
+#. 夢野ちゃん、お手柄だよ！
+#. よく降霊術をする場所にあの部屋を選んでくれたね！
+msgctxt "0012 | c03_237_000 | C005_Oma__"
 msgid ""
 "Bravo, Himiko! Well done for choosing \n"
 "that room for the seance!"
 msgstr ""
 
-msgctxt "0014"
+#. …んあ？
+msgctxt "0013 | c03_237_000 | C009_Yumen"
 msgid "Nyeh...?"
 msgstr ""
 
-msgctxt "0015"
+#. だって、あの部屋で降霊術をやらなければ、
+#. 茶柱ちゃんが殺されたのは別の空き部屋になったんだよ？
+msgctxt "0014 | c03_237_000 | C005_Oma__"
 msgid ""
 "If we hadn't done the seance in that room, then\n"
 "Tenko's murder would've been in another room."
 msgstr ""
 
-msgctxt "0016"
+#. そうなったら、誰もあの部屋の床下は調べないから、
+#. アンジーちゃんの血痕だって見つからなかったはずだよ。
+msgctxt "0015 | c03_237_000 | C005_Oma__"
 msgid ""
 "If that happened, no one would've discovered\n"
 "Angie's bloodstain under the floorboards."
 msgstr ""
 
-msgctxt "0017"
+#. あの部屋で降霊術があって茶柱が殺されたからこそ、
+#. 私と最原は床下を調べたんだよ。
+msgctxt "0016 | c03_237_000 | C010_Haruk"
 msgid ""
 "That's right. Shuichi and I only checked under\n"
 "the floorboards where Tenko died."
 msgstr ""
 
-msgctxt "0018"
+#. そう、アンジーちゃんがロウソクを取りに行った部屋を
+#. 夢野ちゃんが選んでくれたお陰なんだよ。
+msgctxt "0017 | c03_237_000 | C005_Oma__"
 msgid ""
 "Yup, it's all thanks to Himiko for choosing \n"
 "the same room as Angie!"
 msgstr ""
 
-msgctxt "0019"
+#. きっと、神さまのお陰だねー？
+#. いや、魔法かな？
+msgctxt "0018 | c03_237_000 | C005_Oma__"
 msgid ""
 "This must be Atua's will!\n"
 "Or maybe the power of magic?"
 msgstr ""
 
-msgctxt "0020"
+#. …どっちでもないわい。
+#. ウチが自分で選んで決めた事じゃ。
+msgctxt "0019 | c03_237_000 | C009_Yumen"
 msgid ""
 "It's neither...\n"
 "I just picked one."
 msgstr ""
 
-msgctxt "0021"
+#. ねェ…勝手に既成事実のようになってるけどサ…
+msgctxt "0020 | c03_237_000 | C006_Shing"
 msgid ""
 "Hold on... You're all acting as though\n"
 "you've proven that as fact already."
 msgstr ""
 
-msgctxt "0022"
+#. じゃあ、夜長さんは真ん中の空き部屋で殺されて、
+#. その死体が彼女の研究教室まで運ばれてきたの？
+msgctxt "0021 | c03_237_000 | C006_Shing"
 msgid ""
 "You claim Angie was murdered in the\n"
 "empty room and then moved to the lab?"
 msgstr ""
 
-msgctxt "0023"
+#. だったら、あの研究教室にあった大量の血には、
+#. どう説明を付けるの？
+msgctxt "0022 | c03_237_000 | C006_Shing"
 msgid ""
 "Then how do you explain the large\n"
 "amount of blood in the lab?"
 msgstr ""
 
-msgctxt "0024"
+#. 死体を運ぶ事はできるかもしれないけど、
+#. 血を運ぶ事は不可能だよネ？
+msgctxt "0023 | c03_237_000 | C006_Shing"
 msgid ""
 "It may be possible to carry a body,\n"
 "but blood cannot be moved."
 msgstr ""
 
-msgctxt "0025"
+#. きっと、空き部屋で襲われた時、
+#. 彼女はまだ死んでなかったんだ。
+msgctxt "0024 | c03_237_000 | C000_Saiha"
 msgid ""
 "I think she was still alive after\n"
 "the attack in the empty room."
 msgstr ""
 
-msgctxt "0026"
+#. …え？
+msgctxt "0025 | c03_237_000 | C006_Shing"
 msgid "Hm...?"
 msgstr ""
 
-msgctxt "0027"
+#. その後で研究教室に運ばれて…
+#. そこで彼女は殺されたんだ。
+msgctxt "0026 | c03_237_000 | C000_Saiha"
 msgid ""
 "She was killed after she was\n"
 "carried to her lab."
 msgstr ""
 
-msgctxt "0028"
+#. <CLT=cltMIND>つまり、彼女は犯人に２度襲われたんだ。
+#. それを示す証拠だってあったはずだ。
+msgctxt "0027 | c03_237_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>That means the culprit attacked her twice.\n"
 "I have evidence of that."
 msgstr ""
 
-msgctxt "0029"
+#. 研究教室にあった金箔の日本刀に血が付いていたよね？
+#. だからアンジーさんは研究教室で殺され――
+msgctxt "0028 | c03_237_000 | C000_Saiha"
 msgid ""
 "There was blood on the katana, correct?\n"
 "So Angie was killed in the lab—"
 msgstr ""
 
-msgctxt "0030"
+#. それだと、彼女が空き部屋に来た事さえ不確かになるよネ？
+#. だって殺人は研究教室内で完結するんだからサ…
+msgctxt "0029 | c03_237_000 | C006_Shing"
 msgid ""
 "So you understand, yes? Angie's murder\n"
 "happened entirely in the lab..."
 msgstr ""
 
-msgctxt "0031"
+#. だから僕はやってないんだヨ。
+#. 感情論で犯人に仕立てあげるのはやめてほしいなぁ…
+msgctxt "0030 | c03_237_000 | C006_Shing"
 msgid ""
 "That's why I couldn't have done it.\n"
 "Don't accuse me with your shoddy logic."
 msgstr ""
 
-msgctxt "0032"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0031 | c03_237_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0033"
+#. ねぇ、そういえば…
+#. 夜長の死体におかしい所はなかった？
+msgctxt "0032 | c03_237_000 | C010_Haruk"
 msgid ""
 "Hm, that reminds me... Wasn't there something\n"
 "strange on Angie's body?"
 msgstr ""
 
-msgctxt "0034"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0033 | c03_237_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0035"
+#. それがどうしたというんだい？
+#. 無駄だヨ。そんな証拠どこにもないんだからネ…
+msgctxt "0034 | c03_237_000 | C006_Shing"
 msgid ""
 "What relevance does that have? None. \n"
 "There is no evidence to prove it..."
 msgstr ""
 
-msgctxt "0036"
+#. 本当に証拠がないのかなー？
+msgctxt "0035 | c03_237_000 | C005_Oma__"
 msgid "Is there really no evidence though?"
 msgstr ""
 
-msgctxt "0037"
+#. もし空き部屋では死んでなかったなら、
+#. アンジーちゃんは２度、傷つけられたのかな？
+msgctxt "0036 | c03_237_000 | C005_Oma__"
 msgid ""
 "If she didn't die in the empty room,\n"
 "then why was she attacked twice?"
 msgstr ""
 
-msgctxt "0038"
+#. だとしたら、犯人は酷いヤツだねー！
+msgctxt "0037 | c03_237_000 | C005_Oma__"
 msgid ""
 "The culprit must've been a \n"
 "big, bad meanie to do that!"
 msgstr ""
 
-msgctxt "0039"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0038 | c03_237_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0040"
+#. アンジーが空き部屋で襲われた時、
+#. まだ生きていた事を示す証拠は？
+msgctxt "0039 | c03_237_000 | C000_Saiha"
 msgid ""
 "What is the proof Angie was still\n"
 "alive after being attacked?"
 msgstr ""
 
-msgctxt "0041"
+#. アンジーさんの致命傷は首の後ろの刺し傷だ。
+#. あれは、現場にあった日本刀でやられたんだろうね。
+msgctxt "0040 | c03_237_000 | C000_Saiha"
 msgid ""
 "The fatal wound was a cut to the back\n"
 "of her neck from a katana."
 msgstr ""
 
-msgctxt "0042"
+#. でも、彼女にはそれ以外に<CLT=cltSTRONG>殴打による傷<CLT=cltNORMAL>もあったんだ。
+#. その理由が…やっとわかったよ。
+msgctxt "0041 | c03_237_000 | C000_Saiha"
 msgid ""
 "But she also showed signs of <CLT=cltSTRONG>blunt\n"
 "force trauma<CLT=cltNORMAL>, and I think I know why."
 msgstr ""
 
-msgctxt "0043"
+#. アンジーさんは空き部屋で頭を殴られて気絶した後、
+#. 美術部の研究教室に運ばれてトドメを刺されたんだ。
+msgctxt "0042 | c03_237_000 | C000_Saiha"
 msgid ""
 "After Angie was knocked unconscious in the\n"
 "empty room, she was killed in her lab."
 msgstr ""
 
-msgctxt "0044"
+#. なるほどな！　あの大量の血は、
+#. トドメを刺された時のものか！
+msgctxt "0043 | c03_237_000 | C001_Momot"
 msgid ""
 "I see! So that puddle of blood\n"
 "is from the killing blow!"
 msgstr ""
 
-msgctxt "0045"
+#. おーし、これでハッキリしたな！
+msgctxt "0044 | c03_237_000 | C001_Momot"
 msgid "Hah! It's all clear now!"
 msgstr ""
 
-msgctxt "0046"
+#. アンジーは最初に空き部屋で襲われた後、
+#. 美術部の研究教室に運ばれて…
+msgctxt "0045 | c03_237_000 | C001_Momot"
 msgid ""
 "Angie was attacked in the empty room, \n"
 "carried to her lab..."
 msgstr ""
 
-msgctxt "0047"
+#. そこで犯人に殺されたんだ！
+msgctxt "0046 | c03_237_000 | C001_Momot"
 msgid ""
 "And it was there that the culprit\n"
 "finished her off!"
 msgstr ""
 
-msgctxt "0048"
+#. ………………
+msgctxt "0047 | c03_237_000 | C006_Shing"
 msgid "..."
 msgstr "..."
 
-msgctxt "0049"
+#. …ハッキリ？　それがハッキリ？
+msgctxt "0048 | c03_237_000 | C006_Shing"
 msgid "All clear...? This...is all clear?"
 msgstr ""
 
-msgctxt "0050"
+#. クク…ククク…
+#. まったく…君らは何を言っているんだか…
+msgctxt "0049 | c03_237_000 | C006_Shing"
 msgid ""
 "Kehe...kehehehe...\n"
 "What are you all talking about...?"
 msgstr ""
 
-msgctxt "0051"
+#. ハッキリ…だって？
+#. な、何が…ハッキリだって…
+msgctxt "0050 | c03_237_000 | C006_Shing"
 msgid ""
 "All...clear...?\n"
 "Wh-What...is...a-all clear...?"
 msgstr ""
 
-msgctxt "0052"
+#. 何を…君らは何が…ハッキリって…
+msgctxt "0051 | c03_237_000 | C006_Shing"
 msgid ""
 "What is... What are you...\n"
 "A-All clear...?"
 msgstr ""
 
-msgctxt "0053"
+#. な、何を…君ら君君は何、な、なな何を――
+msgctxt "0052 | c03_237_000 | C006_Shing"
 msgid ""
 "Wh-What are... You all...you. \n"
 "You what? Wha-Wha-What are—"
 msgstr ""
 
-msgctxt "0054"
+#. …是清や、落ち着きなさい。
+msgctxt "0053 | c03_237_000 | C006_Shing"
 msgid "Sweet Korekiyo, calm yourself..."
 msgstr ""
 
-msgctxt "0055"
+#. 所詮、彼らはただ言葉を並べているだけよ。
+#. そこにはなんら意味など存在しないわ…
+msgctxt "0054 | c03_237_000 | C006_Shing"
 msgid ""
 "Their words are all hollow.\n"
 "There is no meaning to any of them..."
 msgstr ""
 
-msgctxt "0056"
+#. <CLT=cltMIND>…え？
+msgctxt "0055 | c03_237_000 | C000_Saiha"
 msgid "<CLT=cltMIND>...What?"
 msgstr ""
 
-msgctxt "0057"
+#. あなたがその事を教えてあげなさい。
+#. あの無知な子達にね…
+msgctxt "0056 | c03_237_000 | C006_Shing"
 msgid ""
 "You must teach these\n"
 "ignorant children a lesson."
 msgstr ""
 
-msgctxt "0058"
+#. そ、そうだネ…
+#. うん、わかったヨ…
+msgctxt "0057 | c03_237_000 | C006_Shing"
 msgid ""
 "Y-Yes, you're right...\n"
 "Okay, I'll teach them."
 msgstr ""
 
-msgctxt "0059"
+#. な、なんだよ…ブツブツ言いやがって…
+#. ますます気持ちわりーじゃねーか。
+msgctxt "0058 | c03_237_000 | C014_Iruma"
 msgid ""
 "Wh-What the hell are you mumblin' about?\n"
 "You're givin' me the goddamn willies..."
 msgstr ""
 
-msgctxt "0060"
+#. ククク…まだだヨ。
+#. まだまだ何もハッキリしてないじゃないか。
+msgctxt "0059 | c03_237_000 | C006_Shing"
 msgid ""
 "Kehehe... Not yet.\n"
 "Nothing is clear at all."
 msgstr ""
 
-msgctxt "0061"
+#. 疑問だらけじゃないか！　謎だらけじゃないか！
+#. 不思議だらけじゃないか！
+msgctxt "0060 | c03_237_000 | C006_Shing"
 msgid ""
 "It's full of doubts! Of mysteries!\n"
 "Of a dense, impenetrable fog!"
 msgstr ""
 
-msgctxt "0062"
+#. 何がハッキリしたって言うんだヨォ！
+msgctxt "0061 | c03_237_000 | C006_Shing"
 msgid "Nothing is clear at all!!!"
 msgstr ""

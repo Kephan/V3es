@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,49 +11,63 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. マンホールを見てきたけど、
+#. ホントに上にガレキが積み上がってたよ。
+msgctxt "0000 | c03_705_053 | C005_Oma__"
 msgid ""
 "I went to check on the manhole, but it\n"
 "was covered in debris."
 msgstr ""
 
-msgctxt "0002"
+#. でもさー、ゴン太はチョロいし
+#. ちょっと説得すれば退かしてくれそうじゃない？
+msgctxt "0001 | c03_705_053 | C005_Oma__"
 msgid ""
 "But Gonta's simple. Do you think he'd move\n"
 "it for us if we gave him a little nudge?"
 msgstr ""
 
-msgctxt "0003"
+#. はい
+msgctxt "0002 | c03_705_053 | C005_Oma__"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0004"
+#. いいえ
+msgctxt "0003 | c03_705_053 | C005_Oma__"
 msgid "No"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_705_053 | C005_Oma__"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>どうしよう？
+#. 王馬くんを誘ってみるか？
+msgctxt "0005 | c03_705_053 | chara_Blank"
 msgid "<CLT=cltMIND>Should I hang out with Kokichi for a while?"
 msgstr ""
 
-msgctxt "0007"
+#. ん？　オレと過ごすの？
+msgctxt "0006 | c03_705_053 | C005_Oma__"
 msgid "Hm? You wanna spend time with me?"
 msgstr ""
 
-msgctxt "0008"
+#. じゃあ、<CLT=cltSTRONG>“転校”<CLT=cltNORMAL>してくる天海ちゃんを
+#. どう歓迎するか考えてみる？
+msgctxt "0007 | c03_705_053 | C005_Oma__"
 msgid ""
 "Then let's think of a surprise party for Rantaro\n"
 "when he comes back as the <CLT=cltSTRONG>transfer student<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>王馬くんと過ごした…
+msgctxt "0008 | c03_705_053 | chara_Blank"
 msgid "<CLT=cltMIND>I spent some time with Kokichi..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>王馬くんと少し仲良くなってしまった…
+msgctxt "0009 | c03_705_053 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Kokichi and I grew a little closer today,\n"
 "despite my misgivings..."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,44 +11,56 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. あれー、終一？
+msgctxt "0000 | c03_713_053 | C013_Yonag"
 msgid "Huh?"
 msgstr ""
 
-msgctxt "0002"
+#. アンジーは神さまにお祈りをしてるんだ。
+#. だから、終一とお話ししてる時間はないかなー。
+msgctxt "0001 | c03_713_053 | C013_Yonag"
 msgid ""
 "I don't have time to talk to you.\n"
 "I'm praying to Atua."
 msgstr ""
 
-msgctxt "0003"
+#. また後でねー！
+#. ぐっばいならー！
+msgctxt "0002 | c03_713_053 | C013_Yonag"
 msgid "Talk to you later! Bye-onara!"
 msgstr ""
 
-msgctxt "0004"
+#. 一緒にすごす
+msgctxt "0003 | c03_713_053 | C013_Yonag"
 msgid "Spend time together"
 msgstr ""
 
-msgctxt "0005"
+#. やっぱりやめる
+msgctxt "0004 | c03_713_053 | C013_Yonag"
 msgid "Never mind"
 msgstr ""
 
-msgctxt "0006"
+#. もしかして悩んでいるの？
+msgctxt "0005 | c03_713_053 | C013_Yonag"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltSYSTEM>夜長アンジーと何をしますか？
+msgctxt "0006 | c03_713_053 | chara_Blank"
 msgid "<CLT=cltSYSTEM>What would you like to do with Angie?"
 msgstr ""
 
-msgctxt "0008"
+#. 夜長アンジーと一緒にすごすイベント４
+msgctxt "0007 | c03_713_053 | C013_Yonag"
 msgid "Spend time with Angie Yonaga Event 4"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>夜長アンジーと何かをして、一緒にすごした
+msgctxt "0008 | c03_713_053 | chara_Blank"
 msgid "<CLT=cltMIND>I spent some time with Angie..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>夜長アンジーとすこし仲良くなれたようだ
+msgctxt "0009 | c03_713_053 | chara_Blank"
 msgid "<CLT=cltMIND>Angie and I grew a little closer today."
 msgstr ""

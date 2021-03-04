@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,58 +11,75 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. あの、中庭のメッセージを
+#. 死んだ人たちが遺しているのだとしても…
+msgctxt "0000 | c03_711_052 | C011_Chaba"
 msgid ""
 "If the writing in the courtyard is a message\n"
 "from the people who died..."
 msgstr ""
 
-msgctxt "0002"
+#. どうして、もっとハッキリ『助けて』とか
+#. そう言うメッセージにしないんでしょうね？
+msgctxt "0001 | c03_711_052 | C011_Chaba"
 msgid ""
 "then why didn't they write a more obvious\n"
 "message like \"Help!\" or something?"
 msgstr ""
 
-msgctxt "0003"
+#. はい
+msgctxt "0002 | c03_711_052 | C011_Chaba"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0004"
+#. いいえ
+msgctxt "0003 | c03_711_052 | C011_Chaba"
 msgid "No"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_711_052 | C011_Chaba"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>どうしよう？
+#. 茶柱さんを誘ってみるか？
+msgctxt "0005 | c03_711_052 | chara_Blank"
 msgid "<CLT=cltMIND>Should I hang out with Tenko for a while?"
 msgstr ""
 
-msgctxt "0007"
+#. …あ、いえ！　アンジーさんの言葉を
+#. 疑ってる訳じゃないですよ！？
+msgctxt "0006 | c03_711_052 | C011_Chaba"
 msgid ""
 "...Oh! I'm not doubting Angie's words or\n"
 "anything, okay!?"
 msgstr ""
 
-msgctxt "0008"
+#. そ、そんな無駄で迷惑にもったいぶった事をするのは
+#. 男死ですね！
+msgctxt "0007 | c03_711_052 | C011_Chaba"
 msgid ""
 "Wh-Whoever wrote that useless message\n"
 "must've been a degenerate male!"
 msgstr ""
 
-msgctxt "0009"
+#. あれを書いているのは、
+#. 天海さんか星さんですよ！
+msgctxt "0008 | c03_711_052 | C011_Chaba"
 msgid ""
 "It was definitely Rantaro or Ryoma who\n"
 "wrote it!"
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>妙に慌てている茶柱さんをなだめて過ごした…
+msgctxt "0009 | c03_711_052 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I spent some time with\n"
 "a panicky Tenko."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>茶柱さんと少し仲良くなれたみたいだ…
+msgctxt "0010 | c03_711_052 | chara_Blank"
 msgid "<CLT=cltMIND>Tenko and I grew a little closer today."
 msgstr ""

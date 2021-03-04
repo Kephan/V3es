@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,234 +11,296 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>それから、しばらくして、
+#. ようやく夢野さんは泣きやんだ…
+msgctxt "0000 | c03_302_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>After a while,\n"
 "Himiko finally calmed down..."
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>のだけど…
+msgctxt "0001 | c03_302_258 | chara_Blank"
 msgid "<CLT=cltMIND>However..."
 msgstr ""
 
-msgctxt "0003"
+#. …ゴン太君、重くない？
+msgctxt "0002 | c03_302_258 | C012_Shiro"
 msgid "Is she hard to carry, Gonta?"
 msgstr ""
 
-msgctxt "0004"
+#. ううん、全然大丈夫だよ。
+msgctxt "0003 | c03_302_258 | C004_Gokuh"
 msgid "No, she fine."
 msgstr ""
 
-msgctxt "0005"
+#. それにしても…よく寝ていますね。
+msgctxt "0004 | c03_302_258 | C007_Ki-Bo"
 msgid "She's sleeping very peacefully."
 msgstr ""
 
-msgctxt "0006"
+#. 泣き疲れたんだよ。
+#. ほら、ロボだってオイル漏れするとよく寝られるでしょ？
+msgctxt "0005 | c03_302_258 | C005_Oma__"
 msgid ""
 "She's all tuckered out after crying. Robots \n"
 "sleep well after leaking their oils too, right?"
 msgstr ""
 
-msgctxt "0007"
+#. ですから、ボクの動力はオイルではないと、
+#. 以前から何度も――
+msgctxt "0006 | c03_302_258 | C007_Ki-Bo"
 msgid ""
 "I have told you many times that I do\n"
 "not use oil as my fuel source—"
 msgstr ""
 
-msgctxt "0008"
+#. けど、ビックリしたよねー。
+#. 泣きやんだと思ったら、急に倒れるんだもん。
+msgctxt "0007 | c03_302_258 | C005_Oma__"
 msgid ""
 "But wow! That really surprised me!\n"
 "She passed out as soon as she stopped crying."
 msgstr ""
 
-msgctxt "0009"
+#. でも…気持ち良さそうに寝ているね。
+msgctxt "0008 | c03_302_258 | C000_Saiha"
 msgid ""
 "Yeah...but she looks so peaceful,\n"
 "sleeping like that..."
 msgstr ""
 
-msgctxt "0010"
+#. …少しはスッキリしたんじゃない？
+msgctxt "0009 | c03_302_258 | C010_Haruk"
 msgid ""
 "...She probably felt better after letting\n"
 "it all out, don't you think?"
 msgstr ""
 
-msgctxt "0011"
+#. うん…そうだといいんだけど。
+msgctxt "0010 | c03_302_258 | C012_Shiro"
 msgid "Yeah... I hope so."
 msgstr ""
 
-msgctxt "0012"
+#. じゃあ、ゴン太は夢野さんを個室まで運んでくるよ。
+msgctxt "0011 | c03_302_258 | C004_Gokuh"
 msgid "Then, Gonta carry Himiko to her room."
 msgstr ""
 
-msgctxt "0013"
+#. ひゃっひゃっひゃっひゃ！
+#. ちゃんと背中に意識を集中させておけよ！
+msgctxt "0012 | c03_302_258 | C014_Iruma"
 msgid ""
 "Bwah-hahahahaha! Make sure you focus\n"
 "real good on your back, y'hear me!?"
 msgstr ""
 
-msgctxt "0014"
+#. ロリっ子の微乳なんて、
+#. 集中してねーと感触がわからねーからなぁ！
+msgctxt "0013 | c03_302_258 | C014_Iruma"
 msgid ""
 "You'll need that focus if you wanna feel\n"
 "her little mosquito bites pokin' ya!"
 msgstr ""
 
-msgctxt "0015"
+#. そんな事する訳ないじゃん…
+#. ゴン太君は紳士なんだよ？
+msgctxt "0014 | c03_302_258 | C012_Shiro"
 msgid ""
 "There's no way he'd do such a thing... \n"
 "Gonta is a gentleman, after all."
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>こうして、みんなが寄宿舎へと戻って行く中、
+#. 僕はふと気が付いた…
+msgctxt "0015 | c03_302_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>While we were heading back to\n"
 "the dorms, I suddenly noticed..."
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>１人…足を止めている百田くんに。
+msgctxt "0016 | c03_302_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Kaito had stopped\n"
 "in his tracks."
 msgstr ""
 
-msgctxt "0018"
+#. ………………
+msgctxt "0017 | c03_302_258 | C001_Momot"
 msgid "..."
 msgstr "..."
 
-msgctxt "0019"
+#. …百田くん、どうかしたの？
+msgctxt "0018 | c03_302_258 | C000_Saiha"
 msgid "...Kaito, what's wrong?"
 msgstr ""
 
-msgctxt "0020"
+#. …ん？　あぁ…いや…
+msgctxt "0019 | c03_302_258 | C001_Momot"
 msgid "Hm? Oh... Nothing."
 msgstr ""
 
-msgctxt "0021"
+#. ちっと…夜の空気を吸いたくなっただけだ。
+#. オレの事は気にしねーで…先に行っていいぜ。
+msgctxt "0020 | c03_302_258 | C001_Momot"
 msgid ""
 "I just...wanted to get some night air. \n"
 "Don't worry about me. Go on ahead."
 msgstr ""
 
-msgctxt "0022"
+#. …え？　そう？
+msgctxt "0021 | c03_302_258 | C000_Saiha"
 msgid "Ah, you sure?"
 msgstr ""
 
-msgctxt "0023"
+#. とにかく…もう今回みたいなのはやめてよ？
+msgctxt "0022 | c03_302_258 | C010_Haruk"
 msgid ""
 "Anyway...don't do something like this\n"
 "again, okay?"
 msgstr ""
 
-msgctxt "0024"
+#. 怖いのが苦手なら最初からそう言って。
+#. 本当に体調不良かと思って――
+msgctxt "0023 | c03_302_258 | C010_Haruk"
 msgid ""
 "If you dislike scary things, then you should've\n"
 "said so earlier. I thought you were sic—"
 msgstr ""
 
-msgctxt "0025"
+#. …心配したか？
+msgctxt "0024 | c03_302_258 | C001_Momot"
 msgid "You worried about me?"
 msgstr ""
 
-msgctxt "0026"
+#. …あんたのバカさ加減をね。
+msgctxt "0025 | c03_302_258 | C010_Haruk"
 msgid "Yeah...worried about your stupidity."
 msgstr ""
 
-msgctxt "0027"
+#. ははっ！　相変わらず愛想のわりー女だな。
+msgctxt "0026 | c03_302_258 | C001_Momot"
 msgid ""
 "Hah! Still haven't warmed up\n"
 "to me, huh?"
 msgstr ""
 
-msgctxt "0028"
+#. でも、最初の頃に感じた壁は
+#. 少しずつなくなってる気がするよ…
+msgctxt "0027 | c03_302_258 | C000_Saiha"
 msgid ""
 "Maybe not...but I feel like the walls we\n"
 "had up are coming down a little, you know?"
 msgstr ""
 
-msgctxt "0029"
+#. 彼女の敵って…その壁だったんだね。
+msgctxt "0028 | c03_302_258 | C000_Saiha"
 msgid "Perhaps those walls were her enemies..."
 msgstr ""
 
-msgctxt "0030"
+#. もう、それから逃げないって決めたみたいだよ。
+msgctxt "0029 | c03_302_258 | C000_Saiha"
 msgid ""
 "It seems like she doesn't want\n"
 "to wait anymore."
 msgstr ""
 
-msgctxt "0031"
+#. おう、オレのお陰でな！
+msgctxt "0030 | c03_302_258 | C001_Momot"
 msgid "Yeah! Cuz of me!"
 msgstr ""
 
-msgctxt "0032"
+#. …そうだけど、自分で言う？
+msgctxt "0031 | c03_302_258 | C000_Saiha"
 msgid ""
 "...Yeah, maybe, but you sound\n"
 "like you're bragging, Kaito!"
 msgstr ""
 
-msgctxt "0033"
+#. へへっ…オレはもうちっと…
+#. ここで夜風に当たってから帰るからよ…
+msgctxt "0032 | c03_302_258 | C001_Momot"
 msgid ""
 "Heh... But like I said, I'm...gonna \n"
 "get some air before I go back."
 msgstr ""
 
-msgctxt "0034"
+#. …テメーも先に帰っていいぜ。
+msgctxt "0033 | c03_302_258 | C001_Momot"
 msgid "You can go on ahead."
 msgstr ""
 
-msgctxt "0035"
+#. うん…わかった。
+#. じゃあ、また明日。
+msgctxt "0034 | c03_302_258 | C000_Saiha"
 msgid ""
 "Sure...got it.\n"
 "See you tomorrow."
 msgstr ""
 
-msgctxt "0036"
+#. …おうっ、また明日な。
+msgctxt "0035 | c03_302_258 | C001_Momot"
 msgid "Yeah, see ya tomorrow!"
 msgstr ""
 
-msgctxt "0037"
+#. <CLT=cltMIND>何気ない別れの挨拶をかわして、
+#. 僕は寄宿舎の自分の部屋へと帰っていった。
+msgctxt "0036 | c03_302_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>After our goodbyes, I\n"
 "returned to my dorm room."
 msgstr ""
 
-msgctxt "0038"
+#. <CLT=cltMIND>その場に残した百田くんの事など、
+#. 気にも留めずに…
+msgctxt "0037 | c03_302_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I didn't notice what was\n"
 "going on with Kaito..."
 msgstr ""
 
-msgctxt "0039"
+#. <CLT=cltMIND>………………
+msgctxt "0038 | c03_302_258 | chara_Blank"
 msgid "<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0040"
+#. <CLT=cltMIND>………………………………
+msgctxt "0039 | c03_302_258 | chara_Blank"
 msgid "<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0041"
+#. …ゴホッ。
+msgctxt "0040 | c03_302_258 | C001_Momot"
 msgid "... *cough*"
 msgstr ""
 
-msgctxt "0042"
+#. …ゴホッ、ゴホッ！
+msgctxt "0041 | c03_302_258 | C001_Momot"
 msgid "*cough* *cough*"
 msgstr ""
 
-msgctxt "0043"
+#. ク、クソ…がぁ…
+msgctxt "0042 | c03_302_258 | C001_Momot"
 msgid "D-Damn it..."
 msgstr ""
 
-msgctxt "0044"
+#. オレには…死んでるヒマなんてねーんだ…
+#. まだ…宇宙にだって行ってねーんだぞ。
+msgctxt "0043 | c03_302_258 | C001_Momot"
 msgid ""
 "I...don't have time to be dying...\n"
 "I still haven't gone into space yet."
 msgstr ""
 
-msgctxt "0045"
+#. クソ…死んで堪るかってんだよ…！
+msgctxt "0044 | c03_302_258 | C001_Momot"
 msgid ""
 "Damn it... \n"
 "No way am I gonna die here!"
 msgstr ""
 
-msgctxt "0046"
+#. 死んで…堪るか…
+msgctxt "0045 | c03_302_258 | C001_Momot"
 msgid "No way..."
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,171 +11,221 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 茶柱さんには、カマを床下に捨てるような余力は
+#. なかったはずだよ…
+msgctxt "0000 | c03_219_000 | C000_Saiha"
 msgid ""
 "Tenko couldn't have thrown\n"
 "the sickle under the floor..."
 msgstr ""
 
-msgctxt "0002"
+#. だって…彼女は<CLT=cltSTRONG>即死<CLT=cltNORMAL>だったからね。
+msgctxt "0001 | c03_219_000 | C000_Saiha"
 msgid "...because she <CLT=cltSTRONG>died instantly<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0003"
+#. …即死？
+msgctxt "0002 | c03_219_000 | C006_Shing"
 msgid "Instantly?"
 msgstr ""
 
-msgctxt "0004"
+#. …………………
+msgctxt "0003 | c03_219_000 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0005"
+#. 即死…じゃなさそうだね。
+#. それに近い状態だろうけど多少は行動できたはずだよ。
+msgctxt "0004 | c03_219_000 | C010_Haruk"
 msgid ""
 "Her death might not have been instant, but she\n"
 "couldn't have gone far before she bled out."
 msgstr ""
 
-msgctxt "0006"
+#. うん、茶柱さんは即死だったよ…
+#. 僕が調べた限り、間違いない。
+msgctxt "0005 | c03_219_000 | C000_Saiha"
 msgid ""
 "I'm certain of it. My investigation\n"
 "determined that she died instantly."
 msgstr ""
 
-msgctxt "0007"
+#. そうなの、春川ちゃん？
+#. 人殺しの専門家の意見も聞かせてくれない？
+msgctxt "0006 | c03_219_000 | C005_Oma__"
 msgid ""
 "What's your opinion, Maki? I'd like to hear\n"
 "from someone who specializes in muuurder."
 msgstr ""
 
-msgctxt "0008"
+#. ………………
+msgctxt "0007 | c03_219_000 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0009"
+#. 春川…さん…
+msgctxt "0008 | c03_219_000 | C000_Saiha"
 msgid "Maki..."
 msgstr ""
 
-msgctxt "0010"
+#. …そうだったね。
+#. 大事な事なのにすっかり忘れてたよ。
+msgctxt "0009 | c03_219_000 | C010_Haruk"
 msgid ""
 "...You're right. I completely forgot about \n"
 "that important detail."
 msgstr ""
 
-msgctxt "0011"
+#. 茶柱は即死だったっけ…
+msgctxt "0010 | c03_219_000 | C010_Haruk"
 msgid "Tenko died instantly..."
 msgstr ""
 
-msgctxt "0012"
+#. …え？
+msgctxt "0011 | c03_219_000 | C006_Shing"
 msgid "What?"
 msgstr ""
 
-msgctxt "0013"
+#. 私は人殺しの専門家ってだけじゃなくて、
+#. 相手を即死させる専門家なんだよ？
+msgctxt "0012 | c03_219_000 | C010_Haruk"
 msgid ""
 "As an assassin, I specialize in killing my \n"
 "targets swiftly."
 msgstr ""
 
-msgctxt "0014"
+#. その私が間違いないって言ってるんだよ？
+#. 間違いないと思うけど？
+msgctxt "0013 | c03_219_000 | C010_Haruk"
 msgid ""
 "I have no doubt that Tenko was killed\n"
 "immediately."
 msgstr ""
 
-msgctxt "0015"
+#. にしし…説得力のある言葉だね。
+#. どうやら信じるしかないみたいだよ。
+msgctxt "0014 | c03_219_000 | C005_Oma__"
 msgid ""
 "Nee-heehee... Words of a true killer. Pretty\n"
 "sure we can believe everything she said."
 msgstr ""
 
-msgctxt "0016"
+#. ………………
+msgctxt "0015 | c03_219_000 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0017"
+#. <CLT=cltMIND>…春川さん、ありがとう。
+msgctxt "0016 | c03_219_000 | C000_Saiha"
 msgid "<CLT=cltMIND>...Thank you, Maki."
 msgstr ""
 
-msgctxt "0018"
+#. つーか、そんな大事な事を忘れてんじゃねーよ！
+#. ハルマキは後で終一に謝れよ！
+msgctxt "0017 | c03_219_000 | C001_Momot"
 msgid ""
 "How could you forget that, Maki Roll? \n"
 "You better apologize to Shuichi!"
 msgstr ""
 
-msgctxt "0019"
+#. …は？
+msgctxt "0018 | c03_219_000 | C010_Haruk"
 msgid "...Excuse me?"
 msgstr ""
 
-msgctxt "0020"
+#. い、いいんだよ、百田くん。
+#. そんな…余計な事を言わなくって。
+msgctxt "0019 | c03_219_000 | C000_Saiha"
 msgid ""
 "I-It's okay, Kaito, really.\n"
 "No apology necessary..."
 msgstr ""
 
-msgctxt "0021"
+#. とにかく、即死だった茶柱さんには、
+#. 凶器を自分で処分するのは不可能なんだよ。
+msgctxt "0020 | c03_219_000 | C000_Saiha"
 msgid ""
 "Anyway, Tenko died so suddenly that she\n"
 "couldn't have gotten rid of the sickle."
 msgstr ""
 
-msgctxt "0022"
+#. だとすると、彼女が自殺って推理は成立しなくなるよね？
+msgctxt "0021 | c03_219_000 | C000_Saiha"
 msgid ""
 "Knowing that, the theory that she\n"
 "killed herself just doesn't fit, correct?"
 msgstr ""
 
-msgctxt "0023"
+#. やはり…そうじゃったか。
+#. 転子は自殺するようなヤツではなかったか…
+msgctxt "0022 | c03_219_000 | C009_Yumen"
 msgid ""
 "Just like I thought...\n"
 "Tenko wouldn't commit suicide..."
 msgstr ""
 
-msgctxt "0024"
+#. …良かったね、夢野さん。
+msgctxt "0023 | c03_219_000 | C004_Gokuh"
 msgid "...Thank goodness, Himiko."
 msgstr ""
 
-msgctxt "0025"
+#. つー事は、やっぱ誰かが降霊術中に茶柱を殺したのか。
+msgctxt "0024 | c03_219_000 | C014_Iruma"
 msgid ""
 "Which means someone definitely killed\n"
 "Tenko during the seance."
 msgstr ""
 
-msgctxt "0026"
+#. でも、その方法が見当たらないから、
+#. 自殺って可能性に行き着いたんだよネ？
+msgctxt "0025 | c03_219_000 | C006_Shing"
 msgid ""
 "Her suicide was considered because we\n"
 "could not determine how she was killed."
 msgstr ""
 
-msgctxt "0027"
+#. いや、きっと方法はあったはずだ！
+#. オレらでそれを見つけんぞっ！
+msgctxt "0026 | c03_219_000 | C001_Momot"
 msgid ""
 "No! There must've been a way!\n"
 "We're gonna figure it out!"
 msgstr ""
 
-msgctxt "0028"
+#. では、降霊術に参加したみなさんにお聞きします。
+#. 何か<CLT=cltSTRONG>降霊術中に気になる事<CLT=cltNORMAL>はありませんでしたか？
+msgctxt "0027 | c03_219_000 | C007_Ki-Bo"
 msgid ""
 "Did any of the participants witness\n"
 "anything...<CLT=cltSTRONG>peculiar during the seance<CLT=cltNORMAL>?"
 msgstr ""
 
-msgctxt "0029"
+#. 教えてください…
+#. それが謎を解く糸口になるかもしれません。
+msgctxt "0028 | c03_219_000 | C007_Ki-Bo"
 msgid ""
 "If you know something, please speak up...\n"
 "It could be the key to solving this mystery."
 msgstr ""
 
-msgctxt "0030"
+#. <CLT=cltMIND>そうだな…まずは、
+#. そこから考えてみるべきかもしれないな。
+msgctxt "0029 | c03_219_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Not a bad idea... We should\n"
 "remember what happened at the seance."
 msgstr ""
 
-msgctxt "0031"
+#. <CLT=cltMIND>あの時の事をちゃんと思い出してみよう。
+#. 降霊術の最中に何が起きたのか…
+msgctxt "0030 | c03_219_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Let me try to remember...\n"
 "I'm sure there's something..."
 msgstr ""
 
-msgctxt "0032"
+#. <CLT=cltMIND>その謎を解明する為の手掛かりを探すんだ。
+msgctxt "0031 | c03_219_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I need some kind of clue that\n"
 "will help me solve this mystery..."

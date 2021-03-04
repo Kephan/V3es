@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,65 +11,83 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. うふ、うふふふふ…
+#. ホント、このコンピューター、凄いよぉ…
+msgctxt "0000 | c03_714_053 | C014_Iruma"
 msgid ""
 "Heh, hehehehehehe...\n"
 "This computer is pretty awesome..."
 msgstr ""
 
-msgctxt "0002"
+#. どんな風にいじっても…
+#. すっごく敏感に反応してくれるのぉ…
+msgctxt "0001 | c03_714_053 | C014_Iruma"
 msgid ""
 "No matter what I do...it always responds\n"
 "very sensitively..."
 msgstr ""
 
-msgctxt "0003"
+#. 未使用
+msgctxt "0002 | c03_714_053 | C014_Iruma"
 msgid ""
 "<CLT=cltMIND>Should I hang out with Miu for a while?\n"
 "Even though it might not be safe to ask..."
 msgstr ""
 
-msgctxt "0004"
+#. はい
+msgctxt "0003 | c03_714_053 | C014_Iruma"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0005"
+#. いいえ
+msgctxt "0004 | c03_714_053 | C014_Iruma"
 msgid "No"
 msgstr ""
 
-msgctxt "0006"
+#. もしかして悩んでいるの？
+msgctxt "0005 | c03_714_053 | C014_Iruma"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltSYSTEM>…どうしよう？
+#. こんな入間さんを誘うのか？
+msgctxt "0006 | c03_714_053 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Should I hang out with Miu for a while?\n"
 "Even though it might not be safe to ask..."
 msgstr ""
 
-msgctxt "0008"
+#. はぁ！？　お断りだっ！
+msgctxt "0007 | c03_714_053 | C014_Iruma"
 msgid "Huh!? Fuck that!"
 msgstr ""
 
-msgctxt "0009"
+#. オメーよりもコンピューターの相手をしてた方が
+#. 何十倍も有意義に決まってんだろ！？
+msgctxt "0008 | c03_714_053 | C014_Iruma"
 msgid ""
 "I get way more outta spending time with\n"
 "this computer than with you!"
 msgstr ""
 
-msgctxt "0010"
+#. どうしてもってんなら、オレ様にメシを運んでこい！
+#. 朝から何も食ってねーんだよ！
+msgctxt "0009 | c03_714_053 | C014_Iruma"
 msgid ""
 "If you wanna be useful, bring me some\n"
 "food! I haven't eaten since this morning!"
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>入間さんに食事を運び、
+#. その見返りとして一緒に過ごしてもらった…
+msgctxt "0010 | c03_714_053 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I brought Miu some food and got to\n"
 "spend time with her as a \"reward.\""
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>入間さんと少し仲良くなってしまった…
+msgctxt "0011 | c03_714_053 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I somehow ended up growing\n"
 "a little closer to Miu..."

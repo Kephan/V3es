@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,38 +11,49 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. …私に話しかけてると誤解されるよ。
+#. <CLT=cltSTRONG>“暗殺者”<CLT=cltNORMAL>のお仲間だって。
+msgctxt "0000 | c03_710_052 | C010_Haruk"
 msgid ""
 "...If people see you talking to me, they'll\n"
 "mistake you as a friend of an <CLT=cltSTRONG>assassin<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0002"
+#. はい
+msgctxt "0001 | c03_710_052 | C010_Haruk"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0003"
+#. いいえ
+msgctxt "0002 | c03_710_052 | C010_Haruk"
 msgid "No"
 msgstr ""
 
-msgctxt "0004"
+#. もしかして悩んでいるの？
+msgctxt "0003 | c03_710_052 | C010_Haruk"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltSYSTEM>どうしよう？
+#. 春川さんを誘ってみるか？
+msgctxt "0004 | c03_710_052 | chara_Blank"
 msgid "<CLT=cltMIND>Should I hang out with Maki for a while?"
 msgstr ""
 
-msgctxt "0006"
+#. …それでもいいとでも言うの？
+#. 格好付けてると、後で痛い目にあうかもね。
+msgctxt "0005 | c03_710_052 | C010_Haruk"
 msgid ""
 "...And you're still fine with that? If you're\n"
 "putting up a front, then you'll get hurt later."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>春川さんと過ごした…
+msgctxt "0006 | c03_710_052 | chara_Blank"
 msgid "<CLT=cltMIND>I spent some time with Maki..."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>春川さんと少し仲良くなれたみたいだ…
+msgctxt "0007 | c03_710_052 | chara_Blank"
 msgid "<CLT=cltMIND>Maki and I grew a little closer today."
 msgstr ""

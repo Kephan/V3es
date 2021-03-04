@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,42 +11,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. あぁ、終一か。
+#. どうした？
+msgctxt "0000 | c03_701_051 | C001_Momot"
 msgid "Oh, hey bro. What's up?"
 msgstr ""
 
-msgctxt "0002"
+#. はい
+msgctxt "0001 | c03_701_051 | C001_Momot"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0003"
+#. いいえ
+msgctxt "0002 | c03_701_051 | C001_Momot"
 msgid "No"
 msgstr ""
 
-msgctxt "0004"
+#. もしかして悩んでいるの？
+msgctxt "0003 | c03_701_051 | C001_Momot"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltSYSTEM>どうしよう？
+#. 百田くんを誘ってみるか？
+msgctxt "0004 | c03_701_051 | chara_Blank"
 msgid "<CLT=cltMIND>Should I hang out with Kaito for a while?"
 msgstr ""
 
-msgctxt "0006"
+#. …あぁ、いいぜ。
+#. どっかに腰を落ち着けて話でもするか。
+msgctxt "0005 | c03_701_051 | C001_Momot"
 msgid ""
 "Sure thing...\n"
 "Let's sit down somewhere and talk."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>どこか覇気のない百田くんと
+#. しゃべりながら過ごした…
+msgctxt "0006 | c03_701_051 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I spent some time with an\n"
 "absolutely lethargic Kaito..."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>そんなに体調が悪いんだろうか…
+msgctxt "0007 | c03_701_051 | chara_Blank"
 msgid "<CLT=cltMIND>He really must not feel well."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>百田くんと少し仲良くなれたみたいだ…
+msgctxt "0008 | c03_701_051 | chara_Blank"
 msgid "<CLT=cltMIND>Kaito and I grew a little closer today."
 msgstr ""

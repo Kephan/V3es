@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,100 +11,129 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. …何？
+msgctxt "0000 | c03_710_051 | C010_Haruk"
 msgid "...What?"
 msgstr ""
 
-msgctxt "0002"
+#. い、いや、特に用はないけど…
+#. 良ければ話でもと思って。
+msgctxt "0001 | c03_710_051 | C000_Saiha"
 msgid ""
 "Ah, I don't have anything to say...\n"
 "I just thought...we could hang out?"
 msgstr ""
 
-msgctxt "0003"
+#. ………………
+msgctxt "0002 | c03_710_051 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0004"
+#. <CLT=cltMIND>やっぱり、まだダメ…か？
+msgctxt "0003 | c03_710_051 | chara_Blank"
 msgid "<CLT=cltMIND>I guess that's a no?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>百田くんと３人でトレーニングしたりして、
+#. 少しは距離が縮んだかと思ったんだけど…
+msgctxt "0004 | c03_710_051 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I thought that training with me and\n"
 "Kaito would bring us closer..."
 msgstr ""
 
-msgctxt "0006"
+#. …いいよ。
+msgctxt "0005 | c03_710_051 | C010_Haruk"
 msgid "...Sure."
 msgstr ""
 
-msgctxt "0007"
+#. えっ！？
+msgctxt "0006 | c03_710_051 | C000_Saiha"
 msgid "Really!?"
 msgstr ""
 
-msgctxt "0008"
+#. …誘ってきておいて、そんな反応するんだ。
+msgctxt "0007 | c03_710_051 | C010_Haruk"
 msgid ""
 "...What's with your reaction?\n"
 "You're the one who invited me."
 msgstr ""
 
-msgctxt "0009"
+#. ご、ごめん、ビックリして…
+#. 正直、断られると思ってたから。
+msgctxt "0008 | c03_710_051 | C000_Saiha"
 msgid ""
 "S-Sorry, I was just surprised.\n"
 "I honestly thought you'd reject me."
 msgstr ""
 
-msgctxt "0010"
+#. …あの百田とトレーニングしてるくらいだし、
+#. あんたもバカの同類でしょ？
+msgctxt "0009 | c03_710_051 | C010_Haruk"
 msgid ""
 "...All this time, I assumed I was just going to\n"
 "train with two idiots, you and Kaito..."
 msgstr ""
 
-msgctxt "0011"
+#. だったら、ここも私が諦めた方が早いだろうって…
+#. そう思っただけだよ。
+msgctxt "0010 | c03_710_051 | C010_Haruk"
 msgid ""
 "And I thought it'd be faster to give in\n"
 "to Kaito's demands..."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>…同類扱いなんだ。
+#. それはそれで複雑だな…
+msgctxt "0011 | c03_710_051 | chara_Blank"
 msgid "<CLT=cltMIND>...Not sure how to feel about that."
 msgstr ""
 
-msgctxt "0013"
+#. それで？
+#. 本当に私と過ごす気？
+msgctxt "0012 | c03_710_051 | C010_Haruk"
 msgid ""
 "Even after hearing that, do you still want\n"
 "to hang out with me?"
 msgstr ""
 
-msgctxt "0014"
+#. はい
+msgctxt "0013 | c03_710_051 | C010_Haruk"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0015"
+#. いいえ
+msgctxt "0014 | c03_710_051 | C010_Haruk"
 msgid "No"
 msgstr ""
 
-msgctxt "0016"
+#. もしかして悩んでいるの？
+msgctxt "0015 | c03_710_051 | C010_Haruk"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltSYSTEM>どうしよう？
+#. 春川さんと過ごすか？
+msgctxt "0016 | c03_710_051 | chara_Blank"
 msgid "<CLT=cltMIND>Should I hang out with Maki for a while?"
 msgstr ""
 
-msgctxt "0018"
+#. わかった、付き合うよ。
+#. でも、私といても意味ないと思うけど。
+msgctxt "0017 | c03_710_051 | C010_Haruk"
 msgid ""
 "Fine, I'll hang out with you. But I think you'll\n"
 "end up wasting your time on me."
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltMIND>春川さんと、とりとめのない話をして過ごした…
+msgctxt "0018 | c03_710_051 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I spent some time with Maki,\n"
 "talking about nothing..."
 msgstr ""
 
-msgctxt "0020"
+#. <CLT=cltMIND>春川さんと少し仲良くなれたみたいだ…
+msgctxt "0019 | c03_710_051 | chara_Blank"
 msgid "<CLT=cltMIND>Maki and I grew a little closer today."
 msgstr ""

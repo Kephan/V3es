@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,107 +11,141 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. ククク…そうだよネ？
+msgctxt "0000 | c03_228_000 | C006_Shing"
 msgid ""
 "Kehehe... Yes.\n"
 "That is, indeed, correct."
 msgstr ""
 
-msgctxt "0002"
+#. 空き部屋を提案し、真ん中にする事を決めたのも…
+#. 何もかもが、夢野さんだったよネ？
+msgctxt "0001 | c03_228_000 | C006_Shing"
 msgid ""
 "The one who suggested using the\n"
 "middle room was Himiko, wasn't it?"
 msgstr ""
 
-msgctxt "0003"
+#. ………………
+msgctxt "0002 | c03_228_000 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0004"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0003 | c03_228_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0005"
+#. …と言っても誰だろうね？
+#. 部屋を選ぶ時、どこでもいいって真宮寺君は言ってたし…
+msgctxt "0004 | c03_228_000 | C012_Shiro"
 msgid ""
 "Yeah, but who? When we were picking the \n"
 "room, Kiyo said he didn't care which one..."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0005 | c03_228_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0007"
+#. 捜査をしたのは真ん中の部屋だけなので
+#. 今となってはどうしようもないですね…
+msgctxt "0006 | c03_228_000 | C007_Ki-Bo"
 msgid ""
 "We only investigated the middle room.\n"
 "There's nothing we can do about that now..."
 msgstr ""
 
-msgctxt "0008"
+#. それに、見るだけじゃなく、
+#. 実際に踏み抜いてみないとわかりませんしね…
+msgctxt "0007 | c03_228_000 | C007_Ki-Bo"
 msgid ""
 "Plus, we would need to stomp the floorboards\n"
 "in the other rooms to be sure..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0008 | c03_228_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>こうして夢野さんが疑われるのも
+#. 犯人の目的通りだとしたら…
+msgctxt "0009 | c03_228_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>If the culprit's plan were to\n"
 "make Himiko a suspect..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>もしかしたら、他の部屋にも
+#. 罠を仕掛けていたのかもしれない…
+msgctxt "0010 | c03_228_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>then they might have made the\n"
 "same trap in other rooms as well."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>それを裏付ける証拠も、あったはずだ！
+msgctxt "0011 | c03_228_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>There must be some evidence\n"
 "that supports that idea..."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>こうして夢野さんが疑われるのも
+#. 犯人の目的通りだとしたら…
+msgctxt "0012 | c03_228_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>If the culprit's plan were to\n"
 "make Himiko a suspect..."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>犯人は夢野さんを陥れる為のトリックを
+#. 仕込んでいたのかもしれない…
+msgctxt "0013 | c03_228_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>they might have persuaded\n"
 "her to choose that room somehow."
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>だとしたら…それは何が考えられるんだ？
+msgctxt "0014 | c03_228_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>But how? And what\n"
 "would that tell us...?"
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>こうして夢野さんが疑われるのも
+#. 犯人の目的通りだとしたら…
+msgctxt "0015 | c03_228_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>If the culprit's plan were to\n"
 "make Himiko a suspect..."
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>犯人は夢野さんを陥れる為のトリックを
+#. 仕込んでいたのかもしれない…
+msgctxt "0016 | c03_228_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>they might have persuaded\n"
 "her to choose that room somehow."
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltMIND>だとしたら…それは何が考えられるんだ？
+msgctxt "0017 | c03_228_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>But how? And what\n"
 "would that tell us...?"

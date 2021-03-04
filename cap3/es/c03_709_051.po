@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,44 +11,57 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. これからの事は、すべて神さまが決めてくださる…
+#. だから、もう安心していいんじゃ…
+msgctxt "0000 | c03_709_051 | C009_Yumen"
 msgid ""
 "Atua will decide everything from now on...\n"
 "That's why we don't have to worry..."
 msgstr ""
 
-msgctxt "0002"
+#. はい
+msgctxt "0001 | c03_709_051 | C009_Yumen"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0003"
+#. いいえ
+msgctxt "0002 | c03_709_051 | C009_Yumen"
 msgid "No"
 msgstr ""
 
-msgctxt "0004"
+#. もしかして悩んでいるの？
+msgctxt "0003 | c03_709_051 | C009_Yumen"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltSYSTEM>どうしよう？
+#. 夢野さんを誘ってみるか？
+msgctxt "0004 | c03_709_051 | chara_Blank"
 msgid "<CLT=cltMIND>Should I hang out with Himiko for a while?"
 msgstr ""
 
-msgctxt "0006"
+#. そうじゃな…
+msgctxt "0005 | c03_709_051 | C009_Yumen"
 msgid "Sure..."
 msgstr ""
 
-msgctxt "0007"
+#. 今は、生徒会の仕事も
+#. 立て込んでいないし、付き合ってやろう…
+msgctxt "0006 | c03_709_051 | C009_Yumen"
 msgid ""
 "The student council isn't busy right now,\n"
 "so I guess I can hang out..."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>夢野さんに、
+#. 神さまの素晴らしさをじっくり語られた…
+msgctxt "0007 | c03_709_051 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Himiko spent some time teaching me about\n"
 "becoming one with Atua or something..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>夢野さんと少し仲良くなれたみたいだ…
+msgctxt "0008 | c03_709_051 | chara_Blank"
 msgid "<CLT=cltMIND>Himiko and I grew a little closer today."
 msgstr ""

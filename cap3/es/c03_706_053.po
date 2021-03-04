@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,52 +11,66 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltSTRONG>“籠犬村”<CLT=cltNORMAL>の呪術やおまじないは
+#. あまりに効き過ぎるから封印された…
+msgctxt "0000 | c03_706_053 | C006_Shing"
 msgid ""
 "The dark arts of the <CLT=cltSTRONG>Caged Dog Village<CLT=cltNORMAL> \n"
 "were sealed away for being too effective."
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltSTRONG>“かごのこ”<CLT=cltNORMAL>もその対象だったんだヨ。
+#. 領主達は、死者による罪の告発を恐れたらしい…
+msgctxt "0001 | c03_706_053 | C006_Shing"
 msgid ""
 "<CLT=cltSTRONG>The Caged Child<CLT=cltNORMAL> was one such art. It seems \n"
 "feudal lords feared the words of the dead."
 msgstr ""
 
-msgctxt "0003"
+#. はい
+msgctxt "0002 | c03_706_053 | C006_Shing"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0004"
+#. いいえ
+msgctxt "0003 | c03_706_053 | C006_Shing"
 msgid "No"
 msgstr ""
 
-msgctxt "0005"
+#. もしかして悩んでいるの？
+msgctxt "0004 | c03_706_053 | C006_Shing"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>どうしよう？
+#. 真宮寺くんを誘ってみるか？
+msgctxt "0005 | c03_706_053 | chara_Blank"
 msgid "<CLT=cltMIND>Should I hang out with Kiyo for a while?"
 msgstr ""
 
-msgctxt "0007"
+#. 死人に口なし…
+#. ククク…余りに愚かな考え方だヨ…
+msgctxt "0006 | c03_706_053 | C006_Shing"
 msgid ""
 "\"Dead men tell no tales\"...\n"
 "Kehehe...what a foolish saying."
 msgstr ""
 
-msgctxt "0008"
+#. 死者と話す方法なんて、いくらでもあるんだからネ…
+msgctxt "0007 | c03_706_053 | C006_Shing"
 msgid ""
 "There are countless ways to speak \n"
 "with the dead..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>真宮寺くんに、降霊術について延々と聞かされた…
+msgctxt "0008 | c03_706_053 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I listened to Kiyo talk endlessly\n"
 "about seances..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>真宮寺くんと少し仲良くなれたみたいだ…
+msgctxt "0009 | c03_706_053 | chara_Blank"
 msgid "<CLT=cltMIND>Kiyo and I grew a little closer today."
 msgstr ""

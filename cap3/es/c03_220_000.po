@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,75 +11,102 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. ククク…そう、僕が間違えるわけないヨ。
+#. 儀式の手順は完璧に暗記してたんだ…。
+msgctxt "0000 | c03_220_000 | C006_Shing"
 msgid ""
 "Kehehe... Indeed. There were no mistakes.\n"
 "I had the entire seance memorized."
 msgstr ""
 
-msgctxt "0002"
+#. それで…
+#. この話はどう発展していくんですか？
+msgctxt "0001 | c03_220_000 | C007_Ki-Bo"
 msgid "Okay, but...how does that further the debate?"
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0002 | c03_220_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0004"
+#. 何か落ちてきたって…
+#. あの部屋に落ちてきそうなものなんてあったっけ？
+msgctxt "0003 | c03_220_000 | C005_Oma__"
 msgid ""
 "Something fell...? Was there anything that \n"
 "could fall down in that room?"
 msgstr ""
 
-msgctxt "0005"
+#. 夢野ちゃんの気のせいじゃないの？
+msgctxt "0004 | c03_220_000 | C005_Oma__"
 msgid "Or is that just Himiko's imagination?"
 msgstr ""
 
-msgctxt "0006"
+#. でも確かにウチはそう感じたんじゃ…
+#. 記憶違いではないはずじゃ。
+msgctxt "0005 | c03_220_000 | C009_Yumen"
 msgid ""
 "But that really did happen... I think...\n"
 "I don't think I'm wrong... Maybe..."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0006 | c03_220_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>降霊術中は真っ暗だったし、
+#. 起きた事はかなり限られてくる…
+msgctxt "0007 | c03_220_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>It was pitch black during the seance,\n"
 "that limits what could have happened..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>夢野さんが言ってるように、
+#. 確かに何かが落ちてきた気がするな…
+msgctxt "0008 | c03_220_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I think Himiko remembered correctly,\n"
 "I also feel like I heard something fall..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>降霊術中は真っ暗だったし、
+#. 起きた事はかなり限られてくる…
+msgctxt "0009 | c03_220_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>It was pitch black during the seance,\n"
 "that limits what could have happened..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>冷静になって思い出せば、
+#. きっと何か手掛かりが見つかるはずだ！
+msgctxt "0010 | c03_220_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Just stay calm, think...\n"
 "There must be some kind of clue!"
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>降霊術中は真っ暗だったし、
+#. 起きた事はかなり限られてくる…
+msgctxt "0011 | c03_220_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>It was pitch black during the seance,\n"
 "that limits what could have happened..."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>冷静になって思い出せば、
+#. きっと何か手掛かりが見つかるはずだ！
+msgctxt "0012 | c03_220_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Just stay calm, think...\n"
 "There must be some kind of clue!"

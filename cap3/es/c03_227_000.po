@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,219 +11,283 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. ………………
+msgctxt "0000 | c03_227_000 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0002"
+#. 夢野さん、黙ってないで答えなヨ。
+msgctxt "0001 | c03_227_000 | C006_Shing"
 msgid "Answer us, Himiko."
 msgstr ""
 
-msgctxt "0003"
+#. 君が真ん中の空き部屋を選んだのは、
+#. 罠を仕掛けた部屋に僕らをおびき寄せる為なんでしョ？
+msgctxt "0002 | c03_227_000 | C006_Shing"
 msgid ""
 "You chose the middle room to\n"
 "lure us into your trap, did you not?"
 msgstr ""
 
-msgctxt "0004"
+#. そして、君がその罠で茶柱さんを殺したんでしョ？
+msgctxt "0003 | c03_227_000 | C006_Shing"
 msgid ""
 "Then you used that trap to\n"
 "kill Tenko, yes?"
 msgstr ""
 
-msgctxt "0005"
+#. ………………
+msgctxt "0004 | c03_227_000 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0006"
+#. どうなんだよ、ブス！
+#. テメーがあのドブスを殺したのかよっ！？
+msgctxt "0005 | c03_227_000 | C014_Iruma"
 msgid ""
 "Well, donkey-lips!?\n"
 "Did you kill that twat!?"
 msgstr ""
 
-msgctxt "0007"
+#. ………………
+msgctxt "0006 | c03_227_000 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0008"
+#. ま、待ってよ…何かの間違いだって。
+#. 夢野さんが犯人な訳ないよ。
+msgctxt "0007 | c03_227_000 | C004_Gokuh"
 msgid ""
 "W-Wait... Must be some mistake.\n"
 "No way Himiko is culprit."
 msgstr ""
 
-msgctxt "0009"
+#. でしたら、反論をしてください。
+#. そうしないと議論が進まないじゃないですか。
+msgctxt "0008 | c03_227_000 | C007_Ki-Bo"
 msgid ""
 "Then she needs to defend herself.\n"
 "Otherwise, this debate is deadlocked."
 msgstr ""
 
-msgctxt "0010"
+#. なぁ、魔法でもなんでも構わねーからよ、
+#. 反論があるなら言ってくれ。
+msgctxt "0009 | c03_227_000 | C001_Momot"
 msgid ""
 "I don't care if you gotta use magic\n"
 "to do it, but say something already."
 msgstr ""
 
-msgctxt "0011"
+#. ………………
+msgctxt "0010 | c03_227_000 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0012"
+#. …聞いてるの？
+msgctxt "0011 | c03_227_000 | C010_Haruk"
 msgid "...Are you even listening?"
 msgstr ""
 
-msgctxt "0013"
+#. …聞いとらんわ。
+msgctxt "0012 | c03_227_000 | C009_Yumen"
 msgid "No. I'm not listening..."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>…え？
+msgctxt "0013 | c03_227_000 | C000_Saiha"
 msgid "<CLT=cltMIND>...What?"
 msgstr ""
 
-msgctxt "0015"
+#. もう…めんどい…
+#. ウチは…もう疲れてしまったわい…
+msgctxt "0014 | c03_227_000 | C009_Yumen"
 msgid ""
 "I...don't care anymore...\n"
 "I'm too tired..."
 msgstr ""
 
-msgctxt "0016"
+#. アンジーも死んで…転子も死んで…
+#. どうして、ウチだけが生きねばならんのじゃ？
+msgctxt "0015 | c03_227_000 | C009_Yumen"
 msgid ""
 "Angie died... Tenko died...\n"
 "Why did I have to survive?"
 msgstr ""
 
-msgctxt "0017"
+#. しかも…よりにもよって、
+#. あやつらを殺したなどと疑われて…
+msgctxt "0016 | c03_227_000 | C009_Yumen"
 msgid "And now...you're all saying I killed them...?"
 msgstr ""
 
-msgctxt "0018"
+#. もう…心底めんどくなってしまったわい。
+msgctxt "0017 | c03_227_000 | C009_Yumen"
 msgid "I just...don't care anymore..."
 msgstr ""
 
-msgctxt "0019"
+#. ゆ、夢野さん…
+msgctxt "0018 | c03_227_000 | C000_Saiha"
 msgid "Himiko..."
 msgstr ""
 
-msgctxt "0020"
+#. お主らの好きにせい…
+#. ウチを犯人にしたければ…勝手にすればいい。
+msgctxt "0019 | c03_227_000 | C009_Yumen"
 msgid ""
 "Do whatever... If you want to vote\n"
 "for me, then just...go ahead."
 msgstr ""
 
-msgctxt "0021"
+#. えー？　やる気のない参加者がいると、
+#. ゲームがどっちらけになるんだけどー。
+msgctxt "0020 | c03_227_000 | C005_Oma__"
 msgid ""
 "Gnnrgh... The game gets really blah if the\n"
 "suspect isn't into it."
 msgstr ""
 
-msgctxt "0022"
+#. そういう問題じゃなくってさ！
+msgctxt "0021 | c03_227_000 | C012_Shiro"
 msgid "That's not the problem!"
 msgstr ""
 
-msgctxt "0023"
+#. テメー…まさか諦めるなんて言わねーよな？
+msgctxt "0022 | c03_227_000 | C001_Momot"
 msgid ""
 "Dammit... \n"
 "Don't tell me you've given up!"
 msgstr ""
 
-msgctxt "0024"
+#. 夢野さん、諦めちゃダメだよ！
+msgctxt "0023 | c03_227_000 | C004_Gokuh"
 msgid "Himiko, don't give up!"
 msgstr ""
 
-msgctxt "0025"
+#. この裁判にはオレ様の命だってかかってんだぞ！
+#. わかってんのかよ！？
+msgctxt "0024 | c03_227_000 | C014_Iruma"
 msgid ""
 "Don't you understand? My life is riding\n"
 "on the outcome of this trial!"
 msgstr ""
 
-msgctxt "0026"
+#. うるさい…ウチはもう疲れたと言ったじゃろう…
+msgctxt "0025 | c03_227_000 | C009_Yumen"
 msgid ""
 "Just...shut up.\n"
 "I told you I'm too tired..."
 msgstr ""
 
-msgctxt "0027"
+#. これ以上めんどいのは嫌じゃ…
+#. そこまでして…生きなくてもいいわい…
+msgctxt "0026 | c03_227_000 | C009_Yumen"
 msgid ""
 "It's all just...a big pain...\n"
 "I can't put up with it anymore..."
 msgstr ""
 
-msgctxt "0028"
+#. な、何言ってやがんだ！
+#. テメーがここで諦めちまったら――
+msgctxt "0027 | c03_227_000 | C001_Momot"
 msgid ""
 "Wh-What are you talking about!?\n"
 "If you give up here—"
 msgstr ""
 
-msgctxt "0029"
+#. まァ、心配しなくても大丈夫だヨ。
+msgctxt "0028 | c03_227_000 | C006_Shing"
 msgid "You needn't worry."
 msgstr ""
 
-msgctxt "0030"
+#. 空き部屋にみんなを誘導できたのは夢野さんだけだし、
+#. 彼女が犯人なのは間違いないんじゃないかな。
+msgctxt "0029 | c03_227_000 | C006_Shing"
 msgid ""
 "Himiko is the one who chose that room.\n"
 "Therefore, she is unmistakably the culprit."
 msgstr ""
 
-msgctxt "0031"
+#. そ、そんなはずないよ！
+#. 夢野さんが茶柱さんを殺すはずがない！
+msgctxt "0030 | c03_227_000 | C004_Gokuh"
 msgid ""
 "U-Unpossible!\n"
 "Himiko would never kill Tenko!"
 msgstr ""
 
-msgctxt "0032"
+#. 今までの彼女を見ていればわかるよ！
+#. 夢野さんはそんな人じゃない！
+msgctxt "0031 | c03_227_000 | C004_Gokuh"
 msgid ""
 "Himiko not that kinda person!\n"
 "Gonta can tell by Himiko's face!"
 msgstr ""
 
-msgctxt "0033"
+#. それに、夢野みたいな抜けたヤツに、
+#. こんな複雑な犯行が可能とは思えないんだけど。
+msgctxt "0032 | c03_227_000 | C010_Haruk"
 msgid ""
 "Himiko's a little...slow, so I don't think she's \n"
 "capable of handling a complicated crime."
 msgstr ""
 
-msgctxt "0034"
+#. わたしも…夢野さんは犯人じゃないと思う。
+#. まぁ、なんとなくだけどさ。
+msgctxt "0033 | c03_227_000 | C012_Shiro"
 msgid ""
 "I also think Himiko's not the culprit!\n"
 "Um...somehow..."
 msgstr ""
 
-msgctxt "0035"
+#. とりあえず、本当に他の可能性はねーのか、
+#. 考えてみるとしようぜ！
+msgctxt "0034 | c03_227_000 | C001_Momot"
 msgid ""
 "Either way, we gotta look \n"
 "for more possibilities!"
 msgstr ""
 
-msgctxt "0036"
+#. ククク…無駄だと思うけど。
+msgctxt "0035 | c03_227_000 | C006_Shing"
 msgid ""
 "Kehehe... That does seem like\n"
 "rather a pointless quest."
 msgstr ""
 
-msgctxt "0037"
+#. ううん、わからないよ。
+#. 諦めずに考えれば新しい真実が見えるかもしれないし。
+msgctxt "0036 | c03_227_000 | C004_Gokuh"
 msgid ""
 "No, is not. We gotta be strong. Gotta keep\n"
 "thinking. Then we might find new truth."
 msgstr ""
 
-msgctxt "0038"
+#. だから、夢野さん！　まだ諦めないでよ！
+msgctxt "0037 | c03_227_000 | C004_Gokuh"
 msgid "So no give up, Himiko!"
 msgstr ""
 
-msgctxt "0039"
+#. ………………
+msgctxt "0038 | c03_227_000 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0040"
+#. <CLT=cltMIND>夢野さん…キミの気持ちは僕にもわかるよ。
+#. 僕も赤松さんを失った時はそうだった…
+msgctxt "0039 | c03_227_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Himiko...I know how you feel.\n"
 "I felt the same way after Kaede died..."
 msgstr ""
 
-msgctxt "0041"
+#. <CLT=cltMIND>でも、僕らは諦めたらダメなんだ。
+msgctxt "0040 | c03_227_000 | C000_Saiha"
 msgid "<CLT=cltMIND>But...we can't give up."
 msgstr ""
 
-msgctxt "0042"
+#. <CLT=cltMIND>生き残った僕達は、
+#. 死んでしまったみんなの為にも諦めたらダメなんだ。
+msgctxt "0041 | c03_227_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>We survived. We can't give up,\n"
 "for the sake of everyone who died..."
