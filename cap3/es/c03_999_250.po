@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,69 +11,88 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>…食堂に向かおう。
+#. みんな集まっているはずだ。
+msgctxt "0000 | c03_999_250 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I should head to the dining hall.\n"
 "We're all supposed to meet there."
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>今日はトレーニングをやるんだろうし、
+#. 中庭に行かないと…
+msgctxt "0001 | c03_999_250 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I'm sure we're going to train today,\n"
 "I should head to the courtyard."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>嫌な予感がするけど…体育館に行くしかないな。
+msgctxt "0002 | c03_999_250 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I have a bad feeling about this...\n"
 "but I need to go to the gym."
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltMIND>とりあえず…食堂に行くか。
+msgctxt "0003 | c03_999_250 | chara_Blank"
 msgid "<CLT=cltMIND>I'll...just go to the dining hall now."
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>茶柱さんから僕達にお願い…？
+#. どう言う事か、詳しく聞いてみよう。
+msgctxt "0004 | c03_999_250 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Tenko wants a favor?\n"
 "I should ask her about it..."
 msgstr ""
 
-msgctxt "0006"
+#. 最原さん、どこに行く気ですか！
+msgctxt "0005 | c03_999_250 | C011_Chaba"
 msgid "Shuichi, where are you going!?"
 msgstr ""
 
-msgctxt "0007"
+#. アンジーさんは<CLT=cltSTRONG>“超高校級の美術部”<CLT=cltNORMAL>の研究教室で、
+#. 儀式の準備をしているはずです！
+msgctxt "0006 | c03_999_250 | C011_Chaba"
 msgid ""
 "Angie should be preparing the ritual in the\n"
 "<CLT=cltSTRONG>Ultimate Artist<CLT=cltNORMAL>'s research lab!"
 msgstr ""
 
-msgctxt "0008"
+#. 寄り道してるヒマはねーだろ！
+#. さっさとアンジーを止めに行くぞ！
+msgctxt "0007 | c03_999_250 | C001_Momot"
 msgid ""
 "We don't have time to loiter around!\n"
 "Let's hurry up and stop Angie!"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>早く研究教室の中に入ってみよう！
+#. アンジーさんが心配だ！
+msgctxt "0008 | c03_999_250 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I need to get inside that lab!\n"
 "I'm worried about Angie!"
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltSTRONG>“超高校級の民俗学者”<CLT=cltMIND>の研究教室に行こう。
+#. 金箔の日本刀について調べておかないと…
+msgctxt "0009 | c03_999_250 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I should go to the <CLT=cltSTRONG>Ultimate Anthropologist<CLT=cltMIND>'s lab...\n"
 "I need to investigate that katana."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>降霊術は、真ん中の空き部屋でやるんだったな…
+msgctxt "0010 | c03_999_250 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>So the seance is to be performed\n"
 "in the middle room..."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>中庭の<CLT=cltSTRONG>“裁きの祠”<CLT=cltMIND>へ向かおう…
+msgctxt "0011 | c03_999_250 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I need to head to the <CLT=cltSTRONG>Shrine of Judgment<CLT=cltMIND>\n"
 "in the courtyard..."
