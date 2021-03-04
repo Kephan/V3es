@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,85 +11,114 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 僕の研究教室で凶器になりそうな物なんて
+#. 金箔の日本刀ぐらいだけど…
+msgctxt "0000 | c03_204_000 | C006_Shing"
 msgid ""
 "The only potential weapon in my\n"
 "lab is the gold leaf katana..."
 msgstr ""
 
-msgctxt "0002"
+#. あれを使った証拠なんて、
+#. どこにあるんだい？
+msgctxt "0001 | c03_204_000 | C006_Shing"
 msgid ""
 "What evidence do you have that\n"
 "I even used it?"
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0002 | c03_204_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0004"
+#. あの刀は民俗学的に貴重な資料なんだヨ。
+#. そんな大切なものを凶器として使うわけないでしョ？
+msgctxt "0003 | c03_204_000 | C006_Shing"
 msgid ""
 "That katana is a very precious relic.\n"
 "How could I possibly use it as a weapon?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0004 | c03_204_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0006"
+#. 鍵があったからって、
+#. 声掛けりゃ扉ぐらい開けてくれんだろ？
+msgctxt "0005 | c03_204_000 | C014_Iruma"
 msgid ""
 "Whether Kiyo had a key or not, Angie\n"
 "still would've let him into her lab!"
 msgstr ""
 
-msgctxt "0007"
+#. そん時に押し入っちまえば、
+#. 楽勝でぶっ殺せんだろうーが！
+msgctxt "0006 | c03_204_000 | C014_Iruma"
 msgid ""
 "And from there, he could've pinned her\n"
 "down and murdered her just like that!"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0007 | c03_204_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>本当に…真宮寺くんが犯人なのか？
+#. 今の推理通りの犯行が彼にできたのか？
+msgctxt "0008 | c03_204_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Is Korekiyo really the culprit?\n"
 "Does that story fit the facts of the case?"
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>少なくとも、
+#. あの部屋に押し入る事はできないはずだけど…
+msgctxt "0009 | c03_204_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>At the very least, there was no way\n"
 "he could have forced his way into the room."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>本当に…真宮寺くんが犯人なのか？
+#. 今の推理通りの犯行が彼にできたのか？
+msgctxt "0010 | c03_204_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Is Korekiyo really the culprit?\n"
 "Does that story fit the facts of the case?"
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>まずは、そこから考えてみるか…
+msgctxt "0011 | c03_204_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>We should think about\n"
 "it from the beginning..."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>本当に…真宮寺くんが犯人なのか？
+#. 今の推理通りの犯行が彼にできたのか？
+msgctxt "0012 | c03_204_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Is Korekiyo really the culprit?\n"
 "Does that story fit the facts of the case?"
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>まずは、そこから考えてみるか…
+msgctxt "0013 | c03_204_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>We should think about\n"
 "it from the beginning..."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,704 +11,925 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. ちょっと待って。
+#. 茶柱さんはカゴの中で座っていたんじゃないんだ。
+msgctxt "0000 | c03_217_000 | C000_Saiha"
 msgid ""
 "Wait just a minute, Tenko wasn't sitting\n"
 "down inside the cage."
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltSTRONG>亀のような体勢<CLT=cltNORMAL>になっていたんだよ。
+#. 地面に置いた<CLT=cltSTRONG>目印の石<CLT=cltNORMAL>を額に付ける恰好でね。
+msgctxt "0001 | c03_217_000 | C000_Saiha"
 msgid ""
 "She was <CLT=cltSTRONG>bent over<CLT=cltNORMAL> with her\n"
 "forehead against the <CLT=cltSTRONG>marker stone<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0003"
+#. しかも、あのカゴは高さが１メートルくらいあった。
+msgctxt "0002 | c03_217_000 | C000_Saiha"
 msgid "And the cage itself was about three feet tall."
 msgstr ""
 
-msgctxt "0004"
+#. 中で亀の体勢になっている茶柱さんを刺すには、
+#. 刃渡り１５センチのカマじゃ届かないよ。
+msgctxt "0003 | c03_217_000 | C000_Saiha"
 msgid ""
 "The sickle's blade was too short to reach\n"
 "Tenko while she was in that position."
 msgstr ""
 
-msgctxt "0005"
+#. じゃあ…また間違ったの？
+#. も、もう…恥ずかしくて生きていけないよぉ…
+msgctxt "0004 | c03_217_000 | C014_Iruma"
 msgid ""
 "Then...I messed up again? How could\n"
 "this happen? I'm so embarrassed..."
 msgstr ""
 
-msgctxt "0006"
+#. 大丈夫だよ！　入間ちゃんが恥ずかしい人間なのは、
+#. みんなとっくに知ってるし！
+msgctxt "0005 | c03_217_000 | C005_Oma__"
 msgid ""
 "No worries, Miu! Everyone already knows\n"
 "you're an embarrassment to the human race!"
 msgstr ""
 
-msgctxt "0007"
+#. うんっ、安心していいよっ！
+msgctxt "0006 | c03_217_000 | C004_Gokuh"
 msgid "Yeah! No worries!"
 msgstr ""
 
-msgctxt "0008"
+#. ひいいっ！　は、恥ずかしいっ！
+msgctxt "0007 | c03_217_000 | C014_Iruma"
 msgid "Heeeeeee! How...how embarrassing!"
 msgstr ""
 
-msgctxt "0009"
+#. ただ、今の最原クンの話だと、
+#. 茶柱さんをカゴ越しに刺すのは不可能という事ですよね。
+msgctxt "0008 | c03_217_000 | C007_Ki-Bo"
 msgid ""
 "If Shuichi is right, then it's impossible for\n"
 "Tenko to have been killed through the cage."
 msgstr ""
 
-msgctxt "0010"
+#. だったら、降霊術の最中に殺せねーじゃねーか。
+#. だって、あいつはずっとカゴの中にいたんだろ？
+msgctxt "0009 | c03_217_000 | C001_Momot"
 msgid ""
 "She couldn't have been killed during the \n"
 "seance since she was in the cage, right?"
 msgstr ""
 
-msgctxt "0011"
+#. そもそも、降霊術中に彼女が刺し殺されたなら、
+#. カゴを覆っていた白い布も貫通されているはずだよネ。
+msgctxt "0010 | c03_217_000 | C006_Shing"
 msgid ""
 "If she was killed then, the cloth over \n"
 "the cage would have been pierced."
 msgstr ""
 
-msgctxt "0012"
+#. でも、床下から殺した可能性もないんでしょ？
+#. そうすると、もう完全に不可能じゃない？
+msgctxt "0011 | c03_217_000 | C012_Shiro"
 msgid ""
 "Not during the seance or from below\n"
 "the floor... Then it's impossible, isn't it?"
 msgstr ""
 
-msgctxt "0013"
+#. …生きている人間にはね。
+msgctxt "0012 | c03_217_000 | C005_Oma__"
 msgid "...Yeah, for a living person."
 msgstr ""
 
-msgctxt "0014"
+#. …あ？
+msgctxt "0013 | c03_217_000 | C001_Momot"
 msgid "Huh...?"
 msgstr ""
 
-msgctxt "0015"
+#. にしし…茶柱ちゃんを殺したのは、
+#. 死んだアンジーちゃんの霊だったりして…
+msgctxt "0014 | c03_217_000 | C005_Oma__"
 msgid ""
 "Nee-heehee... What if Angie's spirit\n"
 "killed Tenko?"
 msgstr ""
 
-msgctxt "0016"
+#. な、何言ってやがんだっ！
+#. そそ、そんな訳ねーだろうがっ！
+msgctxt "0015 | c03_217_000 | C001_Momot"
 msgid ""
 "Wh-What are you talking about!?\n"
 "Th-Th-That's not possible!"
 msgstr ""
 
-msgctxt "0017"
+#. いや、わからないよ？
+#. 人間に不可能な事でも、<CLT=cltSTRONG>霊<CLT=cltNORMAL>なら可能だろうしね。
+msgctxt "0016 | c03_217_000 | C005_Oma__"
 msgid ""
 "We don't know that. Some things are\n"
 "impossible for a human, but not for a spirit."
 msgstr ""
 
-msgctxt "0018"
+#. バ、バカ言ってんじゃねー！
+#. なな、何が霊だっ！
+msgctxt "0017 | c03_217_000 | C001_Momot"
 msgid ""
 "D-Don't say stupid stuff like that!\n"
 "S-S-Screw spirits!"
 msgstr ""
 
-msgctxt "0019"
+#. …ねぇ、いい加減にしてよ。
+msgctxt "0018 | c03_217_000 | C010_Haruk"
 msgid "...Stop that now."
 msgstr ""
 
-msgctxt "0020"
+#. ………………
+msgctxt "0019 | c03_217_000 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0021"
+#. アンジーの霊が…転子を殺したじゃと？
+#. そ、それは…なぜじゃ？
+msgctxt "0020 | c03_217_000 | C009_Yumen"
 msgid "Angie's spirit...killed Tenko? Wh-Why...?"
 msgstr ""
 
-msgctxt "0022"
+#. …夢野さん？
+msgctxt "0021 | c03_217_000 | C004_Gokuh"
 msgid "Himiko?"
 msgstr ""
 
-msgctxt "0023"
+#. なぜ…アンジーの霊が転子を殺すんじゃ？
+msgctxt "0022 | c03_217_000 | C009_Yumen"
 msgid "Why would Angie's spirit kill Tenko?"
 msgstr ""
 
-msgctxt "0024"
+#. たとえば、アンジーちゃんを殺したのが茶柱ちゃんで、
+#. それを恨んだアンジーちゃんの霊がやり返して――
+msgctxt "0023 | c03_217_000 | C005_Oma__"
 msgid ""
 "What if Tenko killed Angie, and then \n"
 "Angie's spirit came back for reven—"
 msgstr ""
 
-msgctxt "0025"
+#. だから、ちげーって言ってんだろっ！
+#. 犯人が幽霊なんて…そんな訳ねーだろ！！
+msgctxt "0024 | c03_217_000 | C001_Momot"
 msgid ""
 "Like I said, that's impossible!\n"
 "Spirits can't be culprits!"
 msgstr ""
 
-msgctxt "0026"
+#. だったら、あの不可能な状況下で、
+#. 犯人はどうやって茶柱ちゃんを殺したの？
+msgctxt "0025 | c03_217_000 | C005_Oma__"
 msgid ""
 "Then explain how the culprit killed Tenko\n"
 "under these impossible circumstances."
 msgstr ""
 
-msgctxt "0027"
+#. だ、だから…それはだな…
+msgctxt "0026 | c03_217_000 | C001_Momot"
 msgid "W-Well, uh..."
 msgstr ""
 
-msgctxt "0028"
+#. ほーら、わからないでしょ？
+#. やっぱり、あれは霊の仕業としか――
+msgctxt "0027 | c03_217_000 | C005_Oma__"
 msgid ""
 "See? You can't explain, can you?\n"
 "Only a spirit could have done th—"
 msgstr ""
 
-msgctxt "0029"
+#. ま、待て！　そうだ！
+#. 犯人はカゴの中に隠れてたんじゃねーのか！？
+msgctxt "0028 | c03_217_000 | C001_Momot"
 msgid ""
 "W-Wait, I know! What if the culprit \n"
 "was hiding inside the cage!?"
 msgstr ""
 
-msgctxt "0030"
+#. ほら、同じカゴの中にいたら、
+#. 降霊術中に茶柱を刺し殺す事もできんだろ！
+msgctxt "0029 | c03_217_000 | C001_Momot"
 msgid ""
 "If they were in there, they coulda\n"
 "stabbed Tenko during the seance!"
 msgstr ""
 
-msgctxt "0031"
+#. いや、カゴの中にもう１人いたら、
+#. さすがに僕らも気付いて――
+msgctxt "0030 | c03_217_000 | C000_Saiha"
 msgid ""
 "No, if there was someone else\n"
 "in the cage, we would've noticed—"
 msgstr ""
 
-msgctxt "0032"
+#. 私も百田と同じ意見だよ。
+#. 犯人はあのカゴの中にいたんだと思う。
+msgctxt "0031 | c03_217_000 | C010_Haruk"
 msgid ""
 "I agree with Kaito. The culprit could have\n"
 "been inside the cage."
 msgstr ""
 
-msgctxt "0033"
+#. <CLT=cltMIND>…えっ？
+msgctxt "0032 | c03_217_000 | C000_Saiha"
 msgid "<CLT=cltMIND>...You do?"
 msgstr ""
 
-msgctxt "0034"
+#. いやいや、それはあり得ないヨ。
+#. カゴの中には犯人が隠れるスペースなんてないヨ。
+msgctxt "0033 | c03_217_000 | C006_Shing"
 msgid ""
 "Nonsense. There was no space in\n"
 "the cage for the culprit to hide."
 msgstr ""
 
-msgctxt "0035"
+#. もし<CLT=cltSTRONG>“あいつ”<CLT=cltNORMAL>が犯人だとしたら、
+#. そもそも隠れる必要すらないんだよ。
+msgctxt "0034 | c03_217_000 | C010_Haruk"
 msgid ""
 "Maybe the <CLT=cltSTRONG>culprit<CLT=cltNORMAL> wouldn't need\n"
 "to hide in the first place."
 msgstr ""
 
-msgctxt "0036"
+#. …え？
+msgctxt "0035 | c03_217_000 | C006_Shing"
 msgid "What?"
 msgstr ""
 
-msgctxt "0037"
+#. それに“あいつ”なら
+#. いつでもカゴの中で殺す事ができたはずだから…
+msgctxt "0036 | c03_217_000 | C010_Haruk"
 msgid ""
 "Also, the culprit could've killed her in the\n"
 "cage at any time."
 msgstr ""
 
-msgctxt "0038"
+#. 今の疑問は一気にクリアになると思うけど？
+msgctxt "0037 | c03_217_000 | C010_Haruk"
 msgid "I think you know what I'm getting at, right?"
 msgstr ""
 
-msgctxt "0039"
+#. <CLT=cltMIND>もしかして、
+#. 春川さんの言う“あいつ”って…
+msgctxt "0038 | c03_217_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>The \"they\" she's\n"
 "referring to..."
 msgstr ""
 
-msgctxt "0040"
+#. まさか…夢野さんが…？
+msgctxt "0039 | c03_217_000 | C000_Saiha"
 msgid "Do you mean...Himiko?"
 msgstr ""
 
-msgctxt "0041"
+#. なぜウチの事を疑うんじゃ…
+msgctxt "0040 | c03_217_000 | C009_Yumen"
 msgid "Why are you suspecting me?"
 msgstr ""
 
-msgctxt "0042"
+#. ウチが転子を殺すわけないっ！
+msgctxt "0041 | c03_217_000 | C009_Yumen"
 msgid "I would never kill Tenko!"
 msgstr ""
 
-msgctxt "0043"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0042 | c03_217_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me... \n"
 "I screwed up, they think I'm a fraud... \n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0044"
+#. やっぱり、アンジーさんの霊の仕業なのかな…
+msgctxt "0043 | c03_217_000 | C000_Saiha"
 msgid "Do you mean...Angie's ghost?"
 msgstr ""
 
-msgctxt "0045"
+#. は？
+#. あんたもそんなくだらない事考えてんの？
+msgctxt "0044 | c03_217_000 | C010_Haruk"
 msgid ""
 "Can you stop thinking about such stupid\n"
 "things?"
 msgstr ""
 
-msgctxt "0046"
+#. そ、そうだっ！
+#. ゆ、幽霊が犯人なんて…あってたまるか！
+msgctxt "0045 | c03_217_000 | C001_Momot"
 msgid ""
 "Th-That's right! S-Spirits can't be\n"
 "culprits...that's not how it works!"
 msgstr ""
 
-msgctxt "0047"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0046 | c03_217_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me... \n"
 "I screwed up, they think I'm a fraud... \n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0048"
+#. …最原もわからないの？
+#. 探偵なんだから、これぐらい気付きなよ。
+msgctxt "0047 | c03_217_000 | C010_Haruk"
 msgid ""
 "You really don't know? I thought at least a\n"
 "detective like you could figure it out."
 msgstr ""
 
-msgctxt "0049"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0048 | c03_217_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me... \n"
 "I screwed up, they think I'm a fraud... \n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0050"
+#. …違うよ。
+#. カゴの中にいる茶柱をいつでも殺せたのは誰？
+msgctxt "0049 | c03_217_000 | C010_Haruk"
 msgid ""
 "...Wrong. Who could have killed Tenko\n"
 "inside the cage at any time?"
 msgstr ""
 
-msgctxt "0051"
+#. ちょっとした謎謎だよ。
+#. あんたって頭固いんだね。探偵のくせに。
+msgctxt "0050 | c03_217_000 | C010_Haruk"
 msgid ""
 "I don't get you. \n"
 "You're really narrow-minded for a detective."
 msgstr ""
 
-msgctxt "0052"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0051 | c03_217_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me... \n"
 "I screwed up, they think I'm a fraud... \n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0053"
+#. カゴの中の茶柱を
+#. 殺す事ができたのは誰？
+msgctxt "0052 | c03_217_000 | C000_Saiha"
 msgid ""
 "Who could have killed Tenko\n"
 "from inside the cage?"
 msgstr ""
 
-msgctxt "0054"
+#. 春川さんが言う“あいつ”って、
+#. もしかして、<CLT=cltSTRONG>茶柱さん<CLT=cltNORMAL>自身の事？
+msgctxt "0053 | c03_217_000 | C000_Saiha"
 msgid ""
 "I believe Maki is referring to\n"
 "<CLT=cltSTRONG>Tenko<CLT=cltNORMAL> herself."
 msgstr ""
 
-msgctxt "0055"
+#. んあっ？　なんじゃと！？
+msgctxt "0054 | c03_217_000 | C009_Yumen"
 msgid "Nyeh!? What did you say!?"
 msgstr ""
 
-msgctxt "0056"
+#. 犯人が茶柱さん自身って…どういう事？
+msgctxt "0055 | c03_217_000 | C012_Shiro"
 msgid "Are you saying...Tenko is the culprit?"
 msgstr ""
 
-msgctxt "0057"
+#. …<CLT=cltSTRONG>自殺<CLT=cltNORMAL>って事だよ。
+msgctxt "0056 | c03_217_000 | C010_Haruk"
 msgid "...She committed <CLT=cltSTRONG>suicide<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0058"
+#. じ、自殺っ！？
+msgctxt "0057 | c03_217_000 | C004_Gokuh"
 msgid "S-Suicide!?"
 msgstr ""
 
-msgctxt "0059"
+#. あいつが自殺だとすると、
+#. 色んな疑問点が一気に解消されるんだよ。
+msgctxt "0058 | c03_217_000 | C010_Haruk"
 msgid ""
 "If she committed suicide, it would explain\n"
 "a lot of things we couldn't figure out."
 msgstr ""
 
-msgctxt "0060"
+#. カゴの中にこっそりカマを持ち込んで、
+#. 降霊術の最中に自分を刺せばいいだけだから…
+msgctxt "0059 | c03_217_000 | C010_Haruk"
 msgid ""
 "She volunteered to be in the cage, and then\n"
 "stabbed herself during the seance."
 msgstr ""
 
-msgctxt "0061"
+#. 暗闇だろうが、別に関係ない。
+msgctxt "0060 | c03_217_000 | C010_Haruk"
 msgid "It wouldn't matter how dark the room was."
 msgstr ""
 
-msgctxt "0062"
+#. でもよ、凶器のカマは床下に落ちてたんだろ？
+msgctxt "0061 | c03_217_000 | C014_Iruma"
 msgid ""
 "But the sickle she was stabbed with\n"
 "was under the floor, right?"
 msgstr ""
 
-msgctxt "0063"
+#. 茶柱が自分で自分を刺したなら、
+#. 凶器はカゴの中に落ちてるはずじゃねーか？
+msgctxt "0062 | c03_217_000 | C014_Iruma"
 msgid ""
 "If Tenko had stabbed herself, wouldn't the\n"
 "sickle still be inside the cage?"
 msgstr ""
 
-msgctxt "0064"
+#. お、驚きのあまり…
+#. 入間ちゃんがまともな意見を…っ！
+msgctxt "0063 | c03_217_000 | C005_Oma__"
 msgid "O-Omigod! Miu actually said something smart!"
 msgstr ""
 
-msgctxt "0065"
+#. もしかしたら…
+#. 床板が外れていた理由はそれかもしれないネ。
+msgctxt "0064 | c03_217_000 | C006_Shing"
 msgid ""
 "Perhaps that explains why the\n"
 "floorboard was removed."
 msgstr ""
 
-msgctxt "0066"
+#. 彼女はカマで自分を刺した後、
+#. 残った力で凶器を床下に放り投げて処分したんだヨ。
+msgctxt "0065 | c03_217_000 | C006_Shing"
 msgid ""
 "After stabbing herself with the sickle,\n"
 "she threw it underneath the floor."
 msgstr ""
 
-msgctxt "0067"
+#. 床板は、凶器のカマを処分する為に、
+#. あいつ自身が外したって訳か…
+msgctxt "0066 | c03_217_000 | C001_Momot"
 msgid ""
 "So she took off the floorboard to\n"
 "get rid of the sickle...?"
 msgstr ""
 
-msgctxt "0068"
+#. 確かに…そう考えると納得できるかも。
+msgctxt "0067 | c03_217_000 | C004_Gokuh"
 msgid "Yes... That make sense to Gonta..."
 msgstr ""
 
-msgctxt "0069"
+#. な、納得などできんっ！
+msgctxt "0068 | c03_217_000 | C009_Yumen"
 msgid "W-Well it doesn't make sense to me!"
 msgstr ""
 
-msgctxt "0070"
+#. 自殺する理由がないではないか！
+#. なぜ、転子が自殺などするんじゃ！
+msgctxt "0069 | c03_217_000 | C009_Yumen"
 msgid "There's no reason for Tenko to commit suicide!"
 msgstr ""
 
-msgctxt "0071"
+#. もしかしたら、オレがさっき言った事も
+#. あながち間違いじゃないのかもしれないね？
+msgctxt "0070 | c03_217_000 | C005_Oma__"
 msgid ""
 "Maybe I wasn't too far off with the theory\n"
 "I had earlier..."
 msgstr ""
 
-msgctxt "0072"
+#. …茶柱ちゃんがアンジーちゃんを殺したってヤツだよ。
+msgctxt "0071 | c03_217_000 | C005_Oma__"
 msgid "Y'know, about Tenko killing Angie?"
 msgstr ""
 
-msgctxt "0073"
+#. …んあ？
+msgctxt "0072 | c03_217_000 | C009_Yumen"
 msgid "Nyeh?"
 msgstr ""
 
-msgctxt "0074"
+#. ほら、茶柱ちゃんとアンジーちゃんって、
+#. よく夢野ちゃんを取り合って揉めてたでしょ？
+msgctxt "0073 | c03_217_000 | C005_Oma__"
 msgid ""
 "Because Tenko and Angie were fighting for\n"
 "your attention, right?"
 msgstr ""
 
-msgctxt "0075"
+#. アンジーさんの仕業ですね！
+#. いつの間に、夢野さんを洗脳したんですかっ！？
+msgctxt "0074 | c03_217_000 | C011_Chaba"
 msgid "Hey, Angie! When did you brainwash Himiko!?"
 msgstr ""
 
-msgctxt "0076"
+#. そんな積もり積もった想いが
+#. 茶柱ちゃんを凶行に走らせたものの…
+msgctxt "0075 | c03_217_000 | C005_Oma__"
 msgid ""
 "Tenko's pent-up frustration led her to\n"
 "commit such an atrocity..."
 msgstr ""
 
-msgctxt "0077"
+#. 結局は、良心の呵責に苛まれて、
+#. 彼女は自殺しちゃったんだ。
+msgctxt "0076 | c03_217_000 | C005_Oma__"
 msgid ""
 "Her conscience couldn't handle it anymore, \n"
 "so she decided to end her own life."
 msgstr ""
 
-msgctxt "0078"
+#. な、なん…じゃと…？
+msgctxt "0077 | c03_217_000 | C009_Yumen"
 msgid "Wh-What...?"
 msgstr ""
 
-msgctxt "0079"
+#. けどよ…あいつが自殺だとしたら、
+#. なんでわざわざ降霊術中に死んだんだ？
+msgctxt "0078 | c03_217_000 | C001_Momot"
 msgid ""
 "But...if she was gonna kill herself,\n"
 "why do it during the seance?"
 msgstr ""
 
-msgctxt "0080"
+#. もちろん、自分の死の真相を隠す為だよ。
+msgctxt "0079 | c03_217_000 | C005_Oma__"
 msgid "She wanted to hide the truth of her suicide."
 msgstr ""
 
-msgctxt "0081"
+#. な、なんの為に…？
+msgctxt "0080 | c03_217_000 | C012_Shiro"
 msgid "R-Really? Why?"
 msgstr ""
 
-msgctxt "0082"
+#. このコロシアイゲームで、
+#. 自殺の真相を隠す理由なんて１つしかないよね？
+msgctxt "0081 | c03_217_000 | C005_Oma__"
 msgid ""
 "There could only be one reason to hide it \n"
 "in a killing game, right?"
 msgstr ""
 
-msgctxt "0083"
+#. みんなを<CLT=cltSTRONG>道連れ<CLT=cltNORMAL>にする為だよ。
+msgctxt "0082 | c03_217_000 | C005_Oma__"
 msgid "It's to <CLT=cltSTRONG>take us down with her<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0084"
+#. …道連れ？
+msgctxt "0083 | c03_217_000 | C009_Yumen"
 msgid "Take us down...?"
 msgstr ""
 
-msgctxt "0085"
+#. 彼女は自分の死の真相を隠し、
+#. オレらに学級裁判で間違った答えを出させる事で…
+msgctxt "0084 | c03_217_000 | C005_Oma__"
 msgid ""
 "She wanted us to pick the wrong\n"
 "answer during the class trial..."
 msgstr ""
 
-msgctxt "0086"
+#. みんなを道連れにしようとしたんだ！
+#. つまり、これは一種の無理心中なんだよ！
+msgctxt "0085 | c03_217_000 | C005_Oma__"
 msgid ""
 "...so she could bring us all down!\n"
 "She wanted us to die with her!"
 msgstr ""
 
-msgctxt "0087"
+#. まぁ…本当に心中したかった相手は、
+#. 夢野ちゃんだけかもしれないけどさ…
+msgctxt "0086 | c03_217_000 | C005_Oma__"
 msgid ""
 "Okay, well, she probably just wanted Himiko\n"
 "to die with her. But still..."
 msgstr ""
 
-msgctxt "0088"
+#. な、何を…言っておる。
+#. 転子は…そんなヤツではない。
+msgctxt "0087 | c03_217_000 | C009_Yumen"
 msgid ""
 "Wh-What are you saying?\n"
 "Tenko...wasn't like that."
 msgstr ""
 
-msgctxt "0089"
+#. だって…あやつはウチに言ったんじゃ！
+msgctxt "0088 | c03_217_000 | C009_Yumen"
 msgid "She told me..."
 msgstr ""
 
-msgctxt "0090"
+#. ちゃんと前に向かって生きてください。
+#. <CLT=cltSTRONG>“転子や他のみんなと一緒に”<CLT=cltNORMAL>生き残ってください。
+msgctxt "0089 | c03_217_000 | C011_Chaba"
 msgid ""
 "Keep your chin up and live life facing forward!\n"
 "Survive <CLT=cltSTRONG>with me and everyone else<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0091"
+#. その言葉が嘘だとしたら？
+msgctxt "0090 | c03_217_000 | C005_Oma__"
 msgid "What if all of that was just a lie?"
 msgstr ""
 
-msgctxt "0092"
+#. う、嘘…？
+msgctxt "0091 | c03_217_000 | C009_Yumen"
 msgid "A lie...?"
 msgstr ""
 
-msgctxt "0093"
+#. 待ってよ！　茶柱さんの最期の言葉なんだよ！？
+#. 信じてあげようよ！
+msgctxt "0092 | c03_217_000 | C004_Gokuh"
 msgid "Wait! We should believe Tenko's last words!"
 msgstr ""
 
-msgctxt "0094"
+#. そう簡単に信じられないのが、
+#. この学級裁判の恐ろしいところだよネ。
+msgctxt "0093 | c03_217_000 | C006_Shing"
 msgid ""
 "The true terror of class trials is that \n"
 "you shouldn't believe everything said."
 msgstr ""
 
-msgctxt "0095"
+#. さっき、夢野ちゃんは茶柱ちゃんの事を
+#. 『そんなヤツじゃない』って言ってたけどさ…
+msgctxt "0094 | c03_217_000 | C005_Oma__"
 msgid ""
 "Himiko, you said that Tenko would never\n"
 "do anything like that..."
 msgstr ""
 
-msgctxt "0096"
+#. どうして、そんな事が言えるの？
+#. キミ達にお互いの何がわかるの？
+msgctxt "0095 | c03_217_000 | C005_Oma__"
 msgid ""
 "But how can you be so sure?\n"
 "Did you guys *actually* know each other?"
 msgstr ""
 
-msgctxt "0097"
+#. 春川ちゃんが人殺しなのを隠していたみたいに、
+#. まだ隠し事をしているヤツだっているはずだよ？
+msgctxt "0096 | c03_217_000 | C005_Oma__"
 msgid ""
 "People keep all sorts of secrets, like Maki. She\n"
 "hid the fact that she's a cold-blooded killer."
 msgstr ""
 
-msgctxt "0098"
+#. この場にいる人を完全に信じる事なんて
+#. オレらにはできないはずだよ…？
+msgctxt "0097 | c03_217_000 | C005_Oma__"
 msgid ""
 "Is it wise of us to trust other people\n"
 "wholeheartedly in this kind of situation?"
 msgstr ""
 
-msgctxt "0099"
+#. …ったく、テメーはピュアな野郎だな。
+msgctxt "0098 | c03_217_000 | C001_Momot"
 msgid "Geez...you're such a naive dude."
 msgstr ""
 
-msgctxt "0100"
+#. …ピュア？
+msgctxt "0099 | c03_217_000 | C005_Oma__"
 msgid "...Naive?"
 msgstr ""
 
-msgctxt "0101"
+#. オレらは生の人間同士だ…作りモノじゃねーんだぞ。
+#. 隠し事くらいはあたりめーだろーが。
+msgctxt "0100 | c03_217_000 | C001_Momot"
 msgid ""
 "We're all just people, y'know? Of course\n"
 "we're gonna have some secrets."
 msgstr ""
 
-msgctxt "0102"
+#. 問題は…そこに悪意があるかどうかだ。
+msgctxt "0101 | c03_217_000 | C001_Momot"
 msgid ""
 "What matters is whether there's any malice\n"
 "behind 'em."
 msgstr ""
 
-msgctxt "0103"
+#. 悪意があるかどうかなんて、
+#. いくらでも嘘をつけるよね？
+msgctxt "0102 | c03_217_000 | C005_Oma__"
 msgid ""
 "People can lie about how malicious\n"
 "their hidden secrets really are."
 msgstr ""
 
-msgctxt "0104"
+#. それもあたりめーだ。
+#. 他人の事はいくら考えてもわからねーからな。
+msgctxt "0103 | c03_217_000 | C001_Momot"
 msgid ""
 "Well duh. It's impossible to know for\n"
 "sure what others are thinking."
 msgstr ""
 
-msgctxt "0105"
+#. だからこそ、自分がどうしてーかだ！
+#. 自分が信じてーかどうかで決めるしかねーんだよ！
+msgctxt "0104 | c03_217_000 | C001_Momot"
 msgid ""
 "That's why it all comes down to whether \n"
 "or not you believe in yourself!"
 msgstr ""
 
-msgctxt "0106"
+#. 裏切られても相手のせいじゃねー！
+#. そいつを信じるって決めた自分のせいだ！
+msgctxt "0105 | c03_217_000 | C001_Momot"
 msgid ""
 "If you get betrayed, it's not their fault!\n"
 "It's your fault for believing in them!"
 msgstr ""
 
-msgctxt "0107"
+#. オレがハルマキを信じたのもそういう理由だぜ！
+#. オレがこいつを信じてーって思ったからだ！
+msgctxt "0106 | c03_217_000 | C001_Momot"
 msgid ""
 "That's why I believed in Maki Roll!\n"
 "Because I wanted to believe in her!"
 msgstr ""
 
-msgctxt "0108"
+#. …カッコつけたところで、
+#. トレーニング休んだ事は帳消しにならないからね。
+msgctxt "0107 | c03_217_000 | C010_Haruk"
 msgid ""
 "Just because you're acting all cool\n"
 "doesn't mean you get to skip training."
 msgstr ""
 
-msgctxt "0109"
+#. な、なんだよ…ちっと厳し過ぎねーか？
+msgctxt "0108 | c03_217_000 | C001_Momot"
 msgid ""
 "H-Hey, c'mon... Don'tcha think you're\n"
 "being a little too strict?"
 msgstr ""
 
-msgctxt "0110"
+#. まぁ、百田ちゃんとオレの話が合わないのは、
+#. 最初から諦めているけど…
+msgctxt "0109 | c03_217_000 | C005_Oma__"
 msgid ""
 "Well, we come from different backgrounds.\n"
 "So for now, let's agree to disagree."
 msgstr ""
 
-msgctxt "0111"
+#. ピュアなんて言われたのは初めてだよ。
+#. オレみたいな嘘つきがさ。
+msgctxt "0110 | c03_217_000 | C005_Oma__"
 msgid ""
 "No one's ever called me naive before.\n"
 "And from Kaito? Seriously?"
 msgstr ""
 
-msgctxt "0112"
+#. ………………
+msgctxt "0111 | c03_217_000 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0113"
+#. 自分が信じたいかどうか…
+msgctxt "0112 | c03_217_000 | C009_Yumen"
 msgid "Whether or not I believe..."
 msgstr ""
 
-msgctxt "0114"
+#. もう…ウチの想いは転子には届かんが、
+#. それでもウチは転子を信じたい…
+msgctxt "0113 | c03_217_000 | C009_Yumen"
 msgid ""
 "My heart...can't reach Tenko anymore... \n"
 "But I wanna believe in her..."
 msgstr ""
 
-msgctxt "0115"
+#. あやつは自殺なんてするヤツではない！
+#. ウチらを道連れにするようなヤツではない！
+msgctxt "0114 | c03_217_000 | C009_Yumen"
 msgid ""
 "She wouldn't commit suicide!\n"
 "She wouldn't try to take us down!"
 msgstr ""
 
-msgctxt "0116"
+#. ウチは、それを信じたいぞ！
+msgctxt "0115 | c03_217_000 | C009_Yumen"
 msgid "That's what I want to believe!"
 msgstr ""
 
-msgctxt "0117"
+#. うん、ゴン太もだよ。
+#. 茶柱さんが自殺なんて信じられないもん。
+msgctxt "0116 | c03_217_000 | C004_Gokuh"
 msgid ""
 "Me too. Gonta no can believe Tenko commit\n"
 "suicide."
 msgstr ""
 
-msgctxt "0118"
+#. でも、茶柱が自殺だって考えると、
+#. すべてに納得できるのも確かだよ？
+msgctxt "0117 | c03_217_000 | C010_Haruk"
 msgid ""
 "But if Tenko did commit suicide, that would\n"
 "answer all of our questions."
 msgstr ""
 
-msgctxt "0119"
+#. それでも茶柱さんを信じろと言うなら、
+#. それなりの根拠を示して貰いたいネ…
+msgctxt "0118 | c03_217_000 | C006_Shing"
 msgid ""
 "If you insist we believe in Tenko,\n"
 "then provide a reason to do so."
 msgstr ""
 
-msgctxt "0120"
+#. <CLT=cltMIND>ちゃんとした根拠…か。
+msgctxt "0119 | c03_217_000 | C000_Saiha"
 msgid "<CLT=cltMIND>A proper reason..."
 msgstr ""
 
-msgctxt "0121"
+#. わかったよ、根拠を示せばいいんだね。
+msgctxt "0120 | c03_217_000 | C000_Saiha"
 msgid "Alright...I'll give you a reason."
 msgstr ""
 
-msgctxt "0122"
+#. …そんなものがあるの？
+msgctxt "0121 | c03_217_000 | C010_Haruk"
 msgid "...Is there a reason?"
 msgstr ""
 
-msgctxt "0123"
+#. うん、もちろんあるよ…
+#. だから、春川さんも僕を信用してくれないかな？
+msgctxt "0122 | c03_217_000 | C000_Saiha"
 msgid "Yes, there is. Will you trust me, Maki?"
 msgstr ""
 
-msgctxt "0124"
+#. 後でそれが間違いだったとわかったら、
+#. その時は好きに言ってくれて構わないから…
+msgctxt "0123 | c03_217_000 | C000_Saiha"
 msgid ""
 "If it turns out I'm wrong, you can\n"
 "blame me all you like."
 msgstr ""
 
-msgctxt "0125"
+#. 今だけは、僕の探偵としての考えを信じて欲しいんだ。
+msgctxt "0124 | c03_217_000 | C000_Saiha"
 msgid ""
 "But for now...I need you to trust\n"
 "in my detective work."
 msgstr ""
 
-msgctxt "0126"
+#. ………………
+msgctxt "0125 | c03_217_000 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0127"
+#. <CLT=cltMIND>僕も…茶柱さんが自殺なんて信じられない。
+#. だって、彼女は…
+msgctxt "0126 | c03_217_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I don't believe Tenko would kill\n"
 "herself. Because of what she said..."
 msgstr ""
 
-msgctxt "0128"
+#. それでは、みなさん！
+#. また降霊術の後でお会いしましょう！
+msgctxt "0127 | c03_217_000 | C011_Chaba"
 msgid ""
 "Okay, everyone!\n"
 "I'll see you guys after the seance!"
 msgstr ""
 
-msgctxt "0129"
+#. <CLT=cltMIND>あの時、彼女は<CLT=cltSTRONG>『また後で』<CLT=cltMIND>って言ってた。
+#. その彼女が自殺を決意していたなんて信じられない。
+msgctxt "0128 | c03_217_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>She said <CLT=cltSTRONG>\"see you guys after.\"<CLT=cltMIND>\n"
 "I doubt she had a sudden change of heart."
 msgstr ""
 
-msgctxt "0130"
+#. <CLT=cltMIND>彼女がどうやって殺されたのかわからないからって、
+#. 自殺なんて答えに逃げちゃダメなんだ。
+msgctxt "0129 | c03_217_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Just because we don't know how she\n"
 "was killed doesn't mean that it was suicide."
 msgstr ""
 
-msgctxt "0131"
+#. <CLT=cltMIND>もっとみんなで話し合えば、
+#. きっと別の真相が見えてくるはずなんだ…
+msgctxt "0130 | c03_217_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>We shouldn't be satisfied with that.\n"
 "And if we keep thinking, we'll find the truth."
 msgstr ""
 
-msgctxt "0132"
+#. <CLT=cltMIND>その為にも…まずは茶柱さんの事を信じよう！
+msgctxt "0131 | c03_217_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>And that means...\n"
 "we have to believe in Tenko!"
 msgstr ""
 
-msgctxt "0133"
+#. <CLT=cltMIND>いや…僕がみんなに信じさせないといけないんだ！
+msgctxt "0132 | c03_217_000 | C000_Saiha"
 msgid "<CLT=cltMIND>I'll make them all believe!"
 msgstr ""

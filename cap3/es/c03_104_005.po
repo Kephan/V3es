@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,216 +11,279 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. にしし…ビックリした？
+#. もう少しで泣き叫んじゃうところだった？
+msgctxt "0000 | c03_104_005 | C005_Oma__"
 msgid ""
 "Nee-heehee... Did I surprise you?\n"
 "Were you gonna scream and cry in terror?"
 msgstr ""
 
-msgctxt "0002"
+#. な、何…してるんだよ？
+msgctxt "0001 | c03_104_005 | C000_Saiha"
 msgid "Wh-What are you doing?"
 msgstr ""
 
-msgctxt "0003"
+#. ………………
+msgctxt "0002 | c03_104_005 | C005_Oma__"
 msgid "..."
 msgstr "..."
 
-msgctxt "0004"
+#. あ、ごめん…ちょっと出血多量でボーっとしちゃったよ。
+#. この血は…本物なんだよね。
+msgctxt "0003 | c03_104_005 | C005_Oma__"
 msgid ""
 "Oh, sorry... I'm just a little light-headed from\n"
 "the blood loss. Yeah, this is real blood..."
 msgstr ""
 
-msgctxt "0005"
+#. だから…何してるんだよ。
+msgctxt "0004 | c03_104_005 | C000_Saiha"
 msgid "...Okay, so what are you doing?"
 msgstr ""
 
-msgctxt "0006"
+#. ちょっと気になる事があって、
+#. 隣の空き部屋を調べてたんだけどさ…
+msgctxt "0005 | c03_104_005 | C005_Oma__"
 msgid ""
 "I got curious about something, so I decided\n"
 "to search the empty room next door."
 msgstr ""
 
-msgctxt "0007"
+#. そ、そうしたら…急に…
+msgctxt "0006 | c03_104_005 | C005_Oma__"
 msgid "Th-Then, suddenly..."
 msgstr ""
 
-msgctxt "0008"
+#. きゅ、急に…
+#. 床板を…ふ、踏み抜いちゃって。
+msgctxt "0007 | c03_104_005 | C005_Oma__"
 msgid "I-I...stepped through the floorboard."
 msgstr ""
 
-msgctxt "0009"
+#. …床板を踏み抜いた？
+msgctxt "0008 | c03_104_005 | C000_Saiha"
 msgid "You stepped through a floorboard?"
 msgstr ""
 
-msgctxt "0010"
+#. ま、参ったよ…
+#. お陰で…そ、そこそこ派手に転んじゃってさ…
+msgctxt "0009 | c03_104_005 | C005_Oma__"
 msgid ""
 "Geez, that got me good... Cuz of this,\n"
 "I-I tripped and fell pretty hard."
 msgstr ""
 
-msgctxt "0011"
+#. ………………
+msgctxt "0010 | c03_104_005 | C005_Oma__"
 msgid "..."
 msgstr "..."
 
-msgctxt "0012"
+#. 気を失うなら…全部話し終わった後にして。
+msgctxt "0011 | c03_104_005 | C010_Haruk"
 msgid ""
 "If you're going to lose consciousness, do it\n"
 "after you tell us everything."
 msgstr ""
 
-msgctxt "0013"
+#. あ、あぁ…ごめんごめん…
+msgctxt "0012 | c03_104_005 | C005_Oma__"
 msgid "O-Oh...sorry, my bad..."
 msgstr ""
 
-msgctxt "0014"
+#. なんか…床板を支える横木がなくなってたみたいで、
+#. ちょうどその部分を踏み抜いちゃったんだ…
+msgctxt "0013 | c03_104_005 | C005_Oma__"
 msgid ""
 "I guess...there was no crosspiece supporting\n"
 "this floorboard, so I kinda...stepped through..."
 msgstr ""
 
-msgctxt "0015"
+#. あははっ…ついてないよねー。
+msgctxt "0014 | c03_104_005 | C005_Oma__"
 msgid "Ah-haha, what bad luck..."
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>横木がなくなってた？
+#. それって――
+msgctxt "0015 | c03_104_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The crosspiece was gone?\n"
 "Does that mean—"
 msgstr ""
 
-msgctxt "0017"
+#. …えっ？
+msgctxt "0016 | c03_104_005 | C000_Saiha"
 msgid "Huh!?"
 msgstr ""
 
-msgctxt "0018"
+#. コロシアイの誇り…
+#. 自信と夢…
+msgctxt "0017 | c03_104_005 | C020_Monok"
 msgid ""
 "Confidence... Dreams... That's what\n"
 "the killing game is all about!"
 msgstr ""
 
-msgctxt "0019"
+#. コロシアイファンよ、胸を張れ！
+#. そして、しかと見届けよ！
+msgctxt "0018 | c03_104_005 | C020_Monok"
 msgid ""
 "Killing game fans! Hold your head high\n"
 "and watch with your own two eyes!"
 msgstr ""
 
-msgctxt "0020"
+#. プロ野球！　サッカー！　スマホゲー！
+#. よく見ていろ！　これがコロシアイのパワーだ！
+msgctxt "0019 | c03_104_005 | C020_Monok"
 msgid ""
 "Baseball! Soccer! Mobile games! They're all\n"
 "nothing compared to the killing game!"
 msgstr ""
 
-msgctxt "0021"
+#. コロシアイは、絶対に負けない！
+msgctxt "0020 | c03_104_005 | C020_Monok"
 msgid "The killing game just can't be beat!"
 msgstr ""
 
-msgctxt "0022"
+#. 全生徒ッ！　学級裁判場に入場でーすッ！！
+msgctxt "0021 | c03_104_005 | C020_Monok"
 msgid ""
 "Behold, students!\n"
 "The entrance to the trial grounds!"
 msgstr ""
 
-msgctxt "0023"
+#. タイムアップ…みたいだね。
+msgctxt "0022 | c03_104_005 | C010_Haruk"
 msgid "I guess...time's up."
 msgstr ""
 
-msgctxt "0024"
+#. あーあ、キミらに時間を取られたせいで、
+#. 調べ損なった事が残っちゃったよ…
+msgctxt "0023 | c03_104_005 | C005_Oma__"
 msgid ""
 "Aw maaan, it's cuz of you guys, I didn't have\n"
 "enough time to check something..."
 msgstr ""
 
-msgctxt "0025"
+#. …え？　何を調べようとしてたの？
+msgctxt "0024 | c03_104_005 | C000_Saiha"
 msgid "What were you trying to check?"
 msgstr ""
 
-msgctxt "0026"
+#. さっきの降霊術をちゃんと調べ直そうと思って、
+#. この本まで持ち出して来たんだ。
+msgctxt "0025 | c03_104_005 | C005_Oma__"
 msgid ""
 "I wanted to re-research the seance again,\n"
 "so I brought this document with me..."
 msgstr ""
 
-msgctxt "0027"
+#. けど、残念ながら…
+msgctxt "0026 | c03_104_005 | C005_Oma__"
 msgid "But, unfortunately..."
 msgstr ""
 
-msgctxt "0028"
+#. ざっと見た感じだと、
+#. 手掛かりになりそうな新発見はなかったよ。
+msgctxt "0027 | c03_104_005 | C005_Oma__"
 msgid ""
 "I couldn't find anything new that could be\n"
 "used as a clue."
 msgstr ""
 
-msgctxt "0029"
+#. ここに書いてある降霊術は、
+#. 真宮寺ちゃんが実際にやった手順とまったく同じだし…
+msgctxt "0028 | c03_104_005 | C005_Oma__"
 msgid ""
 "Kiyo perfectly reenacted the seance as what\n"
 "was written in the document."
 msgstr ""
 
-msgctxt "0030"
+#. 確か、魔法陣もこの図にある通りだったよね？
+msgctxt "0029 | c03_104_005 | C005_Oma__"
 msgid ""
 "He drew his magic circle the same exact\n"
 "way as in this picture."
 msgstr ""
 
-msgctxt "0031"
+#. 使われた道具もまったく一緒。
+#. 怪しい点はなかったね。
+msgctxt "0030 | c03_104_005 | C005_Oma__"
 msgid ""
 "Not only that, he used the same exact tools,\n"
 "too. Nothing suspicious about this whole thing."
 msgstr ""
 
-msgctxt "0032"
+#. まぁ、もう少し詳しく調べたかったんだけど、
+#. その話は…ま、また後で…
+msgctxt "0031 | c03_104_005 | C005_Oma__"
 msgid ""
 "Well, I wanted to check the finer details,\n"
 "but...I-I'll tell you about it later..."
 msgstr ""
 
-msgctxt "0033"
+#. が、学級裁判で…すれば…いいか…
+#. じゃあ…後でね…
+msgctxt "0032 | c03_104_005 | C005_Oma__"
 msgid "...a-at the...class trial...so...see ya there..."
 msgstr ""
 
-msgctxt "0034"
+#. <CLT=cltMIND>王馬くんはもうろうとした足取りで、
+#. その場から去っていった。
+msgctxt "0033 | c03_104_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Kokichi left, the blood loss clearly\n"
 "affecting his footing a bit."
 msgstr ""
 
-msgctxt "0035"
+#. <CLT=cltSYSTEM><CLT=cltSTRONG>血まみれの王馬<CLT=cltSYSTEM>をモノパッドに記録しました。
+#. 言弾（コトダマ）メニューで確認できます。
+msgctxt "0034 | c03_104_005 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Bloody Kokichi<CLT=cltSYSTEM>\" has been added to the\n"
 "Truth Bullets section of your Monopad."
 msgstr ""
 
-msgctxt "0036"
+#. え、えっと…じゃあ僕達も行こうか。
+msgctxt "0035 | c03_104_005 | C000_Saiha"
 msgid ""
 "Ah...\n"
 "Let's go, too."
 msgstr ""
 
-msgctxt "0037"
+#. ………………
+msgctxt "0036 | c03_104_005 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0038"
+#. うん…そうだね。
+msgctxt "0037 | c03_104_005 | C010_Haruk"
 msgid "Yeah...okay."
 msgstr ""
 
-msgctxt "0039"
+#. <CLT=cltMIND>春川さん…緊張している？
+#. <CLT=cltMIND>
+msgctxt "0038 | c03_104_005 | chara_Blank"
 msgid "<CLT=cltMIND>Is Maki...nervous?"
 msgstr ""
 
-msgctxt "0040"
+#. そ、そっか…
+#. やっぱり春川さんでも緊張するんだな。
+msgctxt "0039 | c03_104_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I see...so even she gets\n"
 "nervous sometimes..."
 msgstr ""
 
-msgctxt "0041"
+#. …何ジロジロ見てるの？　殺されたいの？
+msgctxt "0040 | c03_104_005 | C010_Haruk"
 msgid ""
 "...What are you staring at?\n"
 "Do you want to die?"
 msgstr ""
 
-msgctxt "0042"
+#. ………………
+msgctxt "0041 | c03_104_005 | C000_Saiha"
 msgid "..."
 msgstr "..."

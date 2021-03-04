@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,56 +11,75 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. あっ、入間さん。
+#. おはよう。
+msgctxt "0000 | c03_010_001 | C000_Saiha"
 msgid "Ah, Miu. Good morning."
 msgstr ""
 
-msgctxt "0002"
+#. …なんだよ、朝から有象無象がピーチクパーチク。
+#. オレ様はねみぃんだよ…
+msgctxt "0001 | c03_010_001 | C014_Iruma"
 msgid ""
 "The hell's all this morning chatter about...?\n"
 "I'm fuckin' tired..."
 msgstr ""
 
-msgctxt "0003"
+#. もしかして…
+#. またコンピューターを調べてて夜更かししたの？
+msgctxt "0002 | c03_010_001 | C000_Saiha"
 msgid "Did you stay up all night with the computer?"
 msgstr ""
 
-msgctxt "0004"
+#. だってぇ、あれ…ホントすっごいイイの…！
+#. 調べれば調べるほど、興奮が止まらなくってぇ…！
+msgctxt "0003 | c03_010_001 | C014_Iruma"
 msgid ""
 "Cuz that thing is amazing! The more I\n"
 "research it, the more excited I get!"
 msgstr ""
 
-msgctxt "0005"
+#. あぁ、今夜もきっと寝かせてくれない…！
+#. イキっぱなしで壊れちゃうよぉ…！
+msgctxt "0004 | c03_010_001 | C014_Iruma"
 msgid ""
 "Ahhh, I bet it won't let me sleep tonight!\n"
 "At this rate I might pull all my groin muscles!"
 msgstr ""
 
-msgctxt "0006"
+#. いひっ！　いひひひ…！
+msgctxt "0005 | c03_010_001 | C014_Iruma"
 msgid "Heh! Hehehehehehe!"
 msgstr ""
 
-msgctxt "0007"
+#. ………………
+msgctxt "0006 | c03_010_001 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0008"
+#. <CLT=cltMIND>入間さん…一体どんな育ち方をしたんだろう？
+msgctxt "0007 | c03_010_001 | chara_Blank"
 msgid "<CLT=cltMIND>Miu...what *happened* to you?"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>ここは女子トイレ…かな？
+#. わかってるけど一応確認してみただけだ。
+msgctxt "0008 | c03_010_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Is this the girls bathroom?\n"
 "Okay. I was just checking."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0009 | c03_010_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0010 | c03_010_001 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""

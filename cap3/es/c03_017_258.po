@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,180 +11,235 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. おはよう、真宮寺くん。
+msgctxt "0000 | c03_017_258 | C000_Saiha"
 msgid "Good morning, Kiyo."
 msgstr ""
 
-msgctxt "0002"
+#. あァ…おはよう。
+msgctxt "0001 | c03_017_258 | C006_Shing"
 msgid "Ah... Good morning."
 msgstr ""
 
-msgctxt "0003"
+#. おや？　百田君じゃないか。
+#. 体調はもう良いの？
+msgctxt "0002 | c03_017_258 | C006_Shing"
 msgid ""
 "Oh? Well if it isn't Kaito.\n"
 "Are you feeling better already?"
 msgstr ""
 
-msgctxt "0004"
+#. な、なんとかな…
+#. そんな事言ってる場合でもねーようだし。
+msgctxt "0003 | c03_017_258 | C001_Momot"
 msgid ""
 "Y-Yeah, somehow... Sorry though, we don't\n"
 "have much time to talk right now."
 msgstr ""
 
-msgctxt "0005"
+#. まぁ、無理はしないようにネ。
+#. 君が大人しいと何だか調子が狂ってしまうヨ。
+msgctxt "0004 | c03_017_258 | C006_Shing"
 msgid ""
 "Well, don't push yourself. Things feel amiss \n"
 "without your boisterious voice."
 msgstr ""
 
-msgctxt "0006"
+#. おぅ、心配掛けちまって悪いな。
+msgctxt "0005 | c03_017_258 | C001_Momot"
 msgid "Yeah, sure. My bad for making you worry."
 msgstr ""
 
-msgctxt "0007"
+#. …ホントだよ。
+#. 単に怖がってただけとか。
+msgctxt "0006 | c03_017_258 | C010_Haruk"
 msgid "...Yes, and all because you were scared."
 msgstr ""
 
-msgctxt "0008"
+#. ん？　何か言った？
+msgctxt "0007 | c03_017_258 | C006_Shing"
 msgid "Hm? Did you say something?"
 msgstr ""
 
-msgctxt "0009"
+#. な、何でもねーよっ！
+#. だよな、ハルマキ！
+msgctxt "0008 | c03_017_258 | C001_Momot"
 msgid ""
 "I-It's nothing!\n"
 "Right, Maki Roll!?"
 msgstr ""
 
-msgctxt "0010"
+#. …ハルマキはやめて。
+msgctxt "0009 | c03_017_258 | C010_Haruk"
 msgid "...Quit calling me Maki Roll."
 msgstr ""
 
-msgctxt "0011"
+#. 大事ないのならよかったヨ…
+#. 百田君が大人しいと調子が狂ってしまうからネ。
+msgctxt "0010 | c03_017_258 | C006_Shing"
 msgid ""
 "Well, I'm glad it's nothing serious...\n"
 "Things feel amiss without you there."
 msgstr ""
 
-msgctxt "0012"
+#. おはよう、茶柱さん。
+msgctxt "0011 | c03_017_258 | C000_Saiha"
 msgid "Good morning, Tenko."
 msgstr ""
 
-msgctxt "0013"
+#. おはようございます、春川さん！
+msgctxt "0012 | c03_017_258 | C011_Chaba"
 msgid "Good morning, Maki!"
 msgstr ""
 
-msgctxt "0014"
+#. …おはよう。
+msgctxt "0013 | c03_017_258 | C010_Haruk"
 msgid "...Good morning."
 msgstr ""
 
-msgctxt "0015"
+#. おいおい、終一は無視か？
+msgctxt "0014 | c03_017_258 | C001_Momot"
 msgid "Hey, are you ignoring Shuichi?"
 msgstr ""
 
-msgctxt "0016"
+#. はぁ？　何言ってるんですか？
+#. 先に男死に挨拶をするなんて、女子に失礼ですよ。
+msgctxt "0015 | c03_017_258 | C011_Chaba"
 msgid ""
 "Huh, what do you mean? It's proper manners\n"
 "to greet girls before degenerate males."
 msgstr ""
 
-msgctxt "0017"
+#. それよりもですね、
+#. 夢野さんを見ませんでしたか？
+msgctxt "0016 | c03_017_258 | C011_Chaba"
 msgid "More importantly, have you guys seen Himiko?"
 msgstr ""
 
-msgctxt "0018"
+#. いや、見てないけど…寄宿舎にいないの？
+msgctxt "0017 | c03_017_258 | C000_Saiha"
 msgid ""
 "I haven't seen her...\n"
 "She's not in the dorms?"
 msgstr ""
 
-msgctxt "0019"
+#. えぇ、朝一でノックしたんですが
+#. もう出かけてしまっていたみたいで…
+msgctxt "0018 | c03_017_258 | C011_Chaba"
 msgid ""
 "I guess not. I didn't get an answer after I\n"
 "knocked on her door, so she must've gone out..."
 msgstr ""
 
-msgctxt "0020"
+#. とにかく、探してきます！
+#. 見かけたら転子にご一報ください！
+msgctxt "0019 | c03_017_258 | C011_Chaba"
 msgid ""
 "Anyway, I'll go look for her!\n"
 "If you see her, please let me know!"
 msgstr ""
 
-msgctxt "0021"
+#. <CLT=cltMIND>きっと昨夜の件を謝りたいんだ。
+#. さっそく行動してるのは茶柱さんらしいな…
+msgctxt "0020 | c03_017_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>She must want to apologize for last\n"
 "night. It's very like Tenko to take action..."
 msgstr ""
 
-msgctxt "0022"
+#. お、おいっ！
+#. なんでそんな所に行こうとするんだよ！
+msgctxt "0021 | c03_017_258 | C001_Momot"
 msgid ""
 "H-Hey!\n"
 "Why are you going there!?"
 msgstr ""
 
-msgctxt "0023"
+#. オレは、もうギャンブルなんてやらねーって
+#. 決めたんだっ！
+msgctxt "0022 | c03_017_258 | C001_Momot"
 msgid "I swore off gambling forever!"
 msgstr ""
 
-msgctxt "0024"
+#. 何、急に…
+#. もしかして、カジノで幽霊でも見たの？
+msgctxt "0023 | c03_017_258 | C010_Haruk"
 msgid ""
 "That was random... Did you see a ghost\n"
 "in the casino or something?"
 msgstr ""
 
-msgctxt "0025"
+#. みみみ、見てねーよ！
+#. ていうか、あそこにいるのか！？　出るのか！？
+msgctxt "0024 | c03_017_258 | C001_Momot"
 msgid ""
 "Wh-Wh-What!? Was there one there?\n"
 "Where did you see it!?"
 msgstr ""
 
-msgctxt "0026"
+#. …言ってみただけ。
+#. まさか、そんなに反応するなんて思わなかった。
+msgctxt "0025 | c03_017_258 | C010_Haruk"
 msgid ""
 "...I wanted to scare you a little, but I didn't\n"
 "think you would freak out that much."
 msgstr ""
 
-msgctxt "0027"
+#. は、ハルマキ…！
+#. オメーなぁ、人をからかうんじゃねーよ！
+msgctxt "0026 | c03_017_258 | C001_Momot"
 msgid ""
 "G-Geez, Maki Roll!\n"
 "Don't tease me like that!"
 msgstr ""
 
-msgctxt "0028"
+#. そんなに大声出すと、ますます怖がって見えるけど？
+msgctxt "0027 | c03_017_258 | C010_Haruk"
 msgid ""
 "When you shout like that, it just makes you\n"
 "look even more cowardly."
 msgstr ""
 
-msgctxt "0029"
+#. うぐぐぐぐっ…！
+#. い、言ってくれんじゃねーか…！
+msgctxt "0028 | c03_017_258 | C001_Momot"
 msgid ""
 "Ooooohhh!\n"
 "N-Now you've done it!"
 msgstr ""
 
-msgctxt "0030"
+#. <CLT=cltMIND>あはは…
+#. すっかりネタにされてるな…
+msgctxt "0029 | c03_017_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Ahahaha, he's already being\n"
 "teased about it."
 msgstr ""
 
-msgctxt "0031"
+#. <CLT=cltMIND>これにアイテムを使ったら一気にツタが枯れたけど…
+#. どう言う仕組みなんだ？
+msgctxt "0030 | c03_017_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>When I used the item, the vine suddenly\n"
 "withered... How does that work?"
 msgstr ""
 
-msgctxt "0032"
+#. <CLT=cltMIND>プール入り口　ゼルダギミック植物
+msgctxt "0031 | c03_017_258 | chara_Blank"
 msgid "<CLT=cltMIND>Pool Entrance Zelda gimmick plant"
 msgstr ""
 
-msgctxt "0033"
+#. <CLT=cltMIND>これが門の鍵になってたんだな…
+msgctxt "0032 | c03_017_258 | chara_Blank"
 msgid "<CLT=cltMIND>So this is the key to the gate..."
 msgstr ""
 
-msgctxt "0034"
+#. <CLT=cltMIND>カジノエリア扉　六角レンチギミック(閉)
+msgctxt "0033 | c03_017_258 | chara_Blank"
 msgid "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Closed)"
 msgstr ""
 
-msgctxt "0035"
+#. <CLT=cltMIND>カジノエリア扉　六角レンチギミック(開)
+msgctxt "0034 | c03_017_258 | chara_Blank"
 msgid "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Open)"
 msgstr ""

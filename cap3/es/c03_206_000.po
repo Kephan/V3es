@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,67 +11,91 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. アンジーちゃんは生徒会のメンバーじゃないと
+#. 扉を開けないって言ってたんでしょ？
+msgctxt "0000 | c03_206_000 | C005_Oma__"
 msgid ""
 "Angie said she would only open the door\n"
 "for student council members, right?"
 msgstr ""
 
-msgctxt "0002"
+#. それで、他の誰が開けられるの？
+#. オレにはまーーーったく思い付かないなー。
+msgctxt "0001 | c03_206_000 | C005_Oma__"
 msgid ""
 "Who else could've opened it?\n"
 "I can't think of aaaaaanyone else."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0002 | c03_206_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0004"
+#. ダメだよ、最原君！
+#. 夜時間は危ないんだ！　もっと自覚を持ってよ！
+msgctxt "0003 | c03_206_000 | C004_Gokuh"
 msgid ""
 "No, Shuichi! Nighttime is dangerous!\n"
 "You gotta be on guard!"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0004 | c03_206_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>怪しい発言がいくつかあったけど、
+#. 明らかに矛盾しているのは王馬くんの発言だ！
+msgctxt "0005 | c03_206_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>There were several suspicious statements, but\n"
 "the most obviously inconsistent is Kokichi's."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>あとは、その矛盾を明らかにする
+#. 証拠を叩き付けるだけだ！
+msgctxt "0006 | c03_206_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I just have to point out\n"
 "the inconsistency!"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>怪しい発言がいくつかあったけど、
+#. 明らかに矛盾しているのは１つだけだったな。
+msgctxt "0007 | c03_206_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>There were several suspicious statements, but\n"
 "one is obviously inconsistent."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>落ち着いて聞き分ければ
+#. きっと、答えが見えるはずだ！
+msgctxt "0008 | c03_206_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I'll listen carefully, sort the statements\n"
 "in my head, and find the answer!"
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>怪しい発言がいくつかあったけど、
+#. 明らかに矛盾しているのは１つだけだったな。
+msgctxt "0009 | c03_206_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>There were several suspicious statements, but\n"
 "one is obviously inconsistent."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>落ち着いて聞き分ければ
+#. きっと、答えが見えるはずだ！
+msgctxt "0010 | c03_206_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I'll listen carefully, sort the statements\n"
 "in my head, and find the answer!"

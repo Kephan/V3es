@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,366 +11,474 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 全員集まったみたいだけど…
+#. 集まる人間もすっかり少なくなってしまったネ。
+msgctxt "0000 | c03_105_261 | C006_Shing"
 msgid ""
 "It would appear we all have gathered...\n"
 "But it seems there are less and less of us."
 msgstr ""
 
-msgctxt "0002"
+#. 仲間が少なくなるって事は、
+#. それだけ謎を解くのも難しくなるって事だよね。
+msgctxt "0001 | c03_105_261 | C004_Gokuh"
 msgid ""
 "Less friends mean it that much harder\n"
 "to solve mystery."
 msgstr ""
 
-msgctxt "0003"
+#. ま、心配いらないよ。
+#. ゴン太も少しずつ賢くなってるだろうし。
+msgctxt "0002 | c03_105_261 | C005_Oma__"
 msgid ""
 "Well, don't worry. I'm sure you've gotten a\n"
 "little smarter by now, Gonta."
 msgstr ""
 
-msgctxt "0004"
+#. う、うん…役に立てるように頑張るけど…
+msgctxt "0003 | c03_105_261 | C004_Gokuh"
 msgid "Y-Yeah...Gonta do his best to help..."
 msgstr ""
 
-msgctxt "0005"
+#. せめて、スーパーバカは脱却して、
+#. 百田ちゃんクラスにはなって欲しいよね。
+msgctxt "0004 | c03_105_261 | C005_Oma__"
 msgid ""
 "I'd want you to graduate from super-idiot level\n"
 "to at least Kaito-idiot level."
 msgstr ""
 
-msgctxt "0006"
+#. あぁ！？　どういう意味だ！
+msgctxt "0005 | c03_105_261 | C001_Momot"
 msgid "Hey! What's that supposed to mean!?"
 msgstr ""
 
-msgctxt "0007"
+#. それより…百田くんはもう大丈夫なの？
+msgctxt "0006 | c03_105_261 | C000_Saiha"
 msgid "Ah, more importantly...are you okay, Kaito?"
 msgstr ""
 
-msgctxt "0008"
+#. あぁ…お陰さまでだいぶ持ち直したぜ。
+#. しかし、ハルマキのパンチはなかなか効くな。
+msgctxt "0007 | c03_105_261 | C001_Momot"
 msgid ""
 "Yeah...I'm feeling better now.\n"
 "But wow, Maki Roll sure does pack a punch."
 msgstr ""
 
-msgctxt "0009"
+#. …あんたが悪いんでしょ。
+msgctxt "0008 | c03_105_261 | C010_Haruk"
 msgid "...It's your fault."
 msgstr ""
 
-msgctxt "0010"
+#. 人が減った心配ならいらねーよ。
+#. 死んだ連中は戦力外のバカばっかだったからな。
+msgctxt "0009 | c03_105_261 | C014_Iruma"
 msgid ""
 "You don't need to worry about our dwindling\n"
 "numbers. Only dipshits have died so far."
 msgstr ""
 
-msgctxt "0011"
+#. まぁ、オメーらもバカだろうけど、
+#. バカなりにシコシコ考えて、少しはオレ様に楽させろよ！
+msgctxt "0010 | c03_105_261 | C014_Iruma"
 msgid ""
 "I know it's a tall order but try to use your\n"
 "brains this time so I don't have to use mine!"
 msgstr ""
 
-msgctxt "0012"
+#. この黄金の脳細胞は、全世界の宝なんだからな！
+msgctxt "0011 | c03_105_261 | C014_Iruma"
 msgid ""
 "These golden brain cells of mine are a gift\n"
 "to the entire world!"
 msgstr ""
 
-msgctxt "0013"
+#. 君は口を開く度に好感度が下がっていくんだネ。
+msgctxt "0012 | c03_105_261 | C006_Shing"
 msgid ""
 "It's as though every time you open \n"
 "your mouth, you become less likable."
 msgstr ""
 
-msgctxt "0014"
+#. 神さま…お願いします。
+#. どうか力を貸してください。
+msgctxt "0013 | c03_105_261 | C012_Shiro"
 msgid ""
 "Atua, please...\n"
 "Please lend us your power."
 msgstr ""
 
-msgctxt "0015"
+#. …神さまに頼るのは難しいかもしれません。
+msgctxt "0014 | c03_105_261 | C007_Ki-Bo"
 msgid "...It may be difficult for us to rely on Atua."
 msgstr ""
 
-msgctxt "0016"
+#. 誰よりも神さまに愛されていたアンジーさんが、
+#. あんな事になってしまったんですからね…
+msgctxt "0015 | c03_105_261 | C007_Ki-Bo"
 msgid ""
 "Considering what happened to Angie, whom\n"
 "Atua loved most of all..."
 msgstr ""
 
-msgctxt "0017"
+#. 神さまに頼る事自体が間違ってたんだよ。
+#. ホント、笑っちゃうよね…
+msgctxt "0016 | c03_105_261 | C005_Oma__"
 msgid ""
 "She shouldn't have relied on Atua in the\n"
 "first place."
 msgstr ""
 
-msgctxt "0018"
+#. 特に…ロボが<CLT=cltSTRONG>“神さま”<CLT=cltNORMAL>なんてさ。
+msgctxt "0017 | c03_105_261 | C005_Oma__"
 msgid ""
 "But seriously, it's kinda funny seeing a robot\n"
 "believe in god, especially <CLT=cltSTRONG>Atua<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0019"
+#. い、いいじゃないですか…
+#. ロボットにだって神さまを感じる事はできるんです。
+msgctxt "0018 | c03_105_261 | C007_Ki-Bo"
 msgid "S-So what...? Robots can believe in god."
 msgstr ""
 
-msgctxt "0020"
+#. 実は…ボクはアンジーさんと出会う前から
+#. 似たような体験をしていたんです。
+msgctxt "0019 | c03_105_261 | C007_Ki-Bo"
 msgid ""
 "Actually...before I even met Angie, I had\n"
 "a similar experience."
 msgstr ""
 
-msgctxt "0021"
+#. …声が聞こえるんですよ。
+msgctxt "0020 | c03_105_261 | C007_Ki-Bo"
 msgid "...Hearing voices, I mean."
 msgstr ""
 
-msgctxt "0022"
+#. 内なる声と言いますか…その声がボクが迷った時に
+#. どちらに進むべきかを教えてくれ――
+msgctxt "0021 | c03_105_261 | C007_Ki-Bo"
 msgid ""
 "You might call it an inner voice... It tells me\n"
 "what to do whenever I'm in trou—"
 msgstr ""
 
-msgctxt "0023"
+#. いつまで言ってるの？
+#. もう神さまだの霊だの言ってる場合じゃないよ。
+msgctxt "0022 | c03_105_261 | C010_Haruk"
 msgid ""
 "How long are you going to say that for?\n"
 "Atua and ghosts don't matter right now."
 msgstr ""
 
-msgctxt "0024"
+#. あぁ、今回の裁判はマジでピンチだからな。
+#. すっかりモノクマ共の策略にハマっちまったぜ…
+msgctxt "0023 | c03_105_261 | C001_Momot"
 msgid ""
 "Yeah, the trial this time is gonna be rough.\n"
 "We got caught in Monokuma's trap."
 msgstr ""
 
-msgctxt "0025"
+#. …策略？
+msgctxt "0024 | c03_105_261 | C000_Saiha"
 msgid "His trap?"
 msgstr ""
 
-msgctxt "0026"
+#. おそらく、４階をあんなコエー雰囲気にしたのは、
+#. 手強いオレに捜査をさせねーようにする為だろうな…
+msgctxt "0025 | c03_105_261 | C001_Momot"
 msgid ""
 "He probably made the 4th floor so scary on\n"
 "purpose to prevent me from investigating."
 msgstr ""
 
-msgctxt "0027"
+#. それはない。
+msgctxt "0026 | c03_105_261 | C010_Haruk"
 msgid "No, he didn't."
 msgstr ""
 
-msgctxt "0028"
+#. …うん、絶対ないね。
+msgctxt "0027 | c03_105_261 | C012_Shiro"
 msgid "Yeah...there's no way."
 msgstr ""
 
-msgctxt "0029"
+#. ………………
+msgctxt "0028 | c03_105_261 | C001_Momot"
 msgid "..."
 msgstr "..."
 
-msgctxt "0030"
+#. 終一…なんか言ってやれ。
+msgctxt "0029 | c03_105_261 | C001_Momot"
 msgid "Shuichi...say something."
 msgstr ""
 
-msgctxt "0031"
+#. え…？　な、何を？
+msgctxt "0030 | c03_105_261 | C000_Saiha"
 msgid "Wh-What should I say?"
 msgstr ""
 
-msgctxt "0032"
+#. 今回の裁判はマジでピンチだぜ…
+#. オレはロクに捜査できてねーからな…
+msgctxt "0031 | c03_105_261 | C001_Momot"
 msgid ""
 "This trial is gonna be rough...\n"
 "Since I couldn't do any investigating..."
 msgstr ""
 
-msgctxt "0033"
+#. ゴン太、少しでも役に立てるように頑張るよ…！
+msgctxt "0032 | c03_105_261 | C004_Gokuh"
 msgid "Gonta do his best to help!"
 msgstr ""
 
-msgctxt "0034"
+#. うわああああああーん！
+msgctxt "0033 | c03_105_261 | C005_Oma__"
 msgid "WAAAAAAAAAAAAAAHHHHHHH!!!!!"
 msgstr ""
 
-msgctxt "0035"
+#. オレが初対面から尊敬してやまなかった、
+#. アンジーちゃんと茶柱ちゃんがー！
+msgctxt "0034 | c03_105_261 | C005_Oma__"
 msgid ""
 "I respected Angie and Tenko so much,\n"
 "since the moment we met!"
 msgstr ""
 
-msgctxt "0036"
+#. うるせーぞ！　泣き喚いてたって、
+#. どうにもならねーだろうがっ！
+msgctxt "0035 | c03_105_261 | C001_Momot"
 msgid ""
 "Shut up! Nothing's gonna be solved \n"
 "by crying about it!"
 msgstr ""
 
-msgctxt "0037"
+#. て言うか…それも嘘なんでしょ？
+msgctxt "0036 | c03_105_261 | C010_Haruk"
 msgid "Besides...that was a lie, wasn't it?"
 msgstr ""
 
-msgctxt "0038"
+#. そうだね。
+#. バレちゃったし、もうやめるよ。
+msgctxt "0037 | c03_105_261 | C005_Oma__"
 msgid ""
 "Yup! You guys have me figured out already,\n"
 "so there's no point in keeping up the act."
 msgstr ""
 
-msgctxt "0039"
+#. <CLT=cltMIND>王馬くん…どんな状況になっても、
+#. 相変わらずだな。
+msgctxt "0038 | c03_105_261 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Kokichi...never changes, no matter\n"
 "what situation he's in."
 msgstr ""
 
-msgctxt "0040"
+#. どうして降霊術が失敗したのかな…
+#. 結局、理由がわからないままだヨ…
+msgctxt "0039 | c03_105_261 | C006_Shing"
 msgid ""
 "Why did the seance fail...?\n"
 "I never did figure out why..."
 msgstr ""
 
-msgctxt "0041"
+#. <CLT=cltMIND>…事件よりもそっちなのか。
+msgctxt "0040 | c03_105_261 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I see he's still more interested\n"
 "in that than the case."
 msgstr ""
 
-msgctxt "0042"
+#. 本当…なんですよ。
+#. 神さまかどうかは別として…
+msgctxt "0041 | c03_105_261 | C007_Ki-Bo"
 msgid ""
 "It's true...though I do not know if it can\n"
 "be attributed to god per se..."
 msgstr ""
 
-msgctxt "0043"
+#. ボクには<CLT=cltSTRONG>“内なる声”<CLT=cltNORMAL>が聞こえるんです。
+#. 迷った時に、ボクを導いてくれる声なんです。
+msgctxt "0042 | c03_105_261 | C007_Ki-Bo"
 msgid ""
 "I can hear an <CLT=cltSTRONG>inner voice<CLT=cltNORMAL> guiding me when\n"
 "I don't know what to do."
 msgstr ""
 
-msgctxt "0044"
+#. 不思議と、その声に従っていれば、
+#. ボクを希望へと導いてくれる気がするんです。
+msgctxt "0043 | c03_105_261 | C007_Ki-Bo"
 msgid ""
 "I can't explain why, but I believe that voice\n"
 "will lead me to hope as long as I listen to it."
 msgstr ""
 
-msgctxt "0045"
+#. うるせー！　ロボのクセに神さまとか言ってんじゃねー！
+#. キャラが崩れんぞ！
+msgctxt "0044 | c03_105_261 | C014_Iruma"
 msgid ""
 "Shut up! Why the fuck is a robot talkin' about\n"
 "god anyway? It's unseemly!"
 msgstr ""
 
-msgctxt "0046"
+#. その<CLT=cltSTRONG>“内なる声”<CLT=cltNORMAL>ってヤツもただの無線でしょ？
+#. ほら、タクシーとかのさ。
+msgctxt "0045 | c03_105_261 | C005_Oma__"
 msgid ""
 "That <CLT=cltSTRONG>inner voice<CLT=cltNORMAL> is probably just a radio or\n"
 "something. Like in taxis and stuff."
 msgstr ""
 
-msgctxt "0047"
+#. …キミ達に話したボクがバカでした。
+msgctxt "0046 | c03_105_261 | C007_Ki-Bo"
 msgid "...It was unwise of me to confide in you all."
 msgstr ""
 
-msgctxt "0048"
+#. ………………
+msgctxt "0047 | c03_105_261 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0049"
+#. 神さまだの霊だの言ってる場合じゃないよ。
+#. この殺人だって…この中の誰かがやったんだ。
+msgctxt "0048 | c03_105_261 | C010_Haruk"
 msgid ""
 "Atua and ghosts don't matter right now.\n"
 "The culprit is...among us."
 msgstr ""
 
-msgctxt "0050"
+#. うーん…こうなると、
+#. やっぱり犯人は…
+msgctxt "0049 | c03_105_261 | C012_Shiro"
 msgid "Hmm... So in the end, the culprit really was..."
 msgstr ""
 
-msgctxt "0051"
+#. う、ううん…なんでもない。
+#. 詳しい事は裁判場で言うよ。
+msgctxt "0050 | c03_105_261 | C012_Shiro"
 msgid ""
 "N-No, it's nothing... We can talk about it \n"
 "once the trial starts."
 msgstr ""
 
-msgctxt "0052"
+#. バカなりにシコシコ考えて、少しはオレ様に楽させろよ！
+#. この黄金の脳細胞は全世界の宝なんだからな！
+msgctxt "0051 | c03_105_261 | C014_Iruma"
 msgid ""
 "Try usin' your brain so I don't have to! My\n"
 "golden brain cells are a gift to the entire world!"
 msgstr ""
 
-msgctxt "0053"
+#. はい
+msgctxt "0052 | c03_105_261 | C014_Iruma"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0054"
+#. いいえ
+msgctxt "0053 | c03_105_261 | C014_Iruma"
 msgid "No"
 msgstr ""
 
-msgctxt "0055"
+#. もしかして悩んでいるの？
+msgctxt "0054 | c03_105_261 | C014_Iruma"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0056"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0055 | c03_105_261 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0057"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0056 | c03_105_261 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0058"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0057 | c03_105_261 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0059"
+#. <CLT=cltSYSTEM>「ゴゴゴゴゴゴゴゴ…！」
+msgctxt "0058 | c03_105_261 | chara_Blank"
 msgid "<CLT=cltSYSTEM>*rumble rumble rumble!*"
 msgstr ""
 
-msgctxt "0060"
+#. <CLT=cltMIND>現れたエレベーターに向かって、
+#. 僕らはいつものように無言のまま歩を進めた。
+msgctxt "0059 | c03_105_261 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>As usual, we walked toward the\n"
 "elevator in silence."
 msgstr ""
 
-msgctxt "0061"
+#. <CLT=cltMIND>そして、残っている全員が
+#. エレベーターに乗り込むのと同時に――
+msgctxt "0060 | c03_105_261 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>As soon as we remaining\n"
 "survivors stepped aboard..."
 msgstr ""
 
-msgctxt "0062"
+#. <CLT=cltMIND>僕らは落下した。
+msgctxt "0061 | c03_105_261 | chara_Blank"
 msgid "<CLT=cltMIND>we descended."
 msgstr ""
 
-msgctxt "0063"
+#. <CLT=cltMIND>乗り込む人が少なくなって、
+#. エレベータの落下も速くなっているように感じる。
+msgctxt "0062 | c03_105_261 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Perhaps because there were fewer of us,\n"
 "the elevator seemed to move faster."
 msgstr ""
 
-msgctxt "0064"
+#. <CLT=cltMIND>まるで、僕らの今の状況をあらわしているようだ。
+msgctxt "0063 | c03_105_261 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>And so we fell, faster and faster,\n"
 "downward into the black."
 msgstr ""
 
-msgctxt "0065"
+#. 2
+msgctxt "0064 | c03_105_261 | chara_Blank"
 msgid "2"
 msgstr "2"
 
-msgctxt "0066"
+#. 3
+msgctxt "0065 | c03_105_261 | chara_Blank"
 msgid "3"
 msgstr "3"
 
-msgctxt "0067"
+#. 4
+msgctxt "0066 | c03_105_261 | chara_Blank"
 msgid "4"
 msgstr "4"
 
-msgctxt "0068"
+#. 5
+msgctxt "0067 | c03_105_261 | chara_Blank"
 msgid "5"
 msgstr "5"
 
-msgctxt "0069"
+#. 6
+msgctxt "0068 | c03_105_261 | chara_Blank"
 msgid "6"
 msgstr "6"
 
-msgctxt "0070"
+#. 7
+msgctxt "0069 | c03_105_261 | chara_Blank"
 msgid "7"
 msgstr "7"
 
-msgctxt "0071"
+#. 8
+msgctxt "0070 | c03_105_261 | chara_Blank"
 msgid "8"
 msgstr "8"
 
-msgctxt "0072"
+#. 9
+msgctxt "0071 | c03_105_261 | chara_Blank"
 msgid "9"
 msgstr "9"

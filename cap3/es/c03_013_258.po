@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,24 +11,30 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>これにアイテムを使ったら一気にツタが枯れたけど…
+#. どう言う仕組みなんだ？
+msgctxt "0000 | c03_013_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>When I used the item, the vine suddenly\n"
 "withered... How does that work?"
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>プール入り口　ゼルダギミック植物
+msgctxt "0001 | c03_013_258 | chara_Blank"
 msgid "<CLT=cltMIND>Pool Entrance Zelda gimmigh plant"
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>これが門の鍵になってたんだな…
+msgctxt "0002 | c03_013_258 | chara_Blank"
 msgid "<CLT=cltMIND>So this is the key to the gate..."
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltMIND>カジノエリア扉　六角レンチギミック(閉)
+msgctxt "0003 | c03_013_258 | chara_Blank"
 msgid "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Closed)"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>カジノエリア扉　六角レンチギミック(開)
+msgctxt "0004 | c03_013_258 | chara_Blank"
 msgid "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Open)"
 msgstr ""

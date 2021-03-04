@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,26 +11,35 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>システムより。
+#. ドアの感想言うのでデザインができたら追加します。
+msgctxt "0000 | c03_007_251 | chara_Blank"
 msgid "[EMPTY_LINE]"
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>この石像にアイテムを使ったら
+#. 建物がせり上がって来たけど…
+msgctxt "0001 | c03_007_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>When I used the item on the stone statue,\n"
 "a building rose up..."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>どういうテクノロジーなんだ？
+msgctxt "0002 | c03_007_251 | chara_Blank"
 msgid "<CLT=cltMIND>What kind of technology is this?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltMIND>この台座、よく見ると真ん中にくぼみがある。
+#. 何かをはめ込むんだろうか…？
+msgctxt "0003 | c03_007_251 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The pedestal... If I look closely, there's an\n"
 "indentation. But why?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>システムより。
+#. 鍵の感想を言うのでデザインができたら追加します。
+msgctxt "0004 | c03_007_251 | chara_Blank"
 msgid "[EMPTY_LINE]"
 msgstr ""

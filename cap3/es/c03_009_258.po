@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,234 +11,303 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>こうして、その日のトレーニングは、
+#. 僕と春川さんの２人きりで行われる事となった。
+msgctxt "0000 | c03_009_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>And that's how Maki and I ended up\n"
 "training together."
 msgstr ""
 
-msgctxt "0002"
+#. ………………
+msgctxt "0001 | c03_009_258 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0003"
+#. ………………
+msgctxt "0002 | c03_009_258 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0004"
+#. ………………
+msgctxt "0003 | c03_009_258 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0005"
+#. ねぇ…
+msgctxt "0004 | c03_009_258 | C010_Haruk"
 msgid "Hey..."
 msgstr ""
 
-msgctxt "0006"
+#. …な、何っ？
+msgctxt "0005 | c03_009_258 | C000_Saiha"
 msgid "What is it?"
 msgstr ""
 
-msgctxt "0007"
+#. あんた…なんでトレーニングしてるの？
+#. 探偵にこんなトレーニングが必要とは思えないけど。
+msgctxt "0006 | c03_009_258 | C010_Haruk"
 msgid ""
 "Why are you training...?\n"
 "I don't think a detective needs to do this."
 msgstr ""
 
-msgctxt "0008"
+#. そ、それは…もちろんそうなんだけど…
+msgctxt "0007 | c03_009_258 | C000_Saiha"
 msgid "...Probably not, but..."
 msgstr ""
 
-msgctxt "0009"
+#. ただ…必要か必要じゃないかだけで考えてても、
+#. 仕方がないのかなって…
+msgctxt "0008 | c03_009_258 | C000_Saiha"
 msgid ""
 "Overthinking things and worrying\n"
 "about what I \"need\" to do..."
 msgstr ""
 
-msgctxt "0010"
+#. なんとなく…百田くんを見てたら、
+#. そんな風に思ったんだ。
+msgctxt "0009 | c03_009_258 | C000_Saiha"
 msgid ""
 "When I'm with Kaito, I feel like...\n"
 "all of that stuff just fades away."
 msgstr ""
 
-msgctxt "0011"
+#. あんたって…あのバカに憧れてるの？
+msgctxt "0010 | c03_009_258 | C010_Haruk"
 msgid "Do you...look up to that idiot?"
 msgstr ""
 
-msgctxt "0012"
+#. 憧れって言うのとは、
+#. ちょっと違うかもしれないけど…
+msgctxt "0011 | c03_009_258 | C000_Saiha"
 msgid ""
 "Ah, I don't know if I'd call it\n"
 "\"looking up\" to him..."
 msgstr ""
 
-msgctxt "0013"
+#. ただ…あそこまでガムシャラな人って、
+#. 今まで僕の周りにいなかったし…
+msgctxt "0012 | c03_009_258 | C000_Saiha"
 msgid ""
 "It's just that I've never been around\n"
 "someone so relaxed...and impulsive."
 msgstr ""
 
-msgctxt "0014"
+#. もしかしたら…僕に足りないのって、
+#. そういうところなのかもって。
+msgctxt "0013 | c03_009_258 | C000_Saiha"
 msgid ""
 "I think that's exactly what I've\n"
 "been missing all this time..."
 msgstr ""
 
-msgctxt "0015"
+#. はぁ…男が男を語るのって、
+#. 思った以上に気持ち悪いんだね。
+msgctxt "0014 | c03_009_258 | C010_Haruk"
 msgid ""
 "*sigh* I never realized until now how gross\n"
 "it is to hear men talk about being manly."
 msgstr ""
 
-msgctxt "0016"
+#. ………………
+msgctxt "0015 | c03_009_258 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0017"
+#. <CLT=cltMIND>そこで春川さんはスッと立ち上がると…
+msgctxt "0016 | c03_009_258 | chara_Blank"
 msgid "<CLT=cltMIND>Maki sprang up and said..."
 msgstr ""
 
-msgctxt "0018"
+#. １００回…終わったよ。
+msgctxt "0017 | c03_009_258 | C010_Haruk"
 msgid "100... I'm done."
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltMIND>と、春川さんは手に付いた砂を払いながら、
+#. 涼しい顔のまま言った。
+msgctxt "0018 | c03_009_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Maki seemed nonchalant\n"
 "as she brushed off her hands."
 msgstr ""
 
-msgctxt "0020"
+#. 相変わらず…早いね。
+msgctxt "0019 | c03_009_258 | C000_Saiha"
 msgid "You're really fast...as usual."
 msgstr ""
 
-msgctxt "0021"
+#. 腕立て伏せ１００回なんて楽だよ。
+#. 前は…それこそ意識を失うまでやらされたしね。
+msgctxt "0020 | c03_009_258 | C010_Haruk"
 msgid ""
 "I used to be forced to do push-ups until\n"
 "I passed out. 100 push-ups is nothing."
 msgstr ""
 
-msgctxt "0022"
+#. …え？
+msgctxt "0021 | c03_009_258 | C000_Saiha"
 msgid "What?"
 msgstr ""
 
-msgctxt "0023"
+#. だから…あんたの言う事もちょっとわかるよ。
+msgctxt "0022 | c03_009_258 | C010_Haruk"
 msgid ""
 "About Kaito... I sort of understand\n"
 "what you mean."
 msgstr ""
 
-msgctxt "0024"
+#. あれだけ無駄なところだらけな人間って、
+#. ちょっと羨ましいかも…
+msgctxt "0023 | c03_009_258 | C010_Haruk"
 msgid ""
 "But I'm a bit jealous of how carefree he\n"
 "is...even if he is useless."
 msgstr ""
 
-msgctxt "0025"
+#. 私は…ひたすら必要なものだけを
+#. 詰め込まれてきただけだったからさ。
+msgctxt "0024 | c03_009_258 | C010_Haruk"
 msgid ""
 "I was taught to only value the\n"
 "essentials..."
 msgstr ""
 
-msgctxt "0026"
+#. なるべき形になる為だけに足りないものを詰め込まれ、
+#. 余計なものは削ぎ落し…
+msgctxt "0025 | c03_009_258 | C010_Haruk"
 msgid ""
 "I was forced to abandon anything nonessential\n"
 "so they could mold me as they saw fit..."
 msgstr ""
 
-msgctxt "0027"
+#. そうやって作られた私って…なんなんだろうね？
+msgctxt "0026 | c03_009_258 | C010_Haruk"
 msgid ""
 "After everything they did to me...I sometimes\n"
 "wonder what I am anymore."
 msgstr ""
 
-msgctxt "0028"
+#. そうなりたかった訳でもなく、
+#. 勝手にそう作られただけ…
+msgctxt "0027 | c03_009_258 | C010_Haruk"
 msgid ""
 "I didn't ask to become this way.\n"
 "It just...happened to me..."
 msgstr ""
 
-msgctxt "0029"
+#. そんなのが…人間って言えるのかな？
+#. キーボの方がよっぽど人間らしいよね。
+msgctxt "0028 | c03_009_258 | C010_Haruk"
 msgid ""
 "After what I've been through...am I still even\n"
 "human? Even Keebo acts more human than me."
 msgstr ""
 
-msgctxt "0030"
+#. ………………
+msgctxt "0029 | c03_009_258 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0031"
+#. でも、仕方がなかったんだよ。
+#. だって、私にはそうするしか――
+msgctxt "0030 | c03_009_258 | C010_Haruk"
 msgid "But...I had no choice but to—"
 msgstr ""
 
-msgctxt "0032"
+#. ………………
+msgctxt "0031 | c03_009_258 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0033"
+#. …って、なんで私はこんな話をしてるんだろ。
+#. あんたなんかに話しても仕方ないのに…
+msgctxt "0032 | c03_009_258 | C010_Haruk"
 msgid ""
 "...Why am I talking to you about this?\n"
 "You can't help me."
 msgstr ""
 
-msgctxt "0034"
+#. でも…それって僕と近いかも。
+msgctxt "0033 | c03_009_258 | C000_Saiha"
 msgid "Ah, but...I'm kind of the same way."
 msgstr ""
 
-msgctxt "0035"
+#. 僕も…探偵になりたいなんて思った事はなくて…
+#. むしろ…嫌な仕事だと思ってた。
+msgctxt "0034 | c03_009_258 | C000_Saiha"
 msgid ""
 "I never once *wanted* to be a detective.\n"
 "I actually thought it wasn't too great a job."
 msgstr ""
 
-msgctxt "0036"
+#. 人の秘密を暴いてお金を貰うなんて…最低だって。
+msgctxt "0035 | c03_009_258 | C000_Saiha"
 msgid ""
 "Uncovering people's secrets for money?\n"
 "...It's the worst."
 msgstr ""
 
-msgctxt "0037"
+#. でも…今はちょっと違って、
+#. その力で仲間の役に立てるならいいかもって…
+msgctxt "0036 | c03_009_258 | C000_Saiha"
 msgid ""
 "But now, I feel completely different. If it's\n"
 "going to help my friends, I'll do it."
 msgstr ""
 
-msgctxt "0038"
+#. …少し、そう思えるようになったんだ。
+#. 赤松さんと百田くんのお陰でね。
+msgctxt "0037 | c03_009_258 | C000_Saiha"
 msgid ""
 "And it's Kaede and Kaito that have\n"
 "helped me see things that way."
 msgstr ""
 
-msgctxt "0039"
+#. ………………
+msgctxt "0038 | c03_009_258 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0040"
+#. 別に…あんたの話なんて聞いてない。
+msgctxt "0039 | c03_009_258 | C010_Haruk"
 msgid "I...didn't ask to hear your story."
 msgstr ""
 
-msgctxt "0041"
+#. <CLT=cltMIND>春川さんはつまらなそうに言うと、
+#. 僕に背を向けて歩き出した。
+msgctxt "0040 | c03_009_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Maki's face remained totally unfazed\n"
 "as she turned and walked away."
 msgstr ""
 
-msgctxt "0042"
+#. 春川さん、また明日！
+msgctxt "0041 | c03_009_258 | C000_Saiha"
 msgid "Ah, see you tomorrow, Maki!"
 msgstr ""
 
-msgctxt "0043"
+#. <CLT=cltMIND>けど、彼女は僕の言葉に反応せず、
+#. そのまま寄宿舎へと向かって歩き去っていった。
+msgctxt "0042 | c03_009_258 | chara_Blank"
 msgid "<CLT=cltMIND>She didn't reply and kept walking."
 msgstr ""
 
-msgctxt "0044"
+#. …さてと、続きをやるかな。
+msgctxt "0043 | c03_009_258 | C000_Saiha"
 msgid "Alright then..."
 msgstr ""
 
-msgctxt "0045"
+#. <CLT=cltMIND>それにしても…百田くんが心配だな。
+#. 朝から明らかに様子がおかしかったからな…
+msgctxt "0044 | c03_009_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I'm still a little worried about Kaito.\n"
 "He's seemed off since this morning."
 msgstr ""
 
-msgctxt "0046"
+#. <CLT=cltMIND>…ただの体調不良ならいいんだけど。
+msgctxt "0045 | c03_009_258 | chara_Blank"
 msgid "<CLT=cltMIND>I hope that it's nothing serious."
 msgstr ""

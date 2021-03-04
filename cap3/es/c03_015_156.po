@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,396 +11,514 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. あ、赤松さんっ！
+#. 天海くんに東条さんに…星くんっ！？
+msgctxt "0000 | c03_015_156 | C000_Saiha"
 msgid ""
 "K-Kaede! And...Rantaro?\n"
 "Kirumi? Ryoma?"
 msgstr ""
 
-msgctxt "0002"
+#. そっくりでしょー？　神ってるでしょー？
+#. ぜーんぶ、アンジーが作ったんだよー。
+msgctxt "0001 | c03_015_156 | C013_Yonag"
 msgid ""
 "I made them! Don't they look lifelike?\n"
 "Aren't they just divine?"
 msgstr ""
 
-msgctxt "0003"
+#. つ、作ったって事は――
+msgctxt "0002 | c03_015_156 | C000_Saiha"
 msgid "You made them...?"
 msgstr ""
 
-msgctxt "0004"
+#. うん、アンジーお手製の蝋人形だよー。
+msgctxt "0003 | c03_015_156 | C013_Yonag"
 msgid ""
 "Yep, they're my very own handcrafted wax\n"
 "effigies."
 msgstr ""
 
-msgctxt "0005"
+#. ろ、蝋人形…？　なんで蝋人形を？
+msgctxt "0004 | c03_015_156 | C000_Saiha"
 msgid "Wax effigies? Why?"
 msgstr ""
 
-msgctxt "0006"
+#. もっちもちー、転校生を迎える儀式の為だよー。
+msgctxt "0005 | c03_015_156 | C013_Yonag"
 msgid "Why? For the resurrection ritual, of course."
 msgstr ""
 
-msgctxt "0007"
+#. えーと、この<CLT=cltSTRONG>“屍者の書”<CLT=cltNORMAL>によると、
+#. <CLT=cltSTRONG>“蘇りの儀式”<CLT=cltNORMAL>には死んだ人の人形が必要なんだって。
+msgctxt "0006 | c03_015_156 | C013_Yonag"
 msgid ""
 "Umm, according to the <CLT=cltSTRONG>Necronomicon<CLT=cltNORMAL>, we need\n"
 "an effigy of the deceased to perform the <CLT=cltSTRONG>ritual<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0008"
+#. だから、アンジーが作ったんだー。
+msgctxt "0007 | c03_015_156 | C013_Yonag"
 msgid "So I went ahead and made these."
 msgstr ""
 
-msgctxt "0009"
+#. ホントはもっと簡単な人形でもいいらしいけど、
+#. 作り始めたら神さまが光臨しちゃって。
+msgctxt "0008 | c03_015_156 | C013_Yonag"
 msgid ""
 "Simple dolls probably would've been better, but\n"
 "once I got to work, Atua took possession of me."
 msgstr ""
 
-msgctxt "0010"
+#. にゃはははー、気付いたら全員分作ってたー。
+#. どう？　凄いでしょー？
+msgctxt "0009 | c03_015_156 | C013_Yonag"
 msgid ""
 "Nyahaha! And before I knew it, I had made these!\n"
 "What do you think? Aren't they amazing?"
 msgstr ""
 
-msgctxt "0011"
+#. あんたって…無邪気に残酷な事をするんだね。
+msgctxt "0010 | c03_015_156 | C010_Haruk"
 msgid "You do such cruel things so innocently."
 msgstr ""
 
-msgctxt "0012"
+#. えー？　何がー？
+msgctxt "0011 | c03_015_156 | C013_Yonag"
 msgid "Hm? What?"
 msgstr ""
 
-msgctxt "0013"
+#. でも、確かに凄いよ…
+#. 一瞬…本人かと思ったほどだよ…
+msgctxt "0012 | c03_015_156 | C000_Saiha"
 msgid ""
 "It's incredible...\n"
 "For a second, I thought they were real."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>うん…本当に本物そっくりだ。
+#. だけど、やっぱり――
+msgctxt "0013 | c03_015_156 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Yeah...just like the real thing.\n"
 "But..."
 msgstr ""
 
-msgctxt "0015"
+#. まずはあんたから説得してよ。
+#. 探偵なんだし、口先は上手いんでしょ？
+msgctxt "0014 | c03_015_156 | C010_Haruk"
 msgid ""
 "You try persuading her first. Detectives are\n"
 "good at talking, right?"
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>微妙に…探偵を誤解されている気がする。
+msgctxt "0015 | c03_015_156 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I feel like she might have some\n"
 "misconceptions about detectives..."
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>でも、春川さんが説得に向いてるとは思えないし、
+#. 僕がやるしかないか。
+msgctxt "0016 | c03_015_156 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>But I know Maki isn't very good at\n"
 "persuading people. So it's up to me."
 msgstr ""
 
-msgctxt "0018"
+#. アンジーさんの…こういう事ができてしまう部分も、
+#. 危険だと思うんです。
+msgctxt "0017 | c03_015_156 | C011_Chaba"
 msgid ""
 "The fact that Angie can do things like this\n"
 "without a care is what makes her so dangerous."
 msgstr ""
 
-msgctxt "0019"
+#. お願いします。
+#. アンジーさんを止めてください…！
+msgctxt "0018 | c03_015_156 | C011_Chaba"
 msgid "Please! You have to stop Angie!"
 msgstr ""
 
-msgctxt "0020"
+#. あのさ、アンジーさん…
+#. やっぱり考え直してもらえないかな？
+msgctxt "0019 | c03_015_156 | C000_Saiha"
 msgid "Angie...could you please reconsider?"
 msgstr ""
 
-msgctxt "0021"
+#. …ほぅほぅ、何をかな？
+msgctxt "0020 | c03_015_156 | C013_Yonag"
 msgid "...I see, I see. Reconsider what, exactly?"
 msgstr ""
 
-msgctxt "0022"
+#. キミがやろうとしている<CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>だよ。
+msgctxt "0021 | c03_015_156 | C000_Saiha"
 msgid ""
 "The <CLT=cltSTRONG>ritual<CLT=cltNORMAL> that you're\n"
 "trying to do."
 msgstr ""
 
-msgctxt "0023"
+#. あれは、キミが考えてるものと違って、
+#. もっと恐ろしいものなんだ…
+msgctxt "0022 | c03_015_156 | C000_Saiha"
 msgid ""
 "I don't think you understand how\n"
 "bad that might be."
 msgstr ""
 
-msgctxt "0024"
+#. きっと何か良くない事が起こるに決まってる。
+#. だからこそ、モノクマの<CLT=cltSTRONG>“動機”<CLT=cltNORMAL>なんだ。
+msgctxt "0023 | c03_015_156 | C000_Saiha"
 msgid ""
 "Remember that this was Monokuma's <CLT=cltSTRONG>motive<CLT=cltNORMAL>.\n"
 "If he *wants* us to do it, it can't be good."
 msgstr ""
 
-msgctxt "0025"
+#. でも、本当に死者が蘇る訳じゃなくて、
+#. 死んだはずの人が実は生きてて――
+msgctxt "0024 | c03_015_156 | C013_Yonag"
 msgid ""
 "But the dead can't really come back to life.\n"
 "So the people who died must still be alive—"
 msgstr ""
 
-msgctxt "0026"
+#. いや、やっぱりそれはないよ。
+msgctxt "0025 | c03_015_156 | C000_Saiha"
 msgid "No, Angie. That's not possible."
 msgstr ""
 
-msgctxt "0027"
+#. 今までの死体は作り物なんかじゃない。
+#. 僕は今、アンジーさんが作った蝋人形を見て確信したよ。
+msgctxt "0026 | c03_015_156 | C000_Saiha"
 msgid ""
 "The bodies were not fakes. I'm positive.\n"
 "Especially after seeing the wax effigies."
 msgstr ""
 
-msgctxt "0028"
+#. あの時の彼らには、もう生命はなかったけど、
+#. <CLT=cltSTRONG>“生命の残り火”<CLT=cltNORMAL>みたいなものが確かにあったんだ…
+msgctxt "0027 | c03_015_156 | C000_Saiha"
 msgid ""
 "The effigies were nearly perfect, but the real\n"
 "bodies still had <CLT=cltSTRONG>traces of a soul<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0029"
+#. その瞬間まで必死に生きていたからこそ漂う
+#. <CLT=cltSTRONG>“生命の残り火”<CLT=cltNORMAL>…
+msgctxt "0028 | c03_015_156 | C000_Saiha"
 msgid ""
 "<CLT=cltSTRONG>A soul<CLT=cltNORMAL> desperate to live,\n"
 "struggling, fighting for life..."
 msgstr ""
 
-msgctxt "0030"
+#. それだけは、どんなに精巧に作ったところで、
+#. 決して真似する事はできないんだ。
+msgctxt "0029 | c03_015_156 | C000_Saiha"
 msgid "That's something that can never be replicated."
 msgstr ""
 
-msgctxt "0031"
+#. いくら凄い技術で精巧に作ったところで、
+#. その人の命までは作る事ができないようにね…
+msgctxt "0030 | c03_015_156 | C000_Saiha"
 msgid ""
 "No matter what technology you have,\n"
 "you can't fake a soul."
 msgstr ""
 
-msgctxt "0032"
+#. だから、あの時の彼らは作り物なんかじゃない。
+#. あの４人は間違いなく死んだんだ。
+msgctxt "0031 | c03_015_156 | C000_Saiha"
 msgid "Ryoma, Kirumi, Rantaro...and Kaede...are dead."
 msgstr ""
 
-msgctxt "0033"
+#. …私もそう思う。
+#. あれは、間違いなく<CLT=cltSTRONG>“本物の死”<CLT=cltNORMAL>だよ。
+msgctxt "0032 | c03_015_156 | C010_Haruk"
 msgid ""
 "...I agree. I have no doubts that their\n"
 "<CLT=cltSTRONG>deaths were real<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0034"
+#. 今まで多くの死体を見てきた私が言うんだから、
+#. 間違いないと思うけど？
+msgctxt "0033 | c03_015_156 | C010_Haruk"
 msgid ""
 "Trust me, I've seen my fair share of dead\n"
 "bodies."
 msgstr ""
 
-msgctxt "0035"
+#. ほぅほぅ…魔姫が言うならそうかもね。
+#. 本当に死んでるのかもね。
+msgctxt "0034 | c03_015_156 | C013_Yonag"
 msgid ""
 "I see, I see... If that's what Maki says then\n"
 "maybe they really are dead."
 msgstr ""
 
-msgctxt "0036"
+#. じゃあ、儀式をやれば、
+#. 本当に死人が蘇るのかなー？
+msgctxt "0035 | c03_015_156 | C013_Yonag"
 msgid ""
 "Then...if we do the ritual, will we actually\n"
 "resurrect the dead?"
 msgstr ""
 
-msgctxt "0037"
+#. 不思議ミラクルだねー。
+msgctxt "0036 | c03_015_156 | C013_Yonag"
 msgid "What a miraculous mystery."
 msgstr ""
 
-msgctxt "0038"
+#. …え？
+msgctxt "0037 | c03_015_156 | C000_Saiha"
 msgid "Huh?"
 msgstr ""
 
-msgctxt "0039"
+#. …何言ってるの？
+#. 死んだ人間が蘇る訳ないじゃん。
+msgctxt "0038 | c03_015_156 | C010_Haruk"
 msgid ""
 "...What are you saying? Someone who has\n"
 "died can't be resurrected."
 msgstr ""
 
-msgctxt "0040"
+#. でもでもー、神さまは言ってるよー？
+msgctxt "0039 | c03_015_156 | C013_Yonag"
 msgid "Hm? But that's not what Atua says."
 msgstr ""
 
-msgctxt "0041"
+#. この儀式をやれば、
+#. 死んだ犠牲者が戻って来るってー。
+msgctxt "0040 | c03_015_156 | C013_Yonag"
 msgid ""
 "He says that if we do the ritual, everyone who\n"
 "has died up till now will come back."
 msgstr ""
 
-msgctxt "0042"
+#. だから…今までの４人が本当に死んでるなら、
+#. 本当に<CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>が起きるって事なんだよー。
+msgctxt "0041 | c03_015_156 | C013_Yonag"
 msgid ""
 "So...if those four really are dead, then the\n"
 "<CLT=cltSTRONG>resurrection ritual<CLT=cltNORMAL> will surely work."
 msgstr ""
 
-msgctxt "0043"
+#. にゃはははっ、間違いないよー！
+#. 神さまが間違える訳ないもーん！
+msgctxt "0042 | c03_015_156 | C013_Yonag"
 msgid ""
 "Nyahahaha! That must be right!\n"
 "Cuz Atua is never wrong!"
 msgstr ""
 
-msgctxt "0044"
+#. やめる気は…ないんですね？
+msgctxt "0043 | c03_015_156 | C011_Chaba"
 msgid "You're...not gonna stop this, are you?"
 msgstr ""
 
-msgctxt "0045"
+#. もっちもちー！
+#. 神さまが決めた事だからねー！
+msgctxt "0044 | c03_015_156 | C013_Yonag"
 msgid "Of course not! This is Atua's will!"
 msgstr ""
 
-msgctxt "0046"
+#. 神さまじゃなくて…あんたが決めたんでしょ？
+msgctxt "0045 | c03_015_156 | C010_Haruk"
 msgid "This is your will, not Atua's."
 msgstr ""
 
-msgctxt "0047"
+#. ううん、神さまだよ。
+msgctxt "0046 | c03_015_156 | C013_Yonag"
 msgid "Nuh-uh, it's Atua's."
 msgstr ""
 
-msgctxt "0048"
+#. 神さまがアンジーに言ったんだよ。
+#. この儀式をやれば仲間が蘇るって。
+msgctxt "0047 | c03_015_156 | C013_Yonag"
 msgid ""
 "Atua told me that our friends will come back\n"
 "to life if we do this ritual."
 msgstr ""
 
-msgctxt "0049"
+#. だから、やらないとダメなんだよ。
+#. 神さまの言う事には逆らったらダメなんだよ。
+msgctxt "0048 | c03_015_156 | C013_Yonag"
 msgid ""
 "So we have to do it. We can't defy a direct\n"
 "command from Atua."
 msgstr ""
 
-msgctxt "0050"
+#. 逆らったら…罰が当たるんだよ？
+msgctxt "0049 | c03_015_156 | C013_Yonag"
 msgid "Or else...we'll get punished, y'know?"
 msgstr ""
 
-msgctxt "0051"
+#. ………………
+msgctxt "0050 | c03_015_156 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0052"
+#. きっと、終一は<CLT=cltSTRONG>“動機”<CLT=cltNORMAL>の心配をしてるんだろうけど、
+#. それなら大丈夫だよ。
+msgctxt "0051 | c03_015_156 | C013_Yonag"
 msgid ""
 "You're probably still worried about the <CLT=cltSTRONG>motive<CLT=cltNORMAL>,\n"
 "Shuichi, but it's okay."
 msgstr ""
 
-msgctxt "0053"
+#. 主は言いました…
+#. 外に出たいって思わなければ何も起きたりしないと。
+msgctxt "0052 | c03_015_156 | C013_Yonag"
 msgid ""
 "Atua has spoken... Nothing bad will happen as\n"
 "long as you put aside all thoughts of escape."
 msgstr ""
 
-msgctxt "0054"
+#. あっそ、いくら言っても無駄だね。
+msgctxt "0053 | c03_015_156 | C010_Haruk"
 msgid ""
 "Is that so? Then there's no point\n"
 "talking anymore."
 msgstr ""
 
-msgctxt "0055"
+#. んーと、そろそろ話は終わり？
+#. 儀式の準備があるから忙しいんだよね。
+msgctxt "0054 | c03_015_156 | C013_Yonag"
 msgid ""
 "Hmm, are we done talking now? Cuz I'm\n"
 "still busy preparing for the ritual."
 msgstr ""
 
-msgctxt "0056"
+#. ジャマするならお前も蝋人形にしてやるぞー！
+#. にゃははははー！
+msgctxt "0055 | c03_015_156 | C013_Yonag"
 msgid ""
 "If you're gonna slow me down, I'll turn you into\n"
 "a wax effigy! Nyahahaha!"
 msgstr ""
 
-msgctxt "0057"
+#. …茶柱さん、いったん戻ろうか。
+#. 別の対策を練った方が良さそうだよ。
+msgctxt "0056 | c03_015_156 | C000_Saiha"
 msgid ""
 "Tenko, let's go back for now.\n"
 "I think we may need another plan..."
 msgstr ""
 
-msgctxt "0058"
+#. は、はい…わかりました…
+msgctxt "0057 | c03_015_156 | C011_Chaba"
 msgid "O-Okay..."
 msgstr ""
 
-msgctxt "0059"
+#. <CLT=cltMIND>アンジーさんの説得に失敗した僕らは、
+#. しぶしぶ彼女の研究教室を後にした…
+msgctxt "0058 | c03_015_156 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>After failing to persuade Angie,\n"
 "we reluctantly left the lab."
 msgstr ""
 
-msgctxt "0060"
+#. <CLT=cltMIND>アンジーさんを説得しないと…
+msgctxt "0059 | c03_015_156 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>We have to find some way\n"
 "to persuade her."
 msgstr ""
 
-msgctxt "0061"
+#. はい
+msgctxt "0060 | c03_015_156 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0062"
+#. いいえ
+msgctxt "0061 | c03_015_156 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0063"
+#. もしかして悩んでいるの？
+msgctxt "0062 | c03_015_156 | chara_Blank"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0064"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0063 | c03_015_156 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0065"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0064 | c03_015_156 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0066"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0065 | c03_015_156 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0067"
+#. <CLT=cltMIND>蝋の塊
+msgctxt "0066 | c03_015_156 | chara_Blank"
 msgid "<CLT=cltMIND>Lump of wax"
 msgstr ""
 
-msgctxt "0068"
+#. <CLT=cltMIND>アンジーさんを説得しないと…
+msgctxt "0067 | c03_015_156 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>We have to find some way\n"
 "to persuade her."
 msgstr ""
 
-msgctxt "0069"
+#. <CLT=cltMIND>アンジーさんを説得しないと…
+msgctxt "0068 | c03_015_156 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>We have to find some way\n"
 "to persuade her."
 msgstr ""
 
-msgctxt "0070"
+#. <CLT=cltMIND>本当に、星くんそっくりだ…
+msgctxt "0069 | c03_015_156 | chara_Blank"
 msgid "<CLT=cltMIND>It really looks like Ryoma..."
 msgstr ""
 
-msgctxt "0071"
+#. <CLT=cltMIND>でも、やっぱり――
+msgctxt "0070 | c03_015_156 | chara_Blank"
 msgid "<CLT=cltMIND>But...actually—"
 msgstr ""
 
-msgctxt "0072"
+#. <CLT=cltMIND>見れば見るほど、天海くんにそっくりだ…
+msgctxt "0071 | c03_015_156 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The more I look at it, the more it\n"
 "looks like Rantaro..."
 msgstr ""
 
-msgctxt "0073"
+#. <CLT=cltMIND>でも、やっぱり――
+msgctxt "0072 | c03_015_156 | chara_Blank"
 msgid "<CLT=cltMIND>But...actually—"
 msgstr ""
 
-msgctxt "0074"
+#. <CLT=cltMIND>東条さん、そのままの姿だな…
+msgctxt "0073 | c03_015_156 | chara_Blank"
 msgid "<CLT=cltMIND>It looks exactly like Kirumi..."
 msgstr ""
 
-msgctxt "0075"
+#. <CLT=cltMIND>でも、やっぱり――
+msgctxt "0074 | c03_015_156 | chara_Blank"
 msgid "<CLT=cltMIND>But...actually—"
 msgstr ""
 
-msgctxt "0076"
+#. <CLT=cltMIND>…赤松さんにそっくりだ。
+#. 顔も体も、まるで本物みたいに…
+msgctxt "0075 | c03_015_156 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>...It looks exactly like Kaede.\n"
 "The face and body, it looks like the real thing..."
 msgstr ""
 
-msgctxt "0077"
+#. <CLT=cltMIND>でも、やっぱり――
+msgctxt "0076 | c03_015_156 | chara_Blank"
 msgid "<CLT=cltMIND>But...actually—"
 msgstr ""

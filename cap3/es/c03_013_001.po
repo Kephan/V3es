@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,17 +11,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 研究教室Ｂ
+msgctxt "0000 | c03_013_001 | non"
 msgid "Lab B"
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>ここは女子トイレ…かな？
+#. わかってるけど一応確認してみただけだ。
+msgctxt "0001 | c03_013_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Is this the girls bathroom?\n"
 "Okay. I was just checking."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>このモニターってどこにでもあるんだな。
+#. いい加減、見飽きたぞ…
+msgctxt "0002 | c03_013_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>These monitors are everywhere...\n"
 "I'm tired of seeing them."

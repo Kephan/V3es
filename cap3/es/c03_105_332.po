@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,119 +11,154 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>やがて、エレベーターが止まると、
+#. これまたいつものように…
+msgctxt "0000 | c03_105_332 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The elevator stopped, and\n"
 "just like always..."
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>ゆっくりと扉が開いていった。
+msgctxt "0001 | c03_105_332 | chara_Blank"
 msgid "<CLT=cltMIND>...the doors parted slowly."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>その向こうから僕らを照らす光は、
+#. 未来へと繋がる光なのか…
+msgctxt "0002 | c03_105_332 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The light that shines on us from the\n"
 "other side, the bright light of our future."
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltMIND>それとも――
+msgctxt "0003 | c03_105_332 | chara_Blank"
 msgid "<CLT=cltMIND>Or, is it—"
 msgstr ""
 
-msgctxt "0005"
+#. ありゃー、参加人数が減って暗いムードだね。
+#. 人気下降気味の企業ブースを見ているようだよ。
+msgctxt "0004 | c03_105_332 | C021_Mtaro"
 msgid ""
 "Boy, they look really depressed. Must be\n"
 "cuz there's even less participants now."
 msgstr ""
 
-msgctxt "0006"
+#. もー、暗いとか人気ないとか言ったら、
+#. モノダムが可哀想でしょー！
+msgctxt "0005 | c03_105_332 | C023_Mfunn"
 msgid ""
 "Don't say they look depressed!\n"
 "You'll make Monodam sad!"
 msgstr ""
 
-msgctxt "0007"
+#. ………………
+msgctxt "0006 | c03_105_332 | C024_Mdam_"
 msgid "..."
 msgstr "..."
 
-msgctxt "0008"
+#. うぷぷ…この可愛らしいやりとりを
+#. いつまでも聞いていたい気分だけど…
+msgctxt "0007 | c03_105_332 | C020_Monok"
 msgid ""
 "Puhuhu... As much as I'd love to keep\n"
 "hearing this adorable back-and-forth..."
 msgstr ""
 
-msgctxt "0009"
+#. あえて、さっさと始めましょうか！
+msgctxt "0008 | c03_105_332 | C020_Monok"
 msgid "Let's hurry up and get this started!"
 msgstr ""
 
-msgctxt "0010"
+#. お待ちかねの学級裁判の開廷でーす！
+#. オマエラ、心ゆくまでお楽しみくださーい！！
+msgctxt "0009 | c03_105_332 | C020_Monok"
 msgid ""
 "At last, the class trial will begin! I hope\n"
 "you enjoy it to your heart's content!"
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>そして遂に…
+#. ３度目の学級裁判が始まろうとしていた。
+msgctxt "0010 | c03_105_332 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The third class trial was\n"
 "about to begin."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltSTRONG>“超高校級の美術部”<CLT=cltMIND>夜長アンジーさん…
+msgctxt "0011 | c03_105_332 | chara_Blank"
 msgid "<CLT=cltMIND>Angie Yonaga, the <CLT=cltSTRONG>Ultimate Artist<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>才囚学園生徒会を結成して、
+#. コロシアイのない学園を作ろうとしていた彼女…
+msgctxt "0012 | c03_105_332 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>She created the Ultimate Academy Student\n"
 "Council to try to prevent the killing game."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>そして<CLT=cltSTRONG>“超高校級の合気道家”<CLT=cltMIND>茶柱転子さん…
+msgctxt "0013 | c03_105_332 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Then, Tenko Chabashira, the\n"
 "<CLT=cltSTRONG>Ultimate Aikido Master<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>男子の事を毛嫌いしていたけど、
+#. 情に熱くて、コロシアイを心から憎んでいた彼女…
+msgctxt "0014 | c03_105_332 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>She hated men, but I knew that she hated\n"
 "this terrible killing game even more."
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>殺されてしまった２人は、
+#. どっちもコロシアイを止めようとしていた。
+msgctxt "0015 | c03_105_332 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The two who were killed were both trying\n"
 "to stop the killing."
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>そんな２人を殺したのは誰だ？
+msgctxt "0016 | c03_105_332 | chara_Blank"
 msgid "<CLT=cltMIND>And who was the one who killed them?"
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltMIND>いや、そもそも…
+#. ２人を殺した犯人は同じ人物なのか？
+msgctxt "0017 | c03_105_332 | chara_Blank"
 msgid "<CLT=cltMIND>Was it one person?"
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltMIND>それとも…まったく別の人物なのか？
+msgctxt "0018 | c03_105_332 | chara_Blank"
 msgid "<CLT=cltMIND>Two different people?"
 msgstr ""
 
-msgctxt "0020"
+#. <CLT=cltMIND>僕らはこの学級裁判で、
+#. それを解明しなくちゃならない…
+msgctxt "0019 | c03_105_332 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>We need to pin that down\n"
 "in this class trial."
 msgstr ""
 
-msgctxt "0021"
+#. <CLT=cltMIND>生きる為に…真実を手に入れるんだ！
+msgctxt "0020 | c03_105_332 | chara_Blank"
 msgid "<CLT=cltMIND>In order to live...we have to find the truth!"
 msgstr ""
 
-msgctxt "0022"
+#. <CLT=cltMIND>…僕は戦ってみせる。
+msgctxt "0021 | c03_105_332 | chara_Blank"
 msgid "<CLT=cltMIND>...And I will fight for it."
 msgstr ""
 
-msgctxt "0023"
+#. <CLT=cltMIND>この…嘘と真実が交錯する学級裁判をっ！
+msgctxt "0022 | c03_105_332 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I will fight with truth and lies\n"
 "in this class trial!"

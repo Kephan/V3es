@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,129 +11,167 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=size2>アンジー<CLT=size1>を<CLT=size2>殺した
+msgctxt "0000 | c03_204_001 | C014_Iruma"
 msgid "The culprit used a <CLT=size3>katana"
 msgstr ""
 
-msgctxt "0002"
+#. アンジーを殺した凶器は刀だったな！
+msgctxt "0001 | c03_204_001 | C014_Iruma"
 msgid "The culprit used a katana to kill Angie!"
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=size2>凶器<CLT=size1>は<CLT=size3>刀<CLT=size1>だったな！
+msgctxt "0002 | c03_204_001 | C014_Iruma"
 msgid "to <CLT=size2>kill Angie!"
 msgstr ""
 
-msgctxt "0004"
+#. あれは<CLT=cltAGREE><CLT=size2>真宮寺<CLT=size1>の<CLT=size2>研究
+msgctxt "0003 | c03_204_001 | C014_Iruma"
 msgid "And it was <CLT=size2>found<CLT=size1> in"
 msgstr ""
 
-msgctxt "0005"
+#. あれは真宮寺の研究教室にあった物だ！
+msgctxt "0004 | c03_204_001 | C014_Iruma"
 msgid "And it was found in Kiyo's research lab!"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltAGREE><CLT=size2>教室<CLT=cltNORMAL><CLT=size1>に<CLT=size2>あった<CLT=size1>物だ！
+msgctxt "0005 | c03_204_001 | C014_Iruma"
 msgid "<CLT=cltAGREE><CLT=size2>Kiyo's research lab<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=size2>だったら、<CLT=size1>怪しいのは
+msgctxt "0006 | c03_204_001 | C014_Iruma"
 msgid "Which makes you, <CLT=size2>Kiyo,"
 msgstr ""
 
-msgctxt "0008"
+#. だったら、怪しいのは真宮寺だろ！
+msgctxt "0007 | c03_204_001 | C014_Iruma"
 msgid "Which makes you, Kiyo, automatically suspicious!"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=size2>真宮寺<CLT=size1>だろ！
+msgctxt "0008 | c03_204_001 | C014_Iruma"
 msgid "automatically suspicious!"
 msgstr ""
 
-msgctxt "0010"
+#. あの<CLT=size2>刀<CLT=size1>は<CLT=size2>誰<CLT=size1>にでも<CLT=size2>持ち出せた<CLT=size1>はずだヨ？
+msgctxt "0009 | c03_204_001 | C006_Shing"
 msgid ""
 "But <CLT=size2>anyone<CLT=size1> could have <CLT=size2>taken<CLT=size1>\n"
 "that <CLT=size2>katana,<CLT=size1> you see."
 msgstr ""
 
-msgctxt "0011"
+#. あの刀は誰にでも持ち出せたはずだヨ？
+msgctxt "0010 | c03_204_001 | C006_Shing"
 msgid ""
 "But anyone could have taken\n"
 "that katana, you see."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=size2>あんな
+msgctxt "0011 | c03_204_001 | C005_Oma__"
 msgid "So that"
 msgstr ""
 
-msgctxt "0013"
+#. あんな錆びた刀を凶器にするのは…
+msgctxt "0012 | c03_204_001 | C005_Oma__"
 msgid "So that rusty katana was the weapon..."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=size2>錆びた刀
+msgctxt "0013 | c03_204_001 | C005_Oma__"
 msgid "<CLT=size2>rusty katana"
 msgstr ""
 
-msgctxt "0015"
+#. を<CLT=size2>凶器<CLT=size1>にするのは…
+msgctxt "0014 | c03_204_001 | C005_Oma__"
 msgid "was the <CLT=size2>murder weapon..."
 msgstr ""
 
-msgctxt "0016"
+#. あれにこだわってた
+#. <CLT=size2>真宮寺<CLT=size1>ちゃん<CLT=size2>だけ<CLT=size1>だよ！
+msgctxt "0015 | c03_204_001 | C005_Oma__"
 msgid ""
 "You were the <CLT=size2>only one<CLT=size1> who\n"
 "cared about that thing, <CLT=size2>Kiyo!"
 msgstr ""
 
-msgctxt "0017"
+#. あれにこだわってた真宮寺ちゃんだけだよ！
+msgctxt "0016 | c03_204_001 | C005_Oma__"
 msgid ""
 "You were the only one who\n"
 "cared about that thing, Kiyo!"
 msgstr ""
 
-msgctxt "0018"
+#. あの<CLT=size2>刀<CLT=size1>に<CLT=cltWEAK><CLT=size2>こだわり<CLT=size1>なんて<CLT=size2>ない<CLT=cltNORMAL><CLT=size1>けどな…
+msgctxt "0017 | c03_204_001 | C006_Shing"
 msgid "<CLT=size2>I <CLT=cltWEAK>did not care<CLT=size1> about<CLT=cltNORMAL> some katana..."
 msgstr ""
 
-msgctxt "0019"
+#. あの刀にこだわりなんてないけどな…
+msgctxt "0018 | c03_204_001 | C006_Shing"
 msgid "I did not care about some katana..."
 msgstr ""
 
-msgctxt "0020"
+#. 白状しろ、
+msgctxt "0019 | c03_204_001 | C014_Iruma"
 msgid "Just admit it, ya"
 msgstr ""
 
-msgctxt "0021"
+#. 白状しろ、うんこかじり虫！
+msgctxt "0020 | c03_204_001 | C014_Iruma"
 msgid "Just admit it, ya shit-eatin' worm!"
 msgstr ""
 
-msgctxt "0022"
+#. うんこ
+msgctxt "0021 | c03_204_001 | C014_Iruma"
 msgid "shit-"
 msgstr ""
 
-msgctxt "0023"
+#. かじり
+msgctxt "0022 | c03_204_001 | C014_Iruma"
 msgid "eating"
 msgstr ""
 
-msgctxt "0024"
+#. 虫！
+msgctxt "0023 | c03_204_001 | C014_Iruma"
 msgid "worm!"
 msgstr ""
 
-msgctxt "0025"
+#. <CLT=size2>テメー<CLT=size1>が
+msgctxt "0024 | c03_204_001 | C014_Iruma"
 msgid "<CLT=size2>You<CLT=size1> went to the"
 msgstr ""
 
-msgctxt "0026"
+#. テメーが現場の教室に押し入って…
+msgctxt "0025 | c03_204_001 | C014_Iruma"
 msgid "You went to the classroom, broke in..."
 msgstr ""
 
-msgctxt "0027"
+#. <CLT=size2>現場<CLT=size1>の
+#. <CLT=size2>教室<CLT=size1>に
+msgctxt "0026 | c03_204_001 | C014_Iruma"
 msgid ""
 "<CLT=size2>class\n"
 "room,"
 msgstr ""
 
-msgctxt "0028"
+#. <CLT=cltWEAK><CLT=size2>押し入って<CLT=cltNORMAL><CLT=size1>…
+msgctxt "0027 | c03_204_001 | C014_Iruma"
 msgid "<CLT=cltWEAK><CLT=size2>broke in<CLT=size1><CLT=cltNORMAL>..."
 msgstr ""
 
-msgctxt "0029"
+#. <CLT=size3>アンジー<CLT=size1>を
+#. 　
+#. 　
+#. 　
+#. 　
+#. 　
+#. 　
+#. <CLT=size2>ぶっ殺した<CLT=size1>んだろ！
+msgctxt "0028 | c03_204_001 | C014_Iruma"
 msgid ""
 "and <CLT=size2>murdered<CLT=size1>\n"
 "　\n"
@@ -145,62 +183,77 @@ msgid ""
 "the fuck outta <CLT=size2>Angie!"
 msgstr ""
 
-msgctxt "0030"
+#. アンジーをぶっ殺したんだろ！
+msgctxt "0029 | c03_204_001 | C014_Iruma"
 msgid "and murdered the fuck outta Angie!"
 msgstr ""
 
-msgctxt "0031"
+#. <CLT=size2>ひゃっはー！
+msgctxt "0030 | c03_204_001 | C014_Iruma"
 msgid "<CLT=size2>Hoo yeah!"
 msgstr ""
 
-msgctxt "0032"
+#. ひゃっはー！　オレ様ツエエエエエ！
+msgctxt "0031 | c03_204_001 | C014_Iruma"
 msgid "Hoo yeah! I'm a fuckin' GENIUS!"
 msgstr ""
 
-msgctxt "0033"
+#. <CLT=size2>オレ<CLT=size1>様
+msgctxt "0032 | c03_204_001 | C014_Iruma"
 msgid "<CLT=size2>I'm<CLT=size1> a "
 msgstr ""
 
-msgctxt "0034"
+#. <CLT=size2>ツエ<CLT=size1>エエエ<CLT=size2>エ！
+msgctxt "0033 | c03_204_001 | C014_Iruma"
 msgid "fuckin' <CLT=size2>GENIUS!"
 msgstr ""
 
-msgctxt "0035"
+#. 犬の木像かな？
+msgctxt "0034 | c03_204_001 | C004_Gokuh"
 msgid "Not the doggie statue?"
 msgstr ""
 
-msgctxt "0036"
+#. 鉄カゴのこと？
+msgctxt "0035 | c03_204_001 | C012_Shiro"
 msgid "You mean the iron cage?"
 msgstr ""
 
-msgctxt "0037"
+#. いや、アレでしょ？
+msgctxt "0036 | c03_204_001 | C005_Oma__"
 msgid "No, it's the other thing."
 msgstr ""
 
-msgctxt "0038"
+#. 確かに怪しいですね…
+msgctxt "0037 | c03_204_001 | C007_Ki-Bo"
 msgid "That is suspicious..."
 msgstr ""
 
-msgctxt "0039"
+#. こだわってたっけ？
+msgctxt "0038 | c03_204_001 | C012_Shiro"
 msgid "Did he care that much?"
 msgstr ""
 
-msgctxt "0040"
+#. いやいや、大切にしてたよ？
+msgctxt "0039 | c03_204_001 | C005_Oma__"
 msgid "He was obsessed with it!"
 msgstr ""
 
-msgctxt "0041"
+#. 凶器に使うからだな！
+msgctxt "0040 | c03_204_001 | C014_Iruma"
 msgid "Cuz it's the murder weapon!"
 msgstr ""
 
-msgctxt "0042"
+#. でも鍵があったよネ？
+msgctxt "0041 | c03_204_001 | C006_Shing"
 msgid "But it was locked, yes?"
 msgstr ""
 
-msgctxt "0043"
+#. あの刀があれば楽勝だよね！
+msgctxt "0042 | c03_204_001 | C005_Oma__"
 msgid "It'd be easy with that katana!"
 msgstr ""
 
-msgctxt "0044"
+#. 本当に入れたのかな？
+msgctxt "0043 | c03_204_001 | C012_Shiro"
 msgid "Did he really break in?"
 msgstr ""

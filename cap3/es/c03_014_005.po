@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,225 +11,295 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. よし…ここだな。
+msgctxt "0000 | c03_014_005 | C000_Saiha"
 msgid "Alright...it's right here."
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>扉を開けようと
+#. ドアノブに手を伸ばしたところで…
+msgctxt "0001 | c03_014_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Just when I reached my hand\n"
 "toward the door..."
 msgstr ""
 
-msgctxt "0003"
+#. あ、待ってください！
+#. その扉には鍵が掛かっているはずです！
+msgctxt "0002 | c03_014_005 | C011_Chaba"
 msgid "Oh, wait! I'm pretty sure that door is locked!"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltMIND>…鍵？
+msgctxt "0003 | c03_014_005 | chara_Blank"
 msgid "<CLT=cltMIND>Locked?"
 msgstr ""
 
-msgctxt "0005"
+#. あ、そっか…アンジーさんは創作活動をする時、
+#. 必ず部屋に鍵を掛けるって言ってたっけ…
+msgctxt "0004 | c03_014_005 | C000_Saiha"
 msgid ""
 "Ah, that's right. Angie did say that she\n"
 "locks the room when she's working."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>試しに、ドアノブを握って回してみたものの…
+msgctxt "0005 | c03_014_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I grabbed the doorknob anyway,\n"
 "just to test it."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltSYSTEM>「ガチャ…ガチャ…」
+msgctxt "0006 | c03_014_005 | chara_Blank"
 msgid "<CLT=cltSYSTEM>*click...click...*"
 msgstr ""
 
-msgctxt "0008"
+#. やっぱり…鍵が掛かってるね。
+msgctxt "0007 | c03_014_005 | C000_Saiha"
 msgid "So it is locked."
 msgstr ""
 
-msgctxt "0009"
+#. ちょっと、どいて。
+msgctxt "0008 | c03_014_005 | C010_Haruk"
 msgid "Move."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>と、春川さんは僕を押しのけると、
+#. いきなり扉を激しく叩き始めた。
+msgctxt "0009 | c03_014_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Maki pushed me aside and began\n"
 "pounding on the door."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltSYSTEM>「ドン、ドン、ドン…」
+msgctxt "0010 | c03_014_005 | chara_Blank"
 msgid "<CLT=cltSYSTEM>*bam! bam! bam!*"
 msgstr ""
 
-msgctxt "0012"
+#. 開けて。さっさと開けてよ。
+msgctxt "0011 | c03_014_005 | C010_Haruk"
 msgid "Angie, open this door. Now."
 msgstr ""
 
-msgctxt "0013"
+#. ちょ、ちょっと！　そんなやり方じゃダメですって！
+#. 春川さんはせっかちさんですかっ！？
+msgctxt "0012 | c03_014_005 | C011_Chaba"
 msgid ""
 "W-Wait, Maki! You can't do it like that!\n"
 "Stop being li'l ol' Miss Impatient!"
 msgstr ""
 
-msgctxt "0014"
+#. だったら、どうすればいいの？
+msgctxt "0013 | c03_014_005 | C010_Haruk"
 msgid "Then how should I do it?"
 msgstr ""
 
-msgctxt "0015"
+#. この扉は、生徒会の人間が呼び掛ければ、
+#. 中からアンジーさんが開けてくれる事になってるんです。
+msgctxt "0014 | c03_014_005 | C011_Chaba"
 msgid ""
 "Angie will only open the door when a student\n"
 "council member calls for her."
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>と、茶柱さんは扉に向き直ると、
+#. 緊張した面持ちで小さくノックした。
+msgctxt "0015 | c03_014_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Tenko turned back to the door and\n"
 "gave it a few nervous knocks."
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltSYSTEM>「コン、コン、コン…」
+msgctxt "0016 | c03_014_005 | chara_Blank"
 msgid "<CLT=cltSYSTEM>*knock, knock, knock*"
 msgstr ""
 
-msgctxt "0018"
+#. アンジーさん、転子です。
+#. お話があるんですけど、開けてもらえませんか？
+msgctxt "0017 | c03_014_005 | C011_Chaba"
 msgid ""
 "Angie, it's Tenko. I wanna talk to you about\n"
 "something... Can you open the door?"
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltMIND>………………
+msgctxt "0018 | c03_014_005 | chara_Blank"
 msgid "<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0020"
+#. …あー、転子ー？
+msgctxt "0019 | c03_014_005 | C013_Yonag"
 msgid "...Oh, Tenko?"
 msgstr ""
 
-msgctxt "0021"
+#. はい…！　そうです…！
+msgctxt "0020 | c03_014_005 | C011_Chaba"
 msgid "Yeah, it's me!"
 msgstr ""
 
-msgctxt "0022"
+#. <CLT=cltMIND>茶柱さんが答えると、
+#. すぐに扉が内側からゆっくりと開いていき…
+msgctxt "0021 | c03_014_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>After Tenko answered, the door\n"
 "flew open."
 msgstr ""
 
-msgctxt "0023"
+#. やっはー！　何かご用ー？
+msgctxt "0022 | c03_014_005 | C013_Yonag"
 msgid "Yah-hah! Can I help you?"
 msgstr ""
 
-msgctxt "0024"
+#. …って、あれ？
+#. なんで終一と魔姫がいるの？
+msgctxt "0023 | c03_014_005 | C013_Yonag"
 msgid "...Huh? Why are Shuichi and Maki here?"
 msgstr ""
 
-msgctxt "0025"
+#. あ、えっと――
+msgctxt "0024 | c03_014_005 | C000_Saiha"
 msgid "Ah, um—"
 msgstr ""
 
-msgctxt "0026"
+#. あっ、わかったー。
+#. さては２人とも生徒会に入りたいんだねー？
+msgctxt "0025 | c03_014_005 | C013_Yonag"
 msgid ""
 "Oh, I get it. You both wanna join the student\n"
 "council, huh?"
 msgstr ""
 
-msgctxt "0027"
+#. だったら、まずは神さまと仲良くならないと。
+#. アンジーが神さまに紹介してあげるから…
+msgctxt "0026 | c03_014_005 | C013_Yonag"
 msgid ""
 "Then you'll need to get acquainted with Atua.\n"
 "I will introduce you to Him."
 msgstr ""
 
-msgctxt "0028"
+#. ほら、とりあえず中にお入りよー。
+msgctxt "0027 | c03_014_005 | C013_Yonag"
 msgid "Please, come in."
 msgstr ""
 
-msgctxt "0029"
+#. いや…そうじゃないんだけど…
+msgctxt "0028 | c03_014_005 | C000_Saiha"
 msgid "Ah, no, it's not that..."
 msgstr ""
 
-msgctxt "0030"
+#. とりあえず、中に入れば？
+#. 話は中ですればいいんだし。
+msgctxt "0029 | c03_014_005 | C010_Haruk"
 msgid "Let's go in for now. We can talk inside."
 msgstr ""
 
-msgctxt "0031"
+#. まぁ…そうだね…
+msgctxt "0030 | c03_014_005 | C000_Saiha"
 msgid "Well...I suppose."
 msgstr ""
 
-msgctxt "0032"
+#. <CLT=cltMIND>そして、僕達はアンジーさんに招かれるまま、
+#. 彼女の研究教室へと足を踏み入れた…
+msgctxt "0031 | c03_014_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Invited by Angie, we stepped\n"
 "into her lab."
 msgstr ""
 
-msgctxt "0033"
+#. <CLT=cltMIND>のだが…
+msgctxt "0032 | c03_014_005 | chara_Blank"
 msgid "<CLT=cltMIND>But..."
 msgstr ""
 
-msgctxt "0034"
+#. <CLT=cltMIND>そこで、僕らはとんでもない物を
+#. 目の当たりにする事になった。
+msgctxt "0033 | c03_014_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>We weren't prepared for what\n"
 "we were about to see."
 msgstr ""
 
-msgctxt "0035"
+#. あ、最原さん！
+#. そっちはダメですよ！
+msgctxt "0034 | c03_014_005 | C011_Chaba"
 msgid "Oh, Shuichi! Not that way!"
 msgstr ""
 
-msgctxt "0036"
+#. え？
+#. この中にアンジーさんがいるんだよね？
+msgctxt "0035 | c03_014_005 | C000_Saiha"
 msgid "What? Isn't Angie in here?"
 msgstr ""
 
-msgctxt "0037"
+#. そうですが、ここは正面のドアから行きましょう！
+msgctxt "0036 | c03_014_005 | C011_Chaba"
 msgid ""
 "Yeah, but we should go in through the front\n"
 "door."
 msgstr ""
 
-msgctxt "0038"
+#. は？　なんで？
+msgctxt "0037 | c03_014_005 | C010_Haruk"
 msgid "Huh? Why?"
 msgstr ""
 
-msgctxt "0039"
+#. 転子達は、アンジーさんを止める為に
+#. 勝負を挑みに行くようなものです。
+msgctxt "0038 | c03_014_005 | C011_Chaba"
 msgid "I'm gonna challenge Angie to make her stop!"
 msgstr ""
 
-msgctxt "0040"
+#. ですから、ここは正面から
+#. 正々堂々と入っていくべきです！
+msgctxt "0039 | c03_014_005 | C011_Chaba"
 msgid ""
 "So I need to face her head-on from the\n"
 "front door, fair and square!"
 msgstr ""
 
-msgctxt "0041"
+#. 別に、関係ないと思うけど？
+msgctxt "0040 | c03_014_005 | C010_Haruk"
 msgid "I really don't think it matters."
 msgstr ""
 
-msgctxt "0042"
+#. ま、まぁ、それで茶柱さんの気が済むなら
+#. いいんじゃないかな。
+msgctxt "0041 | c03_014_005 | C000_Saiha"
 msgid "W-Well, if it'll make Tenko feel better..."
 msgstr ""
 
-msgctxt "0043"
+#. …わかった、好きにすれば。
+msgctxt "0042 | c03_014_005 | C010_Haruk"
 msgid "...Fine. Do whatever you want."
 msgstr ""
 
-msgctxt "0044"
+#. <CLT=cltMIND>正面に回ってみよう…
+msgctxt "0043 | c03_014_005 | chara_Blank"
 msgid "<CLT=cltMIND>Let's go to the other door."
 msgstr ""
 
-msgctxt "0045"
+#. <CLT=cltMIND>これって…なんだ？
+#. 掛け軸に見えるけど、何も書かれてない…
+msgctxt "0044 | c03_014_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>What is this...? It's like a hanging\n"
 "scroll, but it's blank."
 msgstr ""
 
-msgctxt "0046"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0045 | c03_014_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0047"
+#. <CLT=cltMIND>使われる時は、大抵、何か起きた時だし…
+#. このまま消えている方が良いけどな…
+msgctxt "0046 | c03_014_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's usually for when something bad\n"
 "happens... I hope it stays off."

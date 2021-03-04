@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,290 +11,380 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. いや、アンジーさんの研究教室の扉を開けられたのは、
+#. 生徒会の人間だけじゃないよ。
+msgctxt "0000 | c03_207_000 | C000_Saiha"
 msgid ""
 "No, it wasn't just student council members\n"
 "that could have opened that lab door..."
 msgstr ""
 
-msgctxt "0002"
+#. あれ？　さっき真宮寺ちゃんの話題になった時、
+#. 最原ちゃんは言ってたよね？
+msgctxt "0001 | c03_207_000 | C005_Oma__"
 msgid ""
 "Hmmm? What was it you said earlier about \n"
 "Kiyo opening the door, Shuichi?"
 msgstr ""
 
-msgctxt "0003"
+#. 生徒会のメンバーじゃないと、
+#. アンジーちゃんの研究教室には入れないって。
+msgctxt "0002 | c03_207_000 | C005_Oma__"
 msgid ""
 "Unless you're a student council member, you\n"
 "can't enter Angie's lab, riiiight?"
 msgstr ""
 
-msgctxt "0004"
+#. いや、僕は真宮寺くんの場合は無理って言っただけで、
+#. キミの場合は別だよ。
+msgctxt "0003 | c03_207_000 | C000_Saiha"
 msgid ""
 "I was referring to Kiyo. He couldn't\n"
 "have done it...but you could have."
 msgstr ""
 
-msgctxt "0005"
+#. だって、キミは<CLT=cltSTRONG>ピッキング<CLT=cltNORMAL>で、
+#. あの教室の鍵を開けていたじゃないか。
+msgctxt "0004 | c03_207_000 | C000_Saiha"
 msgid ""
 "Because I saw you open the classroom\n"
 "lock by <CLT=cltSTRONG>picking<CLT=cltNORMAL> it."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>王馬くんは懐から細い針金を取り出すと、
+#. それをシリンダー錠の鍵穴へと突っ込んだ。
+msgctxt "0005 | c03_207_000 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Kokichi pulled out some thin needles,\n"
 "and stuck them into the keyhole of the lock."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltSYSTEM>「カチャ…　カチャ…カチャ…」
+msgctxt "0006 | c03_207_000 | chara_Blank"
 msgid "<CLT=cltSYSTEM>*click...click...click...*"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltSYSTEM>「…ガチャリ」
+msgctxt "0007 | c03_207_000 | chara_Blank"
 msgid "<CLT=cltSYSTEM>...*clack*"
 msgstr ""
 
-msgctxt "0009"
+#. はい、開いたよ。
+msgctxt "0008 | c03_207_000 | C005_Oma__"
 msgid "There, open says me."
 msgstr ""
 
-msgctxt "0010"
+#. んー、そうだったっけ？
+#. 忘れちゃったな。
+msgctxt "0009 | c03_207_000 | C005_Oma__"
 msgid "Ohhh, that happened? I totally forgot."
 msgstr ""
 
-msgctxt "0011"
+#. …とぼける気？
+msgctxt "0010 | c03_207_000 | C010_Haruk"
 msgid ""
 "...So you're going to pretend you don't\n"
 "remember, huh?"
 msgstr ""
 
-msgctxt "0012"
+#. あはは、怖い顔で睨まないでよ。
+#. もちろん、覚えているに決まってるじゃん。
+msgctxt "0011 | c03_207_000 | C005_Oma__"
 msgid ""
 "Ah-haha, quit glaring at me like that.\n"
 "Of course I remember."
 msgstr ""
 
-msgctxt "0013"
+#. …そうだね、オレがやったんだったね。
+msgctxt "0012 | c03_207_000 | C005_Oma__"
 msgid "Yeah, I did it."
 msgstr ""
 
-msgctxt "0014"
+#. …オレがアンジーちゃんを殺したんだったね。
+msgctxt "0013 | c03_207_000 | C005_Oma__"
 msgid "I killed Angie."
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>え…？
+msgctxt "0014 | c03_207_000 | C000_Saiha"
 msgid "<CLT=cltMIND>...Hm."
 msgstr ""
 
-msgctxt "0016"
+#. ちょ、ちょっと待て！
+#. オメー、今なんて言った！？
+msgctxt "0015 | c03_207_000 | C001_Momot"
 msgid ""
 "W-Wait, what!?\n"
 "What did you just say!?"
 msgstr ""
 
-msgctxt "0017"
+#. だから、オレがピッキングであの教室に忍び込んで、
+#. アンジーちゃんを殺したんだよ。
+msgctxt "0016 | c03_207_000 | C005_Oma__"
 msgid ""
 "I picked the lock to her lab, snuck into the \n"
 "room, and then—WAM!—killed Angie."
 msgstr ""
 
-msgctxt "0018"
+#. つまり…犯人はオレなんだよ。
+msgctxt "0017 | c03_207_000 | C005_Oma__"
 msgid "The culprit was me all along."
 msgstr ""
 
-msgctxt "0019"
+#. な、なんじゃと…！？
+msgctxt "0018 | c03_207_000 | C009_Yumen"
 msgid "Wh-What!?"
 msgstr ""
 
-msgctxt "0020"
+#. …どういうつもり？　ふざけてるの？
+msgctxt "0019 | c03_207_000 | C006_Shing"
 msgid ""
 "What are you saying? \n"
 "Is this some kind of joke?"
 msgstr ""
 
-msgctxt "0021"
+#. ううん、そうじゃないよ。
+#. さっさと自白した方が楽になると思ったんだけど…
+msgctxt "0020 | c03_207_000 | C005_Oma__"
 msgid ""
 "Nahhh, no joke! I thought that if I \n"
 "confessed, I could atone for my sins."
 msgstr ""
 
-msgctxt "0022"
+#. そうしたら思った以上だったよ！
+#. うんっ、すっげー楽になった！
+msgctxt "0021 | c03_207_000 | C005_Oma__"
 msgid ""
 "And it helped! I feel soooo much\n"
 "better! Pheeeww!"
 msgstr ""
 
-msgctxt "0023"
+#. じゃあ…ホントなの？
+#. ホントに…王馬君が犯人なの？
+msgctxt "0022 | c03_207_000 | C004_Gokuh"
 msgid "Wait...so Kokichi really is culprit?"
 msgstr ""
 
-msgctxt "0024"
+#. いや、嘘だろ…え？　どっち？
+msgctxt "0023 | c03_207_000 | C014_Iruma"
 msgid "No, he's lying... I think? Maybe?"
 msgstr ""
 
-msgctxt "0025"
+#. …嘘だよ。間違いない。
+msgctxt "0024 | c03_207_000 | C000_Saiha"
 msgid "...He's lying. I'm certain of it."
 msgstr ""
 
-msgctxt "0026"
+#. いやいや、嘘じゃないって。
+#. オレがアンジーちゃんを殺したんだって。
+msgctxt "0025 | c03_207_000 | C005_Oma__"
 msgid "Non non! Definitely not a lie. I killed Angie."
 msgstr ""
 
-msgctxt "0027"
+#. ね？　犯人がせっかく自供してるんだから、
+#. 素直に信じたら？
+msgctxt "0026 | c03_207_000 | C005_Oma__"
 msgid ""
 "Shouldn't you guys believe the culprit\n"
 "when they confess?"
 msgstr ""
 
-msgctxt "0028"
+#. だったら聞くけど…キミが犯人だとしたら、
+#. どうやって現場を密室にしたの？
+msgctxt "0027 | c03_207_000 | C000_Saiha"
 msgid ""
 "Then let me ask you, \"culprit\"...\n"
 "How did you lock the room?"
 msgstr ""
 
-msgctxt "0029"
+#. え？　開ける時と同じだよ？
+#. 外からピッキングして鍵を掛けて――
+msgctxt "0028 | c03_207_000 | C005_Oma__"
 msgid ""
 "Huh? I-It's the same as opening it.\n"
 "You pick the door closed from the outsi—"
 msgstr ""
 
-msgctxt "0030"
+#. いや、それはおかしいよ。
+msgctxt "0029 | c03_207_000 | C000_Saiha"
 msgid "No, that doesn't make sense."
 msgstr ""
 
-msgctxt "0031"
+#. ん？　どこがおかしいんだ？
+#. ピッキングって鍵を掛ける事もできんだろ？
+msgctxt "0030 | c03_207_000 | C001_Momot"
 msgid ""
 "Huh? What doesn't make sense?\n"
 "Can't you lock a door by picking it?"
 msgstr ""
 
-msgctxt "0032"
+#. もちろん、可能だと思うけど、
+#. 犯人はあの現場にピッキングで鍵を掛けた訳じゃない。
+msgctxt "0031 | c03_207_000 | C000_Saiha"
 msgid ""
 "Maybe, but that's not how the culprit\n"
 "locked the room."
 msgstr ""
 
-msgctxt "0033"
+#. 犯人は<CLT=cltSTRONG>“別の方法”<CLT=cltNORMAL>で
+#. あの現場を密室にしたはずなんだよ。
+msgctxt "0032 | c03_207_000 | C000_Saiha"
 msgid "They used a <CLT=cltSTRONG>different method<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0034"
+#. 別の方法とは…なんじゃ？
+msgctxt "0033 | c03_207_000 | C009_Yumen"
 msgid "What different method?"
 msgstr ""
 
-msgctxt "0035"
+#. ふにゃふにゃ言ってねーでちゃんと説明しろ。
+#. このふにゃちん。
+msgctxt "0034 | c03_207_000 | C014_Iruma"
 msgid ""
 "Yeah, Mumbles! Use your big boy voice\n"
 "and explain yourself."
 msgstr ""
 
-msgctxt "0036"
+#. え、えっと…あの教室には扉が２つあったけど、
+#. 犯人が密室を作る為に最後に鍵を掛けた扉は…
+msgctxt "0035 | c03_207_000 | C000_Saiha"
 msgid ""
 "U-Uh, there were two doors to the\n"
 "classroom, and the one locked last was..."
 msgstr ""
 
-msgctxt "0037"
+#. 美術教室の正面扉
+msgctxt "0036 | c03_207_000 | C000_Saiha"
 msgid "The front door"
 msgstr ""
 
-msgctxt "0038"
+#. 美術教室の正面扉だよ。
+msgctxt "0037 | c03_207_000 | C000_Saiha"
 msgid "It was the front door."
 msgstr ""
 
-msgctxt "0039"
+#. 正面扉だったらピッキングで鍵を掛けられんだろーが！
+msgctxt "0038 | c03_207_000 | C014_Iruma"
 msgid ""
 "He could've used a pick to lock the\n"
 "front door!"
 msgstr ""
 
-msgctxt "0040"
+#. さっきまでふにゃふにゃ言ってたのは
+#. なんだったんだよっ！
+msgctxt "0039 | c03_207_000 | C014_Iruma"
 msgid ""
 "Any other genius theories you wanna\n"
 "share with us, Mumbles?"
 msgstr ""
 
-msgctxt "0041"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0040 | c03_207_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0042"
+#. 美術教室の裏扉
+msgctxt "0041 | c03_207_000 | C000_Saiha"
 msgid "The back door"
 msgstr ""
 
-msgctxt "0043"
+#. 両方の扉
+msgctxt "0042 | c03_207_000 | C000_Saiha"
 msgid "Both doors"
 msgstr ""
 
-msgctxt "0044"
+#. 実は、両方の扉なんだよ。
+msgctxt "0043 | c03_207_000 | C000_Saiha"
 msgid "Both doors, at the same time."
 msgstr ""
 
-msgctxt "0045"
+#. 両方を同時に掛けるって…
+#. そんなテクニック、聞いた事ねーぞ！
+msgctxt "0044 | c03_207_000 | C014_Iruma"
 msgid ""
 "Filling two keyholes at once...\n"
 "Why, that's an advanced technique!"
 msgstr ""
 
-msgctxt "0046"
+#. なんだよ…
+#. ふにゃふにゃのクセにやるじゃねーか！
+msgctxt "0045 | c03_207_000 | C014_Iruma"
 msgid ""
 "Not bad, Mumbles!\n"
 "Didn't know you had it in you!"
 msgstr ""
 
-msgctxt "0047"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0046 | c03_207_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0048"
+#. ………………
+msgctxt "0047 | c03_207_000 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0049"
+#. 説明できねーのかよ！
+#. ま、ふにゃちんじゃオレ様を満足させんのは無理だな！
+msgctxt "0048 | c03_207_000 | C014_Iruma"
 msgid ""
 "Hey, Mumbles! If you wanna satisfy me, you\n"
 "gotta use your *whole* mouth!"
 msgstr ""
 
-msgctxt "0050"
+#. <CLT=cltMIND>みんなの冷ややかな視線…
+#. 僕の印象が悪くなったみたいだ…
+#. <CLT=cltNORMAL>
+msgctxt "0049 | c03_207_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Everyone's staring at me...\n"
 "I screwed up, they think I'm a fraud...\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0051"
+#. <CLT=cltMIND>犯人が密室を作る為に鍵を掛けた扉は…
+msgctxt "0050 | c03_207_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>The door the culprit locked last\n"
 "to seal the room was..."
 msgstr ""
 
-msgctxt "0052"
+#. <CLT=cltSTRONG>裏口の扉<CLT=cltNORMAL>の方なんだ。
+#. 犯人はあの扉に鍵を掛けて密室を作ったんだ。
+msgctxt "0051 | c03_207_000 | C000_Saiha"
 msgid ""
 "...the <CLT=cltSTRONG>back door<CLT=cltNORMAL>. That's how they made\n"
 "this a locked-room mystery."
 msgstr ""
 
-msgctxt "0053"
+#. 裏口の扉って<CLT=cltSTRONG>スライド錠<CLT=cltNORMAL>だよネ？
+#. どうやって、扉の外からスライド錠を掛けたの？
+msgctxt "0052 | c03_207_000 | C006_Shing"
 msgid ""
 "The back door had a <CLT=cltSTRONG>sliding lock<CLT=cltNORMAL>, yes?\n"
 "How was it locked from the outside?"
 msgstr ""
 
-msgctxt "0054"
+#. 犯人はそれをやる為に<CLT=cltSTRONG>“ある道具”<CLT=cltNORMAL>を使ったんだ。
+msgctxt "0053 | c03_207_000 | C000_Saiha"
 msgid ""
 "The culprit used\n"
 "a <CLT=cltSTRONG>certain tool<CLT=cltNORMAL>..."
 msgstr ""
 
-msgctxt "0055"
+#. <CLT=cltMIND>犯人が扉の外からスライド錠を掛ける為に使った道具。
+#. それは…
+msgctxt "0054 | c03_207_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>The tool that the culprit used to\n"
 "lock the sliding lock from outside was..."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,53 +11,68 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. ううん、カゴを開けた瞬間に殺すのも無理だよ。
+msgctxt "0000 | c03_215_000 | C000_Saiha"
 msgid ""
 "No, it wasn't possible to kill her\n"
 "the moment the cage was lifted."
 msgstr ""
 
-msgctxt "0002"
+#. 降霊術の時にカゴを覆っていた<CLT=cltSTRONG>白い布の内側<CLT=cltNORMAL>には、
+#. 茶柱さんの血痕が残っていたんだ。
+msgctxt "0001 | c03_215_000 | C000_Saiha"
 msgid ""
 "Because the <CLT=cltSTRONG>inside of the white cloth<CLT=cltNORMAL>\n"
 "had Tenko's blood on it!"
 msgstr ""
 
-msgctxt "0003"
+#. あの布は、カゴを開ける前に取り払っているんだ。
+msgctxt "0002 | c03_215_000 | C000_Saiha"
 msgid ""
 "That cloth was removed\n"
 "before the cage was lifted."
 msgstr ""
 
-msgctxt "0004"
+#. カゴを開けた瞬間に茶柱さんを刺したなら、
+#. 白い布の内側に血痕が付着しているはずないよね？
+msgctxt "0003 | c03_215_000 | C000_Saiha"
 msgid ""
 "If Tenko was stabbed then, there wouldn't\n"
 "be blood on the cloth."
 msgstr ""
 
-msgctxt "0005"
+#. え？　じゃあ…間違いなの？
+#. あんなに激しく…イッちゃったのに…？
+msgctxt "0004 | c03_215_000 | C014_Iruma"
 msgid ""
 "What? But...how could my golden brain\n"
 "be wrong when it felt so, so right?"
 msgstr ""
 
-msgctxt "0006"
+#. やっぱり、茶柱さんは
+#. 降霊術で暗くなっていた間に殺されたとしか――
+msgctxt "0005 | c03_215_000 | C000_Saiha"
 msgid ""
 "The only possibility is that Tenko was\n"
 "killed during the seance—"
 msgstr ""
 
-msgctxt "0007"
+#. いや、やっぱ間違いじゃねー。
+#. 茶柱が殺されたのは降霊術の最中なんかじゃねー。
+msgctxt "0006 | c03_215_000 | C014_Iruma"
 msgid ""
 "No, it's still wrong to think that Tenko\n"
 "was killed during the seance."
 msgstr ""
 
-msgctxt "0008"
+#. …え？
+msgctxt "0007 | c03_215_000 | C000_Saiha"
 msgid "...What?"
 msgstr ""
 
-msgctxt "0009"
+#. 今から、それを証明してやる…
+#. ここからはオレ様の黄金の脳細胞も本気だぜ。
+msgctxt "0008 | c03_215_000 | C014_Iruma"
 msgid ""
 "I'm gonna prove it right now...\n"
 "My golden brain is gonna go all out!"

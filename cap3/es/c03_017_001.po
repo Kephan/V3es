@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,60 +11,79 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. どうした、便所か？
+msgctxt "0000 | c03_017_001 | C001_Momot"
 msgid "What's up? You gotta hit the bathroom?"
 msgstr ""
 
-msgctxt "0002"
+#. んじゃ、仲良く行ってくるか！
+#. ハルマキはちょっと待っててくれ。
+msgctxt "0001 | c03_017_001 | C001_Momot"
 msgid ""
 "Then let's go together!\n"
 "You wait here, Maki Roll."
 msgstr ""
 
-msgctxt "0003"
+#. 別に、断る必要なんてないよ。
+msgctxt "0002 | c03_017_001 | C010_Haruk"
 msgid "Of course I'll wait."
 msgstr ""
 
-msgctxt "0004"
+#. …男子が仲良くこういう事するのって、
+#. 気持ち悪いだけだね。
+msgctxt "0003 | c03_017_001 | C010_Haruk"
 msgid ""
 "...But it's gross that you guys are excited\n"
 "to go to the bathroom together."
 msgstr ""
 
-msgctxt "0005"
+#. おい終一、しっかりしろ！
+#. そこは女子トイレだぞ！？
+msgctxt "0004 | c03_017_001 | C001_Momot"
 msgid ""
 "Hey, Shuichi! Get it together!\n"
 "That's the girls bathroom!"
 msgstr ""
 
-msgctxt "0006"
+#. …あ、でもアンジーがここにいる可能性も
+#. なくはねーのか？
+msgctxt "0005 | c03_017_001 | C001_Momot"
 msgid "Oh, but there's a chance Angie's in there, huh?"
 msgstr ""
 
-msgctxt "0007"
+#. …まさか、確かめる気？
+msgctxt "0006 | c03_017_001 | C010_Haruk"
 msgid "...Wait. You're not really going in, are you?"
 msgstr ""
 
-msgctxt "0008"
+#. い、いや、そんな事しねーよ！
+msgctxt "0007 | c03_017_001 | C001_Momot"
 msgid "N-No, of course not!"
 msgstr ""
 
-msgctxt "0009"
+#. なぁ終一、まずは研究教室に行ってみようぜ。
+#. 探し回るのはそこにいなかったらだ。
+msgctxt "0008 | c03_017_001 | C001_Momot"
 msgid ""
 "C'mon, bro, let's go check her lab first. If we\n"
 "still can't find her, she's gotta be there."
 msgstr ""
 
-msgctxt "0010"
+#. う、うん、そうだね…
+msgctxt "0009 | c03_017_001 | C000_Saiha"
 msgid "Y-Yeah, right."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0010 | c03_017_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0011 | c03_017_001 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,55 +11,70 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. はい
+msgctxt "0000 | c03_012_136 | non"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0002"
+#. いいえ
+msgctxt "0001 | c03_012_136 | non"
 msgid "No"
 msgstr ""
 
-msgctxt "0003"
+#. もしかして悩んでいるの？
+msgctxt "0002 | c03_012_136 | non"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0003 | c03_012_136 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0004 | c03_012_136 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0005 | c03_012_136 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>大量の、虫の標本が展示されている…
+msgctxt "0006 | c03_012_136 | chara_Blank"
 msgid "<CLT=cltMIND>A ton of insect specimens are on display..."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>…壁一面、すべて標本だ。
+#. ここまでくると執念みたいなものを感じるな…
+msgctxt "0007 | c03_012_136 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It covers the entire wall!\n"
 "I really feel the obsession..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>…本棚が置かれている。
+#. すべて、昆虫に関する本みたいだ。
+msgctxt "0008 | c03_012_136 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>...There are a lot of books here.\n"
 "They all seem to be related to insects."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>尋常じゃない数の虫カゴが並んでいる…
+msgctxt "0009 | c03_012_136 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Wow...\n"
 "That...is an extraordinary amount of bug cages."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>…虫はしばらく見たくないな。
+msgctxt "0010 | c03_012_136 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>...I don't want to see another bug\n"
 "for a long time."

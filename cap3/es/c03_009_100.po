@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,184 +11,237 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. ………………
+msgctxt "0000 | c03_009_100 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0002"
+#. おかえり、魔姫ー。
+#. やっと戻ってきたねー。
+msgctxt "0001 | c03_009_100 | C013_Yonag"
 msgid "Welcome back, Maki. You finally came."
 msgstr ""
 
-msgctxt "0003"
+#. もー、魔姫ったらダメだよー。
+#. 夜時間に出歩いたりしてー。
+msgctxt "0002 | c03_009_100 | C013_Yonag"
 msgid ""
 "Y'know, Maki, it's not okay to walk around\n"
 "at nighttime."
 msgstr ""
 
-msgctxt "0004"
+#. ダメって…なんで？
+#. 別に校則違反じゃないよね？
+msgctxt "0003 | c03_009_100 | C010_Haruk"
 msgid ""
 "Why? I'm not violating any school regulations,\n"
 "am I?"
 msgstr ""
 
-msgctxt "0005"
+#. にゃはははー、モノクマが作った校則なんて、
+#. どうだっていいのだよー。
+msgctxt "0004 | c03_009_100 | C013_Yonag"
 msgid ""
 "Nyahaha, Monokuma's regulations don't\n"
 "matter."
 msgstr ""
 
-msgctxt "0006"
+#. ただ、この前の斬美の犯行って
+#. 夜時間に起きたでしょ？
+msgctxt "0005 | c03_009_100 | C013_Yonag"
 msgid ""
 "But Kirumi's crime happened during\n"
 "nighttime, right?"
 msgstr ""
 
-msgctxt "0007"
+#. 夜時間の出歩きを禁止にしておけば、
+#. あの犯行は防げたはずだよ…
+msgctxt "0006 | c03_009_100 | C012_Shiro"
 msgid ""
 "If no one was allowed to walk around at \n"
 "nighttime, that case wouldn't have happened."
 msgstr ""
 
-msgctxt "0008"
+#. ですから、ボクら生徒会は
+#. 夜時間の行動を制限しようと考えています。
+msgctxt "0007 | c03_009_100 | C007_Ki-Bo"
 msgid ""
 "That's why the student council is trying\n"
 "to limit all nighttime activity."
 msgstr ""
 
-msgctxt "0009"
+#. 制限って…そんな事してたら、
+#. 自由なんてなくなるよ？
+msgctxt "0008 | c03_009_100 | C010_Haruk"
 msgid ""
 "\"Limit\"... So, basically, you want to take our\n"
 "freedom away, is that it?"
 msgstr ""
 
-msgctxt "0010"
+#. にゃははー、魔姫ったら変な事言うねー。
+#. 自由と人の命のどっちが大事なのー？
+msgctxt "0009 | c03_009_100 | C013_Yonag"
 msgid ""
 "Nyahaha! You're so odd, Maki. What's more\n"
 "important—freedom or a person's life?"
 msgstr ""
 
-msgctxt "0011"
+#. ………………
+msgctxt "0010 | c03_009_100 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0012"
+#. あのね、みんなが平和な学園生活を送るには、
+#. 不安や疑心を取り除かないといけないんだよ。
+msgctxt "0011 | c03_009_100 | C013_Yonag"
 msgid ""
 "Umm, we need to remove all worry and doubt,\n"
 "so everyone can have a peaceful life here."
 msgstr ""
 
-msgctxt "0013"
+#. 神さまがそう言ってるんだよー。
+msgctxt "0012 | c03_009_100 | C013_Yonag"
 msgid "Cuz that's what Atua says."
 msgstr ""
 
-msgctxt "0014"
+#. 神さまが言ってるのー。
+msgctxt "0013 | c03_009_100 | C013_Yonag"
 msgid "That's what Atua says."
 msgstr ""
 
-msgctxt "0015"
+#. 神さまがねー。
+msgctxt "0014 | c03_009_100 | C013_Yonag"
 msgid "Atua says..."
 msgstr ""
 
-msgctxt "0016"
+#. 特に、春川さんは他の人達から恐れられていますし、
+#. 気を付けて貰いたいんです。
+msgctxt "0015 | c03_009_100 | C011_Chaba"
 msgid ""
 "People are afraid of you, Maki, so we'd prefer\n"
 "it if you were more careful."
 msgstr ""
 
-msgctxt "0017"
+#. …学園の平和の為じゃ。
+msgctxt "0016 | c03_009_100 | C009_Yumen"
 msgid "It's for the peace of the academy..."
 msgstr ""
 
-msgctxt "0018"
+#. ………………
+msgctxt "0017 | c03_009_100 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0019"
+#. はい
+msgctxt "0018 | c03_009_100 | C010_Haruk"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0020"
+#. いいえ
+msgctxt "0019 | c03_009_100 | C010_Haruk"
 msgid "No"
 msgstr ""
 
-msgctxt "0021"
+#. もしかして悩んでいるの？
+msgctxt "0020 | c03_009_100 | C010_Haruk"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0022"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0021 | c03_009_100 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0023"
+#. 最原終一の部屋
+msgctxt "0022 | c03_009_100 | chara_Blank"
 msgid "Shuichi Saihara's room"
 msgstr ""
 
-msgctxt "0024"
+#. 百田解斗の部屋
+msgctxt "0023 | c03_009_100 | chara_Blank"
 msgid "Kaito Momota's room"
 msgstr ""
 
-msgctxt "0025"
+#. 星竜馬の部屋
+msgctxt "0024 | c03_009_100 | chara_Blank"
 msgid "Ryoma Hoshi's room"
 msgstr ""
 
-msgctxt "0026"
+#. 天海蘭太郎の部屋
+msgctxt "0025 | c03_009_100 | chara_Blank"
 msgid "Rantaro Amami's room"
 msgstr ""
 
-msgctxt "0027"
+#. 獄原ゴン太の部屋
+msgctxt "0026 | c03_009_100 | chara_Blank"
 msgid "Gonta Gokuhara's room"
 msgstr ""
 
-msgctxt "0028"
+#. 王馬小吉の部屋
+msgctxt "0027 | c03_009_100 | chara_Blank"
 msgid "Kokichi Oma's room"
 msgstr ""
 
-msgctxt "0029"
+#. 真宮寺是清の部屋
+msgctxt "0028 | c03_009_100 | chara_Blank"
 msgid "Korekiyo Shinguji's room"
 msgstr ""
 
-msgctxt "0030"
+#. キーボの部屋
+msgctxt "0029 | c03_009_100 | chara_Blank"
 msgid "K1-B0's room"
 msgstr ""
 
-msgctxt "0031"
+#. 東条斬美の部屋
+msgctxt "0030 | c03_009_100 | chara_Blank"
 msgid "Kirumi Tojo's room"
 msgstr ""
 
-msgctxt "0032"
+#. 夢野秘密子の部屋
+msgctxt "0031 | c03_009_100 | chara_Blank"
 msgid "Himiko Yumeno's room"
 msgstr ""
 
-msgctxt "0033"
+#. 春川魔姫の部屋
+msgctxt "0032 | c03_009_100 | chara_Blank"
 msgid "Maki Harukawa's room"
 msgstr ""
 
-msgctxt "0034"
+#. 茶柱転子の部屋
+msgctxt "0033 | c03_009_100 | chara_Blank"
 msgid "Tenko Chabashira's room"
 msgstr ""
 
-msgctxt "0035"
+#. 白銀つむぎの部屋
+msgctxt "0034 | c03_009_100 | chara_Blank"
 msgid "Tsumugi Shirogane's room"
 msgstr ""
 
-msgctxt "0036"
+#. 夜長アンジーの部屋
+msgctxt "0035 | c03_009_100 | chara_Blank"
 msgid "Angie Yonaga's room"
 msgstr ""
 
-msgctxt "0037"
+#. 入間美兎の部屋
+msgctxt "0036 | c03_009_100 | chara_Blank"
 msgid "Miu Iruma's room"
 msgstr ""
 
-msgctxt "0038"
+#. 赤松楓の部屋
+msgctxt "0037 | c03_009_100 | chara_Blank"
 msgid "Kaede Akamatsu's room"
 msgstr ""
 
-msgctxt "0039"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0038 | c03_009_100 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0040"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0039 | c03_009_100 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""

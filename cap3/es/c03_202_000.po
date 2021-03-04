@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,68 +11,92 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. だ、だから！　死者の蘇りなんてあってたまるかってんだ！
+#. 頼むから論破してくれよぉ！
+msgctxt "0000 | c03_202_000 | C001_Momot"
 msgid ""
 "L-Like I said! The dead can't just\n"
 "get up... So argue against it!"
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0001 | c03_202_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0003"
+#. はぁ？　天海をマキシマムに
+#. ぶっ生き返すって言ってたじゃねーか！
+msgctxt "0002 | c03_202_000 | C014_Iruma"
 msgid ""
 "Huh? I thought we were tryin' to drag\n"
 "Rantaro kickin' and screamin' back to life!"
 msgstr ""
 
-msgctxt "0004"
+#. 訳わかんねー事言ってると、
+#. オレ様がテメーの延髄突き割っちめーぞ！
+msgctxt "0003 | c03_202_000 | C014_Iruma"
 msgid ""
 "If you keep fuckin' around, I will rip out your\n"
 "spine and fuckstart your brain!"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0004 | c03_202_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>“死者の蘇り”を信じるか信じないかじゃなくて、
+#. あくまで発言が正しいかどうかで考えよう…
+msgctxt "0005 | c03_202_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>This isn't about believing in reviving the\n"
 "dead. I have to focus on their statements.\n"
 ""
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>きっと儀式は成功していなかったし、
+#. それを裏付ける証拠だってあるはずなんだ…
+msgctxt "0006 | c03_202_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I know the ritual didn't succeed...and\n"
 "there should be evidence to support that."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>“死者の蘇り”を信じるか信じないかじゃなくて、
+#. あくまで発言が正しいかどうかで考えよう…
+msgctxt "0007 | c03_202_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>This isn't about believing in reviving the\n"
 "dead. I have to focus on their statements."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>…どうなんだ？
+#. 今のみんなの発言は正しいのか？
+msgctxt "0008 | c03_202_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>...Hm.\n"
 "Were all those statements correct...?"
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>“死者の蘇り”を信じるか信じないかじゃなくて、
+#. あくまで発言が正しいかどうかで考えよう…
+msgctxt "0009 | c03_202_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>This isn't about believing in reviving the\n"
 "dead. I have to focus on their statements."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>…どうなんだ？
+#. 今のみんなの発言は正しいのか？
+msgctxt "0010 | c03_202_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>...Hm.\n"
 "Were all those statements correct...?"

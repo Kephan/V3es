@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,214 +11,278 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 気を付けて帰ってねー。
+#. もう夜時間だから、寄り道しちゃダメだよー。
+msgctxt "0000 | c03_016_005 | C013_Yonag"
 msgid ""
 "It's already nighttime, so please be careful\n"
 "as you head back to your rooms."
 msgstr ""
 
-msgctxt "0002"
+#. あぁ、それと…
+msgctxt "0001 | c03_016_005 | C013_Yonag"
 msgid "Oh, and..."
 msgstr ""
 
-msgctxt "0003"
+#. 転子は生徒会を裏切ったって事でいいんだよね？
+msgctxt "0002 | c03_016_005 | C013_Yonag"
 msgid ""
 "It's safe to say that Tenko has betrayed\n"
 "the student council, right?"
 msgstr ""
 
-msgctxt "0004"
+#. …えっ？
+msgctxt "0003 | c03_016_005 | C011_Chaba"
 msgid "...Eh?"
 msgstr ""
 
-msgctxt "0005"
+#. でもでもー、許してあげるー。
+#. 神さまは寛大な心をお持ちだからねー。
+msgctxt "0004 | c03_016_005 | C013_Yonag"
 msgid ""
 "It's okay, it's okay! I forgive you cuz Atua\n"
 "forgives you. He's such a softie, y'know."
 msgstr ""
 
-msgctxt "0006"
+#. 今後は、心を入れ替えて生徒会の為に頑張ってね。
+#. この才囚学園をみんなの楽園にする為にさ。
+msgctxt "0005 | c03_016_005 | C013_Yonag"
 msgid ""
 "I hope you will recommit yourself to the student\n"
 "council and help us make this place our paradise."
 msgstr ""
 
-msgctxt "0007"
+#. ………………
+msgctxt "0006 | c03_016_005 | C011_Chaba"
 msgid "..."
 msgstr "..."
 
-msgctxt "0008"
+#. は、はい…
+msgctxt "0007 | c03_016_005 | C011_Chaba"
 msgid "Y-Yes..."
 msgstr ""
 
-msgctxt "0009"
+#. …んあ？　なんじゃ？
+#. どうしたんじゃ？
+msgctxt "0008 | c03_016_005 | C009_Yumen"
 msgid "Nyeh? What's going on?"
 msgstr ""
 
-msgctxt "0010"
+#. なぜ、生徒会ではない最原と春川がここにいる？
+#. しかも…夜時間に。
+msgctxt "0009 | c03_016_005 | C009_Yumen"
 msgid ""
 "Why are Shuichi and Maki here? They're not on\n"
 "the student council. And it's nighttime..."
 msgstr ""
 
-msgctxt "0011"
+#. ゆ、夢野さんっ！？
+msgctxt "0010 | c03_016_005 | C011_Chaba"
 msgid "H-Himiko!"
 msgstr ""
 
-msgctxt "0012"
+#. ううんー、別に大した事はないんだよー。
+msgctxt "0011 | c03_016_005 | C013_Yonag"
 msgid "Oh, it's nothing."
 msgstr ""
 
-msgctxt "0013"
+#. 転子が生徒会を裏切って、
+#. この２人を連れてアンジーを説得しに来ただけだからー。
+msgctxt "0012 | c03_016_005 | C013_Yonag"
 msgid ""
 "Tenko simply betrayed the student council\n"
 "and brought these two to change my mind."
 msgstr ""
 
-msgctxt "0014"
+#. んあ！？　裏切ったじゃと！？
+msgctxt "0013 | c03_016_005 | C009_Yumen"
 msgid "Nyeh!? She betrayed us!?"
 msgstr ""
 
-msgctxt "0015"
+#. かなりの大問題じゃと思うが、
+#. それを『大した事ない』と言ってしまうとは…
+msgctxt "0014 | c03_016_005 | C009_Yumen"
 msgid ""
 "That sounds like a big problem,\n"
 "but if you're saying \"it's nothing\" then..."
 msgstr ""
 
-msgctxt "0016"
+#. アンジーは神さまに愛されてるだけあるのぉ！
+msgctxt "0015 | c03_016_005 | C009_Yumen"
 msgid "Angie, you really *are* loved by Atua!"
 msgstr ""
 
-msgctxt "0017"
+#. またまたー、秘密子だって神さまに愛されてるクセにー。
+msgctxt "0016 | c03_016_005 | C013_Yonag"
 msgid "And you are loved by Atua in return, Himiko!"
 msgstr ""
 
-msgctxt "0018"
+#. や、やめい…照れるではないか。
+msgctxt "0017 | c03_016_005 | C009_Yumen"
 msgid "S-Stop it...you're making me blush."
 msgstr ""
 
-msgctxt "0019"
+#. い、いい加減にしてくださーいっ！
+msgctxt "0018 | c03_016_005 | C011_Chaba"
 msgid "E-Enough already!!!"
 msgstr ""
 
-msgctxt "0020"
+#. <CLT=cltMIND>茶柱さんは夢野さんに向かって歩を進めると、
+#. 彼女の肩を強く掴んだ。
+msgctxt "0019 | c03_016_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Tenko walked toward Himiko and gripped\n"
 "her firmly by the shoulders."
 msgstr ""
 
-msgctxt "0021"
+#. …んあ？
+msgctxt "0020 | c03_016_005 | C009_Yumen"
 msgid "Nyeh...?"
 msgstr ""
 
-msgctxt "0022"
+#. 夢野さん、しっかりしてください…！
+#. 魔法使いともあろう者がどうしたんですか？
+msgctxt "0021 | c03_016_005 | C011_Chaba"
 msgid ""
 "Please, snap out of it!\n"
 "Aren't you a mage?"
 msgstr ""
 
-msgctxt "0023"
+#. 痛い…放してくれ…
+msgctxt "0022 | c03_016_005 | C009_Yumen"
 msgid "That hurts...let me go..."
 msgstr ""
 
-msgctxt "0024"
+#. 夢野さんは洗脳されているんです。
+#. なんで、そんな事もわからないんですか？
+msgctxt "0023 | c03_016_005 | C011_Chaba"
 msgid ""
 "Himiko, why can't you see that you've\n"
 "been brainwashed?"
 msgstr ""
 
-msgctxt "0025"
+#. そんな事もわからないなんて、
+#. 夢野さんはインチキ魔法使いですかっ！？
+msgctxt "0024 | c03_016_005 | C011_Chaba"
 msgid ""
 "If you can't even see that, then...\n"
 "you're not a real mage at all!"
 msgstr ""
 
-msgctxt "0026"
+#. な、なんじゃと…？
+msgctxt "0025 | c03_016_005 | C009_Yumen"
 msgid "Wh-What...?"
 msgstr ""
 
-msgctxt "0027"
+#. 怒ったんですか？
+#. 怒ったなら、ちゃんと怒ればいいじゃないですか！
+msgctxt "0026 | c03_016_005 | C011_Chaba"
 msgid "Feeling angry? If you are, then show it!"
 msgstr ""
 
-msgctxt "0028"
+#. 転子に言い返せばいいじゃないですか！
+#. どうして、ぶつかってきてくれないんですかっ！
+msgctxt "0027 | c03_016_005 | C011_Chaba"
 msgid ""
 "Get mad! Get upset! Yell at me!\n"
 "Just fight back already! Do something!"
 msgstr ""
 
-msgctxt "0029"
+#. ………………
+msgctxt "0028 | c03_016_005 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0030"
+#. 茶柱さん…そのあたりにしておこうよ。
+msgctxt "0029 | c03_016_005 | C000_Saiha"
 msgid "Tenko...let's just leave it be for now..."
 msgstr ""
 
-msgctxt "0031"
+#. …あっ！！
+msgctxt "0030 | c03_016_005 | C011_Chaba"
 msgid "...Ah!"
 msgstr ""
 
-msgctxt "0032"
+#. ………………
+msgctxt "0031 | c03_016_005 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0033"
+#. す、すみません…！
+#. 転子ったら、夢野さんに怒鳴ったりして！
+msgctxt "0032 | c03_016_005 | C011_Chaba"
 msgid ""
 "I-I'm so sorry!\n"
 "I can't believe I just yelled at you!"
 msgstr ""
 
-msgctxt "0034"
+#. 転子はきっと疲れてるんだね。
+#. 今日はゆっくり休んだ方がいいよ。
+msgctxt "0033 | c03_016_005 | C013_Yonag"
 msgid ""
 "You must be tired, Tenko. I think it would be\n"
 "best if you got some rest."
 msgstr ""
 
-msgctxt "0035"
+#. ね？　それまでにアンジーが、
+#. 新しい仲間を迎えられるようにしておいてあげるからさ。
+msgctxt "0034 | c03_016_005 | C013_Yonag"
 msgid ""
 "Sound good? Until then, I'll continue my\n"
 "preparations to welcome back our friend."
 msgstr ""
 
-msgctxt "0036"
+#. ………………
+msgctxt "0035 | c03_016_005 | C011_Chaba"
 msgid "..."
 msgstr "..."
 
-msgctxt "0037"
+#. ………………
+msgctxt "0036 | c03_016_005 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0038"
+#. <CLT=cltMIND>結局、夢野さんは最後まで
+#. 茶柱さんの顔を見ようとはしなかった。
+msgctxt "0037 | c03_016_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Himiko didn't look Tenko in\n"
 "the eyes."
 msgstr ""
 
-msgctxt "0039"
+#. <CLT=cltMIND>アンジーさんの教室を後にした僕ら３人は、
+#. 寄宿舎へと戻っていった。
+msgctxt "0038 | c03_016_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>After leaving Angie's lab, the three of\n"
 "us returned to the dorms."
 msgstr ""
 
-msgctxt "0040"
+#. <CLT=cltMIND>これって…なんだ？
+#. 掛け軸に見えるけど、何も書かれてない…
+msgctxt "0039 | c03_016_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>What is this...? It's like a hanging\n"
 "scroll, but it's blank."
 msgstr ""
 
-msgctxt "0041"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0040 | c03_016_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0042"
+#. <CLT=cltMIND>使われる時は、大抵、何か起きた時だし…
+#. このまま消えている方が良いけどな…
+msgctxt "0041 | c03_016_005 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's usually for when something bad\n"
 "happens... I hope it stays off."
 msgstr ""
 
-msgctxt "0043"
+#. ３Ｆ廊下
+msgctxt "0042 | c03_016_005 | chara_Blank"
 msgid "3F Hallway"
 msgstr ""

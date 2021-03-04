@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,169 +11,221 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. さ、さっさとアンジーを止めて、
+#. もうこの話題にはケリを付けるぞ！
+msgctxt "0000 | c03_017_100 | C001_Momot"
 msgid ""
 "L-Let's hurry and stop Angie, so we \n"
 "can put an end to all this spooky stuff!"
 msgstr ""
 
-msgctxt "0002"
+#. これ以上コエー展開になったら、
+#. マジで心臓麻痺で死んじまうからな…！
+msgctxt "0001 | c03_017_100 | C001_Momot"
 msgid ""
 "If things get any scarier than this,\n"
 "I'll seriously die from a heart attack!"
 msgstr ""
 
-msgctxt "0003"
+#. 個室にいないんだったら、研究教室だろうね。
+#. 儀式の準備で忙しいって言ってたし。
+msgctxt "0002 | c03_017_100 | C010_Haruk"
 msgid ""
 "If she's not in her room, then she's probably\n"
 "in her lab preparing for the ritual."
 msgstr ""
 
-msgctxt "0004"
+#. はい
+msgctxt "0003 | c03_017_100 | C010_Haruk"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0005"
+#. いいえ
+msgctxt "0004 | c03_017_100 | C010_Haruk"
 msgid "No"
 msgstr ""
 
-msgctxt "0006"
+#. もしかして悩んでいるの？
+msgctxt "0005 | c03_017_100 | C010_Haruk"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0006 | c03_017_100 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0008"
+#. さ、さっさとアンジーを止めて、
+#. もうこの話題にはケリを付けるぞ！
+msgctxt "0007 | c03_017_100 | C001_Momot"
 msgid ""
 "L-Let's hurry and stop Angie, so we \n"
 "can put an end to all this!"
 msgstr ""
 
-msgctxt "0009"
+#. これ以上コエー展開になったら、
+#. マジで心臓麻痺で死んじまうからな…！
+msgctxt "0008 | c03_017_100 | C001_Momot"
 msgid ""
 "If things get any scarier than this,\n"
 "I'll seriously die from a heart attack!"
 msgstr ""
 
-msgctxt "0010"
+#. 星くん…
+msgctxt "0009 | c03_017_100 | C000_Saiha"
 msgid "Ryoma..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>大切な人がどこにもいない…
+msgctxt "0010 | c03_017_100 | chara_Blank"
 msgid "<CLT=cltMIND>You had...no one."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>その残酷な事実を知り、
+#. キミは東条さんに自分の命を譲ってしまったのか。
+msgctxt "0011 | c03_017_100 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>You found out that awful truth\n"
 "and gave up your life for Kirumi."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>でも、僕は…思うんだ。
+msgctxt "0012 | c03_017_100 | chara_Blank"
 msgid "<CLT=cltMIND>But...I..."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>星くんは…
+#. 僕らと一緒に戦いたかったんだろ？
+msgctxt "0013 | c03_017_100 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Ryoma, you wanted to fight with us,\n"
 "didn't you?"
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>それ自体が、キミの生きる理由には
+#. ならなかったのか？
+msgctxt "0014 | c03_017_100 | chara_Blank"
 msgid "<CLT=cltMIND>Was that not enough reason to live?"
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>僕らと一緒に戦う…
+#. 共に戦う仲間がいる…だから生きる…
+msgctxt "0015 | c03_017_100 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>You could've fought with us, we could've\n"
 "fought together...then you could have lived."
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>僕らは、キミが生きる理由には…
+#. なれなかったのか…？
+msgctxt "0016 | c03_017_100 | chara_Blank"
 msgid "<CLT=cltMIND>We...couldn't have been your reason to live?"
 msgstr ""
 
-msgctxt "0018"
+#. …なんて、それは傲慢か。
+msgctxt "0017 | c03_017_100 | C000_Saiha"
 msgid "...Maybe I'm just being arrogant."
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltSYSTEM>「ガチャ…ガチャ…」
+msgctxt "0018 | c03_017_100 | chara_Blank"
 msgid "<CLT=cltSYSTEM>*click...click...*"
 msgstr ""
 
-msgctxt "0020"
+#. <CLT=cltMIND>…開かない。
+#. 鍵が掛かっているみたいだ。
+msgctxt "0019 | c03_017_100 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>...It won't open.\n"
 "I suppose it's locked."
 msgstr ""
 
-msgctxt "0021"
+#. ………………
+msgctxt "0020 | c03_017_100 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0022"
+#. <CLT=cltMIND>東条さんの最期…
+#. あの、必死に逃げようとする姿が…目に焼き付いている。
+msgctxt "0021 | c03_017_100 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Kirumi's final moments... I can't get the image\n"
 "of her running for her life out of my head."
 msgstr ""
 
-msgctxt "0023"
+#. <CLT=cltMIND>死んで堪るかという悲壮な叫びも…
+#. まだ耳にこだましているようで…
+msgctxt "0022 | c03_017_100 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I can still hear her...\n"
 "Her scream of defiance."
 msgstr ""
 
-msgctxt "0024"
+#. <CLT=cltMIND>逃げるのは…悪い事じゃない。
+#. 立ち向かうだけじゃ…ダメなのかもしれない。
+msgctxt "0023 | c03_017_100 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Perhaps running isn't so bad...\n"
 "Perhaps we aren't strong enough to face it."
 msgstr ""
 
-msgctxt "0025"
+#. <CLT=cltSTRONG>“最後”<CLT=cltMIND>に、生きてたどり着く為に…
+msgctxt "0024 | c03_017_100 | chara_Blank"
 msgid "<CLT=cltMIND>In order to live until the <CLT=cltSTRONG>end<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0026"
+#. <CLT=cltSYSTEM>「コンコン…」
+msgctxt "0025 | c03_017_100 | chara_Blank"
 msgid "<CLT=cltSYSTEM>*knock, knock*"
 msgstr ""
 
-msgctxt "0027"
+#. <CLT=cltMIND>………………
+msgctxt "0026 | c03_017_100 | chara_Blank"
 msgid "<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0028"
+#. …いないみたいだ。
+msgctxt "0027 | c03_017_100 | C000_Saiha"
 msgid "...No one's there."
 msgstr ""
 
-msgctxt "0029"
+#. なら、研究教室だろうね。
+#. 儀式の準備で忙しいって言ってたし。
+msgctxt "0028 | c03_017_100 | C010_Haruk"
 msgid ""
 "Then she's probably in her lab. She did say\n"
 "she was going to prepare for the ritual."
 msgstr ""
 
-msgctxt "0030"
+#. そうだね、行ってみよう。
+msgctxt "0029 | c03_017_100 | C000_Saiha"
 msgid "You're right. Let's go."
 msgstr ""
 
-msgctxt "0031"
+#. <CLT=cltMIND>アンジーさんは研究教室かな…
+#. 行ってみよう。
+msgctxt "0030 | c03_017_100 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Perhaps Angie is in her lab...\n"
 "I'll try there."
 msgstr ""
 
-msgctxt "0032"
+#. <CLT=cltSYSTEM>「ガチャ…ガチャ…」
+msgctxt "0031 | c03_017_100 | chara_Blank"
 msgid "<CLT=cltSYSTEM>*click...click...*"
 msgstr ""
 
-msgctxt "0033"
+#. <CLT=cltMIND>…開かない。
+#. 鍵が掛かっているみたいだ。
+msgctxt "0032 | c03_017_100 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>...It won't open.\n"
 "I suppose it's locked."
 msgstr ""
 
-msgctxt "0034"
+#. <CLT=cltMIND>このモニターってどこにでもあるんだな。
+#. いい加減、見飽きたぞ…
+msgctxt "0033 | c03_017_100 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>These monitors are everywhere...\n"
 "I'm tired of seeing them."

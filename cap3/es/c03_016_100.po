@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,317 +11,407 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. ………………
+msgctxt "0000 | c03_016_100 | C011_Chaba"
 msgid "..."
 msgstr "..."
 
-msgctxt "0002"
+#. 茶柱さん、大丈夫？
+msgctxt "0001 | c03_016_100 | C000_Saiha"
 msgid "Tenko, are you okay?"
 msgstr ""
 
-msgctxt "0003"
+#. うああああああああああああああああ…！
+msgctxt "0002 | c03_016_100 | C011_Chaba"
 msgid "WAAAAAAAAAAAAAAAHHHHHH!!!!!"
 msgstr ""
 
-msgctxt "0004"
+#. ど、どうしたらいいんですかー！
+#. 夢野さんにあんな酷い事を言ってしまいましたー！
+msgctxt "0003 | c03_016_100 | C011_Chaba"
 msgid ""
 "I said all those horrible things to Himiko\n"
 "and now I don't know what to dooooo!"
 msgstr ""
 
-msgctxt "0005"
+#. あうう…嫌われる事はないにしても、
+#. きっと親友から友達に格下げになっちゃいますよ…！
+msgctxt "0004 | c03_016_100 | C011_Chaba"
 msgid ""
 "Augh... I know she'd never hate me, but she'll\n"
 "demote me from best friend to just a friend!"
 msgstr ""
 
-msgctxt "0006"
+#. 親友…って感じだった？
+msgctxt "0005 | c03_016_100 | C010_Haruk"
 msgid "You guys were best friends...?"
 msgstr ""
 
-msgctxt "0007"
+#. いやいや！　ひいき目に見れば大親友でしたよ！
+msgctxt "0006 | c03_016_100 | C011_Chaba"
 msgid ""
 "Well, if you round up to the nearest whole\n"
 "number, we were basically best friends!"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>ひいき目過ぎる気もするけど…
+msgctxt "0007 | c03_016_100 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I feel like you're rounding up a\n"
 "little too much there..."
 msgstr ""
 
-msgctxt "0009"
+#. ま、まぁ…ちゃんと謝れば
+#. きっと、わかってくれると思うよ。
+msgctxt "0008 | c03_016_100 | C000_Saiha"
 msgid ""
 "W-Well, if you apologize,\n"
 "I'm sure she'll understand."
 msgstr ""
 
-msgctxt "0010"
+#. ですよね！　こういうケンカを乗り越える事で、
+#. 熟年夫婦のような味わいが生まれてくるんですよね！
+msgctxt "0009 | c03_016_100 | C011_Chaba"
 msgid ""
 "That's right! We'll be like an old married\n"
 "couple once we overcome this rough patch!"
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>…立ち直りが早いな。
+msgctxt "0010 | c03_016_100 | chara_Blank"
 msgid "<CLT=cltMIND>Whoa, that was a quick turnaround."
 msgstr ""
 
-msgctxt "0012"
+#. それなら、最原に謝り方を習ったら？
+#. こいつの特技だから。
+msgctxt "0011 | c03_016_100 | C010_Haruk"
 msgid ""
 "You should let Shuichi teach you how to\n"
 "apologize. He's really good at it."
 msgstr ""
 
-msgctxt "0013"
+#. …そうなの？　僕自身が初耳だけど。
+msgctxt "0012 | c03_016_100 | C000_Saiha"
 msgid ""
 "...Really? That's the first\n"
 "time I've heard that."
 msgstr ""
 
-msgctxt "0014"
+#. ご心配には及びません！
+#. 転子はちゃんと自分の言葉で謝りますから！
+msgctxt "0013 | c03_016_100 | C011_Chaba"
 msgid ""
 "Don't worry! I'll use my own words to\n"
 "apologize to Himiko!"
 msgstr ""
 
-msgctxt "0015"
+#. それでは、また明日でーす！
+#. お休みなさーい！
+msgctxt "0014 | c03_016_100 | C011_Chaba"
 msgid ""
 "Well then, see you tomorrow!\n"
 "Goodnight!"
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>と、茶柱さんは元気良く手を振りながら、
+#. 自分の個室へと帰っていった。
+msgctxt "0015 | c03_016_100 | chara_Blank"
 msgid "<CLT=cltMIND>Waving happily, Tenko returned to her room."
 msgstr ""
 
-msgctxt "0017"
+#. 意外と元気だね…心配して損した。
+msgctxt "0016 | c03_016_100 | C010_Haruk"
 msgid ""
 "She bounced back rather fast... I guess\n"
 "I didn't need to worry."
 msgstr ""
 
-msgctxt "0018"
+#. あ、心配してたの…？
+msgctxt "0017 | c03_016_100 | C000_Saiha"
 msgid "Ah, you were worried?"
 msgstr ""
 
-msgctxt "0019"
+#. …は？　私が心配したらおかしい？
+msgctxt "0018 | c03_016_100 | C010_Haruk"
 msgid "...Huh? Is it weird for me to worry?"
 msgstr ""
 
-msgctxt "0020"
+#. …殺されたいの？
+msgctxt "0019 | c03_016_100 | C010_Haruk"
 msgid "...Do you want to die?"
 msgstr ""
 
-msgctxt "0021"
+#. …ッ！！
+msgctxt "0020 | c03_016_100 | C000_Saiha"
 msgid "...Ah!"
 msgstr ""
 
-msgctxt "0022"
+#. <CLT=cltMIND>ま、また物騒な口癖が出た…けど…
+msgctxt "0021 | c03_016_100 | chara_Blank"
 msgid "<CLT=cltMIND>There's that habit again!"
 msgstr ""
 
-msgctxt "0023"
+#. <CLT=cltMIND>ま、まぁ…良いように捉えれば…
+#. それだけ気を張らずに接してくれてるって事なのかな。
+msgctxt "0022 | c03_016_100 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Well, I suppose on the positive side,\n"
 "she's able to act more like herself around me."
 msgstr ""
 
-msgctxt "0024"
+#. …で、<CLT=cltSTRONG>“蘇りの儀式”<CLT=cltNORMAL>の件はどうするの？
+#. 夜長の説得はもう諦める？
+msgctxt "0023 | c03_016_100 | C010_Haruk"
 msgid ""
 "...What about the <CLT=cltSTRONG>ritual<CLT=cltNORMAL>? Have you given up\n"
 "on persuading Angie?"
 msgstr ""
 
-msgctxt "0025"
+#. もちろん、諦めるつもりはないよ…
+#. ただ…正攻法で説得しても無理かもしれない。
+msgctxt "0024 | c03_016_100 | C000_Saiha"
 msgid ""
 "I don't want to give up...but changing her mind\n"
 "might require...less orthodox methods."
 msgstr ""
 
-msgctxt "0026"
+#. 何か…方法を考えないと。
+msgctxt "0025 | c03_016_100 | C000_Saiha"
 msgid "I need to think of another way."
 msgstr ""
 
-msgctxt "0027"
+#. 正攻法じゃないやり方ね…
+#. わかった、ちょっと考えてみる。
+msgctxt "0026 | c03_016_100 | C010_Haruk"
 msgid ""
 "Less orthodox methods... Got it.\n"
 "I'll think about it."
 msgstr ""
 
-msgctxt "0028"
+#. <CLT=cltMIND>春川さんはそう言うと、
+#. さっさと自分の部屋へと帰っていった。
+msgctxt "0027 | c03_016_100 | chara_Blank"
 msgid "<CLT=cltMIND>Maki hurried back to her room."
 msgstr ""
 
-msgctxt "0029"
+#. あ…春川さんも考えてくれるんだ。
+#. なんか意外だけど…
+msgctxt "0028 | c03_016_100 | C000_Saiha"
 msgid ""
 "So Maki's going to think about it too?\n"
 "I didn't expect that..."
 msgstr ""
 
-msgctxt "0030"
+#. …嬉しいな。
+msgctxt "0029 | c03_016_100 | C000_Saiha"
 msgid "But I'm glad."
 msgstr ""
 
-msgctxt "0031"
+#. <CLT=cltMIND>僕は、春川さんと色々と話すようになって、
+#. 今更ながらに感じていた。
+msgctxt "0030 | c03_016_100 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Especially now that I'm able to talk\n"
 "about things more with Maki."
 msgstr ""
 
-msgctxt "0032"
+#. <CLT=cltMIND>この学園に関してだけじゃなくて、
+#. みんなに関しても、わからない事だらけだって。
+msgctxt "0031 | c03_016_100 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't know a lot about this place...\n"
 "but I don't know a lot about anyone either."
 msgstr ""
 
-msgctxt "0033"
+#. <CLT=cltMIND>いい意味でも…
+#. そして多分、悪い意味でも。
+msgctxt "0032 | c03_016_100 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>That could be a good thing...\n"
 "or it could be a bad thing."
 msgstr ""
 
-msgctxt "0034"
+#. オラノ前世ハ…鯉ナンダ。
+msgctxt "0033 | c03_016_100 | C024_Mdam_"
 msgid "IN-A-PAST-LIFE, I-WAS...A-FISH."
 msgstr ""
 
-msgctxt "0035"
+#. 田舎町ノ池デ育ッタケド、
+#. ズット…都会ニ憧レガアッテ…
+msgctxt "0034 | c03_016_100 | C024_Mdam_"
 msgid ""
 "I-GREW-UP-IN-A-POND-IN-A-RURAL-TOWN,\n"
 "BUT...I-ALWAYS-DREAMED-OF-THE-CITY."
 msgstr ""
 
-msgctxt "0036"
+#. 親ガ餌ニ群ガッテイル最中ニ、
+#. コッソリ…１人デ都会ニ出テキタンダ。
+msgctxt "0035 | c03_016_100 | C024_Mdam_"
 msgid ""
 "ONE-DAY, WHILE-MY-PARENTS-WERE-\n"
 "FEEDING...I-RAN-OFF-TO-THE-CITY."
 msgstr ""
 
-msgctxt "0037"
+#. 運良ク…金持チニ釣ッテ貰エテ、
+#. 人間ノ学校ニ行カセテ貰ッタケド…
+msgctxt "0036 | c03_016_100 | C024_Mdam_"
 msgid ""
 "LUCKILY...I-WAS-CAUGHT-BY-A-RICH-PERSON-\n"
 "WHO-LET-ME-ATTEND-HUMAN-SCHOOL."
 msgstr ""
 
-msgctxt "0038"
+#. ソコデ“イジメ”ニアッタンダ。
+msgctxt "0037 | c03_016_100 | C024_Mdam_"
 msgid "BUT-THE-OTHER-KIDS-BULLIED-ME."
 msgstr ""
 
-msgctxt "0039"
+#. 理由ハツマラナイ事ダヨ。
+msgctxt "0038 | c03_016_100 | C024_Mdam_"
 msgid "THEY-BULLIED-ME-FOR...SILLY-REASONS."
 msgstr ""
 
-msgctxt "0040"
+#. 生臭イ…トカ、
+#. 急ニ机ノ上デ跳ネルノガ驚ク…トカ。
+msgctxt "0039 | c03_016_100 | C024_Mdam_"
 msgid ""
 "BECAUSE-OF-MY-ODOR...AND-BECAUSE-OF-\n"
 "HOW-I-WOULD-FLOP-AROUND-ON-MY-DESK."
 msgstr ""
 
-msgctxt "0041"
+#. 口ヲパクパクサセテテ、
+#. 死ニソウナノガ怖イ…トカ。
+msgctxt "0040 | c03_016_100 | C024_Mdam_"
 msgid ""
 "AND-BECAUSE-OF-THE-WAY-MY-MOUTH-\n"
 "OPENED-AND-CLOSED, AS-IF-I-WAS-DYING."
 msgstr ""
 
-msgctxt "0042"
+#. ソンナ前世デノ呪イガ、
+#. 今モ…オラヲ苦シメテイルンダ。
+msgctxt "0041 | c03_016_100 | C024_Mdam_"
 msgid ""
 "THE-TRAUMA-OF-MY-PAST-LIFE...\n"
 "HAUNTS-ME-TO-THIS-DAY."
 msgstr ""
 
-msgctxt "0043"
+#. ダカラ、オラハ“イジメ”ヲ許サナイ！
+msgctxt "0042 | c03_016_100 | C024_Mdam_"
 msgid ""
 "THAT'S-WHY-I-CAN-NEVER-\n"
 "FORGIVE-BULLYING!"
 msgstr ""
 
-msgctxt "0044"
+#. 前世ノオラニ誓ッテ、
+#. ミンナデ仲良クシタインダ！
+msgctxt "0043 | c03_016_100 | C024_Mdam_"
 msgid ""
 "I-SWEAR-ON-MY-PAST-LIFE-THAT-I-WILL-\n"
 "GET-ALONG-WITH-EVERYONE!"
 msgstr ""
 
-msgctxt "0045"
+#. はい
+msgctxt "0044 | c03_016_100 | C024_Mdam_"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0046"
+#. いいえ
+msgctxt "0045 | c03_016_100 | C024_Mdam_"
 msgid "No"
 msgstr ""
 
-msgctxt "0047"
+#. もしかして悩んでいるの？
+msgctxt "0046 | c03_016_100 | C024_Mdam_"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0048"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0047 | c03_016_100 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0049"
+#. 最原終一の部屋
+msgctxt "0048 | c03_016_100 | chara_Blank"
 msgid "Shuichi Saihara's room"
 msgstr ""
 
-msgctxt "0050"
+#. 百田解斗の部屋
+msgctxt "0049 | c03_016_100 | chara_Blank"
 msgid "Kaito Momota's room"
 msgstr ""
 
-msgctxt "0051"
+#. 星竜馬の部屋
+msgctxt "0050 | c03_016_100 | chara_Blank"
 msgid "Ryoma Hoshi's room"
 msgstr ""
 
-msgctxt "0052"
+#. 天海蘭太郎の部屋
+msgctxt "0051 | c03_016_100 | chara_Blank"
 msgid "Rantaro Amami's room"
 msgstr ""
 
-msgctxt "0053"
+#. 獄原ゴン太の部屋
+msgctxt "0052 | c03_016_100 | chara_Blank"
 msgid "Gonta Gokuhara's room"
 msgstr ""
 
-msgctxt "0054"
+#. 王馬小吉の部屋
+msgctxt "0053 | c03_016_100 | chara_Blank"
 msgid "Kokichi Oma's room"
 msgstr ""
 
-msgctxt "0055"
+#. 真宮寺是清の部屋
+msgctxt "0054 | c03_016_100 | chara_Blank"
 msgid "Korekiyo Shinguji's room"
 msgstr ""
 
-msgctxt "0056"
+#. キーボの部屋
+msgctxt "0055 | c03_016_100 | chara_Blank"
 msgid "K1-B0's room"
 msgstr ""
 
-msgctxt "0057"
+#. 東条斬美の部屋
+msgctxt "0056 | c03_016_100 | chara_Blank"
 msgid "Kirumi Tojo's room"
 msgstr ""
 
-msgctxt "0058"
+#. 夢野秘密子の部屋
+msgctxt "0057 | c03_016_100 | chara_Blank"
 msgid "Himiko Yumeno's room"
 msgstr ""
 
-msgctxt "0059"
+#. 春川魔姫の部屋
+msgctxt "0058 | c03_016_100 | chara_Blank"
 msgid "Maki Harukawa's room"
 msgstr ""
 
-msgctxt "0060"
+#. 茶柱転子の部屋
+msgctxt "0059 | c03_016_100 | chara_Blank"
 msgid "Tenko Chabashira's room"
 msgstr ""
 
-msgctxt "0061"
+#. 白銀つむぎの部屋
+msgctxt "0060 | c03_016_100 | chara_Blank"
 msgid "Tsumugi Shirogane's room"
 msgstr ""
 
-msgctxt "0062"
+#. 夜長アンジーの部屋
+msgctxt "0061 | c03_016_100 | chara_Blank"
 msgid "Angie Yonaga's room"
 msgstr ""
 
-msgctxt "0063"
+#. 入間美兎の部屋
+msgctxt "0062 | c03_016_100 | chara_Blank"
 msgid "Miu Iruma's room"
 msgstr ""
 
-msgctxt "0064"
+#. 赤松楓の部屋
+msgctxt "0063 | c03_016_100 | chara_Blank"
 msgid "Kaede Akamatsu's room"
 msgstr ""
 
-msgctxt "0065"
+#. <CLT=cltMIND>このモニターってどこにでもあるんだな。
+#. いい加減、見飽きたぞ…
+msgctxt "0064 | c03_016_100 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>These monitors are everywhere...\n"
 "I'm tired of seeing them."

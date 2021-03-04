@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,246 +11,305 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=size2>茶柱<CLT=size1>が<CLT=size2>殺された<CLT=size1>のは…
+msgctxt "0000 | c03_214_001 | C014_Iruma"
 msgid "When <CLT=size2>Tenko<CLT=size1> got <CLT=size2>killed..."
 msgstr ""
 
-msgctxt "0002"
+#. 茶柱が殺されたのは…
+msgctxt "0001 | c03_214_001 | C014_Iruma"
 msgid "When Tenko got killed..."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=size2>降霊術<CLT=size1>で
+#. 暗くなった時じゃねー！
+msgctxt "0002 | c03_214_001 | C014_Iruma"
 msgid ""
 "it wasn't during\n"
 "the <CLT=size2>seance!"
 msgstr ""
 
-msgctxt "0004"
+#. 降霊術で暗くなった時じゃねー！
+msgctxt "0003 | c03_214_001 | C014_Iruma"
 msgid ""
 "it wasn't during\n"
 "the seance!"
 msgstr ""
 
-msgctxt "0005"
+#. 他に<CLT=size2>可能性<CLT=size1>がありそうな
+#. <CLT=size2>タイミング<CLT=size1>はないけど。
+msgctxt "0004 | c03_214_001 | C006_Shing"
 msgid ""
 "It could not have been done at\n"
 "<CLT=size2>any other time."
 msgstr ""
 
-msgctxt "0006"
+#. 他に可能性がありそうなタイミングはないけど。
+msgctxt "0005 | c03_214_001 | C006_Shing"
 msgid ""
 "It could not have been done at\n"
 "any other time."
 msgstr ""
 
-msgctxt "0007"
+#. 彼女は<CLT=cltWEAK>ずっと
+msgctxt "0006 | c03_214_001 | C006_Shing"
 msgid "<CLT=cltWEAK>She was"
 msgstr ""
 
-msgctxt "0008"
+#. 彼女はずっとカゴの中にいて…
+msgctxt "0007 | c03_214_001 | C006_Shing"
 msgid "She was under the cage the whole time..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltWEAK><CLT=size3>カゴ
+msgctxt "0008 | c03_214_001 | C006_Shing"
 msgid ""
 "<CLT=cltWEAK>under the\n"
 "<CLT=size3>cage"
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltWEAK>の中にいて…<CLT=cltNORMAL>
+msgctxt "0009 | c03_214_001 | C006_Shing"
 msgid "<CLT=cltWEAK>the whole time<CLT=cltNORMAL>..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=size3>カゴ
+msgctxt "0010 | c03_214_001 | C006_Shing"
 msgid ""
 "when the\n"
 "<CLT=size3>cage"
 msgstr ""
 
-msgctxt "0012"
+#. カゴを開けた時には死んでいたんだヨ？
+msgctxt "0011 | c03_214_001 | C006_Shing"
 msgid "And she was dead when the cage was lifted."
 msgstr ""
 
-msgctxt "0013"
+#. を開けた時には
+msgctxt "0012 | c03_214_001 | C006_Shing"
 msgid "And she was dead"
 msgstr ""
 
-msgctxt "0014"
+#. 死んでいたんだヨ？
+msgctxt "0013 | c03_214_001 | C006_Shing"
 msgid "was lifted."
 msgstr ""
 
-msgctxt "0015"
+#. ん…？
+msgctxt "0014 | c03_214_001 | C014_Iruma"
 msgid "Hn...?"
 msgstr ""
 
-msgctxt "0016"
+#. ん…？　んん…？
+msgctxt "0015 | c03_214_001 | C014_Iruma"
 msgid "Hn...? Ngh...?"
 msgstr ""
 
-msgctxt "0017"
+#. んん…？
+msgctxt "0016 | c03_214_001 | C014_Iruma"
 msgid "Ngh...?"
 msgstr ""
 
-msgctxt "0018"
+#. だったら
+msgctxt "0017 | c03_214_001 | C004_Gokuh"
 msgid "What about"
 msgstr ""
 
-msgctxt "0019"
+#. だったらカゴを開けた瞬間は！？
+msgctxt "0018 | c03_214_001 | C004_Gokuh"
 msgid ""
 "What about moment\n"
 "cage was lifted!?"
 msgstr ""
 
-msgctxt "0020"
+#. <CLT=cltWEAK><CLT=size2>カゴ<CLT=size1>を<CLT=size2>開けた瞬間<CLT=cltNORMAL>は！？
+msgctxt "0019 | c03_214_001 | C004_Gokuh"
 msgid "<CLT=cltWEAK><CLT=size2>moment cage<CLT=size1> was <CLT=size2>lifted<CLT=cltNORMAL>!?"
 msgstr ""
 
-msgctxt "0021"
+#. あっ…
+msgctxt "0020 | c03_214_001 | C014_Iruma"
 msgid "Oooh..."
 msgstr ""
 
-msgctxt "0022"
+#. あっ…い、いいかも…
+msgctxt "0021 | c03_214_001 | C014_Iruma"
 msgid "Ooooh... L-Like that..."
 msgstr ""
 
-msgctxt "0023"
+#. い、いいかも…
+msgctxt "0022 | c03_214_001 | C014_Iruma"
 msgid "L-Like that..."
 msgstr ""
 
-msgctxt "0024"
+#. <CLT=size2>カゴ<CLT=size1>を<CLT=size2>開けた瞬間<CLT=size1>に
+#. <CLT=size2>カマ<CLT=size1>で<CLT=size2>素早く刺した<CLT=size1>んだよ！
+msgctxt "0023 | c03_214_001 | C004_Gokuh"
 msgid ""
 "When <CLT=size2>cage lifted,\n"
 "<CLT=size1>culprit <CLT=size2>stab<CLT=size1> Tenko real <CLT=size2>fast!"
 msgstr ""
 
-msgctxt "0025"
+#. カゴを開けた瞬間にカマで素早く刺したんだよ！
+msgctxt "0024 | c03_214_001 | C004_Gokuh"
 msgid ""
 "When cage lifted, culprit\n"
 "stab Tenko real fast!"
 msgstr ""
 
-msgctxt "0026"
+#. その場のみんなには
+#. 見えないようにね！
+msgctxt "0025 | c03_214_001 | C004_Gokuh"
 msgid ""
 "So fast, \n"
 "no one saw!"
 msgstr ""
 
-msgctxt "0027"
+#. その場のみんなには見えないようにね！
+msgctxt "0026 | c03_214_001 | C004_Gokuh"
 msgid "So fast, no one saw!"
 msgstr ""
 
-msgctxt "0028"
+#. んんっ…
+msgctxt "0027 | c03_214_001 | C014_Iruma"
 msgid "Nngh..."
 msgstr ""
 
-msgctxt "0029"
+#. んんっ…ヤバいい…っ！
+msgctxt "0028 | c03_214_001 | C014_Iruma"
 msgid "Nngh... Oh...my...!"
 msgstr ""
 
-msgctxt "0030"
+#. <CLT=size2>ヤバ<CLT=size1>いい…っ！
+msgctxt "0029 | c03_214_001 | C014_Iruma"
 msgid "<CLT=size2>Oh...<CLT=size1>my...!"
 msgstr ""
 
-msgctxt "0031"
+#. カゴを開けたのは<CLT=size2>誰<CLT=size1>ですか？
+msgctxt "0030 | c03_214_001 | C007_Ki-Bo"
 msgid "So <CLT=size2>who<CLT=size1> lifted the cage?"
 msgstr ""
 
-msgctxt "0032"
+#. カゴを開けたのは誰ですか？
+msgctxt "0031 | c03_214_001 | C007_Ki-Bo"
 msgid "So who lifted the cage?"
 msgstr ""
 
-msgctxt "0033"
+#. ウ、ウチ…じゃ…
+msgctxt "0032 | c03_214_001 | C009_Yumen"
 msgid ""
 "U-Uh...\n"
 "I-It was me..."
 msgstr ""
 
-msgctxt "0034"
+#. ウ、ウチ…じゃ…
+msgctxt "0033 | c03_214_001 | C009_Yumen"
 msgid "U-Uh... I-It was me..."
 msgstr ""
 
-msgctxt "0035"
+#. <CLT=size2>い<CLT=size1>、
+msgctxt "0034 | c03_214_001 | C014_Iruma"
 msgid "<CLT=size2>Hrrgh..."
 msgstr ""
 
-msgctxt "0036"
+#. い、いぎいいいっ…！
+msgctxt "0035 | c03_214_001 | C014_Iruma"
 msgid "Hrrgh... Hrrnngh...!"
 msgstr ""
 
-msgctxt "0037"
+#. <CLT=size1>い<CLT=size2>ぎ
+msgctxt "0036 | c03_214_001 | C014_Iruma"
 msgid "<CLT=size2>Hrr"
 msgstr ""
 
-msgctxt "0038"
+#. いい
+msgctxt "0037 | c03_214_001 | C014_Iruma"
 msgid "nn"
 msgstr ""
 
-msgctxt "0039"
+#. <CLT=size2>いっ…！
+msgctxt "0038 | c03_214_001 | C014_Iruma"
 msgid "<CLT=size2>gh...!"
 msgstr ""
 
-msgctxt "0040"
+#. じゃあ、<CLT=cltWEAK>夢野ちゃんが
+msgctxt "0039 | c03_214_001 | C005_Oma__"
 msgid "Then obviously <CLT=cltWEAK>Himiko"
 msgstr ""
 
-msgctxt "0041"
+#. じゃあ、夢野ちゃんが犯人なんだね！
+msgctxt "0040 | c03_214_001 | C005_Oma__"
 msgid ""
 "Then obviously Himiko\n"
 "is the culprit!"
 msgstr ""
 
-msgctxt "0042"
+#. <CLT=cltWEAK><CLT=size2>犯人<CLT=cltNORMAL><CLT=size1>なんだね！
+msgctxt "0041 | c03_214_001 | C005_Oma__"
 msgid "<CLT=cltWEAK>is the <CLT=size2>culprit<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0043"
+#. 間違いなっ…
+msgctxt "0042 | c03_214_001 | C014_Iruma"
 msgid "There's no d...d..."
 msgstr ""
 
-msgctxt "0044"
+#. 間違いなっ…ああああーーっ！！
+msgctxt "0043 | c03_214_001 | C014_Iruma"
 msgid "There's no d...d...DOUUUUUUUBT!!!"
 msgstr ""
 
-msgctxt "0045"
+#. <CLT=size2>あ<CLT=size1>ああ<CLT=size2>あーーっ！！
+msgctxt "0044 | c03_214_001 | C014_Iruma"
 msgid "<CLT=size2>DOUU<CLT=size1>UUU<CLT=size2>UUBT!!!"
 msgstr ""
 
-msgctxt "0046"
+#. でも、なんとなくなんだよね？
+msgctxt "0045 | c03_214_001 | C012_Shiro"
 msgid "But somehow..."
 msgstr ""
 
-msgctxt "0047"
+#. 実は抜け出てたりして…？
+msgctxt "0046 | c03_214_001 | C012_Shiro"
 msgid "What if she got out?"
 msgstr ""
 
-msgctxt "0048"
+#. 一回出て戻ったとかー？
+msgctxt "0047 | c03_214_001 | C005_Oma__"
 msgid "Maybe they left and came back?"
 msgstr ""
 
-msgctxt "0049"
+#. どうだろうね。
+msgctxt "0048 | c03_214_001 | C010_Haruk"
 msgid "Who knows?"
 msgstr ""
 
-msgctxt "0050"
+#. 一瞬過ぎませんか？
+msgctxt "0049 | c03_214_001 | C007_Ki-Bo"
 msgid "That's a small window of time."
 msgstr ""
 
-msgctxt "0051"
+#. んんんっ！？
+msgctxt "0050 | c03_214_001 | C014_Iruma"
 msgid "Hnngh!?"
 msgstr ""
 
-msgctxt "0052"
+#. ああっん！
+msgctxt "0051 | c03_214_001 | C014_Iruma"
 msgid "Aaaaah!"
 msgstr ""
 
-msgctxt "0053"
+#. んはぁ！
+msgctxt "0052 | c03_214_001 | C014_Iruma"
 msgid "Nghhh!"
 msgstr ""
 
-msgctxt "0054"
+#. んぐぐっ！
+msgctxt "0053 | c03_214_001 | C014_Iruma"
 msgid "Nrrgh!"
 msgstr ""
 
-msgctxt "0055"
+#. ああっ！
+msgctxt "0054 | c03_214_001 | C014_Iruma"
 msgid "Ooooh!"
 msgstr ""

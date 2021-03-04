@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,357 +11,465 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. ………………
+msgctxt "0000 | c03_017_101 | C020_Monok"
 msgid "..."
 msgstr "..."
 
-msgctxt "0002"
+#. ………………
+msgctxt "0001 | c03_017_101 | C020_Monok"
 msgid "..."
 msgstr "..."
 
-msgctxt "0003"
+#. ………………
+msgctxt "0002 | c03_017_101 | C020_Monok"
 msgid "..."
 msgstr "..."
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>「ピンポーン！　ピンポーン！」
+msgctxt "0003 | c03_017_101 | chara_Blank"
 msgid "<CLT=cltSYSTEM>*ding dong ding dong!*"
 msgstr ""
 
-msgctxt "0005"
+#. …え？　インターホン？
+#. こんなに朝早く…誰だろう？
+msgctxt "0004 | c03_017_101 | C000_Saiha"
 msgid ""
 "The intercom? This early in the morning?\n"
 "I wonder who it could be..."
 msgstr ""
 
-msgctxt "0006"
+#. さ、さっさとアンジーを止めて、
+#. もうこの話題にはケリを付けるぞ！
+msgctxt "0005 | c03_017_101 | C001_Momot"
 msgid ""
 "L-Let's hurry and stop Angie, so we \n"
 "can put an end to all this spooky stuff!"
 msgstr ""
 
-msgctxt "0007"
+#. これ以上コエー展開になったら、
+#. マジで…心臓麻痺で死んじまうからな…！
+msgctxt "0006 | c03_017_101 | C001_Momot"
 msgid ""
 "If things get any scarier, I'll seriously \n"
 "die from a heart attack!"
 msgstr ""
 
-msgctxt "0008"
+#. ホント、呆れる…
+#. この歳になって寝込むほど幽霊が怖いって…
+msgctxt "0007 | c03_017_101 | C010_Haruk"
 msgid ""
 "I can't believe someone your age would hide\n"
 "in bed because they're afraid of ghosts..."
 msgstr ""
 
-msgctxt "0009"
+#. だ、だからよぉ…
+#. これは…体質だから仕方ねーんだって…
+msgctxt "0008 | c03_017_101 | C001_Momot"
 msgid ""
 "W-Well, y'know... This is...uh, just how \n"
 "my body is. Can't do anything about it..."
 msgstr ""
 
-msgctxt "0010"
+#. 体に影響が出るほど怖いんだね。
+#. 変なの…暗殺者はまったく平気なクセに。
+msgctxt "0009 | c03_017_101 | C010_Haruk"
 msgid ""
 "So you can stand to be around assassins,\n"
 "but ghosts are where you draw the line?"
 msgstr ""
 
-msgctxt "0011"
+#. 普通なら、幽霊より私の方が怖いって言うよ。
+msgctxt "0010 | c03_017_101 | C010_Haruk"
 msgid ""
 "I've been told that I'm scarier than any\n"
 "ghost."
 msgstr ""
 
-msgctxt "0012"
+#. あぁ？　テメーなんて全然怖くねーよ。
+msgctxt "0011 | c03_017_101 | C001_Momot"
 msgid "Huh? I'm not scared of you at all."
 msgstr ""
 
-msgctxt "0013"
+#. 言ったろ…テメーはただの弱っちい臆病者だ。
+#. トレーニングもまだ始めたばっかだしな。
+msgctxt "0012 | c03_017_101 | C001_Momot"
 msgid ""
 "Didn't I tell you? You're just a weak coward.\n"
 "And you just started your training."
 msgstr ""
 
-msgctxt "0014"
+#. ………………
+msgctxt "0013 | c03_017_101 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0015"
+#. 今のあんたに…弱いとか言われたくない。
+msgctxt "0014 | c03_017_101 | C010_Haruk"
 msgid "You, of all people, don't get to call me weak."
 msgstr ""
 
-msgctxt "0016"
+#. う、うるせー！
+#. さっさとアンジーを止めに行くぞ！
+msgctxt "0015 | c03_017_101 | C001_Momot"
 msgid ""
 "Sh-Shut up!\n"
 "Let's go and stop Angie!"
 msgstr ""
 
-msgctxt "0017"
+#. …百田が怖がり過ぎて倒れる前に、
+#. 夜長のとこまで連れていくよ。
+msgctxt "0016 | c03_017_101 | C010_Haruk"
 msgid ""
 "...Let's bring Kaito to Angie before he\n"
 "passes out in terror."
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltMIND>こんなに朝早く…誰だろう？
+msgctxt "0017 | c03_017_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This early in the morning?\n"
 "I wonder who it could be..."
 msgstr ""
 
-msgctxt "0019"
+#. はい
+msgctxt "0018 | c03_017_101 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0020"
+#. いいえ
+msgctxt "0019 | c03_017_101 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0021"
+#. もしかして悩んでいるの？
+msgctxt "0020 | c03_017_101 | chara_Blank"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0022"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0021 | c03_017_101 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0023"
+#. 何その顔…？
+#. 今起きたばっかりって顔だけど。
+msgctxt "0022 | c03_017_101 | C010_Haruk"
 msgid ""
 "What's with that face...?\n"
 "You look like you just woke up."
 msgstr ""
 
-msgctxt "0024"
+#. そ、そりゃあ起きたばっかりだよ…
+#. アナウンスだって今流れたところだし。
+msgctxt "0023 | c03_017_101 | C000_Saiha"
 msgid ""
 "...I *did* just wake up.\n"
 "The announcement was just a minute ago."
 msgstr ""
 
-msgctxt "0025"
+#. あんたって、まさかアレで寝起きしてるの？
+msgctxt "0024 | c03_017_101 | C010_Haruk"
 msgid "You wake up to *that*?"
 msgstr ""
 
-msgctxt "0026"
+#. あんなアナウンスをあてにしてたら、
+#. 向こうのペースに巻き込まれるだけだと思うけど？
+msgctxt "0025 | c03_017_101 | C010_Haruk"
 msgid ""
 "If you rely on that announcement as your alarm\n"
 "clock, you'll start getting used to this place."
 msgstr ""
 
-msgctxt "0027"
+#. それは、そうかもしれないけど――
+msgctxt "0026 | c03_017_101 | C000_Saiha"
 msgid "Well, I suppose that's true..."
 msgstr ""
 
-msgctxt "0028"
+#. いいから、さっさと儀式を止めに行くぞ。
+msgctxt "0027 | c03_017_101 | C001_Momot"
 msgid "It's fine. Let's just go stop the ritual."
 msgstr ""
 
-msgctxt "0029"
+#. も、百田くん？
+msgctxt "0028 | c03_017_101 | C000_Saiha"
 msgid "K-Kaito?"
 msgstr ""
 
-msgctxt "0030"
+#. …ハルマキから話は聞いたぜ。
+#. アンジーが儀式をやろうとしてるらしいな。
+msgctxt "0029 | c03_017_101 | C001_Momot"
 msgid ""
 "I heard from Maki Roll. It seems like Angie's\n"
 "gonna do the ritual."
 msgstr ""
 
-msgctxt "0031"
+#. ハルマキって…何？
+#. 変な略し方しないでよ。
+msgctxt "0030 | c03_017_101 | C010_Haruk"
 msgid ""
 "Maki Roll...? Don't give me such a weird\n"
 "nickname."
 msgstr ""
 
-msgctxt "0032"
+#. あ、もしかして…
+#. 春川さんが百田くんに声を掛けたの？
+msgctxt "0031 | c03_017_101 | C000_Saiha"
 msgid "You brought Kaito here, Maki?"
 msgstr ""
 
-msgctxt "0033"
+#. …おかしい？　正攻法の説得が通じないなら、
+#. 正攻法じゃない説得で試すしかないと思っただけだよ。
+msgctxt "0032 | c03_017_101 | C010_Haruk"
 msgid ""
 "...Is that weird? We need a backup plan in\n"
 "case the straightforward approach fails."
 msgstr ""
 
-msgctxt "0034"
+#. その点…こいつならうってつけでしょ？
+msgctxt "0033 | c03_017_101 | C010_Haruk"
 msgid ""
 "Who better than Kaito for a...less than\n"
 "straightforward approach?"
 msgstr ""
 
-msgctxt "0035"
+#. でも、百田くん…体調は大丈夫なの？
+msgctxt "0034 | c03_017_101 | C000_Saiha"
 msgid "But, Kaito...are you feeling okay?"
 msgstr ""
 
-msgctxt "0036"
+#. へっ、そんな事を言ってる場合でもねーだろ。
+msgctxt "0035 | c03_017_101 | C001_Momot"
 msgid ""
 "Heh, we don't have time to be worrying \n"
 "about me."
 msgstr ""
 
-msgctxt "0037"
+#. <CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>なんてふざけた真似は…
+#. なんとしてでも止めなきゃなんねーからな…
+msgctxt "0036 | c03_017_101 | C001_Momot"
 msgid ""
 "We gotta put a stop to this ridiculous\n"
 "\"<CLT=cltSTRONG>resurrecting the dead<CLT=cltNORMAL>\" crap..."
 msgstr ""
 
-msgctxt "0038"
+#. それで…この手の話はもう終わりにさせるぞ。
+#. じゃねーと…オレが持たねーからな…
+msgctxt "0037 | c03_017_101 | C001_Momot"
 msgid ""
 "And then...we can finally drop that topic.\n"
 "Or else...I'm not gonna last..."
 msgstr ""
 
-msgctxt "0039"
+#. <CLT=cltMIND>持たないって…
+#. え？　もしかして百田くんって…
+msgctxt "0038 | c03_017_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Not gonna last?\n"
 "Kaito...are you..."
 msgstr ""
 
-msgctxt "0040"
+#. …怖いの？
+msgctxt "0039 | c03_017_101 | C000_Saiha"
 msgid "Scared?"
 msgstr ""
 
-msgctxt "0041"
+#. …あ？
+msgctxt "0040 | c03_017_101 | C001_Momot"
 msgid "Huh?"
 msgstr ""
 
-msgctxt "0042"
+#. いや…ひょっとして百田くんって、
+#. この手の心霊とかの話が苦手だったりしない？
+msgctxt "0041 | c03_017_101 | C000_Saiha"
 msgid ""
 "Ah, it's just that I remember that you\n"
 "don't like talking about ghosts and stuff..."
 msgstr ""
 
-msgctxt "0043"
+#. だって、よく考えれば、
+#. 百田くんの様子がおかしくなったのも…
+msgctxt "0042 | c03_017_101 | C000_Saiha"
 msgid ""
 "Now that I think about it, you've\n"
 "been acting strange ever since..."
 msgstr ""
 
-msgctxt "0044"
+#. <CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>の話題が
+#. 出てからだった気がするし。
+msgctxt "0043 | c03_017_101 | C000_Saiha"
 msgid ""
 "we started talking about\n"
 "<CLT=cltSTRONG>resurrecting the dead<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0045"
+#. バ、バ、バカ言ってんじゃねーよ！
+#. そそ、そんな訳…ねーだろ！
+msgctxt "0044 | c03_017_101 | C001_Momot"
 msgid ""
 "D-D-Don't be stupid!\n"
 "Th-There's no way!"
 msgstr ""
 
-msgctxt "0046"
+#. あ、やっぱり…そうなんだね。
+msgctxt "0045 | c03_017_101 | C000_Saiha"
 msgid "Ah. So I was right."
 msgstr ""
 
-msgctxt "0047"
+#. 待って…じゃあトレーニングに来なかったのも、
+#. 『怖いから』って理由？
+msgctxt "0046 | c03_017_101 | C010_Haruk"
 msgid ""
 "Wait... You mean the reason you didn't come\n"
 "to training is because you were scared?"
 msgstr ""
 
-msgctxt "0048"
+#. こ、怖いからっつーか…
+#. こいつは…体質みてーなもんなんだよ。
+msgctxt "0047 | c03_017_101 | C001_Momot"
 msgid ""
 "I-It's not that I'm scared...\n"
 "That's just how my body is."
 msgstr ""
 
-msgctxt "0049"
+#. 閉所も宇宙空間も無重力も平気なのに、
+#. この手の…幽霊話だけは…
+msgctxt "0048 | c03_017_101 | C001_Momot"
 msgid ""
 "I'm fine when it comes to cramped areas, space,\n"
 "and zero gravity, but...ghost stories..."
 msgstr ""
 
-msgctxt "0050"
+#. 昔から…見たり聞いたりするだけで…
+#. ぐ、具合が…悪くなっちまうんだ…
+msgctxt "0049 | c03_017_101 | C001_Momot"
 msgid ""
 "Since I was a kid, whenever I hear them...\n"
 "I start to feel sick..."
 msgstr ""
 
-msgctxt "0051"
+#. <CLT=cltMIND>言いながら、実際に百田くんの顔は見る見る内に
+#. 真っ青になっていった。
+msgctxt "0050 | c03_017_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Kaito was looking more and more pale\n"
 "as he spoke..."
 msgstr ""
 
-msgctxt "0052"
+#. お陰で…あの<CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>を聞いてから
+#. メシも喉を通らねーし…眠れやしねーし…
+msgctxt "0051 | c03_017_101 | C001_Momot"
 msgid ""
 "Cuz of that...I haven't been able to eat or \n"
 "sleep since all this crap started..."
 msgstr ""
 
-msgctxt "0053"
+#. そんな風に…なるんだ。
+msgctxt "0052 | c03_017_101 | C000_Saiha"
 msgid "So that's what happened..."
 msgstr ""
 
-msgctxt "0054"
+#. だから…さっさとアンジーを止めて、
+#. もうこの話題にはケリを付けなきゃなんねーんだよ。
+msgctxt "0053 | c03_017_101 | C001_Momot"
 msgid ""
 "So...let's hurry and stop Angie, so we \n"
 "can put an end to all this spooky stuff!"
 msgstr ""
 
-msgctxt "0055"
+#. こ、これ以上コエー展開になったら、
+#. マジで…心臓麻痺で死んじまうからな…！
+msgctxt "0054 | c03_017_101 | C001_Momot"
 msgid ""
 "If things get any scarier, I'll seriously \n"
 "die from a heart attack!"
 msgstr ""
 
-msgctxt "0056"
+#. ………………
+msgctxt "0055 | c03_017_101 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0057"
+#. な、なんだよ…その目は？
+msgctxt "0056 | c03_017_101 | C001_Momot"
 msgid "Wh-Why are you looking at me like that?"
 msgstr ""
 
-msgctxt "0058"
+#. 呆れてるんだよ…いつもは怖いモノなしみたいに
+#. 振る舞ってるクセにって。
+msgctxt "0057 | c03_017_101 | C010_Haruk"
 msgid ""
 "Unbelievable... You always act like you're\n"
 "not afraid of anything."
 msgstr ""
 
-msgctxt "0059"
+#. う、うるせー！
+#. とにかく…さっさとアンジーを止めに行くぞ！
+msgctxt "0058 | c03_017_101 | C001_Momot"
 msgid ""
 "Sh-Shut up!\n"
 "Let's...just go stop Angie already!"
 msgstr ""
 
-msgctxt "0060"
+#. ハルマキも終一も…早くしやがれっ！
+msgctxt "0059 | c03_017_101 | C001_Momot"
 msgid ""
 "C'mon, bro! C'mon, Maki Roll!\n"
 "Hurry up!"
 msgstr ""
 
-msgctxt "0061"
+#. だから…ハルマキはやめてって。
+msgctxt "0060 | c03_017_101 | C010_Haruk"
 msgid "Seriously...don't call me Maki Roll."
 msgstr ""
 
-msgctxt "0062"
+#. と、とりあえず…
+#. アンジーさんの研究教室に行こうか。
+msgctxt "0061 | c03_017_101 | C000_Saiha"
 msgid "A-Anyway...let's go to Angie's lab."
 msgstr ""
 
-msgctxt "0063"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映ってないけど…
+msgctxt "0062 | c03_017_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0064"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0063 | c03_017_101 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0065"
+#. <CLT=cltMIND>ごく普通のベッドだ。
+#. 寝心地は悪くなかったな…
+msgctxt "0064 | c03_017_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a normal bed.\n"
 "It was pretty comfortable."
 msgstr ""
 
-msgctxt "0066"
+#. <CLT=cltMIND>かなり大きな照明だ。
+#. お陰で明るいけど…
+msgctxt "0065 | c03_017_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a pretty big light.\n"
 "It lights the room well..."
 msgstr ""
 
-msgctxt "0067"
+#. <CLT=cltMIND>クローゼットの中には、
+#. 僕の制服と同じものが何着も入っている。
+msgctxt "0066 | c03_017_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>My closet is filled with\n"
 "uniforms exactly like mine..."
 msgstr ""
 
-msgctxt "0068"
+#. <CLT=cltMIND>ずっとこれだけを着ていろって事か？
+#. 確かに、僕らを判別しやすくはなるけど…
+msgctxt "0067 | c03_017_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Do they plan for us to wear this forever?\n"
 "It makes it easier to tell us apart, I suppose..."

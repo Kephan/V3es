@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,137 +11,181 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. あれ？
+#. 珍しい組み合わせだねー。
+msgctxt "0000 | c03_014_001 | C005_Oma__"
 msgid "Hm? This is an unusual group of people."
 msgstr ""
 
-msgctxt "0002"
+#. ていうかさ、生徒会の茶柱ちゃんはともかくとして…
+msgctxt "0001 | c03_014_001 | C005_Oma__"
 msgid ""
 "Tenko's a student council member, so I get\n"
 "why she's here..."
 msgstr ""
 
-msgctxt "0003"
+#. 最原ちゃんと春川ちゃんがここにいていいの？
+#. もう夜時間なのにさ。
+msgctxt "0002 | c03_014_001 | C005_Oma__"
 msgid ""
 "...but Shuichi, Maki, are you guys even\n"
 "allowed to be here? It's already nighttime."
 msgstr ""
 
-msgctxt "0004"
+#. あっ…！
+msgctxt "0003 | c03_014_001 | C011_Chaba"
 msgid "Ah!"
 msgstr ""
 
-msgctxt "0005"
+#. こ、こ、これはですね！
+#. 転子が夜時間の取り締まりに出ていて…
+msgctxt "0004 | c03_014_001 | C011_Chaba"
 msgid ""
 "I...I was just...keeping watch for anyone\n"
 "out during nighttime hours..."
 msgstr ""
 
-msgctxt "0006"
+#. この２人が外をうろちょろしていたので
+#. 捕まえてきたところなんです！
+msgctxt "0005 | c03_014_001 | C011_Chaba"
 msgid ""
 "...and then I caught these two roaming\n"
 "around!"
 msgstr ""
 
-msgctxt "0007"
+#. 転子はあくまで、生徒会の一員として
+#. 真面目に活動しているんですよっ！　生徒会として！
+msgctxt "0006 | c03_014_001 | C011_Chaba"
 msgid ""
 "Yep! I'm just doing my job as a student council\n"
 "member! Since I'm on the student council! "
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>茶柱さん…
+#. そこまで必死になると怪しまれるんじゃ…
+msgctxt "0007 | c03_014_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Tenko...if you act that enthusiastic,\n"
 "you come across as suspicious."
 msgstr ""
 
-msgctxt "0009"
+#. 王馬さんも、寄宿舎の自室に戻って
+#. さっさと寝てください！
+msgctxt "0008 | c03_014_001 | C011_Chaba"
 msgid "Kokichi! Go back to your room and sleep!"
 msgstr ""
 
-msgctxt "0010"
+#. ふーん、そっかー。
+#. 茶柱ちゃんは真面目なんだー。
+msgctxt "0009 | c03_014_001 | C005_Oma__"
 msgid "Ohh, I see you take your job very seriously."
 msgstr ""
 
-msgctxt "0011"
+#. でもさ、嘘をつくのは不真面目だよね。
+msgctxt "0010 | c03_014_001 | C005_Oma__"
 msgid "But you shouldn't lie..."
 msgstr ""
 
-msgctxt "0012"
+#. えっ…
+msgctxt "0011 | c03_014_001 | C011_Chaba"
 msgid "What...?"
 msgstr ""
 
-msgctxt "0013"
+#. にしし！
+#. じゃ、おやすみー！
+msgctxt "0012 | c03_014_001 | C005_Oma__"
 msgid ""
 "...Lie down on the job, that is!\n"
 "Nee-heehee! Well, good night!"
 msgstr ""
 
-msgctxt "0014"
+#. ば、バレてましたかね？
+msgctxt "0013 | c03_014_001 | C011_Chaba"
 msgid "D-Do you think he could tell?"
 msgstr ""
 
-msgctxt "0015"
+#. さぁ、どうだろう？
+#. あいつはいつも適当な事を言ってるし、よくわからない。
+msgctxt "0014 | c03_014_001 | C010_Haruk"
 msgid ""
 "Who knows? It's hard to tell with him.\n"
 "He's always spouting random nonsense."
 msgstr ""
 
-msgctxt "0016"
+#. ねぇ、それより早く行こう。
+#. 夜長は美術教室にいるんでしょ？
+msgctxt "0015 | c03_014_001 | C010_Haruk"
 msgid "Anyway, let's hurry. Angie's in her lab, right?"
 msgstr ""
 
-msgctxt "0017"
+#. …なるほど、これが男死ですか。
+#. 人が真面目にお願いしたというのに…
+msgctxt "0016 | c03_014_001 | C011_Chaba"
 msgid ""
 "Typical degenerate male...\n"
 "I asked you to do me a favor..."
 msgstr ""
 
-msgctxt "0018"
+#. それを無視どころか、
+#. こうして不埒な真似までしようとする…！
+msgctxt "0017 | c03_014_001 | C011_Chaba"
 msgid ""
 "Not only did you ignore it, but now you're\n"
 "trying to do something inexcusable!"
 msgstr ""
 
-msgctxt "0019"
+#. 最原さんは死にたいようですね！！
+msgctxt "0018 | c03_014_001 | C011_Chaba"
 msgid "Do you have a death wish, Shuichi!?"
 msgstr ""
 
-msgctxt "0020"
+#. い、いや、ごめん！
+#. ちょっと間違えちゃっただけだから！
+msgctxt "0019 | c03_014_001 | C000_Saiha"
 msgid ""
 "N-No! I'm sorry!\n"
 "It was just a small mistake!"
 msgstr ""
 
-msgctxt "0021"
+#. 間違えで済む問題ではありませんっ！
+msgctxt "0020 | c03_014_001 | C011_Chaba"
 msgid "This is way worse than a simple mistake!"
 msgstr ""
 
-msgctxt "0022"
+#. …ねぇ、ここで揉めてる場合？
+msgctxt "0021 | c03_014_001 | C010_Haruk"
 msgid "...Do we really have time for this?"
 msgstr ""
 
-msgctxt "0023"
+#. 最原、余計な事はもうしないで。
+#. さっさと行くよ。
+msgctxt "0022 | c03_014_001 | C010_Haruk"
 msgid ""
 "Shuichi, stop pissing Tenko off.\n"
 "Let's hurry up and go."
 msgstr ""
 
-msgctxt "0024"
+#. うん…
+msgctxt "0023 | c03_014_001 | C000_Saiha"
 msgid "Yeah..."
 msgstr ""
 
-msgctxt "0025"
+#. …余計な事はもうしないでって言ったよね。
+#. 聞こえてなかったの？
+msgctxt "0024 | c03_014_001 | C010_Haruk"
 msgid ""
 "...Did you hear me?\n"
 "I told you to stop pissing Tenko off."
 msgstr ""
 
-msgctxt "0026"
+#. <CLT=cltMIND>このモニターって特注品だよな？
+msgctxt "0025 | c03_014_001 | chara_Blank"
 msgid "<CLT=cltMIND>This monitor has to be custom made..."
 msgstr ""
 
-msgctxt "0027"
+#. <CLT=cltMIND>こんな物をわざわざ作るなんて、
+#. どこからどんな予算が出てるんだ？
+msgctxt "0026 | c03_014_001 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Why go out of their way to make this?\n"
 "Where is this budget coming from?"

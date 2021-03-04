@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,87 +11,108 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. ゴン太は
+#. <CLT=size2>紳士<CLT=size1>なんだよ！？
+msgctxt "0000 | c03_206_001 | C004_Gokuh"
 msgid ""
 "Gonta is\n"
 "<CLT=size2>gentleman!"
 msgstr ""
 
-msgctxt "0002"
+#. ゴン太は紳士なんだよ！？
+msgctxt "0001 | c03_206_001 | C004_Gokuh"
 msgid "Gonta is gentleman!"
 msgstr ""
 
-msgctxt "0003"
+#. 紳士は生徒会を
+#. <CLT=size2>裏切ったりしない！
+msgctxt "0002 | c03_206_001 | C004_Gokuh"
 msgid ""
 "Gentleman not\n"
 "<CLT=size2>betray<CLT=size1> student council!"
 msgstr ""
 
-msgctxt "0004"
+#. 紳士は生徒会を裏切ったりしない！
+msgctxt "0003 | c03_206_001 | C004_Gokuh"
 msgid ""
 "Gentleman not\n"
 "betray student council!"
 msgstr ""
 
-msgctxt "0005"
+#. 昨日の夜時間の
+#. <CLT=size2>アリバイ<CLT=size1>は？
+msgctxt "0004 | c03_206_001 | C006_Shing"
 msgid ""
 "And do you have an\n"
 "<CLT=size2>alibi<CLT=size1> for last night?"
 msgstr ""
 
-msgctxt "0006"
+#. 昨日の夜時間のアリバイは？
+msgctxt "0005 | c03_206_001 | C006_Shing"
 msgid "And do you have an alibi for last night?"
 msgstr ""
 
-msgctxt "0007"
+#. 部屋で<CLT=size2>虫<CLT=size1>さんと話してたよ。
+msgctxt "0006 | c03_206_001 | C004_Gokuh"
 msgid ""
 "Gonta in room,\n"
 "talking to <CLT=size2>bug friends."
 msgstr ""
 
-msgctxt "0008"
+#. 部屋で虫さんと話してたよ。
+msgctxt "0007 | c03_206_001 | C004_Gokuh"
 msgid ""
 "Gonta in room,\n"
 "talking to bug friends."
 msgstr ""
 
-msgctxt "0009"
+#. 夜時間の出歩きは
+#. <CLT=cltWEAK><CLT=size2>控えた方<CLT=size1>が
+#. いい<CLT=cltNORMAL>からね。
+msgctxt "0008 | c03_206_001 | C004_Gokuh"
 msgid ""
 "Much better than being\n"
 "<CLT=cltWEAK><CLT=size2>out too late<CLT=size1><CLT=cltNORMAL>\n"
 "at night."
 msgstr ""
 
-msgctxt "0010"
+#. 夜時間の出歩きは控えた方がいいからね。
+msgctxt "0009 | c03_206_001 | C004_Gokuh"
 msgid ""
 "Much better than being\n"
 "out too late at night."
 msgstr ""
 
-msgctxt "0011"
+#. 疑うなら<CLT=size2>虫<CLT=size1>さんに聞いてみてよ！
+msgctxt "0010 | c03_206_001 | C004_Gokuh"
 msgid ""
 "Ask <CLT=size2>bug friends<CLT=size1>\n"
 "if Kiyo doubt Gonta!"
 msgstr ""
 
-msgctxt "0012"
+#. 疑うなら虫さんに聞いてみてよ！
+msgctxt "0011 | c03_206_001 | C004_Gokuh"
 msgid ""
 "Ask bug friends if\n"
 "Kiyo doubt Gonta!"
 msgstr ""
 
-msgctxt "0013"
+#. 僕は虫さんに話は聞けないヨ…
+msgctxt "0012 | c03_206_001 | C006_Shing"
 msgid "I can't question an insect..."
 msgstr ""
 
-msgctxt "0014"
+#. 僕は虫さんに話は聞けないヨ…
+msgctxt "0013 | c03_206_001 | C006_Shing"
 msgid "I can't question an insect..."
 msgstr ""
 
-msgctxt "0015"
+#. そんなのアリバイになんねーよ！
+msgctxt "0014 | c03_206_001 | C014_Iruma"
 msgid "That's not an alibi!"
 msgstr ""
 
-msgctxt "0016"
+#. これじゃ埒が明かないね。
+msgctxt "0015 | c03_206_001 | C010_Haruk"
 msgid "This is going nowhere."
 msgstr ""

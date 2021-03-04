@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,176 +11,230 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. いや、アンジーさんの儀式は
+#. 成功していないはずだよ。
+msgctxt "0000 | c03_203_000 | C000_Saiha"
 msgid "I don't think Angie's ritual succeeded."
 msgstr ""
 
-msgctxt "0002"
+#. モノクマの動機として配られた<CLT=cltSTRONG>“屍者の書”<CLT=cltNORMAL>によると、
+#. 儀式で死者を復活させるには…
+msgctxt "0001 | c03_203_000 | C000_Saiha"
 msgid ""
 "According to the <CLT=cltSTRONG>Necronomicon<CLT=cltNORMAL>\n"
 "Monokuma showed us...\n"
 ""
 msgstr ""
 
-msgctxt "0003"
+#. この“屍者の書”自体を、
+#. <CLT=cltSTRONG>燃やさなければいけない<CLT=cltNORMAL>らしいんだ。
+msgctxt "0002 | c03_203_000 | C000_Saiha"
 msgid ""
 "You <CLT=cltSTRONG>have to burn<CLT=cltNORMAL>\n"
 "the Necronomicon in the ritual."
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>人形を用意した後は、
+#. この屍者の書を燃やして灰にしてください。
+msgctxt "0003 | c03_203_000 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>After preparing the effigy,\n"
 "burn this Necronomicon to ashes."
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltSYSTEM>燃やす際の火傷や一酸化炭素中毒には
+#. くれぐれもご注意ください。
+msgctxt "0004 | c03_203_000 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>Use caution! Be mindful of\n"
 "carbon monoxide poisoning!"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltSYSTEM>その灰を人形に振りかけながら、
+#. 蘇らせたい人の名前を３回呼んであげてください。
+msgctxt "0005 | c03_203_000 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>Sprinkle the ashes on the effigy and repeat\n"
 "the name of the deceased three times."
 msgstr ""
 
-msgctxt "0007"
+#. だから、もしアンジーさんの儀式が成功しているなら、
+#. “屍者の書”が残っているはずがないんだよ。
+msgctxt "0006 | c03_203_000 | C000_Saiha"
 msgid ""
 "If Angie's ritual had succeeded,\n"
 "the book would have been gone."
 msgstr ""
 
-msgctxt "0008"
+#. 逆に“屍者の書”が残っていたという事は、
+#. アンジーさんは儀式が終了する前に殺されたのですね？
+msgctxt "0007 | c03_203_000 | C007_Ki-Bo"
 msgid ""
 "So she must have been killed before the ritual\n"
 "was complete, since the book was still intact."
 msgstr ""
 
-msgctxt "0009"
+#. だったら…“転校生”に殺された可能性はなくなるね。
+msgctxt "0008 | c03_203_000 | C004_Gokuh"
 msgid ""
 "Then...Gonta think Rantaro probably not\n"
 "culprit."
 msgstr ""
 
-msgctxt "0010"
+#. …あぁ、それはそうだね。
+msgctxt "0009 | c03_203_000 | C012_Shiro"
 msgid "Oh...I guess you're right."
 msgstr ""
 
-msgctxt "0011"
+#. つーか…あたりめーだろ。
+#. そ、そもそも…死んだヤツが蘇る訳ねーじゃねーか。
+msgctxt "0010 | c03_203_000 | C001_Momot"
 msgid ""
 "W-Well duh. There's no way a\n"
 "dead person could...r-resurrect."
 msgstr ""
 
-msgctxt "0012"
+#. ちょっと待ってよ！
+#. それは聞き捨てならないなぁ！
+msgctxt "0011 | c03_203_000 | C020_Monok"
 msgid ""
 "Now hold on a second!\n"
 "I can't let that comment stand!"
 msgstr ""
 
-msgctxt "0013"
+#. 死んだ人が蘇らないって？
+#. 常識で考えればそうかもしれないけど…
+msgctxt "0012 | c03_203_000 | C020_Monok"
 msgid ""
 "Sure, everybody knows that you can't bring\n"
 "the dead back to life..."
 msgstr ""
 
-msgctxt "0014"
+#. この才囚学園では違うよ！
+#. “屍者の書”を使えば、死者は本当に蘇ったんだ！
+msgctxt "0013 | c03_203_000 | C020_Monok"
 msgid ""
 "But it's easy at the Ultimate Academy!\n"
 "As long as you use the Necronomicon!"
 msgstr ""
 
-msgctxt "0015"
+#. な、何言ってやがんだ…
+#. そんな事…ある訳ねーじゃねーか…
+msgctxt "0014 | c03_203_000 | C001_Momot"
 msgid ""
 "Wh-What are you talking about?\n"
 "There's no way that's possible..."
 msgstr ""
 
-msgctxt "0016"
+#. えー、ホントだよー。
+#. ボクは動機に関しては嘘をつかないからね。
+msgctxt "0015 | c03_203_000 | C020_Monok"
 msgid "But it's true. I never lie about motives."
 msgstr ""
 
-msgctxt "0017"
+#. お父ちゃんが言うなら間違いないわ！
+#. 死者の蘇りは本当にあったのよ！
+msgctxt "0016 | c03_203_000 | C023_Mfunn"
 msgid ""
 "Daddy said so, so he can't be wrong!\n"
 "Raising the dead is totally possible!"
 msgstr ""
 
-msgctxt "0018"
+#. あーあ、そんな凄い“動機”を使わないなんて、
+#. もったいないんだー。
+msgctxt "0017 | c03_203_000 | C021_Mtaro"
 msgid ""
 "Man, I can't believe you guys wasted\n"
 "such a perfectly good motive."
 msgstr ""
 
-msgctxt "0019"
+#. どうせなら、オイラに使わせてくれれば良かったのに。
+#. そうすればモノダムを蘇らせてあげられたのに。
+msgctxt "0018 | c03_203_000 | C021_Mtaro"
 msgid ""
 "You should've let me use it to bring\n"
 "Monodam back to life."
 msgstr ""
 
-msgctxt "0020"
+#. …モノダムはまだ生きているわよ？
+msgctxt "0019 | c03_203_000 | C023_Mfunn"
 msgid "...Monodam is still alive, though."
 msgstr ""
 
-msgctxt "0021"
+#. きゃははっ、冗談だよー。
+#. モノダムが死んでたとしても蘇らせたりしないってー。
+msgctxt "0020 | c03_203_000 | C021_Mtaro"
 msgid ""
 "Hahaha! I'm just kidding. I wouldn't waste\n"
 "a resurrection on Monodam's corpse."
 msgstr ""
 
-msgctxt "0022"
+#. ………………
+msgctxt "0021 | c03_203_000 | C024_Mdam_"
 msgid "..."
 msgstr "..."
 
-msgctxt "0023"
+#. え？　結局“死者の蘇り”って本当にあったの？
+msgctxt "0022 | c03_203_000 | C012_Shiro"
 msgid ""
 "Oooh? So resurrecting the dead was\n"
 "actually possible this whole time?"
 msgstr ""
 
-msgctxt "0024"
+#. そ、そんな訳ねーっつってんだろ！
+msgctxt "0023 | c03_203_000 | C001_Momot"
 msgid "Th-There's no way it's possible!"
 msgstr ""
 
-msgctxt "0025"
+#. バカバカしい…死者の蘇りなんてある訳ない。
+#. モノクマは私達を混乱させようとしているだけだよ。
+msgctxt "0024 | c03_203_000 | C010_Haruk"
 msgid ""
 "There's no way that could happen, idiots. \n"
 "Monokuma is trying to confuse us."
 msgstr ""
 
-msgctxt "0026"
+#. それより…さっさとクロを突き止めようよ。
+msgctxt "0025 | c03_203_000 | C010_Haruk"
 msgid ""
 "Let's hurry up and find out who the \n"
 "blackened is."
 msgstr ""
 
-msgctxt "0027"
+#. 殺したのが転校生でないとなると、
+#. やっぱり、犯人は僕らの中にいるんだネ。
+msgctxt "0026 | c03_203_000 | C006_Shing"
 msgid ""
 "If our \"transfer student\" isn't the\n"
 "culprit, then blame falls to one of us."
 msgstr ""
 
-msgctxt "0028"
+#. 誰じゃ…！　誰がやったんじゃ…！
+msgctxt "0027 | c03_203_000 | C009_Yumen"
 msgid "Who!? Who did it!?"
 msgstr ""
 
-msgctxt "0029"
+#. オレ様にはわかってるぜ！
+msgctxt "0028 | c03_203_000 | C014_Iruma"
 msgid "Step aside, half-pint! I'll handle this!"
 msgstr ""
 
-msgctxt "0030"
+#. 茶柱の方は知らねーけど、
+#. アンジーを殺した犯人は真宮寺是清でぶっ決まりだ！
+msgctxt "0029 | c03_203_000 | C014_Iruma"
 msgid ""
 "I dunno about Tenko, but I'm pretty fuckin'\n"
 "sure Kiyo murdered Angie!"
 msgstr ""
 
-msgctxt "0031"
+#. …え？　なんで？
+msgctxt "0030 | c03_203_000 | C006_Shing"
 msgid "What...? Why?"
 msgstr ""
 
-msgctxt "0032"
+#. とぼけても無駄だ！
+#. オレ様には何もかも丸わかりだからなッ！
+msgctxt "0031 | c03_203_000 | C014_Iruma"
 msgid ""
 "Don't play dumb with me, creepshow!\n"
 "I already know what happened!"

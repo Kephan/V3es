@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,63 +11,79 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. はい
+msgctxt "0000 | c03_008_147 | non"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0002"
+#. いいえ
+msgctxt "0001 | c03_008_147 | non"
 msgid "No"
 msgstr ""
 
-msgctxt "0003"
+#. もしかして悩んでいるの？
+msgctxt "0002 | c03_008_147 | non"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0003 | c03_008_147 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>大量の洗濯機が置かれている…
+msgctxt "0004 | c03_008_147 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There are a lot of washing machines\n"
 "in here..."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>これだけあれば、確かに掃除もはかどるだろうな…
+msgctxt "0005 | c03_008_147 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>These are some powerful cleaning tools. You\n"
 "could get a lot of cleaning done with these."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+msgctxt "0006 | c03_008_147 | chara_Blank"
 msgid "<CLT=cltMIND>It's a monitor for communicating with us."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>こんな風にゴテゴテしているのは…
+#. モノクマの趣味なのか？
+msgctxt "0007 | c03_008_147 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's so clunky...\n"
 "I wonder if that's just what Monokuma likes."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>クローゼットの中には…
+#. 掃除機やら高圧洗浄機やらが押し込まれている。
+msgctxt "0008 | c03_008_147 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This closet has vacuum cleaners\n"
 "and a high-powered pressure washer.\n"
 ""
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>でも、これを使う人は…
+#. 東条さんは…もういないんだ…
+msgctxt "0009 | c03_008_147 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>But Kirumi...\n"
 "isn't here anymore."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>人形が食卓についている…
+#. 一家団欒の風景のつもりなんだろうか？
+msgctxt "0010 | c03_008_147 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There's a doll at the dining table...\n"
 "Perhaps a family dinner?"
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>見ている方としては、寒々しさしか感じない…
+msgctxt "0011 | c03_008_147 | chara_Blank"
 msgid "<CLT=cltMIND>But it's kind of...depressing."
 msgstr ""

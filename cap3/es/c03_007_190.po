@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,75 +11,97 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>僕は、最終安全装置を解除した男のロマン砲を胸に
+#. プールに向かい…
+msgctxt "0000 | c03_007_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I headed to the pool. My heart's safety\n"
 "was off, and I was going in guns blazing."
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>そして、超新星のように輝くロマンを…そこに見た！
+msgctxt "0001 | c03_007_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>What an incredible sight to behold!\n"
 "My fantasy, shining like a supernova!"
 msgstr ""
 
-msgctxt "0003"
+#. にゃははー！
+#. つむぎ、おっきいねー！　触っていい？
+msgctxt "0002 | c03_007_190 | C013_Yonag"
 msgid ""
 "Nyahaha! They're so big, Tsumugi!\n"
 "Do you mind if I touch them?"
 msgstr ""
 
-msgctxt "0004"
+#. えぇっ？
+#. 触るのは…ちょっと困るって。
+msgctxt "0003 | c03_007_190 | C012_Shiro"
 msgid ""
 "What? I mean...it's embarrassing\n"
 "if you touch them..."
 msgstr ""
 
-msgctxt "0005"
+#. むむむ…
+msgctxt "0004 | c03_007_190 | C009_Yumen"
 msgid "Mrgrnyeh..."
 msgstr ""
 
-msgctxt "0006"
+#. どうしたんですか、夢野さん？
+msgctxt "0005 | c03_007_190 | C011_Chaba"
 msgid "What's wrong, Himiko?"
 msgstr ""
 
-msgctxt "0007"
+#. な、なんでもないわい。
+msgctxt "0006 | c03_007_190 | C009_Yumen"
 msgid "N-Nothing..."
 msgstr ""
 
-msgctxt "0008"
+#. いいか？　ウチが小さいのは
+#. 魔力にその分を費やしとるからなんじゃ…
+msgctxt "0007 | c03_007_190 | C009_Yumen"
 msgid ""
 "It would just be a waste of magic to grow \n"
 "them that big anyway..."
 msgstr ""
 
-msgctxt "0009"
+#. …あぁ、そういう事でしたか！
+msgctxt "0008 | c03_007_190 | C011_Chaba"
 msgid "...Ohhh, I understand now!"
 msgstr ""
 
-msgctxt "0010"
+#. 大丈夫ですよ！　夢野さんは形が良いですから！
+#. 巨よりも美です！！
+msgctxt "0009 | c03_007_190 | C011_Chaba"
 msgid ""
 "Don't worry! They're nicely shaped!\n"
 "Beauty is way better than size anyway!!!"
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>………………
+msgctxt "0010 | c03_007_190 | chara_Blank"
 msgid "<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>みんなでって…生徒会の女子でって事だったのか。
+#. きっと生徒会の親睦会なんだな。
+msgctxt "0011 | c03_007_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>So this is what Angie was planning...\n"
 "a party for the student council."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>しかし、見てしまった…けど…
+#. 本当にこれで良かったんだろうか…？
+msgctxt "0012 | c03_007_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Anyway...I saw it. I then immediately\n"
 "questioned the morality of my actions."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>とりあえず、この事は黙っていた方がいいな。
+#. 僕の胸の中だけにしまっておこう…
+msgctxt "0013 | c03_007_190 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I just have to keep quiet...\n"
 "Keep it inside, keep it together!"

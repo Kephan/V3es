@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,170 +11,220 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. いや、真宮寺くんはアンジーさんの研究教室には
+#. 入れなかったはずだよ。
+msgctxt "0000 | c03_205_000 | C000_Saiha"
 msgid ""
 "No, Kiyo would not have been\n"
 "able to enter Angie's lab."
 msgstr ""
 
-msgctxt "0002"
+#. そうだよね、白銀さん。
+msgctxt "0001 | c03_205_000 | C000_Saiha"
 msgid "Isn't that right, Tsumugi?"
 msgstr ""
 
-msgctxt "0003"
+#. うん、アンジーさんは自分の研究教室にこもる前に
+#. 言ってたからね…
+msgctxt "0002 | c03_205_000 | C012_Shiro"
 msgid ""
 "Yeah, before Angie locked herself\n"
 "up in her research lab..."
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSTRONG>生徒会のメンバー<CLT=cltNORMAL>から声が掛からない限りは、
+#. 絶対に扉の鍵は開けないって。
+msgctxt "0003 | c03_205_000 | C012_Shiro"
 msgid ""
 "She said she wasn't going to open up\n"
 "for anyone but <CLT=cltSTRONG>student council members<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0005"
+#. つまり、生徒会のメンバーじゃない真宮寺くんだと、
+#. アンジーさんに扉を開けてもらえなかったんだ。
+msgctxt "0004 | c03_205_000 | C000_Saiha"
 msgid ""
 "And Kiyo is not a member. She wouldn't\n"
 "have opened the door for him."
 msgstr ""
 
-msgctxt "0006"
+#. じゃあ、アンジーちゃんを殺したくても殺せないね！
+msgctxt "0005 | c03_205_000 | C005_Oma__"
 msgid ""
 "Kiyo couldn't have killed Angie, \n"
 "even if he wanted to!"
 msgstr ""
 
-msgctxt "0007"
+#. そもそも、殺したいと思ってないけどネ。
+msgctxt "0006 | c03_205_000 | C006_Shing"
 msgid ""
 "I had no desire to kill her \n"
 "in the first place."
 msgstr ""
 
-msgctxt "0008"
+#. つー事はよ、アンジーを殺したのは、
+#. あいつの教室に入れてもらえた生徒会の誰かなのか？
+msgctxt "0007 | c03_205_000 | C001_Momot"
 msgid ""
 "So whoever killed Angie musta been one \n"
 "of the student council members, yeah?"
 msgstr ""
 
-msgctxt "0009"
+#. よ、よくわかったな…
+#. オレ様はその答えを導き出す為に一芝居打ったんだ…
+msgctxt "0008 | c03_205_000 | C014_Iruma"
 msgid ""
 "I...I was doin' a bit to lead you to the right\n"
 "answer... Can't believe you actually got it..."
 msgstr ""
 
-msgctxt "0010"
+#. そっか、そうなんだね！
+msgctxt "0009 | c03_205_000 | C004_Gokuh"
 msgid "Oh! How clever!"
 msgstr ""
 
-msgctxt "0011"
+#. …ゴン太君、無視していいところだよ。
+msgctxt "0010 | c03_205_000 | C012_Shiro"
 msgid "You can just ignore her, Gonta..."
 msgstr ""
 
-msgctxt "0012"
+#. えぇと…残ってる生徒会のメンバーは、
+#. ゴン太君にキーボ君に白銀さんに夢野さんだったネ？
+msgctxt "0011 | c03_205_000 | C006_Shing"
 msgid ""
 "The remaining student council members\n"
 "are Gonta, Keebo, Tsumugi, and Himiko."
 msgstr ""
 
-msgctxt "0013"
+#. さすがに、夢野ちゃんはないでしょ。
+#. アンジーちゃんとは１番の仲良しだったんだし。
+msgctxt "0012 | c03_205_000 | C005_Oma__"
 msgid ""
 "Well, it can't be Himiko.\n"
 "She was besties with Angie."
 msgstr ""
 
-msgctxt "0014"
+#. オレは２人の友情を信じるよ！
+#. もちろん、みんなも信じてあげるよね！？
+msgctxt "0013 | c03_205_000 | C005_Oma__"
 msgid ""
 "I trust their friendship!\n"
 "You guys do too, riiiight!?"
 msgstr ""
 
-msgctxt "0015"
+#. うん！　もちろんだよ！
+msgctxt "0014 | c03_205_000 | C004_Gokuh"
 msgid "Yeah, of course!"
 msgstr ""
 
-msgctxt "0016"
+#. …そんなに簡単に信じていいんですか？
+msgctxt "0015 | c03_205_000 | C007_Ki-Bo"
 msgid "...Can we trust their friendship so readily?"
 msgstr ""
 
-msgctxt "0017"
+#. いいんだよ！
+#. とりあえず信じるところから始めてみればさ！
+msgctxt "0016 | c03_205_000 | C005_Oma__"
 msgid "Obviously! Let's believe in them!"
 msgstr ""
 
-msgctxt "0018"
+#. ………………
+msgctxt "0017 | c03_205_000 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0019"
+#. となると、残る容疑者は、
+#. ゴン太君と白銀さんとキーボ君の３人だネ。
+msgctxt "0018 | c03_205_000 | C006_Shing"
 msgid ""
 "That trims our list of suspects down \n"
 "to three—Gonta, Tsumugi, and Keebo."
 msgstr ""
 
-msgctxt "0020"
+#. うんっ！　その中の誰かが犯人なんだよ！
+msgctxt "0019 | c03_205_000 | C005_Oma__"
 msgid ""
 "Yep, yep! The culprit is one of those\n"
 "three people!"
 msgstr ""
 
-msgctxt "0021"
+#. いや、ちげーぞ！
+#. ３人じゃなくて２人と１体だ！
+msgctxt "0020 | c03_205_000 | C014_Iruma"
 msgid ""
 "You mean one of those *two* people!\n"
 "Cuz a robot ain't people, jack!"
 msgstr ""
 
-msgctxt "0022"
+#. わざわざ訂正する必要ありません。
+#. それより…いくらなんでも話が強引過ぎませんか？
+msgctxt "0021 | c03_205_000 | C007_Ki-Bo"
 msgid ""
 "I will let that remark slide... Anyway, aren't\n"
 "these accusations just a tad too hasty?"
 msgstr ""
 
-msgctxt "0023"
+#. いいから、犯人はさっさと白状しろよ！
+#. ゴン太か！？　キー坊か！？　白銀ちゃんか！？
+msgctxt "0022 | c03_205_000 | C005_Oma__"
 msgid ""
 "Whatevs! The culprit should confess already!\n"
 "Gonta, Kee-boy, or Tsumugi! Well!?"
 msgstr ""
 
-msgctxt "0024"
+#. ゴ、ゴン太は違うよ！
+#. ゴン太がアンジーさんを殺す訳ないよ！
+msgctxt "0023 | c03_205_000 | C004_Gokuh"
 msgid ""
 "N-No, not Gonta!\n"
 "Gonta would never kill Angie!"
 msgstr ""
 
-msgctxt "0025"
+#. そうだよっ！
+#. どうして、わたしとゴン太君が疑われるのっ！？
+msgctxt "0024 | c03_205_000 | C012_Shiro"
 msgid ""
 "Yeah! Gonta's a gentleman!\n"
 "You shouldn't suspect either of us!"
 msgstr ""
 
-msgctxt "0026"
+#. ボクもいます！　ボクも庇ってください！
+msgctxt "0025 | c03_205_000 | C007_Ki-Bo"
 msgid "Hey! Stick up for me, too!"
 msgstr ""
 
-msgctxt "0027"
+#. 疑うなら、拷問でもなんでもして確かめてよ。
+#. ゴン太は絶対に誰も傷付けてないから。
+msgctxt "0026 | c03_205_000 | C004_Gokuh"
 msgid ""
 "Gonta definitely not hurt anyone.\n"
 "Torture Gonta if you don't believe."
 msgstr ""
 
-msgctxt "0028"
+#. ご、拷問は困るけど…
+#. とにかく、わたしもゴン太君も犯人じゃないって！
+msgctxt "0027 | c03_205_000 | C012_Shiro"
 msgid ""
 "T-Torture might be a bit too far...\n"
 "But Gonta and I aren't the culprits!"
 msgstr ""
 
-msgctxt "0029"
+#. だから、ボクだってそうですよ！
+msgctxt "0028 | c03_205_000 | C007_Ki-Bo"
 msgid "And I'm not the culprit either! Geez!"
 msgstr ""
 
-msgctxt "0030"
+#. ゴン太は犯人じゃないよ！
+msgctxt "0029 | c03_205_000 | C004_Gokuh"
 msgid "Gonta not culprit!"
 msgstr ""
 
-msgctxt "0031"
+#. ボクは犯人じゃありません！
+msgctxt "0030 | c03_205_000 | C007_Ki-Bo"
 msgid "I'm not the culprit!"
 msgstr ""
 
-msgctxt "0032"
+#. わたしは犯人じゃないって！
+msgctxt "0031 | c03_205_000 | C012_Shiro"
 msgid "I'm plainly not the culprit!"
 msgstr ""

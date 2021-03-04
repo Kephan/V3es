@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,117 +11,150 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. はい
+msgctxt "0000 | c03_008_138 | non"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0002"
+#. いいえ
+msgctxt "0001 | c03_008_138 | non"
 msgid "No"
 msgstr ""
 
-msgctxt "0003"
+#. もしかして悩んでいるの？
+msgctxt "0002 | c03_008_138 | non"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0003 | c03_008_138 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0004 | c03_008_138 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0005 | c03_008_138 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>台座に載せられた大きな木像がある…
+#. 犬を象った、かなり古い物みたいだ。
+msgctxt "0006 | c03_008_138 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There's a large wooden dog statue on the\n"
 "pedestal. It looks pretty old."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>これは、<CLT=cltSTRONG>“かごのこ”<CLT=cltMIND>という降霊術で使う物らしい…
+msgctxt "0007 | c03_008_138 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Apparently, it's used in <CLT=cltSTRONG>The Caged Child<CLT=cltMIND>\n"
 "seance..."
 msgstr ""
 
-msgctxt "0009"
+#. 窓
+msgctxt "0008 | c03_008_138 | chara_Blank"
 msgid "Window"
 msgstr ""
 
-msgctxt "0010"
+#. 布
+msgctxt "0009 | c03_008_138 | chara_Blank"
 msgid "Cloth"
 msgstr ""
 
-msgctxt "0011"
+#. かご
+msgctxt "0010 | c03_008_138 | chara_Blank"
 msgid "Cage"
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>ガラスケースの中に色んな物が飾ってある。
+#. ほとんどよくわからない物ばっかりだけど…
+msgctxt "0011 | c03_008_138 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There are many items on display in the\n"
 "glass case. I can't identify many of them, though."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>この刀は凄いな…
+msgctxt "0012 | c03_008_138 | chara_Blank"
 msgid "<CLT=cltMIND>What a beautiful katana..."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>全長１００センチくらいはありそうな上に、
+#. 金箔を張ってある…
+msgctxt "0013 | c03_008_138 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It looks about a yard long,\n"
 "and there's gold leaf on the handle."
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>貴重な物らしいし、無闇に触らないようにしよう。
+msgctxt "0014 | c03_008_138 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's probably valuable...\n"
 "I shouldn't touch it."
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>本がビッシリと詰め込まれている。
+#. どれも、かなり古そうな物ばかりだ。
+msgctxt "0015 | c03_008_138 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's packed with books and scrolls...\n"
 "They're all weathered and old."
 msgstr ""
 
-msgctxt "0017"
+#. 全部ちゃんと調べようとしたら、
+#. いくら時間があっても足りないだろうな。
+msgctxt "0016 | c03_008_138 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I don't think I could read all of these\n"
 "if I had a million years..."
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltMIND>ショーケースの中に本が入っている。
+msgctxt "0017 | c03_008_138 | chara_Blank"
 msgid "<CLT=cltMIND>There's a book in the display case."
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltMIND>奥の本棚にも本がたくさんあるけど、
+#. それとは違ってかなり貴重な物なんだろう。
+msgctxt "0018 | c03_008_138 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The bookcases were full of books,\n"
 "but I imagine this one is special."
 msgstr ""
 
-msgctxt "0020"
+#. <CLT=cltMIND>特に、真宮寺くんが注目していた…
+msgctxt "0019 | c03_008_138 | chara_Blank"
 msgid "<CLT=cltMIND>Kiyo was particularly interested in this one..."
 msgstr ""
 
-msgctxt "0021"
+#. <CLT=cltMIND>この世で１冊しかない、手書きの本…
+msgctxt "0020 | c03_008_138 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>A handwritten book, the only copy\n"
 "in the whole world..."
 msgstr ""
 
-msgctxt "0022"
+#. <CLT=cltMIND>２００年ほど前に滅びた<CLT=cltSTRONG>“籠犬村”<CLT=cltMIND>の歴史について
+#. まとめられた本、か。
+msgctxt "0021 | c03_008_138 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>A history of the <CLT=cltSTRONG>Caged Dog Village<CLT=cltMIND>,\n"
 "which fell 200 years ago."
 msgstr ""
 
-msgctxt "0023"
+#. <CLT=cltMIND>色々と<CLT=cltSTRONG>“いわくつき”<CLT=cltMIND>みたいだし、
+#. 関わらないようにしよう…
+msgctxt "0022 | c03_008_138 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't want to get too close...\n"
 "I can feel the <CLT=cltSTRONG>dark aura<CLT=cltMIND> around it from here."

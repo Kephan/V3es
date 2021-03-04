@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,203 +11,253 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=size2>これ<CLT=size1>は
+msgctxt "0000 | c03_202_001 | C012_Shiro"
 msgid "This <CLT=size2>crime<CLT=size1> was"
 msgstr ""
 
-msgctxt "0002"
+#. これは死者の犯行なんだよ。
+msgctxt "0001 | c03_202_001 | C012_Shiro"
 msgid "This crime was committed by the recently deceased."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=size2>死者<CLT=size1>の
+msgctxt "0002 | c03_202_001 | C012_Shiro"
 msgid "<CLT=size2>committed<CLT=size1> by"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=size2>犯行<CLT=size1>なんだよ。
+msgctxt "0003 | c03_202_001 | C012_Shiro"
 msgid "the <CLT=size2>recently deceased."
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=size2>蘇<CLT=size1>った<CLT=size2>死者<CLT=size1>が
+#. <CLT=size2>２人<CLT=size1>を<CLT=size2>殺した<CLT=size1>んだよぉ！
+msgctxt "0004 | c03_202_001 | C012_Shiro"
 msgid ""
 "They <CLT=size2>came back<CLT=size1> to life\n"
 "and <CLT=size2>killed two<CLT=size1> of\n"
 "<CLT=size2>our classmates!"
 msgstr ""
 
-msgctxt "0006"
+#. 蘇った死者が２人を殺したんだよぉ！
+msgctxt "0005 | c03_202_001 | C012_Shiro"
 msgid ""
 "They came back to life\n"
 "and killed two of our classmates!"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=size4>や
+msgctxt "0006 | c03_202_001 | C001_Momot"
 msgid "<CLT=size4>N"
 msgstr ""
 
-msgctxt "0008"
+#. やめろぉぉぉぉ！！
+msgctxt "0007 | c03_202_001 | C001_Momot"
 msgid "NOOOOO!!!"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=size4>め
+msgctxt "0008 | c03_202_001 | C001_Momot"
 msgid "<CLT=size4>O"
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=size4>ろ<CLT=size1>ぉ
+msgctxt "0009 | c03_202_001 | C001_Momot"
 msgid "<CLT=size4>O<CLT=size1> O"
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=size1>ぉ<CLT=size2>ぉ
+msgctxt "0010 | c03_202_001 | C001_Momot"
 msgid "<CLT=size1>O <CLT=size2>O"
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=size2>ぉ
+msgctxt "0011 | c03_202_001 | C001_Momot"
 msgid "<CLT=size2>!"
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=size3>！
+msgctxt "0012 | c03_202_001 | C001_Momot"
 msgid "<CLT=size3>!"
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=size3>！
+msgctxt "0013 | c03_202_001 | C001_Momot"
 msgid "<CLT=size3>!"
 msgstr ""
 
-msgctxt "0015"
+#. じゃあ、死者の蘇りは
+#. <CLT=size2><CLT=cltWEAK>成功した<CLT=cltNORMAL>の！？
+msgctxt "0014 | c03_202_001 | C004_Gokuh"
 msgid ""
 "So ritual\n"
 "<CLT=size2><CLT=cltWEAK>did work<CLT=cltNORMAL>!?"
 msgstr ""
 
-msgctxt "0016"
+#. じゃあ、死者の蘇りは成功したの！？
+msgctxt "0015 | c03_202_001 | C004_Gokuh"
 msgid "So ritual did work!?"
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=size2>誰<CLT=size1>が<CLT=size2>蘇<CLT=size1>ったんだろうネ。
+msgctxt "0016 | c03_202_001 | C006_Shing"
 msgid ""
 "<CLT=size2>Who<CLT=size1> was <CLT=size2>resurrected,\n"
 "<CLT=size1>I wonder..."
 msgstr ""
 
-msgctxt "0018"
+#. 誰が蘇ったんだろうネ。
+msgctxt "0017 | c03_202_001 | C006_Shing"
 msgid "Who was resurrected, I wonder..."
 msgstr ""
 
-msgctxt "0019"
+#. アンジーは
+#. <CLT=size2><CLT=cltWEAK>天海<CLT=size1>を<CLT=size2>蘇らせる<CLT=cltNORMAL><CLT=size1>って言ってたぞ！
+msgctxt "0018 | c03_202_001 | C014_Iruma"
 msgid ""
 "Angie did say she was\n"
 "gonna <CLT=size2><CLT=cltWEAK>bring Rantaro back<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0020"
+#. アンジーは天海を蘇らせるって言ってたぞ！
+msgctxt "0019 | c03_202_001 | C014_Iruma"
 msgid ""
 "Angie did say she was\n"
 "gonna bring Rantaro back!"
 msgstr ""
 
-msgctxt "0021"
+#. そう…
+msgctxt "0020 | c03_202_001 | C012_Shiro"
 msgid "Yes..."
 msgstr ""
 
-msgctxt "0022"
+#. そう…天海君が蘇ったんだよ…
+msgctxt "0021 | c03_202_001 | C012_Shiro"
 msgid "Yes... Rantaro was resurrected..."
 msgstr ""
 
-msgctxt "0023"
+#. <CLT=size2>天海<CLT=size1>君が
+msgctxt "0022 | c03_202_001 | C012_Shiro"
 msgid "Rantaro was"
 msgstr ""
 
-msgctxt "0024"
+#. <CLT=size2>蘇<CLT=size1>ったんだよ…
+msgctxt "0023 | c03_202_001 | C012_Shiro"
 msgid "resurrected..."
 msgstr ""
 
-msgctxt "0025"
+#. <CLT=size2>犯人<CLT=size1>は
+msgctxt "0024 | c03_202_001 | C012_Shiro"
 msgid "The <CLT=size2>culprit<CLT=size1> is"
 msgstr ""
 
-msgctxt "0026"
+#. 犯人は死んだ天海君なんだよぉ！
+msgctxt "0025 | c03_202_001 | C012_Shiro"
 msgid "The culprit is the late Rantaro Amami!"
 msgstr ""
 
-msgctxt "0027"
+#. <CLT=size2>死んだ天海<CLT=size1>君なんだよぉ！
+msgctxt "0026 | c03_202_001 | C012_Shiro"
 msgid "the <CLT=size2>late<CLT=size1> Rantaro Amami!"
 msgstr ""
 
-msgctxt "0028"
+#. <CLT=size4>も<CLT=size3>う
+msgctxt "0027 | c03_202_001 | C001_Momot"
 msgid "<CLT=size3>PLEASE!"
 msgstr ""
 
-msgctxt "0029"
+#. もうやめてぇぇぇぇぇ！！
+msgctxt "0028 | c03_202_001 | C001_Momot"
 msgid "PLEASE! STOP IT!!!!!"
 msgstr ""
 
-msgctxt "0030"
+#. <CLT=size4>や
+msgctxt "0029 | c03_202_001 | C001_Momot"
 msgid "<CLT=size3>ST"
 msgstr ""
 
-msgctxt "0031"
+#. <CLT=size4>め
+msgctxt "0030 | c03_202_001 | C001_Momot"
 msgid "<CLT=size2>OP"
 msgstr ""
 
-msgctxt "0032"
+#. <CLT=size4>て<CLT=size1>ぇ
+msgctxt "0031 | c03_202_001 | C001_Momot"
 msgid "<CLT=size4>IT"
 msgstr ""
 
-msgctxt "0033"
+#. ぇぇぇ
+msgctxt "0032 | c03_202_001 | C001_Momot"
 msgid "<CLT=size2>!"
 msgstr ""
 
-msgctxt "0034"
+#. <CLT=size2>ぇ
+msgctxt "0033 | c03_202_001 | C001_Momot"
 msgid "<CLT=size2>!"
 msgstr ""
 
-msgctxt "0035"
+#. <CLT=size3>！
+msgctxt "0034 | c03_202_001 | C001_Momot"
 msgid "<CLT=size3>!"
 msgstr ""
 
-msgctxt "0036"
+#. <CLT=size3>！
+msgctxt "0035 | c03_202_001 | C001_Momot"
 msgid "<CLT=size3>!"
 msgstr ""
 
-msgctxt "0037"
+#. 誰が２人を殺したんじゃ…
+msgctxt "0036 | c03_202_001 | C009_Yumen"
 msgid "Who killed them...?"
 msgstr ""
 
-msgctxt "0038"
+#. オレ、ゾンビ大好き！
+msgctxt "0037 | c03_202_001 | C005_Oma__"
 msgid "I love zombies!"
 msgstr ""
 
-msgctxt "0039"
+#. だ、だからっ！
+msgctxt "0038 | c03_202_001 | C001_Momot"
 msgid "C-Come on..."
 msgstr ""
 
-msgctxt "0040"
+#. やめろよっ！
+msgctxt "0039 | c03_202_001 | C001_Momot"
 msgid "I said stop..."
 msgstr ""
 
-msgctxt "0041"
+#. 蘇りなんて…
+msgctxt "0040 | c03_202_001 | C001_Momot"
 msgid "Resurrected!?"
 msgstr ""
 
-msgctxt "0042"
+#. ふ、ふざっけんな！
+msgctxt "0041 | c03_202_001 | C001_Momot"
 msgid "Y-You gotta be kidding me!"
 msgstr ""
 
-msgctxt "0043"
+#. おいテメーら！
+msgctxt "0042 | c03_202_001 | C001_Momot"
 msgid "Guys?"
 msgstr ""
 
-msgctxt "0044"
+#. いい加減にしろよっ！
+msgctxt "0043 | c03_202_001 | C001_Momot"
 msgid "Come on, be serious..."
 msgstr ""
 
-msgctxt "0045"
+#. あり得ねーんだよ！
+msgctxt "0044 | c03_202_001 | C001_Momot"
 msgid "This can't be happening!"
 msgstr ""
 
-msgctxt "0046"
+#. もうやめねーか！
+msgctxt "0045 | c03_202_001 | C001_Momot"
 msgid "So stop it, stop it!"
 msgstr ""
 
-msgctxt "0047"
+#. 最原、なんとかして。
+msgctxt "0046 | c03_202_001 | C010_Haruk"
 msgid "Shuichi, say something."
 msgstr ""

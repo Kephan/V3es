@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,474 +11,617 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. ………………
+msgctxt "0000 | c03_014_258 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0002"
+#. 春川さん…さっきの百田くんの言葉は、
+#. そんなに気にしないでいいと思うよ。
+msgctxt "0001 | c03_014_258 | C000_Saiha"
 msgid ""
 "Maki, about Kaito...\n"
 "You shouldn't worry about it."
 msgstr ""
 
-msgctxt "0003"
+#. きっと、体調不良で弱気になってるだけで、
+#. 本心から思ってる訳じゃ――
+msgctxt "0002 | c03_014_258 | C000_Saiha"
 msgid ""
 "He's just feeling a little weak because\n"
 "he's sick, I'm sure he's not—"
 msgstr ""
 
-msgctxt "0004"
+#. ………………
+msgctxt "0003 | c03_014_258 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0005"
+#. <CLT=cltMIND>思わず、僕の体は硬直した。
+msgctxt "0004 | c03_014_258 | chara_Blank"
 msgid "<CLT=cltMIND>My body stiffened on impulse."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>春川さんの目付きが…
+#. いや、彼女の全身がまとう雰囲気さえも…
+msgctxt "0005 | c03_014_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Maki's eyes...and the entire aura\n"
 "surrounding her..."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>すっかり変貌していた。
+msgctxt "0006 | c03_014_258 | chara_Blank"
 msgid "<CLT=cltMIND>had completely changed."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>その眼差しは、
+#. 冷たさと熱さが同居した…
+msgctxt "0007 | c03_014_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Her glare was blazing hot yet\n"
 "icy cold at the same time."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>なんて言うか…氷のような炎だった。
+msgctxt "0008 | c03_014_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Her very essence was that\n"
 "of ice and fire."
 msgstr ""
 
-msgctxt "0010"
+#. は、春川…さ…ん？
+msgctxt "0009 | c03_014_258 | C000_Saiha"
 msgid "M-Maki...?"
 msgstr ""
 
-msgctxt "0011"
+#. ………………
+msgctxt "0010 | c03_014_258 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0012"
+#. <CLT=cltMIND>けど、その視線は僕に向けられたものではなく、
+#. 僕のさらに先の――
+msgctxt "0011 | c03_014_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>But her glare wasn't aimed at me.\n"
 "It was right past me."
 msgstr ""
 
-msgctxt "0013"
+#. うっ…うううっ…！
+#. 凄まじい…敵意ですね…！
+msgctxt "0012 | c03_014_258 | C011_Chaba"
 msgid ""
 "Ugh...ughhhh...!\n"
 "Such...intense...hostility...!"
 msgstr ""
 
-msgctxt "0014"
+#. 転子でなければ…受け流せずに卒倒していますよ…！
+#. それが…あなたの本気ですか…！
+msgctxt "0013 | c03_014_258 | C011_Chaba"
 msgid ""
 "So this is your power! A normal person would've\n"
 "passed out just from that glare!"
 msgstr ""
 
-msgctxt "0015"
+#. ちゃ、茶柱さん？
+msgctxt "0014 | c03_014_258 | C000_Saiha"
 msgid "T-Tenko?"
 msgstr ""
 
-msgctxt "0016"
+#. ………………
+msgctxt "0015 | c03_014_258 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0017"
+#. お、追い払いたいのかもしれませんが…
+#. 転子は…逃げませんよ。
+msgctxt "0016 | c03_014_258 | C011_Chaba"
 msgid ""
 "You probably want me to leave, right?\n"
 "But...I won't run away."
 msgstr ""
 
-msgctxt "0018"
+#. ………………
+msgctxt "0017 | c03_014_258 | C010_Haruk"
 msgid "..."
 msgstr "..."
 
-msgctxt "0019"
+#. あんたには敵意がない…
+#. 規則を破った私達を捕まえに来た訳じゃないみたいだね。
+msgctxt "0018 | c03_014_258 | C010_Haruk"
 msgid ""
 "I'm not here to fight you...and I don't think\n"
 "you're here to enforce the curfew."
 msgstr ""
 
-msgctxt "0020"
+#. …え？
+msgctxt "0019 | c03_014_258 | C000_Saiha"
 msgid "What?"
 msgstr ""
 
-msgctxt "0021"
+#. えぇ、春川さんの言う通りです！
+#. 今の転子は、生徒会とは関係なくここにいます！
+msgctxt "0020 | c03_014_258 | C011_Chaba"
 msgid ""
 "That's right, Maki! I'm not here as a student\n"
 "council member..."
 msgstr ""
 
-msgctxt "0022"
+#. 転子は、あなた達にお願いがあって来たんです。
+#. 茶柱転子個人としてのお願いです。
+msgctxt "0021 | c03_014_258 | C011_Chaba"
 msgid ""
 "I'm here to ask you a favor—a personal\n"
 "favor."
 msgstr ""
 
-msgctxt "0023"
+#. 僕らに…お願い？
+msgctxt "0022 | c03_014_258 | C000_Saiha"
 msgid "A favor? From us?"
 msgstr ""
 
-msgctxt "0024"
+#. 生徒会とは関係なくって…
+#. 洗脳されてる人間から出てくる言葉とは思えないね。
+msgctxt "0023 | c03_014_258 | C010_Haruk"
 msgid ""
 "I don't think she's with the student council...\n"
 "She doesn't sound brainwashed."
 msgstr ""
 
-msgctxt "0025"
+#. えぇ…転子は洗脳なんてされていませんから。
+msgctxt "0024 | c03_014_258 | C011_Chaba"
 msgid "Yeah...I'm not brainwashed at all."
 msgstr ""
 
-msgctxt "0026"
+#. <CLT=cltMIND>…え？
+msgctxt "0025 | c03_014_258 | chara_Blank"
 msgid "<CLT=cltMIND>What?"
 msgstr ""
 
-msgctxt "0027"
+#. 洗脳されてなかったって…
+#. 茶柱は自分の意思で生徒会に入ってたって事？
+msgctxt "0026 | c03_014_258 | C010_Haruk"
 msgid ""
 "You're not brainwashed... Does that mean\n"
 "you willingly joined the student council?"
 msgstr ""
 
-msgctxt "0028"
+#. それはそれで…ますます厄介だけど。
+msgctxt "0027 | c03_014_258 | C010_Haruk"
 msgid "That sounds...worse."
 msgstr ""
 
-msgctxt "0029"
+#. 茶柱さん…洗脳されてないってどういう事？
+#. だって、キミはアンジーさんの神さまを――
+msgctxt "0028 | c03_014_258 | C000_Saiha"
 msgid ""
 "Tenko...what are you talking about?\n"
 "I thought you believed in Atua—"
 msgstr ""
 
-msgctxt "0030"
+#. あんな人の神さまなんて、
+#. 転子は最初から信じていません。
+msgctxt "0029 | c03_014_258 | C011_Chaba"
 msgid "I could never believe in Angie's god."
 msgstr ""
 
-msgctxt "0031"
+#. …え？
+msgctxt "0030 | c03_014_258 | C000_Saiha"
 msgid "What?"
 msgstr ""
 
-msgctxt "0032"
+#. 転子が信じるのは合気道のみです！
+#. 合気道があれば、他のものに心を惑わされたりしません！
+msgctxt "0031 | c03_014_258 | C011_Chaba"
 msgid ""
 "I only believe in Aikido! As long as I have\n"
 "that, I can't be swayed by anything!"
 msgstr ""
 
-msgctxt "0033"
+#. 合気道は精神性が重視される武道ですからね。
+#. 精神的な境地が、そのまま技にも現れるのです。
+msgctxt "0032 | c03_014_258 | C011_Chaba"
 msgid ""
 "Aikido values mental fortitude, and Aikido\n"
 "moves are a reflection of that fortitude."
 msgstr ""
 
-msgctxt "0034"
+#. だからこそ、合気道で培われた転子の精神的な軸は、
+#. そう簡単にブレたりしないのです！
+msgctxt "0033 | c03_014_258 | C011_Chaba"
 msgid ""
 "Thanks to Aikido, my mental fortitude is too\n"
 "mighty to succumb to Angie's brainwashing!"
 msgstr ""
 
-msgctxt "0035"
+#. じゃあ、あんたは洗脳された振りをしてたの？
+#. どうしてそんな事を？
+msgctxt "0034 | c03_014_258 | C010_Haruk"
 msgid ""
 "So you just pretended to be brainwashed?\n"
 "Why would you do that?"
 msgstr ""
 
-msgctxt "0036"
+#. 夢野さんが心配だから…でしょ？
+msgctxt "0035 | c03_014_258 | C000_Saiha"
 msgid ""
 "It's because...you're worried about Himiko,\n"
 "aren't you?"
 msgstr ""
 
-msgctxt "0037"
+#. それで、洗脳された振りをして、
+#. 生徒会に潜り込んでいたんじゃないの？
+msgctxt "0036 | c03_014_258 | C000_Saiha"
 msgid ""
 "You pretended to be brainwashed to\n"
 "join the student council, right?"
 msgstr ""
 
-msgctxt "0038"
+#. きっと…面倒臭がりの夢野さんは、
+#. 考えるのが面倒になっているんだと思います…
+msgctxt "0037 | c03_014_258 | C011_Chaba"
 msgid ""
 "I think...Himiko has gotten so lazy, she's\n"
 "given up on thinking for herself..."
 msgstr ""
 
-msgctxt "0039"
+#. だから、アンジーさんに寄り添っているんです。
+#. でも、それは凄く危ない事です。
+msgctxt "0038 | c03_014_258 | C011_Chaba"
 msgid ""
 "That's why she's depending on Angie, but\n"
 "I think Angie is dangerous."
 msgstr ""
 
-msgctxt "0040"
+#. 生徒会のみんなはアンジーさんに心酔していますが、
+#. 彼女はとても危険な人です。
+msgctxt "0039 | c03_014_258 | C011_Chaba"
 msgid ""
 "The student council idolizes Angie so much,\n"
 "they don't see how dangerous she is."
 msgstr ""
 
-msgctxt "0041"
+#. 生徒会に潜り込んでみて、
+#. 転子はそれを思い知りました。
+msgctxt "0040 | c03_014_258 | C011_Chaba"
 msgid ""
 "That became clear to me after I infiltrated\n"
 "the student council."
 msgstr ""
 
-msgctxt "0042"
+#. アンジーさんは…本気で神さまを信じています。
+#. 本気で自分は神さまに守られていると信じているんです。
+msgctxt "0041 | c03_014_258 | C011_Chaba"
 msgid ""
 "Angie...truly believes in Atua. She believes\n"
 "that she is under Atua's protection."
 msgstr ""
 
-msgctxt "0043"
+#. だからこそ…自分の思うがままに
+#. 行動できちゃうんですよ。
+msgctxt "0042 | c03_014_258 | C011_Chaba"
 msgid "That's why...she does whatever she wants."
 msgstr ""
 
-msgctxt "0044"
+#. 自分を動かしているのは神さまだと信じてるから、
+#. 一切の罪悪感なく、好き勝手に動けちゃうんです。
+msgctxt "0043 | c03_014_258 | C011_Chaba"
 msgid ""
 "She thinks she's Atua's vessel, so she\n"
 "doesn't feel guilty about anything she does."
 msgstr ""
 
-msgctxt "0045"
+#. だから彼女を殺して欲しい…って事？
+msgctxt "0044 | c03_014_258 | C010_Haruk"
 msgid "And that's why you want me to kill her?"
 msgstr ""
 
-msgctxt "0046"
+#. えっ！？
+msgctxt "0045 | c03_014_258 | C000_Saiha"
 msgid "Huh!?"
 msgstr ""
 
-msgctxt "0047"
+#. わざわざ私に頼むって、
+#. そういう事なんじゃないの？
+msgctxt "0046 | c03_014_258 | C010_Haruk"
 msgid ""
 "Asking someone like me for a \"favor\"\n"
 "can only mean one thing."
 msgstr ""
 
-msgctxt "0048"
+#. ………………
+msgctxt "0047 | c03_014_258 | C011_Chaba"
 msgid "..."
 msgstr "..."
 
-msgctxt "0049"
+#. 否定は…できません。
+#. 彼女がいなくなればいいと思った事はあります。
+msgctxt "0048 | c03_014_258 | C011_Chaba"
 msgid ""
 "I...won't deny that. I've wanted her gone even\n"
 "before all this happened..."
 msgstr ""
 
-msgctxt "0050"
+#. でも、人を殺したいと思う事くらい、
+#. 誰にだってあるはずです…
+msgctxt "0049 | c03_014_258 | C011_Chaba"
 msgid ""
 "And I think everyone has wanted someone\n"
 "to die at least once in their life..."
 msgstr ""
 
-msgctxt "0051"
+#. ですけど、それをやるとなったら話は別です！
+msgctxt "0050 | c03_014_258 | C011_Chaba"
 msgid ""
 "But going through with it is a different\n"
 "thing!"
 msgstr ""
 
-msgctxt "0052"
+#. 人が人を殺すなんて絶対にダメです！
+#. どんな理由があろうと、ダメなものはダメなんですっ！
+msgctxt "0051 | c03_014_258 | C011_Chaba"
 msgid ""
 "It's wrong for a person to commit murder!\n"
 "It doesn't matter what the reason is!"
 msgstr ""
 
-msgctxt "0053"
+#. それって…私への皮肉？
+msgctxt "0052 | c03_014_258 | C010_Haruk"
 msgid "Do you...realize who you're talking to?"
 msgstr ""
 
-msgctxt "0054"
+#. あっ！　すみません！
+#. そんなつもりじゃなくて…
+msgctxt "0053 | c03_014_258 | C011_Chaba"
 msgid "Oh! I'm so sorry! That's not what I meant..."
 msgstr ""
 
-msgctxt "0055"
+#. 転子はただ…アンジーさんを止めたいだけなんです。
+#. いくらなんでも<CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>なんて危険過ぎます。
+msgctxt "0054 | c03_014_258 | C011_Chaba"
 msgid ""
 "I just...wanna stop Angie. The <CLT=cltSTRONG>resurrection\n"
 "ritual<CLT=cltNORMAL> is too dangerous to try."
 msgstr ""
 
-msgctxt "0056"
+#. コロシアイに繋がるに決まってます。
+#. モノクマの<CLT=cltSTRONG>“動機”<CLT=cltNORMAL>に関わるべきではありません。
+msgctxt "0055 | c03_014_258 | C011_Chaba"
 msgid ""
 "If we go along with Monokuma's <CLT=cltSTRONG>motive<CLT=cltNORMAL>, it could\n"
 "lead to another killing."
 msgstr ""
 
-msgctxt "0057"
+#. けど…生徒会のみんなはアンジーさんには逆らえないし、
+#. 転子だけでは説得できる自信がないので…
+msgctxt "0056 | c03_014_258 | C011_Chaba"
 msgid ""
 "But the student council won't defy Angie, and\n"
 "I can't stop her on my own..."
 msgstr ""
 
-msgctxt "0058"
+#. だから、２人にお願いしたいんです！
+#. アンジーさんを止められるのはあなた達だけなんです！
+msgctxt "0057 | c03_014_258 | C011_Chaba"
 msgid ""
 "That's why I came to ask you two! You're the\n"
 "only ones who can stop Angie!"
 msgstr ""
 
-msgctxt "0059"
+#. 僕達…だけ？
+msgctxt "0058 | c03_014_258 | C000_Saiha"
 msgid "Only us?"
 msgstr ""
 
-msgctxt "0060"
+#. だって…他は、王馬さんと入間さんと真宮寺さんと、
+#. 体調不良の百田さんですよ？
+msgctxt "0059 | c03_014_258 | C011_Chaba"
 msgid ""
 "Well...I obviously can't ask Kokichi, Miu, or\n"
 "Kiyo. And Kaito's not feeling well, y'know?"
 msgstr ""
 
-msgctxt "0061"
+#. 確かに…他にはいないね。
+msgctxt "0060 | c03_014_258 | C010_Haruk"
 msgid "I see... You didn't have many options."
 msgstr ""
 
-msgctxt "0062"
+#. う、うん…認めざるを得ないかも。
+msgctxt "0061 | c03_014_258 | C000_Saiha"
 msgid "Y-Yeah...that is true."
 msgstr ""
 
-msgctxt "0063"
+#. だから、協力してくださいっ！
+#. 儀式をやめるようにアンジーさんを説得してください！
+msgctxt "0062 | c03_014_258 | C011_Chaba"
 msgid ""
 "So please help me! You have to convince\n"
 "Angie not to perform the ritual!"
 msgstr ""
 
-msgctxt "0064"
+#. どうかっ！　お願いしますっ！
+msgctxt "0063 | c03_014_258 | C011_Chaba"
 msgid "I'm begging you!"
 msgstr ""
 
-msgctxt "0065"
+#. <CLT=cltMIND>そう言って、茶柱さんは僕らに深々と頭を下げると…
+msgctxt "0064 | c03_014_258 | chara_Blank"
 msgid "<CLT=cltMIND>Tenko bowed down as deep as she could."
 msgstr ""
 
-msgctxt "0066"
+#. じゃあ、行きましょうか！
+msgctxt "0065 | c03_014_258 | C011_Chaba"
 msgid "Well then, let's go!"
 msgstr ""
 
-msgctxt "0067"
+#. えっ！？　まだ答えてないのに！？
+msgctxt "0066 | c03_014_258 | C000_Saiha"
 msgid "What? We didn't even answer yet!"
 msgstr ""
 
-msgctxt "0068"
+#. んもー！　四の五の言わずに、
+#. 男死らしく引き受けてくださいよっ！
+msgctxt "0067 | c03_014_258 | C011_Chaba"
 msgid ""
 "Grghhhhh! Quit complaining and do this\n"
 "favor for me, you degenerate!"
 msgstr ""
 
-msgctxt "0069"
+#. 本当は、男死なんかに頭を下げたくない転子が、
+#. こうやってお願いしてるんですからねっ！
+msgctxt "0068 | c03_014_258 | C011_Chaba"
 msgid ""
 "I'm even bowing to you! And I would never\n"
 "do that for any male!"
 msgstr ""
 
-msgctxt "0070"
+#. <CLT=cltMIND>も、ものを頼む人間の態度とは思えないな…！
+msgctxt "0069 | c03_014_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>That's not the best thing to say to\n"
 "someone you need a favor from..."
 msgstr ""
 
-msgctxt "0071"
+#. あんたって…素直な性格なんだね。
+#. まったく説得に向いてないタイプってのはわかるよ。
+msgctxt "0070 | c03_014_258 | C010_Haruk"
 msgid ""
 "You're...very sincere. I can tell that you're\n"
 "not used to asking others for help."
 msgstr ""
 
-msgctxt "0072"
+#. で、どうするの最原？
+#. やっぱり、キャラ的には無視？
+msgctxt "0071 | c03_014_258 | C010_Haruk"
 msgid ""
 "So what will you do, Shuichi? This seems like\n"
 "something you'd ignore."
 msgstr ""
 
-msgctxt "0073"
+#. <CLT=cltMIND>キャラ的に無視って…
+#. 僕はどう思われてるんだよ。
+msgctxt "0072 | c03_014_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This is something I'd ignore?\n"
 "Who do you think I am...?"
 msgstr ""
 
-msgctxt "0074"
+#. いや、やるよ…
+#. 僕もなんとかしないとって思ってたんだ。
+msgctxt "0073 | c03_014_258 | C000_Saiha"
 msgid ""
 "No, I'll do it...\n"
 "I was just thinking is all."
 msgstr ""
 
-msgctxt "0075"
+#. 茶柱さんの言うように、
+#. モノクマの<CLT=cltSTRONG>“動機”<CLT=cltNORMAL>に乗るのは危険だからね。
+msgctxt "0074 | c03_014_258 | C000_Saiha"
 msgid ""
 "I agree with Tenko that it's dangerous\n"
 "to go along with Monokuma's <CLT=cltSTRONG>motive<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0076"
+#. だったら、もっと早くなんとかしてくださいよ！
+#. 行動力のない男死ですねっ！
+msgctxt "0075 | c03_014_258 | C011_Chaba"
 msgid ""
 "Then do something about it already! I thought\n"
 "males were supposed to be decisive!"
 msgstr ""
 
-msgctxt "0077"
+#. ………………
+msgctxt "0076 | c03_014_258 | C000_Saiha"
 msgid "..."
 msgstr "..."
 
-msgctxt "0078"
+#. まぁ、許します！
+#. みんなでアンジーさんの説得に行きましょう！
+msgctxt "0077 | c03_014_258 | C011_Chaba"
 msgid ""
 "I guess I'll forgive you, though! \n"
 "Now, let's go convince Angie together!"
 msgstr ""
 
-msgctxt "0079"
+#. 彼女は<CLT=cltSTRONG>“超高校級の美術部”<CLT=cltNORMAL>の研究教室で、
+#. 儀式の準備をしているはずですよ！
+msgctxt "0078 | c03_014_258 | C011_Chaba"
 msgid ""
 "She should be preparing for the ritual right\n"
 "now in the <CLT=cltSTRONG>Ultimate Artist<CLT=cltNORMAL> lab!"
 msgstr ""
 
-msgctxt "0080"
+#. みんなでって…私も行くの？
+msgctxt "0079 | c03_014_258 | C010_Haruk"
 msgid "Together? I'm going, too?"
 msgstr ""
 
-msgctxt "0081"
+#. あ、当たり前じゃないですか！
+msgctxt "0080 | c03_014_258 | C011_Chaba"
 msgid "O-Of course!"
 msgstr ""
 
-msgctxt "0082"
+#. 最原さん１人しか来ないんだったら、
+#. こっちだって誘っていませんよ！
+msgctxt "0081 | c03_014_258 | C011_Chaba"
 msgid "I wouldn't ask just Shuichi for help!"
 msgstr ""
 
-msgctxt "0083"
+#. <CLT=cltMIND>僕は誘いを受けただけなのに…酷い扱いだな。
+msgctxt "0082 | c03_014_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I just agreed to help, and this\n"
 "is how you treat me?"
 msgstr ""
 
-msgctxt "0084"
+#. <CLT=cltMIND>まぁ、いい…
+#. とりあえずアンジーさんの研究教室に向かおう。
+msgctxt "0083 | c03_014_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Oh well...\n"
 "I'll just go to Angie's lab."
 msgstr ""
 
-msgctxt "0085"
+#. 最原さん１人の可能性があるなら先に言ってください！
+#. こっちだって誘っていませんよ！
+msgctxt "0084 | c03_014_258 | C011_Chaba"
 msgid ""
 "I never would've asked for help if I knew\n"
 "Shuichi was the only one who'd help me!"
 msgstr ""
 
-msgctxt "0086"
+#. <CLT=cltMIND>僕は誘いを受けただけなのに…酷い扱いだな。
+msgctxt "0085 | c03_014_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I just agreed to help, and this\n"
 "is how you treat me?"
 msgstr ""
 
-msgctxt "0087"
+#. <CLT=cltMIND>これにアイテムを使ったら一気にツタが枯れたけど…
+#. どう言う仕組みなんだ？
+msgctxt "0086 | c03_014_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>When I used the item, the vine suddenly\n"
 "withered... How does that work?"
 msgstr ""
 
-msgctxt "0088"
+#. <CLT=cltMIND>プール入り口　ゼルダギミック植物
+msgctxt "0087 | c03_014_258 | chara_Blank"
 msgid "<CLT=cltMIND>Pool Entrance Zelda gimmick plant"
 msgstr ""
 
-msgctxt "0089"
+#. <CLT=cltMIND>これが門の鍵になってたんだな…
+msgctxt "0088 | c03_014_258 | chara_Blank"
 msgid "<CLT=cltMIND>So this is the key to the gate..."
 msgstr ""
 
-msgctxt "0090"
+#. <CLT=cltMIND>カジノエリア扉　六角レンチギミック(閉)
+msgctxt "0089 | c03_014_258 | chara_Blank"
 msgid "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Closed)"
 msgstr ""
 
-msgctxt "0091"
+#. <CLT=cltMIND>カジノエリア扉　六角レンチギミック(開)
+msgctxt "0090 | c03_014_258 | chara_Blank"
 msgid "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Open)"
 msgstr ""

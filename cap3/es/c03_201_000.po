@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,129 +11,168 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. えー、ではでは、
+#. 最初に学級裁判の簡単な説明をしておきましょう！
+msgctxt "0000 | c03_201_000 | C020_Monok"
 msgid ""
 "Ahem! Now then, let's begin with a basic\n"
 "explanation of the class trial!"
 msgstr ""
 
-msgctxt "0002"
+#. 学級裁判では<CLT=cltSTRONG>『誰が犯人か？』<CLT=cltNORMAL>を議論し、
+#. その結果はオマエラの投票により決定されます。
+msgctxt "0001 | c03_201_000 | C020_Monok"
 msgid ""
 "During the trial you'll present your arguments\n"
 "for who the culprit is, and vote for <CLT=cltSTRONG>\"whodunnit.\"<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0003"
+#. 正しいクロを指摘できればクロだけがおしおきですが、
+#. もし間違った人物をクロとしてしまった場合は…
+msgctxt "0002 | c03_201_000 | C020_Monok"
 msgid ""
 "Vote correctly, and only the blackened will be\n"
 "punished. But if you pick the wrong person..."
 msgstr ""
 
-msgctxt "0004"
+#. クロ以外の全員がおしおきされ、
+#. 生き残ったクロだけが才囚学園から卒業できます！
+msgctxt "0003 | c03_201_000 | C020_Monok"
 msgid ""
 "I'll punish everyone *besides* the blackened, and\n"
 "that person will graduate from this academy!"
 msgstr ""
 
-msgctxt "0005"
+#. ちなみに、必ず誰かに投票してくださいね。
+#. 投票しない人には<CLT=cltSTRONG>“死”<CLT=cltNORMAL>が与えられちゃうんだからね。
+msgctxt "0004 | c03_201_000 | C020_Monok"
 msgid ""
 "Also, refusing to vote will result in your\n"
 "<CLT=cltSTRONG>death<CLT=cltNORMAL>, so you better vote for someone!"
 msgstr ""
 
-msgctxt "0006"
+#. という訳で…テンションブリブリブリ！
+#. クレイジーマックスな学級裁判の開幕だーーー！！
+msgctxt "0005 | c03_201_000 | C020_Monok"
 msgid ""
 "Now, smiles everyone! It's showtime! Let's\n"
 "get this crazy-awesome trial underway!"
 msgstr ""
 
-msgctxt "0007"
+#. 最初に謝っとくけどよ…
+#. 今回、オレはあんまり力になれなそうだぜ。
+msgctxt "0006 | c03_201_000 | C001_Momot"
 msgid ""
 "Sorry everyone, but I don't think \n"
 "I'm gonna be much help this time."
 msgstr ""
 
-msgctxt "0008"
+#. モノクマの策略のせいで…
+#. ロクに捜査もできなかったからな。
+msgctxt "0007 | c03_201_000 | C001_Momot"
 msgid ""
 "Because of Monokuma's...disruptions,\n"
 "I couldn't do a thorough investigation."
 msgstr ""
 
-msgctxt "0009"
+#. モノクマの策略って…自意識過剰だなぁ。
+msgctxt "0008 | c03_201_000 | C005_Oma__"
 msgid ""
 "I can tell Monokuma is overcompensating\n"
 "to hide his self-consciousness."
 msgstr ""
 
-msgctxt "0010"
+#. さては、前髪のセットに時間が掛かるタイプと見た！
+msgctxt "0009 | c03_201_000 | C020_Monok"
 msgid ""
 "Next time, spend less time fixing your hair\n"
 "and more time investigating, spaceman!"
 msgstr ""
 
-msgctxt "0011"
+#. うるせーよ！
+#. 妙なコンビネーションを見せてんじゃねー！
+msgctxt "0010 | c03_201_000 | C001_Momot"
 msgid ""
 "Shut up! I don't need to hear some\n"
 "comedy act from you two weirdos."
 msgstr ""
 
-msgctxt "0012"
+#. ………………
+msgctxt "0011 | c03_201_000 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0013"
+#. …誰じゃ？
+msgctxt "0012 | c03_201_000 | C009_Yumen"
 msgid "Who did it?"
 msgstr ""
 
-msgctxt "0014"
+#. …誰がアンジーと転子を殺したんじゃ？
+msgctxt "0013 | c03_201_000 | C009_Yumen"
 msgid "Who killed Angie and Tenko?"
 msgstr ""
 
-msgctxt "0015"
+#. 感情に身を委ねていると足元をすくわれるヨ？
+#. まだ２人を殺したのが同じ犯人とは限らないんだし。
+msgctxt "0014 | c03_201_000 | C006_Shing"
 msgid ""
 "Do not let your emotions hasten your\n"
 "judgment. There may be two killers."
 msgstr ""
 
-msgctxt "0016"
+#. それを…言ったらさ…
+#. わたし達の中に犯人がいるとも限らないよねぇ…？
+msgctxt "0015 | c03_201_000 | C012_Shiro"
 msgid ""
 "So...our other culprit...might nooot\n"
 "be one of us heeere..."
 msgstr ""
 
-msgctxt "0017"
+#. え？　どういう意味？
+msgctxt "0016 | c03_201_000 | C004_Gokuh"
 msgid "Hm? What do you mean?"
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltSTRONG>転校生<CLT=cltNORMAL>…だよ。
+msgctxt "0017 | c03_201_000 | C012_Shiro"
 msgid "The <CLT=cltSTRONG>traaansfer stuuudent<CLT=cltNORMAL>..."
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltSTRONG>“死者の蘇り”<CLT=cltNORMAL>で復活した転校生が…
+#. アンジーさんと茶柱さんを…呪い殺したのかも…
+msgctxt "0018 | c03_201_000 | C012_Shiro"
 msgid ""
 "Maybe our resurrected transfer student...\n"
 "dragged Angie and Tenko into the grave..."
 msgstr ""
 
-msgctxt "0020"
+#. や、やめろっ！
+#. ふざけた事言ってんじゃねーよ！
+msgctxt "0019 | c03_201_000 | C001_Momot"
 msgid ""
 "S-Stop it!\n"
 "Stop making stuff up!"
 msgstr ""
 
-msgctxt "0021"
+#. 最原、なんとかしてよ。
+#. このままだと、また騒ぎ始めるよ？
+msgctxt "0020 | c03_201_000 | C010_Haruk"
 msgid ""
 "Say something, Shuichi. It'll be a mess if\n"
 "this keeps going on."
 msgstr ""
 
-msgctxt "0022"
+#. <CLT=cltMIND>て言うか…復活した転校生が犯人なんて事が
+#. あり得るのか…？
+msgctxt "0021 | c03_201_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>...Is it even possible for a\n"
 "revived corpse to be the culprit...?"
 msgstr ""
 
-msgctxt "0023"
+#. <CLT=cltMIND>まぁ、念の為に
+#. ハッキリさせておいた方がいいかもな。
+msgctxt "0022 | c03_201_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>...Well, in the interest of being\n"
 "thorough, I should clear things up here."

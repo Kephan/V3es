@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,24 +11,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. ハルマキの研究教室に用はねーだろ？
+#. さっさとアンジーを止めに行くぞ。
+msgctxt "0000 | c03_017_003 | C001_Momot"
 msgid ""
 "We don't have any business in Maki Roll's \n"
 "lab, right? Let's hurry and stop Angie."
 msgstr ""
 
-msgctxt "0002"
+#. …だから、変な略し方しないでよ。
+msgctxt "0001 | c03_017_003 | C010_Haruk"
 msgid ""
 "...Don't give me a weird nickname.\n"
 "I won't ask you again."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0002 | c03_017_003 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0003 | c03_017_003 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""

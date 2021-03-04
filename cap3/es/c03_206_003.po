@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,47 +11,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. わたしはアンジーさんを
+#. <CLT=size2>殺してないよ！
+msgctxt "0000 | c03_206_003 | C012_Shiro"
 msgid "I didn't <CLT=size2>kill Angie!"
 msgstr ""
 
-msgctxt "0002"
+#. わたしはアンジーさんを殺してないよ！
+msgctxt "0001 | c03_206_003 | C012_Shiro"
 msgid "I didn't kill Angie!"
 msgstr ""
 
-msgctxt "0003"
+#. だったら…誰が
+#. <CLT=size2>殺した<CLT=size1>んじゃ？
+msgctxt "0002 | c03_206_003 | C009_Yumen"
 msgid ""
 "Well then,\n"
 "<CLT=size2>who did?"
 msgstr ""
 
-msgctxt "0004"
+#. だったら…誰が殺したんじゃ？
+msgctxt "0003 | c03_206_003 | C009_Yumen"
 msgid "Well then, who did?"
 msgstr ""
 
-msgctxt "0005"
+#. 茶柱さん…
+#. だと思ってた。
+msgctxt "0004 | c03_206_003 | C012_Shiro"
 msgid ""
 "I thought...\n"
 "Tenko did it."
 msgstr ""
 
-msgctxt "0006"
+#. 茶柱さん…だと思ってた。
+msgctxt "0005 | c03_206_003 | C012_Shiro"
 msgid "I thought...Tenko did it."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=size2>死んだヤツ
+#. <CLT=size1>が犯人な訳ねーだろ！
+msgctxt "0006 | c03_206_003 | C014_Iruma"
 msgid ""
 "A <CLT=size2>dead chick\n"
 "<CLT=size1>can't be the culprit!"
 msgstr ""
 
-msgctxt "0008"
+#. 死んだヤツが犯人な訳ねーだろ！
+msgctxt "0007 | c03_206_003 | C014_Iruma"
 msgid ""
 "A dead chick\n"
 "can't be the culprit!"
 msgstr ""
 
-msgctxt "0009"
+#. ううん、
+#. 可能性はゼロじゃない。
+msgctxt "0008 | c03_206_003 | C010_Haruk"
 msgid ""
 "<CLT=size2>Why?\n"
 "<CLT=size1>It's not\n"
@@ -59,35 +73,43 @@ msgid ""
 "farfetched."
 msgstr ""
 
-msgctxt "0010"
+#. ううん、可能性はゼロじゃない。
+msgctxt "0009 | c03_206_003 | C010_Haruk"
 msgid "Why? It's not that farfetched."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=size2>誰<CLT=size1>が<CLT=size2>犯人<CLT=size1>かは
+#. よくわからないけど…
+msgctxt "0010 | c03_206_003 | C012_Shiro"
 msgid ""
 "Look,\n"
 "I don't know <CLT=size2>who\n"
 "<CLT=size1>the <CLT=size2>culprit<CLT=size1> is..."
 msgstr ""
 
-msgctxt "0012"
+#. 誰が犯人かはよくわからないけど…
+msgctxt "0011 | c03_206_003 | C012_Shiro"
 msgid ""
 "Look, I don't know who\n"
 "the culprit is..."
 msgstr ""
 
-msgctxt "0013"
+#. とにかく、
+#. <CLT=size2>わたし<CLT=size1>は<CLT=size2>違う<CLT=size1>んだって！
+msgctxt "0012 | c03_206_003 | C012_Shiro"
 msgid ""
 "but it's definitely\n"
 "<CLT=size2>not me!"
 msgstr ""
 
-msgctxt "0014"
+#. とにかく、わたしは違うんだって！
+msgctxt "0013 | c03_206_003 | C012_Shiro"
 msgid ""
 "but it's definitely\n"
 "not me!"
 msgstr ""
 
-msgctxt "0015"
+#. 転子はそんな事せんわい。
+msgctxt "0014 | c03_206_003 | C009_Yumen"
 msgid "Tenko wouldn't do that..."
 msgstr ""

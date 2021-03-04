@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,564 +11,739 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>…思った以上に、広いんだな。
+#. 四つん這いになれば普通に移動もできそうだ。
+msgctxt "0000 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This is a lot more spacious than I thought.\n"
 "You can move pretty easily on all fours."
 msgstr ""
 
-msgctxt "0002"
+#. 何か手掛かりがないか探してみよう…
+msgctxt "0001 | c03_103_041 | C000_Saiha"
 msgid "Let's look around for clues."
 msgstr ""
 
-msgctxt "0003"
+#. ここまでして、何もなかったらバカだよ。
+#. こんな埃っぽい所に２人して四つん這いになってさ。
+msgctxt "0002 | c03_103_041 | C010_Haruk"
 msgid ""
 "It'd look pretty stupid if we found no clues\n"
 "after crawling around in this dusty place."
 msgstr ""
 
-msgctxt "0004"
+#. …う、うん。
+msgctxt "0003 | c03_103_041 | C000_Saiha"
 msgid "Y-Yeah..."
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>まだ、ここで調べるべき事がありそうだな…
+msgctxt "0004 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I think there are still things\n"
 "to investigate here..."
 msgstr ""
 
-msgctxt "0006"
+#. はい
+msgctxt "0005 | c03_103_041 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0007"
+#. いいえ
+msgctxt "0006 | c03_103_041 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0008"
+#. もしかして悩んでいるの？
+msgctxt "0007 | c03_103_041 | chara_Blank"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0008 | c03_103_041 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>床板の隙間から、
+#. 今も点々と血が垂れ落ちている…
+msgctxt "0009 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Blood dripping from the gaps\n"
 "in the floorboards..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>かなり新しい血だ。
+#. これは…茶柱さんの血で間違いないな。
+msgctxt "0010 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Fresh blood.\n"
 "This is definitely Tenko's."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>外れた床板の真下の地面に、
+#. ポツンと血痕が付着している。
+msgctxt "0011 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There's a bloodstain on the ground\n"
 "underneath the loose floorboard."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>でも、茶柱さんの血が落ちている場所からは
+#. かなり離れているな…
+msgctxt "0012 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>But that's pretty far from where\n"
 "Tenko's blood is dripping down..."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>同じく床板の下とは言え…
+#. 床板の端と端だ。
+msgctxt "0013 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's under the same floorboard...\n"
 "just at different ends."
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>どうして、こんな所にポツンと血痕があるんだ？
+msgctxt "0014 | c03_103_041 | chara_Blank"
 msgid "<CLT=cltMIND>Why is there blood here?"
 msgstr ""
 
-msgctxt "0016"
+#. ねぇ、こっちにも血痕があるよ。
+#. 外れた床板の裏側を見てよ。
+msgctxt "0015 | c03_103_041 | C010_Haruk"
 msgid ""
 "Hey, the back of this floorboard has blood\n"
 "on it, too."
 msgstr ""
 
-msgctxt "0017"
+#. 本当だ…床板の裏側に、
+#. 少しだけど血痕が付いているね…
+msgctxt "0016 | c03_103_041 | C000_Saiha"
 msgid ""
 "You're right...there's a little bit of blood\n"
 "on the underside of this floorboard."
 msgstr ""
 
-msgctxt "0018"
+#. これも…茶柱が殺された時に付いた血なの？
+msgctxt "0017 | c03_103_041 | C010_Haruk"
 msgid ""
 "Did Tenko's blood spatter here when she\n"
 "got killed?"
 msgstr ""
 
-msgctxt "0019"
+#. どうなんだろう？
+#. まだ、よくわからないけど…
+msgctxt "0018 | c03_103_041 | C000_Saiha"
 msgid "I wonder... I can't really be sure yet."
 msgstr ""
 
-msgctxt "0020"
+#. ただ…ポツンと残された２ヶ所の血痕は
+#. どっちもすっかり血が乾いているみたいだよ。
+msgctxt "0019 | c03_103_041 | C000_Saiha"
 msgid ""
 "But these bloodstains here are\n"
 "completely dry."
 msgstr ""
 
-msgctxt "0021"
+#. <CLT=cltMIND>この乾いた血痕は…
+#. 一体何を意味するんだろうな。
+msgctxt "0020 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There must be some reason these\n"
 "particular stains are dry..."
 msgstr ""
 
-msgctxt "0022"
+#. <CLT=cltSYSTEM><CLT=cltSTRONG>床下の乾いた血痕<CLT=cltSYSTEM>をモノパッドに記録しました。
+#. 言弾（コトダマ）メニューで確認できます。
+msgctxt "0021 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Dried Blood Under the Floor<CLT=cltSYSTEM>\" has been added to the\n"
 "Truth Bullets section of your Monopad."
 msgstr ""
 
-msgctxt "0023"
+#. <CLT=cltSYSTEM><CLT=cltSTRONG>外れた床板<CLT=cltSYSTEM>を更新しました。
+#. 言弾（コトダマ）メニューで確認できます。
+msgctxt "0022 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Loose Floorboard<CLT=cltSYSTEM>\" has been added to the\n"
 "Truth Bullets section of your Monopad."
 msgstr ""
 
-msgctxt "0024"
+#. <CLT=cltMIND>地面にポツンと血痕が付着している。
+#. しかも、外れた床板の真下に…
+msgctxt "0023 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There's a bloodstain on the ground\n"
 "underneath the loose floorboard."
 msgstr ""
 
-msgctxt "0025"
+#. <CLT=cltMIND>茶柱さんの血が落ちている場所からは
+#. かなり離れているよな…
+msgctxt "0024 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a good distance from the spot\n"
 "where Tenko's blood pooled."
 msgstr ""
 
-msgctxt "0026"
+#. <CLT=cltMIND>どうして、こんな所にポツンと血痕があるんだ？
+msgctxt "0025 | c03_103_041 | chara_Blank"
 msgid "<CLT=cltMIND>Why is there a bloodstain here?"
 msgstr ""
 
-msgctxt "0027"
+#. <CLT=cltMIND>そして、床板の裏側にも
+#. 少しだけど血痕が付いている…
+msgctxt "0026 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There's also blood on the underside\n"
 "of this floorboard."
 msgstr ""
 
-msgctxt "0028"
+#. <CLT=cltMIND>これも…茶柱さんが殺された時に付いた血なのか？
+#. まだ、よくわからないけど…
+msgctxt "0027 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Was this also from when Tenko\n"
 "was killed? I don't know..."
 msgstr ""
 
-msgctxt "0029"
+#. <CLT=cltMIND>ただ、ポツンと残された２ヶ所の血痕は
+#. どっちもすっかり血が乾いている…
+msgctxt "0028 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>But these bloodstains are\n"
 "completely dry."
 msgstr ""
 
-msgctxt "0030"
+#. <CLT=cltMIND>これは一体何を意味するんだ？
+msgctxt "0029 | c03_103_041 | chara_Blank"
 msgid "<CLT=cltMIND>What could that mean...?"
 msgstr ""
 
-msgctxt "0031"
+#. <CLT=cltMIND>木の一部が腐食して崩れていて、
+#. 隣の空間が見えている…
+msgctxt "0030 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Some of the wood has corroded and is broken\n"
 "off, so you can see into the next room..."
 msgstr ""
 
-msgctxt "0032"
+#. ここって…空き部屋の壁のあたりだよね？
+#. 壁に沿って木が組まれているみたいだけど…
+msgctxt "0031 | c03_103_041 | C010_Haruk"
 msgid ""
 "This is...the wall of the empty room, right?\n"
 "Looks like there's wood along the wall..."
 msgstr ""
 
-msgctxt "0033"
+#. その一部が腐ってるんだね。
+msgctxt "0032 | c03_103_041 | C010_Haruk"
 msgid "This part has rotted away."
 msgstr ""
 
-msgctxt "0034"
+#. 故意的に空けた穴じゃなくて、
+#. 自然に劣化して空いた穴みたいだけど…
+msgctxt "0033 | c03_103_041 | C000_Saiha"
 msgid ""
 "It looks like natural rot...\n"
 "This hole wasn't made intentionally."
 msgstr ""
 
-msgctxt "0035"
+#. この穴からだったら、隣の空間にも行けそうだね。
+msgctxt "0034 | c03_103_041 | C000_Saiha"
 msgid ""
 "But I can get into the next room through\n"
 "here."
 msgstr ""
 
-msgctxt "0036"
+#. 確か…隣も空き部屋だったよね？
+msgctxt "0035 | c03_103_041 | C010_Haruk"
 msgid ""
 "If I remember correctly, the room next door\n"
 "is also empty, right?"
 msgstr ""
 
-msgctxt "0037"
+#. じゃあ、この床下からだったら、
+#. 廊下を通らずに部屋と部屋とを移動できたって事？
+msgctxt "0036 | c03_103_041 | C010_Haruk"
 msgid ""
 "Then the culprit could've gone from room to room\n"
 "by moving under here instead of using the hallway."
 msgstr ""
 
-msgctxt "0038"
+#. いや…でも床下を移動するのは
+#. 難しいかもしれないよ…
+msgctxt "0037 | c03_103_041 | C000_Saiha"
 msgid ""
 "True, but it would have been difficult\n"
 "moving around under the floor."
 msgstr ""
 
-msgctxt "0039"
+#. 今はこうしてロウソクを持ってきたからいいけど、
+#. これがなければ、床下は真っ暗だし…
+msgctxt "0038 | c03_103_041 | C000_Saiha"
 msgid ""
 "We did alright because we had a light.\n"
 "Without that, it'd be pitch-black."
 msgstr ""
 
-msgctxt "0040"
+#. そんな中を移動するのは、
+#. 無理じゃないかな。
+msgctxt "0039 | c03_103_041 | C000_Saiha"
 msgid ""
 "That might make it impossible\n"
 "to move around in there."
 msgstr ""
 
-msgctxt "0041"
+#. だったら、今みたいに
+#. 明かりを持って来ればいいだけじゃん。
+msgctxt "0040 | c03_103_041 | C010_Haruk"
 msgid ""
 "Then they could've used a light, like we're doing\n"
 "right now."
 msgstr ""
 
-msgctxt "0042"
+#. まぁ…そうなんだけどさ…
+msgctxt "0041 | c03_103_041 | C000_Saiha"
 msgid "True..."
 msgstr ""
 
-msgctxt "0043"
+#. <CLT=cltMIND>明かりを使って床下を移動した可能性か…
+#. その可能性は…あるのかな？
+msgctxt "0042 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>They used a light to move around\n"
 "under the floor? Is that possible?"
 msgstr ""
 
-msgctxt "0044"
+#. <CLT=cltMIND>木の一部が腐食して崩れている。
+msgctxt "0043 | c03_103_041 | chara_Blank"
 msgid "<CLT=cltMIND>Part of the wood has rotted away."
 msgstr ""
 
-msgctxt "0045"
+#. <CLT=cltMIND>故意的に空けた穴じゃなくて、
+#. 自然に劣化して空いた穴みたいだな…
+msgctxt "0044 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It looks like natural rot.\n"
 "This hole wasn't made intentionally."
 msgstr ""
 
-msgctxt "0046"
+#. <CLT=cltMIND>ここは、ちょうど空き部屋の壁のあたりだ。
+#. この穴からだったら、隣の空間にも行けそうだ。
+msgctxt "0045 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This is near the wall to the room next door.\n"
 "You could get there through this space."
 msgstr ""
 
-msgctxt "0047"
+#. <CLT=cltMIND>つまり、この床下からだったら、
+#. 廊下を通らずに部屋と部屋とを移動できたはず…
+msgctxt "0046 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>So, you could go from room to room\n"
 "under the floor..."
 msgstr ""
 
-msgctxt "0048"
+#. <CLT=cltMIND>ただし、床下は真っ暗だから…
+msgctxt "0047 | c03_103_041 | chara_Blank"
 msgid "<CLT=cltMIND>But it would be completely dark."
 msgstr ""
 
-msgctxt "0049"
+#. <CLT=cltMIND>何か明かりを持って来なければ、
+#. ここを移動するのは難しい。
+msgctxt "0048 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Without some kind of light to guide you,\n"
 "it wouldn't be possible to move around."
 msgstr ""
 
-msgctxt "0050"
+#. <CLT=cltMIND>犯人が明かりを使って床下を移動した可能性は…
+#. あるんだろうか？
+msgctxt "0049 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Could the culprit have brought a light\n"
 "with them under the floor?"
 msgstr ""
 
-msgctxt "0051"
+#. <CLT=cltMIND>カマが落ちている！
+#. しかも…血がべっとりと付着しているぞ！
+msgctxt "0050 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There's a sickle here!\n"
 "And there's blood all over it!"
 msgstr ""
 
-msgctxt "0052"
+#. カマに付いている血もまだ新しい…
+#. 見つけた、これが茶柱さんを殺した凶器だよ。
+msgctxt "0051 | c03_103_041 | C000_Saiha"
 msgid ""
 "The blood on this sickle is fresh...\n"
 "This is it. This is the murder weapon!"
 msgstr ""
 
-msgctxt "0053"
+#. これって…私の研究教室にあった物だよ。
+msgctxt "0052 | c03_103_041 | C010_Haruk"
 msgid "This...came from my research lab."
 msgstr ""
 
-msgctxt "0054"
+#. …え？
+msgctxt "0053 | c03_103_041 | C000_Saiha"
 msgid "It did?"
 msgstr ""
 
-msgctxt "0055"
+#. カマって…暗殺向きなんだよ。
+msgctxt "0054 | c03_103_041 | C010_Haruk"
 msgid "A sickle can be used to assassinate a target."
 msgstr ""
 
-msgctxt "0056"
+#. 投げて使う事もできるし…殺傷能力も高い。
+#. 服の下にも隠せるからね。
+msgctxt "0055 | c03_103_041 | C010_Haruk"
 msgid ""
 "It can be thrown without losing any lethality,\n"
 "and you can hide it under your clothes, too."
 msgstr ""
 
-msgctxt "0057"
+#. まぁ…これで襲われたらひとたまりもないよね。
+#. 刃渡りも１５センチくらいあるし…
+msgctxt "0056 | c03_103_041 | C000_Saiha"
 msgid ""
 "If she was attacked with this, she wouldn't\n"
 "stand a chance. The blade is about six inches..."
 msgstr ""
 
-msgctxt "0058"
+#. ましてや、茶柱はカゴの中だから、
+#. 反撃しようもないしね。
+msgctxt "0057 | c03_103_041 | C010_Haruk"
 msgid ""
 "And since Tenko was in the cage, she wouldn't\n"
 "have been able to defend herself."
 msgstr ""
 
-msgctxt "0059"
+#. でも、このカマが凶器だとしても…
+msgctxt "0058 | c03_103_041 | C000_Saiha"
 msgid "But even if this *is* our murder weapon..."
 msgstr ""
 
-msgctxt "0060"
+#. カゴの中にいる茶柱さんを
+#. どうやって襲ったのかな？
+msgctxt "0059 | c03_103_041 | C000_Saiha"
 msgid "How did the culprit attack Tenko in the cage?"
 msgstr ""
 
-msgctxt "0061"
+#. 刃だけならカゴの隙間から入れられるだろうけど、
+#. 茶柱さんの首筋まで届くのかな？
+msgctxt "0060 | c03_103_041 | C000_Saiha"
 msgid ""
 "The blade could fit through the gaps in\n"
 "the cage, but could it reach her neck?"
 msgstr ""
 
-msgctxt "0062"
+#. カゴの高さは１メートルくらい…
+#. そこから、１５センチの刃を入れて刺すとなると…
+msgctxt "0061 | c03_103_041 | C010_Haruk"
 msgid ""
 "The cage is three feet high... If you were to\n"
 "stab into it with a six-inch blade..."
 msgstr ""
 
-msgctxt "0063"
+#. カゴの中での体勢次第だけど…不可能じゃないと思う。
+msgctxt "0062 | c03_103_041 | C010_Haruk"
 msgid ""
 "Well, it would depend on Tenko's posture...\n"
 "but I don't think it's impossible."
 msgstr ""
 
-msgctxt "0064"
+#. <CLT=cltMIND>ただ…その体勢が問題なんだよな。
+msgctxt "0063 | c03_103_041 | chara_Blank"
 msgid "<CLT=cltMIND>Then her posture is the question..."
 msgstr ""
 
-msgctxt "0065"
+#. ねぇ…凶器がここに落ちているのって、
+#. 犯人が捨てたからなんだよね？
+msgctxt "0064 | c03_103_041 | C010_Haruk"
 msgid ""
 "Hey... If the weapon is down here, the culprit\n"
 "must've thrown it away, right?"
 msgstr ""
 
-msgctxt "0066"
+#. おそらく、茶柱さんを殺した後で、
+#. 暗闇に乗じてカマを床の隙間から投げ捨てたか…
+msgctxt "0065 | c03_103_041 | C000_Saiha"
 msgid ""
 "Perhaps after killing Tenko, the culprit threw\n"
 "the sickle under the floor in the dark."
 msgstr ""
 
-msgctxt "0067"
+#. そもそも犯人はずっと床下にいたか。
+#. その…どっちかだろうね。
+msgctxt "0066 | c03_103_041 | C000_Saiha"
 msgid ""
 "Or, they could have been under the floor the\n"
 "entire time. Either of those is possible."
 msgstr ""
 
-msgctxt "0068"
+#. <CLT=cltSYSTEM><CLT=cltSTRONG>床下に落ちていたカマ<CLT=cltSYSTEM>をモノパッドに記録しました。
+#. 言弾（コトダマ）メニューで確認できます。
+msgctxt "0067 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Sickle Under the Floor<CLT=cltSYSTEM>\" has been added to the\n"
 "Truth Bullets section of your Monopad."
 msgstr ""
 
-msgctxt "0069"
+#. <CLT=cltMIND>血がべっとりと付着したカマが落ちている。
+msgctxt "0068 | c03_103_041 | chara_Blank"
 msgid "<CLT=cltMIND>A bloody sickle has been dropped here."
 msgstr ""
 
-msgctxt "0070"
+#. <CLT=cltMIND>カマに付いている血もまだ新しい…
+#. これが、茶柱さんを殺した凶器なんだろう。
+msgctxt "0069 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The blood is still wet. It must be the\n"
 "weapon used to kill Tenko."
 msgstr ""
 
-msgctxt "0071"
+#. <CLT=cltMIND>この凶器は…春川さんの研究教室にあった物だって
+#. 言ってたな。
+msgctxt "0070 | c03_103_041 | chara_Blank"
 msgid "<CLT=cltMIND>This weapon was from Maki's lab."
 msgstr ""
 
-msgctxt "0072"
+#. <CLT=cltMIND>刃渡りも１５センチくらいあるし、
+#. これで襲われたらひとたまりもない。
+msgctxt "0071 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The blade is about six inches,\n"
 "deadly in a fight."
 msgstr ""
 
-msgctxt "0073"
+#. <CLT=cltMIND>でも、このカマが凶器だとしても…
+#. カゴの中にいる茶柱さんをどうやって襲ったんだ？
+msgctxt "0072 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>But how did the culprit attack Tenko\n"
 "in the cage with the sickle?"
 msgstr ""
 
-msgctxt "0074"
+#. <CLT=cltMIND>刃だけならカゴの隙間から入れられるだろうけど、
+#. 茶柱さんの首筋まで届くのか？
+msgctxt "0073 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The blade might fit through the gaps in\n"
 "the cage, but could it reach Tenko's neck?"
 msgstr ""
 
-msgctxt "0075"
+#. <CLT=cltMIND>あのカゴの高さは１メートルくらい…
+#. そこから１５センチの刃を入れて刺すんだから…
+msgctxt "0074 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The cage is about three feet tall, so\n"
 "sticking a six-inch blade in that..."
 msgstr ""
 
-msgctxt "0076"
+#. <CLT=cltMIND>カゴの中での体勢によっては届きそうではある。
+#. ただ、その体勢が問題なんだよな…
+msgctxt "0075 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It would all depend on her body position\n"
 "inside the cage."
 msgstr ""
 
-msgctxt "0077"
+#. <CLT=cltMIND>それと…
+msgctxt "0076 | c03_103_041 | chara_Blank"
 msgid "<CLT=cltMIND>In addition to all that..."
 msgstr ""
 
-msgctxt "0078"
+#. <CLT=cltMIND>凶器がここに落ちているのは、
+#. 犯人が捨てたからだとして…
+msgctxt "0077 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>If we assume the weapon is down here\n"
 "because the culprit threw it here..."
 msgstr ""
 
-msgctxt "0079"
+#. <CLT=cltMIND>茶柱さんを殺した後で、犯人が暗闇に乗じて
+#. カマを床の隙間から投げ捨てたのか…
+msgctxt "0078 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Then either the culprit threw the sickle\n"
 "down here in the dark after the murder..."
 msgstr ""
 
-msgctxt "0080"
+#. <CLT=cltMIND>それとも、そもそも犯人はずっと床下にいたのか…
+msgctxt "0079 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>or the culprit was under the\n"
 "floor the whole time."
 msgstr ""
 
-msgctxt "0081"
+#. <CLT=cltMIND>…どっちなんだろう？
+msgctxt "0080 | c03_103_041 | chara_Blank"
 msgid "<CLT=cltMIND>Which could it be...?"
 msgstr ""
 
-msgctxt "0082"
+#. あっ、床板を支える横木の一部が
+#. 切られてなくなっている…！
+msgctxt "0081 | c03_103_041 | C000_Saiha"
 msgid ""
 "Ah, look! Part of the crosspiece that supports\n"
 "the floorboard is cut off."
 msgstr ""
 
-msgctxt "0083"
+#. ちょうど、外れた床板があるあたりだね。
+#. 床板の幅の分だけなくなってる…
+msgctxt "0082 | c03_103_041 | C010_Haruk"
 msgid ""
 "It's near the loose floorboard, and the portion\n"
 "missing is about the same width, too."
 msgstr ""
 
-msgctxt "0084"
+#. しかも、この切断面を見る限りだと…
+msgctxt "0083 | c03_103_041 | C000_Saiha"
 msgid "And from what I can see of it..."
 msgstr ""
 
-msgctxt "0085"
+#. 自然に折れたりした訳じゃなさそうだ。
+#. きっと、誰かに切られたんだよ…
+msgctxt "0084 | c03_103_041 | C000_Saiha"
 msgid ""
 "It wasn't broken off naturally.\n"
 "This was cut by someone."
 msgstr ""
 
-msgctxt "0086"
+#. ノコギリくらいなら倉庫にあるだろうから、
+#. それを使ったとして…
+msgctxt "0085 | c03_103_041 | C000_Saiha"
 msgid ""
 "There should be saws in the warehouse,\n"
 "so they could have used that..."
 msgstr ""
 
-msgctxt "0087"
+#. 問題は…どうしてそんな事をしたのかって事だね。
+msgctxt "0086 | c03_103_041 | C000_Saiha"
 msgid "The question is, why?"
 msgstr ""
 
-msgctxt "0088"
+#. 他の横木が支えになってるから、
+#. ここが切られても床板が落ちたりはしないだろうけど…
+msgctxt "0087 | c03_103_041 | C010_Haruk"
 msgid ""
 "Another crosspiece is supporting the floorboard,\n"
 "so it might not fall if this portion is missing..."
 msgstr ""
 
-msgctxt "0089"
+#. だったら、どんな目的があったの？
+msgctxt "0088 | c03_103_041 | C010_Haruk"
 msgid "So what purpose did this serve?"
 msgstr ""
 
-msgctxt "0090"
+#. <CLT=cltMIND>茶柱さんが乗っていた床板が外れてて、
+#. それを支える横木の一本が切り落とされている…
+msgctxt "0089 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The floorboard underneath Tenko's body is loose,\n"
 "and the crosspiece supporting it has been cut..."
 msgstr ""
 
-msgctxt "0091"
+#. <CLT=cltMIND>これが犯人の仕業だとすると、
+#. これって、何を意味しているんだ？
+msgctxt "0090 | c03_103_041 | chara_Blank"
 msgid "<CLT=cltMIND>If the culprit did all of this...then why?"
 msgstr ""
 
-msgctxt "0092"
+#. <CLT=cltSYSTEM><CLT=cltSTRONG>床下の横木<CLT=cltSYSTEM>をモノパッドに記録しました。
+#. 言弾（コトダマ）メニューで確認できます。
+msgctxt "0091 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Crosspiece Under the Floor<CLT=cltSYSTEM>\" has been added\n"
 "to the Truth Bullets section of your Monopad."
 msgstr ""
 
-msgctxt "0093"
+#. <CLT=cltMIND>床板を支える横木の一部が切られてなくなっている…
+#. ちょうど、外れた床板があったあたりだ。
+msgctxt "0092 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>A piece has been cut out of the crosspiece\n"
 "that is supporting the loose floorboard..."
 msgstr ""
 
-msgctxt "0094"
+#. <CLT=cltMIND>しかも、この切断面を見る限りだと…
+msgctxt "0093 | c03_103_041 | chara_Blank"
 msgid "<CLT=cltMIND>And from what I can see of it..."
 msgstr ""
 
-msgctxt "0095"
+#. <CLT=cltMIND>自然に折れたりした訳じゃなさそうだ。
+#. 誰かに切られたんだな…
+msgctxt "0094 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It wasn't broken off naturally.\n"
 "It must have been cut by someone."
 msgstr ""
 
-msgctxt "0096"
+#. <CLT=cltMIND>ノコギリくらいなら倉庫にあるだろうから、
+#. それを使ったとして…
+msgctxt "0095 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There should be saws in the warehouse,\n"
 "so assuming they used that..."
 msgstr ""
 
-msgctxt "0097"
+#. <CLT=cltMIND>問題は、どうしてそんな事をしたのか、だな。
+msgctxt "0096 | c03_103_041 | chara_Blank"
 msgid "<CLT=cltMIND>Why would they do all this?"
 msgstr ""
 
-msgctxt "0098"
+#. <CLT=cltMIND>茶柱さんが乗っていた床板が外れてて、
+#. それを支える横木の一本が切り落とされている…
+msgctxt "0097 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The floorboard Tenko's body is on is loose,\n"
 "and the crosspiece under it is cut off..."
 msgstr ""
 
-msgctxt "0099"
+#. <CLT=cltMIND>これが犯人の仕業だとすると、
+#. どんな目的があったんだ？
+msgctxt "0098 | c03_103_041 | chara_Blank"
 msgid "<CLT=cltMIND>If the culprit did all of this...then why?"
 msgstr ""
 
-msgctxt "0100"
+#. <CLT=cltMIND>この部分の床板が外れていて、
+#. そこに茶柱さんが乗っていた事と無関係じゃなさそうだ。
+msgctxt "0099 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The fact that Tenko's body is on top of\n"
 "the loose floorboard can't be coincidence."
 msgstr ""
 
-msgctxt "0101"
+#. <CLT=cltMIND>これで…床下は一通り調べ終わったかな。
+msgctxt "0100 | c03_103_041 | chara_Blank"
 msgid "<CLT=cltMIND>I think we've finished investigating here."
 msgstr ""
 
-msgctxt "0102"
+#. …春川さん、そろそろ戻ろうか？
+msgctxt "0101 | c03_103_041 | C000_Saiha"
 msgid "Maki, you want to head back up?"
 msgstr ""
 
-msgctxt "0103"
+#. 良かった…いい加減埃っぽくて、
+#. うんざりしてたところだよ。
+msgctxt "0102 | c03_103_041 | C010_Haruk"
 msgid ""
 "Glad you asked... I was starting to get fed up\n"
 "with all this dust."
 msgstr ""
 
-msgctxt "0104"
+#. <CLT=cltMIND>そして、僕と春川さんは床下から出ると、
+#. 外した床板を元に戻し…
+msgctxt "0103 | c03_103_041 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>After Maki and I crawled out from under\n"
 "the floor, we put the floorboards back..."
 msgstr ""
 
-msgctxt "0105"
+#. <CLT=cltMIND>再び、捜査に戻った。
+msgctxt "0104 | c03_103_041 | chara_Blank"
 msgid "<CLT=cltMIND>And returned to our investigation."
 msgstr ""

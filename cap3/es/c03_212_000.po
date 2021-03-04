@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,94 +11,126 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 暗闇の中で茶柱さんを狙うためには、
+#. 明かりが必要だよネ？
+msgctxt "0000 | c03_212_000 | C006_Shing"
 msgid ""
 "With the room as dark as it was,\n"
 "one would need a light, no?"
 msgstr ""
 
-msgctxt "0002"
+#. それとも君は、根本を否定したいのかい？
+#. 何にしろ、その証拠じゃ無理だろうけど。
+msgctxt "0001 | c03_212_000 | C006_Shing"
 msgid ""
 "Or are you denying my entire theory?\n"
 "Either way, your evidence is lacking."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0002 | c03_212_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0004"
+#. えっ！　本当にロウソクだったの？
+#. 最原君が言うなら、きっと正しいんだよね！？
+msgctxt "0003 | c03_212_000 | C004_Gokuh"
 msgid ""
 "What!? Just with candles? Really?\n"
 "If you say so Shuichi! Gonta trust you!"
 msgstr ""
 
-msgctxt "0005"
+#. いや…少なくともロウソクは違うヨ。
+#. そんな証拠は、どこにもなかったよネ？
+msgctxt "0004 | c03_212_000 | C006_Shing"
 msgid ""
 "No...it couldn't be a candle. There is \n"
 "no evidence to support that, is there?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0005 | c03_212_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0007"
+#. 床下はそんなに広かねぇけど、
+#. １人が動き回るぐらいならできたはずだ！
+msgctxt "0006 | c03_212_000 | C014_Iruma"
 msgid ""
 "Sure, it's cramped under the floor, but there's\n"
 "enough room for one person to move around!"
 msgstr ""
 
-msgctxt "0008"
+#. キーボの懐中電灯がありゃ尚更だろーが！
+msgctxt "0007 | c03_212_000 | C014_Iruma"
 msgid "Especially if they had Keebo's flashlight!"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0008 | c03_212_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0010"
+#. 　
+msgctxt "0009 | c03_212_000 | C000_Saiha"
 msgid "[EMPTY_LINE]"
 msgstr ""
 
-msgctxt "0011"
+#. 　
+msgctxt "0010 | c03_212_000 | C000_Saiha"
 msgid "[EMPTY_LINE]"
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>確かに、明かりを使えれば、
+#. 床下を移動する事はできたかもしれないけど…
+msgctxt "0011 | c03_212_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>It's true that with a little light,\n"
 "you could move around under the floor..."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>あの部屋の状況を考えれば、
+#. 床下で明かりを使うのは無理なはずだぞ…
+msgctxt "0012 | c03_212_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>But thinking about that room, I don't think\n"
 "it would be possible to use light under the floor."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>確かに、明かりを使えれば、
+#. 床下を移動する事はできたかもしれないけど…
+msgctxt "0013 | c03_212_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>It's true that with a little light,\n"
 "you could move around under the floor..."
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>本当にそれは可能だったのか？
+msgctxt "0014 | c03_212_000 | C000_Saiha"
 msgid "<CLT=cltMIND>But is that possible?"
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>確かに、明かりを使えれば、
+#. 床下を移動する事はできたかもしれないけど…
+msgctxt "0015 | c03_212_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>It's true that with a little light,\n"
 "you could move around under the floor..."
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>本当にそれは可能だったのか？
+msgctxt "0016 | c03_212_000 | C000_Saiha"
 msgid "<CLT=cltMIND>But is that possible?"
 msgstr ""

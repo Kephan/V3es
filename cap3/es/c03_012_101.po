@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,81 +11,105 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=cltMIND>アンジーさんは諦めろって言ってたけど、
+#. 僕は諦めるつもりはない。
+msgctxt "0000 | c03_012_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Angie told us to give up,\n"
 "but I have no intention of doing so."
 msgstr ""
 
-msgctxt "0002"
+#. <CLT=cltMIND>赤松さんが目指したように…
+#. 僕はみんなと一緒にここから出るんだ。
+msgctxt "0001 | c03_012_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>My goal is the same as Kaede's.\n"
 "Get out of here, with everyone."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>その為にも…なんとかしないとな。
+msgctxt "0002 | c03_012_101 | chara_Blank"
 msgid "<CLT=cltMIND>And that means...I need to do something."
 msgstr ""
 
-msgctxt "0004"
+#. はい
+msgctxt "0003 | c03_012_101 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0005"
+#. いいえ
+msgctxt "0004 | c03_012_101 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0006"
+#. もしかして悩んでいるの？
+msgctxt "0005 | c03_012_101 | chara_Blank"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0006 | c03_012_101 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+msgctxt "0007 | c03_012_101 | chara_Blank"
 msgid "<CLT=cltMIND>It's a monitor for communicating with us."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0008 | c03_012_101 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0010"
+#. はい
+msgctxt "0009 | c03_012_101 | chara_Blank"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0011"
+#. いいえ
+msgctxt "0010 | c03_012_101 | chara_Blank"
 msgid "No"
 msgstr ""
 
-msgctxt "0012"
+#. もしかして悩んでいるの？
+msgctxt "0011 | c03_012_101 | chara_Blank"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltSYSTEM>自由行動は終了となりストーリーが次へと進みますが、
+#. ベッドで休まれますか？
+msgctxt "0012 | c03_012_101 | chara_Blank"
 msgid ""
 "<CLT=cltSYSTEM>Would you like to rest in bed?\n"
 "Free Time will end if you do."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>時間もあるし…一休みするか
+msgctxt "0013 | c03_012_101 | chara_Blank"
 msgid "<CLT=cltMIND>There's still time... I need to rest..."
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>かなり大きな照明だ。
+#. お陰で明るいけど…
+msgctxt "0014 | c03_012_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a pretty big light.\n"
 "It lights the room well..."
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>クローゼットの中には、
+#. 僕の制服と同じものが何着も入っている。
+msgctxt "0015 | c03_012_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>My closet is filled with\n"
 "uniforms exactly like mine..."
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>ずっとこれだけを着ていろって事か？
+#. 確かに、僕らを判別しやすくはなるけど…
+msgctxt "0016 | c03_012_101 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Do they plan for us to wear this forever?\n"
 "It makes it easier to tell us apart, I suppose..."

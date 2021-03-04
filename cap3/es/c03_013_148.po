@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,91 +11,116 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. はい
+msgctxt "0000 | c03_013_148 | non"
 msgid "Yes"
 msgstr ""
 
-msgctxt "0002"
+#. いいえ
+msgctxt "0001 | c03_013_148 | non"
 msgid "No"
 msgstr ""
 
-msgctxt "0003"
+#. もしかして悩んでいるの？
+msgctxt "0002 | c03_013_148 | non"
 msgid "Are you unsure of something?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltSYSTEM>ここから出ますか？
+msgctxt "0003 | c03_013_148 | chara_Blank"
 msgid "<CLT=cltSYSTEM>Would you like to leave?"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0004 | c03_013_148 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0005 | c03_013_148 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>………………
+msgctxt "0006 | c03_013_148 | chara_Blank"
 msgid "<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>水中脱出のマジックは、当分見たくないな…
+msgctxt "0007 | c03_013_148 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't want to see any underwater\n"
 "escape tricks for a while..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>………………
+msgctxt "0008 | c03_013_148 | chara_Blank"
 msgid "<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>水中脱出のマジックは、当分見たくないな…
+msgctxt "0009 | c03_013_148 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I don't want to see any underwater\n"
 "escape tricks for a while..."
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>大きなノコギリだ…
+msgctxt "0010 | c03_013_148 | chara_Blank"
 msgid "<CLT=cltMIND>What a huge saw..."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>多分、この箱に人を入れて
+#. 切断してみせるマジックで使う物なんだろな。
+msgctxt "0011 | c03_013_148 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's probably used for the\n"
 "saw-a-person-in-half trick."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>…これもマジックに使うものかな。
+#. マジックショーで見た事がある…
+msgctxt "0012 | c03_013_148 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This is going to be used for a magic\n"
 "trick too. I've seen it in a magic show..."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>人が入れそうな大きな箱に、剣が何本も刺さっている。
+msgctxt "0013 | c03_013_148 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>There are several swords stabbed into\n"
 "a human-sized box."
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>中に人が入って、剣で刺されても無傷…
+#. そんなマジック用の道具なんだろうな。
+msgctxt "0014 | c03_013_148 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>But if there was a person inside, they\n"
 "would come out just fine. That's the trick, I think."
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>大きなカゴだ…
+#. 僕なら中に入れそうだな…
+msgctxt "0015 | c03_013_148 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>This is a big cage...\n"
 "I might fit inside this..."
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=cltMIND>これって…ギロチンだよな？
+msgctxt "0016 | c03_013_148 | chara_Blank"
 msgid "<CLT=cltMIND>This is...a guillotine, right?"
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltMIND>マジック用だってわかっていても、
+#. 身が竦むような雰囲気を感じる…
+msgctxt "0017 | c03_013_148 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I know it's just for a magic trick,\n"
 "but it still kind of creeps me out..."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,213 +11,274 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=size2>茶柱<CLT=size1>が
+msgctxt "0000 | c03_216_001 | C014_Iruma"
 msgid "<CLT=size2>Tenko<CLT=size1> died"
 msgstr ""
 
-msgctxt "0002"
+#. 茶柱が死んだのは降霊術の後だ。
+msgctxt "0001 | c03_216_001 | C014_Iruma"
 msgid "Tenko died after the seance."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=size2>死んだ
+#. <CLT=size1>のは
+msgctxt "0002 | c03_216_001 | C014_Iruma"
 msgid "<CLT=size2>after<CLT=size1> the"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=size2>降霊術<CLT=size1>の
+#. 後だ。
+msgctxt "0003 | c03_216_001 | C014_Iruma"
 msgid "<CLT=size2>seance."
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=size2>チャンス<CLT=size1>は
+msgctxt "0004 | c03_216_001 | C014_Iruma"
 msgid "It <CLT=size2>happened"
 msgstr ""
 
-msgctxt "0006"
+#. チャンスは白い布をめくった瞬間！
+msgctxt "0005 | c03_216_001 | C014_Iruma"
 msgid "It happened when the sheet was lifted!"
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=size2>白い布<CLT=size1>を
+msgctxt "0006 | c03_216_001 | C014_Iruma"
 msgid "when the <CLT=size2>sheet"
 msgstr ""
 
-msgctxt "0008"
+#. めくった
+#. <CLT=size2>瞬間<CLT=size1>！
+msgctxt "0007 | c03_216_001 | C014_Iruma"
 msgid "was <CLT=size2>lifted!"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=size2>犯人<CLT=size1>は
+msgctxt "0008 | c03_216_001 | C014_Iruma"
 msgid "That"
 msgstr ""
 
-msgctxt "0010"
+#. 犯人はあの白い布をめくると同時に…
+msgctxt "0009 | c03_216_001 | C014_Iruma"
 msgid "That was the moment the culprit chose..."
 msgstr ""
 
-msgctxt "0011"
+#. あの
+#. <CLT=size2>白い布<CLT=size1>を
+msgctxt "0010 | c03_216_001 | C014_Iruma"
 msgid ""
 "was the\n"
 "<CLT=size2>moment"
 msgstr ""
 
-msgctxt "0012"
+#. めくると
+#. 同時に…
+msgctxt "0011 | c03_216_001 | C014_Iruma"
 msgid ""
 "the culprit\n"
 "chose..."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=size2>カゴ
+#. 越し<CLT=size1>に
+msgctxt "0012 | c03_216_001 | C014_Iruma"
 msgid ""
 "to <CLT=size2>stab\n"
 "<CLT=size1>the <CLT=size2>FUCK"
 msgstr ""
 
-msgctxt "0014"
+#. カゴ越しに茶柱をぶっ刺したんだ！
+msgctxt "0013 | c03_216_001 | C014_Iruma"
 msgid "to stab the FUCK outta Tenko through the cage!"
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=size2>茶柱<CLT=size1>を
+msgctxt "0014 | c03_216_001 | C014_Iruma"
 msgid "outta <CLT=size2>Tenko"
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=size2>ぶっ刺し
+#. <CLT=size1>たんだ！
+msgctxt "0015 | c03_216_001 | C014_Iruma"
 msgid ""
 "through\n"
 "the <CLT=size2>cage!"
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=size2>カゴ<CLT=size1>の
+#. <CLT=size2>隙間<CLT=size1>から
+msgctxt "0016 | c03_216_001 | C014_Iruma"
 msgid ""
 "They <CLT=size2>stuck\n"
 "<CLT=size1>the <CLT=size2>thin blade"
 msgstr ""
 
-msgctxt "0018"
+#. カゴの隙間から細い凶器を挿入してな！
+msgctxt "0017 | c03_216_001 | C014_Iruma"
 msgid ""
 "They stuck the thin blade through\n"
 "the gaps of the cage!"
 msgstr ""
 
-msgctxt "0019"
+#. 細い凶器を
+#. 挿入してな！
+msgctxt "0018 | c03_216_001 | C014_Iruma"
 msgid ""
 "through the <CLT=size2>gaps\n"
 "<CLT=size1>of the <CLT=size2>cage!"
 msgstr ""
 
-msgctxt "0020"
+#. その挿入で
+#. <CLT=size2>シーツ<CLT=size1>に
+msgctxt "0019 | c03_216_001 | C014_Iruma"
 msgid ""
 "And that\n"
 "<CLT=size2>clean\n"
 "white sheet"
 msgstr ""
 
-msgctxt "0021"
+#. その挿入でシーツに赤い染みが付着したんだ！
+msgctxt "0020 | c03_216_001 | C014_Iruma"
 msgid ""
 "And that clean white sheet\n"
 "got stained blood red!"
 msgstr ""
 
-msgctxt "0022"
+#. <CLT=size2>赤い染み
+#. <CLT=size1>が付着したんだ！
+msgctxt "0021 | c03_216_001 | C014_Iruma"
 msgid ""
 "got stained\n"
 "<CLT=size2>blood\n"
 "red!"
 msgstr ""
 
-msgctxt "0023"
+#. でも…<CLT=size2>凶器<CLT=size1>は<CLT=size2>カマ<CLT=size1>なんだよ？
+msgctxt "0022 | c03_216_001 | C000_Saiha"
 msgid "But the <CLT=size2>weapon<CLT=size1> was a <CLT=size2>sickle."
 msgstr ""
 
-msgctxt "0024"
+#. でも…凶器はカマなんだよ？
+#. あのカゴの隙間からはせいぜい刃の部分しか入らないよ。
+msgctxt "0023 | c03_216_001 | C000_Saiha"
 msgid ""
 "But the weapon was a sickle.\n"
 "Only the blade could have fit through the gaps."
 msgstr ""
 
-msgctxt "0025"
+#. あの<CLT=size2>カゴ<CLT=size1>の<CLT=size2>隙間<CLT=size1>からは
+#. せいぜい<CLT=size2>刃<CLT=size1>の部分しか入らないよ。
+msgctxt "0024 | c03_216_001 | C000_Saiha"
 msgid ""
 "Only the <CLT=size2>blade<CLT=size1> could\n"
 "have fit through the <CLT=size2>gaps."
 msgstr ""
 
-msgctxt "0026"
+#. <CLT=size2>先っちょ<CLT=size1>が
+#. 入れば<CLT=size2>十分<CLT=size1>だろ！
+msgctxt "0025 | c03_216_001 | C014_Iruma"
 msgid ""
 "The <CLT=size2>blade's\n"
 "<CLT=size2>all ya need!"
 msgstr ""
 
-msgctxt "0027"
+#. 先っちょが入れば十分だろ！
+msgctxt "0026 | c03_216_001 | C014_Iruma"
 msgid "The blade's all ya need!"
 msgstr ""
 
-msgctxt "0028"
+#. <CLT=size2>カゴ<CLT=size1>の
+msgctxt "0027 | c03_216_001 | C014_Iruma"
 msgid ""
 "If you stick\n"
 "the <CLT=size2>blade"
 msgstr ""
 
-msgctxt "0029"
+#. カゴの隙間から刃を入れりゃあ…
+msgctxt "0028 | c03_216_001 | C014_Iruma"
 msgid "If you stick the blade through a gap in the cage..."
 msgstr ""
 
-msgctxt "0030"
+#. <CLT=size2>隙間<CLT=size1>から
+msgctxt "0029 | c03_216_001 | C014_Iruma"
 msgid "through a <CLT=size2>gap"
 msgstr ""
 
-msgctxt "0031"
+#. <CLT=size2>刃<CLT=size1>を
+#. 入れりゃあ…
+msgctxt "0030 | c03_216_001 | C014_Iruma"
 msgid ""
 "in the\n"
 "<CLT=size2>cage..."
 msgstr ""
 
-msgctxt "0032"
+#. <CLT=size2>中<CLT=size1>に
+#. いた
+msgctxt "0031 | c03_216_001 | C014_Iruma"
 msgid ""
 "it'd be\n"
 "<CLT=size2>long"
 msgstr ""
 
-msgctxt "0033"
+#. 中にいた茶柱にだって届く！
+msgctxt "0032 | c03_216_001 | C014_Iruma"
 msgid "it'd be long enough to reach Tenko!"
 msgstr ""
 
-msgctxt "0034"
+#. <CLT=size2>茶柱<CLT=size1>に
+#. だって
+msgctxt "0033 | c03_216_001 | C014_Iruma"
 msgid ""
 "<CLT=size2>enough\n"
 "<CLT=size1>to <CLT=size2>reach"
 msgstr ""
 
-msgctxt "0035"
+#. <CLT=size2>届く！
+msgctxt "0034 | c03_216_001 | C014_Iruma"
 msgid "<CLT=size2>Tenko!"
 msgstr ""
 
-msgctxt "0036"
+#. <CLT=cltWEAK>中で<CLT=size2>座ってた
+msgctxt "0035 | c03_216_001 | C014_Iruma"
 msgid ""
 "<CLT=cltWEAK>Sitting\n"
 "<CLT=size2>in there,"
 msgstr ""
 
-msgctxt "0037"
+#. 中で座ってたあいつの首筋まで…
+msgctxt "0036 | c03_216_001 | C014_Iruma"
 msgid "Sitting in there, with her neck all exposed..."
 msgstr ""
 
-msgctxt "0038"
+#. <CLT=size2>あいつ<CLT=size1>の
+msgctxt "0037 | c03_216_001 | C014_Iruma"
 msgid "with her <CLT=size2>neck"
 msgstr ""
 
-msgctxt "0039"
+#. <CLT=size2>首筋<CLT=size1>まで…
+msgctxt "0038 | c03_216_001 | C014_Iruma"
 msgid "all <CLT=size2>exposed..."
 msgstr ""
 
-msgctxt "0040"
+#. カゴの<CLT=size2>隙間<CLT=size1>からは
+#. そんなに<CLT=size2>離れてねー<CLT=size1>からな！
+msgctxt "0039 | c03_216_001 | C014_Iruma"
 msgid ""
 "she wasn't <CLT=size2>that far\n"
 "<CLT=size1>from the cage's <CLT=size2>gaps!"
 msgstr ""
 
-msgctxt "0041"
+#. カゴの隙間からはそんなに離れてねーからな！
+msgctxt "0040 | c03_216_001 | C014_Iruma"
 msgid ""
 "she wasn't that far\n"
 "from the cage's gaps!"
 msgstr ""
 
-msgctxt "0042"
+#. だとすると、<CLT=size2>犯人<CLT=size1>は
+#. <CLT=size2>白い布<CLT=size1>をめくった…
+msgctxt "0041 | c03_216_001 | C014_Iruma"
 msgid ""
 "In which case,\n"
 "the person who\n"
@@ -225,24 +286,31 @@ msgid ""
 "<CLT=size1> is the <CLT=size2>culprit..."
 msgstr ""
 
-msgctxt "0043"
+#. だとすると、犯人は白い布をめくった…
+msgctxt "0042 | c03_216_001 | C014_Iruma"
 msgid ""
 "In which case, the person who\n"
 "lifted the sheet is the culprit..."
 msgstr ""
 
-msgctxt "0044"
+#. <CLT=size2>真宮寺<CLT=size1>で
+#. <CLT=size2>間違いねー
+#. <CLT=size1>って訳だ！
+msgctxt "0043 | c03_216_001 | C014_Iruma"
 msgid ""
 "and that's\n"
 "<CLT=size2>none other\n"
 "than <CLT=size2>Kiyo!"
 msgstr ""
 
-msgctxt "0045"
+#. 真宮寺で間違いねーって訳だ！
+msgctxt "0044 | c03_216_001 | C014_Iruma"
 msgid "and that's none other than Kiyo!"
 msgstr ""
 
-msgctxt "0046"
+#. ご、ごめん…
+#. もう一度最初から話してくれないかな？
+msgctxt "0045 | c03_216_001 | C000_Saiha"
 msgid ""
 "I'm sorry...\n"
 "Could you start over from the beginning?"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,96 +11,118 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. <CLT=size2>他<CLT=size1>の可能性も
+#. 考えるべきです！
+msgctxt "0000 | c03_206_002 | C007_Ki-Bo"
 msgid ""
 "We must consider\n"
 "<CLT=size2>other\n"
 "<CLT=size1>possibilities!"
 msgstr ""
 
-msgctxt "0002"
+#. 他の可能性も考えるべきです！
+msgctxt "0001 | c03_206_002 | C007_Ki-Bo"
 msgid ""
 "We must consider\n"
 "other possibilities!"
 msgstr ""
 
-msgctxt "0003"
+#. 生徒会以外の容疑者も
+#. いるはずです！
+msgctxt "0002 | c03_206_002 | C007_Ki-Bo"
 msgid ""
 "Surely, there must\n"
 "be suspects outside\n"
 "the student council!"
 msgstr ""
 
-msgctxt "0004"
+#. 生徒会以外の容疑者もいるはずです！
+msgctxt "0003 | c03_206_002 | C007_Ki-Bo"
 msgid ""
 "Surely, there must be suspects\n"
 "outside the student council!"
 msgstr ""
 
-msgctxt "0005"
+#. そんなのいる<CLT=size2>訳
+#. <CLT=size1>ないじゃん。
+msgctxt "0004 | c03_206_002 | C005_Oma__"
 msgid ""
 "That's <CLT=size2>utterly\n"
 "<CLT=size1>impossible."
 msgstr ""
 
-msgctxt "0006"
+#. そんなのいる訳ないじゃん。
+msgctxt "0005 | c03_206_002 | C005_Oma__"
 msgid "That's utterly impossible."
 msgstr ""
 
-msgctxt "0007"
+#. あの扉を開けられるのは…
+msgctxt "0006 | c03_206_002 | C005_Oma__"
 msgid ""
 "Not just anyone could\n"
 "open that door..."
 msgstr ""
 
-msgctxt "0008"
+#. あの扉を開けられるのは…
+msgctxt "0007 | c03_206_002 | C005_Oma__"
 msgid ""
 "Not just anyone could\n"
 "open that door..."
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltWEAK>生徒会メンバー
+msgctxt "0008 | c03_206_002 | C005_Oma__"
 msgid "<CLT=cltWEAK>Only student council"
 msgstr ""
 
-msgctxt "0010"
+#. 生徒会メンバーだけなんだからさ！
+msgctxt "0009 | c03_206_002 | C005_Oma__"
 msgid "Only student council members had access!"
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltWEAK>だけ<CLT=cltNORMAL>なんだからさ！
+msgctxt "0010 | c03_206_002 | C005_Oma__"
 msgid "<CLT=cltWEAK>members<CLT=cltNORMAL> had access!"
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=size2>ロボ<CLT=size1>って
+msgctxt "0011 | c03_206_002 | C005_Oma__"
 msgid "I didn't know"
 msgstr ""
 
-msgctxt "0013"
+#. ロボってつまんない嘘をつくんだね。
+msgctxt "0012 | c03_206_002 | C005_Oma__"
 msgid ""
 "I didn't know robots\n"
 "told such boring lies."
 msgstr ""
 
-msgctxt "0014"
+#. つまんない<CLT=size2>嘘<CLT=size1>
+#. をつくんだね。
+msgctxt "0013 | c03_206_002 | C005_Oma__"
 msgid ""
 "<CLT=size2>robots<CLT=size1> told\n"
 "such boring <CLT=size2>lies."
 msgstr ""
 
-msgctxt "0015"
+#. 結局は<CLT=size2>ロボット差別<CLT=size1>ですか！
+msgctxt "0014 | c03_206_002 | C007_Ki-Bo"
 msgid ""
 "Is that a\n"
 "<CLT=size2>robophobic remark!?"
 msgstr ""
 
-msgctxt "0016"
+#. 結局はロボット差別ですか！
+msgctxt "0015 | c03_206_002 | C007_Ki-Bo"
 msgid "Is that a robophobic remark!?"
 msgstr ""
 
-msgctxt "0017"
+#. 他…って何？
+msgctxt "0016 | c03_206_002 | C006_Shing"
 msgid "What possibilities?"
 msgstr ""
 
-msgctxt "0018"
+#. 本当にそうだったかな？
+msgctxt "0017 | c03_206_002 | C006_Shing"
 msgid "Is that really the truth?"
 msgstr ""

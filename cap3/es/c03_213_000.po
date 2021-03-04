@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,499 +11,653 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 入間さん、キーボくんのライト機能って、
+#. キミが追加したんだよね？
+msgctxt "0000 | c03_213_000 | C000_Saiha"
 msgid ""
 "Miu, you gave Keebo his\n"
 "flashlight function, correct?"
 msgstr ""
 
-msgctxt "0002"
+#. それなのに…気が付かなかったの？
+msgctxt "0001 | c03_213_000 | C000_Saiha"
 msgid "...Did you not notice?"
 msgstr ""
 
-msgctxt "0003"
+#. き、気が付かなかったって…何がだよ。
+msgctxt "0002 | c03_213_000 | C014_Iruma"
 msgid "I didn't notice what?"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltMIND>この事件はキーボくんが犯人とは思えない。
+msgctxt "0003 | c03_213_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>It's hard to believe that Keebo\n"
 "is the culprit in this case."
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>その上、議論が誰かによって
+#. 誘導させられているような気がする…
+msgctxt "0004 | c03_213_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>It's even harder to believe that this\n"
 "trial isn't being manipulated by someone..."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>だったら、ここは<CLT=cltSTRONG>“嘘”<CLT=cltMIND>をついてでも、
+#. キーボくんを擁護するべきだ…！
+msgctxt "0005 | c03_213_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>So even if I have to <CLT=cltSTRONG>lie<CLT=cltMIND>...\n"
 "I need to defend Keebo!"
 msgstr ""
 
-msgctxt "0007"
+#. ライト機能の<CLT=cltSTRONG>“欠点”<CLT=cltNORMAL>の事だよ。
+#. あの機能には…
+msgctxt "0006 | c03_213_000 | C000_Saiha"
 msgid ""
 "The <CLT=cltSTRONG>drawback<CLT=cltNORMAL> of the flashlight\n"
 "function that you added."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltSTRONG>“キーボくん自身も眩しくて何も見えなくなる”<CLT=cltNORMAL>
+#. という欠点があったんだ！
+msgctxt "0007 | c03_213_000 | C000_Saiha"
 msgid ""
 "It's <CLT=cltSTRONG>so bright, even Keebo can't see<CLT=cltNORMAL>\n"
 "when it's turned on!"
 msgstr ""
 
-msgctxt "0009"
+#. へー、そうなんだ…
+#. 眩しくて…
+msgctxt "0008 | c03_213_000 | C014_Iruma"
 msgid ""
 "Hmmm, I see...\n"
 "That bright, huh?"
 msgstr ""
 
-msgctxt "0010"
+#. …って、はああっ！？
+#. 天才のオレ様がそんなミスをする訳ねーだろっ！
+msgctxt "0009 | c03_213_000 | C014_Iruma"
 msgid ""
 "...Wait, what!? There's no way a genius like me\n"
 "would make that kinda rookie mistake!"
 msgstr ""
 
-msgctxt "0011"
+#. そうかな…入間さんなら
+#. 普通にやりそうなミスだと思うけど…
+msgctxt "0010 | c03_213_000 | C004_Gokuh"
 msgid ""
 "But...you make mistakes a lot...\n"
 "A whole lot..."
 msgstr ""
 
-msgctxt "0012"
+#. ふざけんなっ！　ナメんぞ、デカチンがっ！
+msgctxt "0011 | c03_213_000 | C014_Iruma"
 msgid ""
 "Hey! If you're gonna fuck me in front of\n"
 "everyone, at least buy me dinner first!"
 msgstr ""
 
-msgctxt "0013"
+#. 眩しくて見えないなら、
+#. いくら暗闇を照らしたところで前には進めないよね？
+msgctxt "0012 | c03_213_000 | C000_Saiha"
 msgid ""
 "If he can't see, it doesn't matter how\n"
 "bright the area is. He couldn't move like that."
 msgstr ""
 
-msgctxt "0014"
+#. だから、キーボくんが床下を移動する事は
+#. 不可能だったんだよ！
+msgctxt "0013 | c03_213_000 | C000_Saiha"
 msgid ""
 "So Keebo couldn't have been\n"
 "underneath the floor!"
 msgstr ""
 
-msgctxt "0015"
+#. そ、そうなの、キーボ君？
+#. 最原君の言っている事って本当なの？
+msgctxt "0014 | c03_213_000 | C012_Shiro"
 msgid ""
 "I-Is that true, Keebo? \n"
 "Is what Shuichi said true?"
 msgstr ""
 
-msgctxt "0016"
+#. ………………
+msgctxt "0015 | c03_213_000 | C007_Ki-Bo"
 msgid "..."
 msgstr "..."
 
-msgctxt "0017"
+#. <CLT=cltMIND>キーボくん、キミは犯人じゃないはずだ。
+#. だったら、今はこの“嘘”に乗ってくれ。
+msgctxt "0016 | c03_213_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Come on, Keebo...\n"
 "Please, play along!"
 msgstr ""
 
-msgctxt "0018"
+#. え、えっと…
+msgctxt "0017 | c03_213_000 | C007_Ki-Bo"
 msgid "Um..."
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltMIND>キーボくん…！
+msgctxt "0018 | c03_213_000 | C000_Saiha"
 msgid "<CLT=cltMIND>Keebo!"
 msgstr ""
 
-msgctxt "0020"
+#. そ、その…あの…えっと…
+msgctxt "0019 | c03_213_000 | C007_Ki-Bo"
 msgid "Uh, um... Well...uh..."
 msgstr ""
 
-msgctxt "0021"
+#. すみません！　よく覚えていません！
+#. 本当にすみません！
+msgctxt "0020 | c03_213_000 | C007_Ki-Bo"
 msgid ""
 "I'm so sorry! I just don't remember!\n"
 "Really, I'm sorry!"
 msgstr ""
 
-msgctxt "0022"
+#. わ、わかったから１回消してくれ！
+#. 光で目がチカチカするだろーが！
+msgctxt "0021 | c03_213_000 | C001_Momot"
 msgid ""
 "Aagh! We get it already! \n"
 "Just turn it off! We're gonna go blind!"
 msgstr ""
 
-msgctxt "0023"
+#. よく覚えないって…どういう事？
+msgctxt "0022 | c03_213_000 | C006_Shing"
 msgid ""
 "You don't remember?\n"
 "What does that even mean?"
 msgstr ""
 
-msgctxt "0024"
+#. さては、最原…
+#. オレ様をハメようとしやがったな…
+msgctxt "0023 | c03_213_000 | C014_Iruma"
 msgid ""
 "Well, Shuichi...\n"
 "Tryin' to make a fool outta me, huh?"
 msgstr ""
 
-msgctxt "0025"
+#. 許さねぇ！
+#. オレ様はテメーが泣くまでナメるのをやめねぇ！
+msgctxt "0024 | c03_213_000 | C014_Iruma"
 msgid ""
 "Lemme put on some makeup, cuz I wanna at least\n"
 "look pretty before you decide to fuck me!"
 msgstr ""
 
-msgctxt "0026"
+#. あ…えっと…その…
+msgctxt "0025 | c03_213_000 | C000_Saiha"
 msgid "Ah, um, th-that's uh..."
 msgstr ""
 
-msgctxt "0027"
+#. 最原クン、すみませんでした！
+msgctxt "0026 | c03_213_000 | C007_Ki-Bo"
 msgid "Shuichi, I'm so sorry!"
 msgstr ""
 
-msgctxt "0028"
+#. だから、眩しいってんだよ！
+msgctxt "0027 | c03_213_000 | C001_Momot"
 msgid "Damn! That is seriously bright!"
 msgstr ""
 
-msgctxt "0029"
+#. でもさ、これだけ眩しかったら、
+#. <CLT=cltSTRONG>床の隙間<CLT=cltNORMAL>から光が漏れてきそうだよね？
+msgctxt "0028 | c03_213_000 | C010_Haruk"
 msgid ""
 "Wouldn't the light have shined through the <CLT=cltSTRONG>gaps\n"
 "of the floorboard<CLT=cltNORMAL> if it had been this bright?"
 msgstr ""
 
-msgctxt "0030"
+#. <CLT=cltMIND>…隙間から光が？
+msgctxt "0029 | c03_213_000 | C000_Saiha"
 msgid "<CLT=cltMIND>The hole..."
 msgstr ""
 
-msgctxt "0031"
+#. そうか…キーボくんのライト機能だけじゃない…
+#. そもそも、犯人が床下で明かりを使ったはずがないんだ。
+msgctxt "0030 | c03_213_000 | C000_Saiha"
 msgid ""
 "Yes...the culprit couldn't have used a\n"
 "light under the floor. Not even Keebo."
 msgstr ""
 
-msgctxt "0032"
+#. 明かりを使っていない？
+msgctxt "0031 | c03_213_000 | C006_Shing"
 msgid "Oh? They coudn't have...?"
 msgstr ""
 
-msgctxt "0033"
+#. その事は儀式の参加者である僕らが、
+#. 一番良くわかっているはずだよ？
+msgctxt "0032 | c03_213_000 | C000_Saiha"
 msgid ""
 "We were there, after all.\n"
 "We would know."
 msgstr ""
 
-msgctxt "0034"
+#. 儀式をやった空き部屋の隅には、
+#. 隙間があったでしょ？
+msgctxt "0033 | c03_213_000 | C000_Saiha"
 msgid ""
 "There was a hole near the corner\n"
 "of the room we were in, remember?"
 msgstr ""
 
-msgctxt "0035"
+#. もし床下で明かりが使われていたなら、
+#. 隙間から光が漏れてくるはずだよね？
+msgctxt "0034 | c03_213_000 | C000_Saiha"
 msgid ""
 "If someone had a light under the floor,\n"
 "it would have leaked through."
 msgstr ""
 
-msgctxt "0036"
+#. じゃが…ウチらが降霊術をやった時、
+#. 部屋の中は真っ暗だったはずじゃ…
+msgctxt "0035 | c03_213_000 | C009_Yumen"
 msgid ""
 "But...when we did the seance, I'm pretty sure\n"
 "the room was pitch black."
 msgstr ""
 
-msgctxt "0037"
+#. うん…僕らが光を見ていない事が、
+#. 儀式中に明かりが使われていない証拠なんだ。
+msgctxt "0036 | c03_213_000 | C000_Saiha"
 msgid ""
 "That's right. We didn't see anything,\n"
 "so the culprit couldn't have used a light."
 msgstr ""
 
-msgctxt "0038"
+#. という事は、ライト機能があるからといって、
+#. ボクが犯人である根拠にはなりませんね。
+msgctxt "0037 | c03_213_000 | C007_Ki-Bo"
 msgid ""
 "And just because I have a built-in flashlight\n"
 "function, does not mean I am the culprit."
 msgstr ""
 
-msgctxt "0039"
+#. なるほどネ…それは盲点だったヨ。
+msgctxt "0038 | c03_213_000 | C006_Shing"
 msgid "I see... That was a flaw in my theory."
 msgstr ""
 
-msgctxt "0040"
+#. いや、降霊術中に床下で明かりを使ったとは
+#. 考えられないよ。
+msgctxt "0039 | c03_213_000 | C000_Saiha"
 msgid ""
 "I don't think the culprit could have\n"
 "used a light while under the floor."
 msgstr ""
 
-msgctxt "0041"
+#. だって、降霊術をやった空き部屋には、
+#. 部屋の隅に隙間があったんだ。
+msgctxt "0040 | c03_213_000 | C000_Saiha"
 msgid ""
 "There was a hole in\n"
 "the corner of the room."
 msgstr ""
 
-msgctxt "0042"
+#. もし、床下で明かりを使っていたら、
+#. 光は間違いなくあそこから漏れていたはずだよ？
+msgctxt "0041 | c03_213_000 | C000_Saiha"
 msgid ""
 "If a light were used, it would have leaked\n"
 "through and we would have seen it."
 msgstr ""
 
-msgctxt "0043"
+#. じゃが…ウチらが降霊術をやった時は、
+#. 部屋の中は真っ暗だったぞ。
+msgctxt "0042 | c03_213_000 | C009_Yumen"
 msgid ""
 "But...when we did the seance, the room was\n"
 "definitely pitch black."
 msgstr ""
 
-msgctxt "0044"
+#. 床下でライトは使われていないという事です。
+#. それなら、ボクが犯人だとは言えないはずです。
+msgctxt "0043 | c03_213_000 | C007_Ki-Bo"
 msgid ""
 "So a light was not shined under the floor, which\n"
 "means you cannot claim I am the culprit."
 msgstr ""
 
-msgctxt "0045"
+#. なーんだ、今回こそ
+#. ロボならではの殺人事件だと思ったのになー。
+msgctxt "0044 | c03_213_000 | C005_Oma__"
 msgid ""
 "Geez, here I thought this would be the case \n"
 "where the murder could only be done by a robot."
 msgstr ""
 
-msgctxt "0046"
+#. あの…この際だから言っておきますけど、
+#. ロボだという理由でボクを疑うのはやめてください。
+msgctxt "0045 | c03_213_000 | C007_Ki-Bo"
 msgid ""
 "You have accused me of being the culprit—more\n"
 "than once now—simply because I am a robot."
 msgstr ""
 
-msgctxt "0047"
+#. ボクはロボだからって
+#. 特別な事ができる訳ではないんですよ！
+msgctxt "0046 | c03_213_000 | C007_Ki-Bo"
 msgid ""
 "My status as a robot does not mean I am\n"
 "capable of performing superhuman feats!"
 msgstr ""
 
-msgctxt "0048"
+#. 別に視力も良くないですし、
+#. 腕力も頭脳もそこそこで体力もないんですから！
+msgctxt "0047 | c03_213_000 | C007_Ki-Bo"
 msgid ""
 "My vision is somewhat poor, and I only possess\n"
 "average physical strength and intelligence!"
 msgstr ""
 
-msgctxt "0049"
+#. わ、わかった…やめるよ。
+#. なんか…可哀想になってきたし…
+msgctxt "0048 | c03_213_000 | C005_Oma__"
 msgid ""
 "Alright, alright, you made your point.\n"
 "God, now I feel sorta bad for you..."
 msgstr ""
 
-msgctxt "0050"
+#. ボクは同情が欲しい訳ではありませんっ！
+msgctxt "0049 | c03_213_000 | C007_Ki-Bo"
 msgid "I neither want nor need your pity!"
 msgstr ""
 
-msgctxt "0051"
+#. ピカピカ光るのはやめろっ！
+#. 眩しくて仕方ねーだろ！
+msgctxt "0050 | c03_213_000 | C001_Momot"
 msgid ""
 "Enough with the flashlight!\n"
 "It's way too bright!"
 msgstr ""
 
-msgctxt "0052"
+#. でも、明かりを使ってないとなると、
+#. あの真っ暗な床下を移動するのは難しいよ…
+msgctxt "0051 | c03_213_000 | C010_Haruk"
 msgid ""
 "It would've been difficult to move around\n"
 "under the floor in that pitch-black darkness."
 msgstr ""
 
-msgctxt "0053"
+#. やっぱり、あの床下もそこにある穴も、
+#. 事件とは関係ないのかも。
+msgctxt "0052 | c03_213_000 | C010_Haruk"
 msgid ""
 "Maybe the floor and the hole have nothing\n"
 "to do with this case."
 msgstr ""
 
-msgctxt "0054"
+#. 事件と関係ないなら、どうして
+#. 茶柱さんの下にあった床板が外れていたの？
+msgctxt "0053 | c03_213_000 | C004_Gokuh"
 msgid ""
 "Then why was floorboard under Tenko\n"
 "lined up funny?"
 msgstr ""
 
-msgctxt "0055"
+#. あれは、犯人が床下から茶柱さんを刺す為に、
+#. 外したものだと思ってたけど…
+msgctxt "0054 | c03_213_000 | C004_Gokuh"
 msgid ""
 "Gonta think that was so culprit could\n"
 "stab Tenko from under floor..."
 msgstr ""
 
-msgctxt "0056"
+#. ゴン太にしては鋭い指摘だね。
+#. だんだん、このゲームに慣れてきたんじゃない？
+msgctxt "0055 | c03_213_000 | C005_Oma__"
 msgid ""
 "Ooohh! Nice observation, Gonta! Are you finally\n"
 "getting used to the class trials?"
 msgstr ""
 
-msgctxt "0057"
+#. うん、ありがとう。
+msgctxt "0056 | c03_213_000 | C004_Gokuh"
 msgid "Uh-huh. Thank you."
 msgstr ""
 
-msgctxt "0058"
+#. …礼を言うところじゃねーよ。
+#. こんなの慣れねー方がいいんだからよ。
+msgctxt "0057 | c03_213_000 | C001_Momot"
 msgid ""
 "Don't say it like that... You're better \n"
 "off not being used to this kinda stuff."
 msgstr ""
 
-msgctxt "0059"
+#. もしかして、茶柱さんに夜光塗料を塗っておいて、
+#. それを目印にしたんじゃない！？
+msgctxt "0058 | c03_213_000 | C012_Shiro"
 msgid ""
 "Maybe they marked Tenko with glowing paint\n"
 "and looked for that?"
 msgstr ""
 
-msgctxt "0060"
+#. そうやって、床下に潜んでいた犯人が、
+#. 床板の隙間から細い凶器で茶柱さんを刺したとか…
+msgctxt "0059 | c03_213_000 | C012_Shiro"
 msgid ""
 "That'd let the culprit find her. Then they\n"
 "could stab her through the floorboards..."
 msgstr ""
 
-msgctxt "0061"
+#. またまた聞いた事があるような話だね！
+#. でも、あえてスルーします！
+msgctxt "0060 | c03_213_000 | C020_Monok"
 msgid ""
 "Boy, that sounds really familiar too!\n"
 "But I'm just gonna ignore it!"
 msgstr ""
 
-msgctxt "0062"
+#. 彼女の死体に夜光塗料なんて付いてなかったよ？
+msgctxt "0061 | c03_213_000 | C010_Haruk"
 msgid ""
 "Her corpse didn't have any trace of glowing\n"
 "paint though."
 msgstr ""
 
-msgctxt "0063"
+#. …だよね。うーん、だったら、あの床板は
+#. どうして外れてたのかな？
+msgctxt "0062 | c03_213_000 | C012_Shiro"
 msgid ""
 "Oh...yeah. So then why was that\n"
 "floorboard loose?"
 msgstr ""
 
-msgctxt "0064"
+#. そもそも、その外れてた床板って
+#. 茶柱の真下にあったんだよな？
+msgctxt "0063 | c03_213_000 | C001_Momot"
 msgid ""
 "The loose floorboard was the one\n"
 "under Tenko, right?"
 msgstr ""
 
-msgctxt "0065"
+#. だったら、あいつが生きている時に外されたなら、
+#. さすがに気付くんじゃねーのか？
+msgctxt "0064 | c03_213_000 | C001_Momot"
 msgid ""
 "If the culprit used it while she was\n"
 "still alive, she'd totally notice."
 msgstr ""
 
-msgctxt "0066"
+#. どうでもいいっつーの！
+#. そんな事にこだわってても犯人に辿り着けねーだろ！
+msgctxt "0065 | c03_213_000 | C014_Iruma"
 msgid ""
 "Who fuckin' cares? Fussin' over that\n"
 "won't get us closer to the culprit!"
 msgstr ""
 
-msgctxt "0067"
+#. まァ、どうでもいい事はないだろうけど…
+msgctxt "0066 | c03_213_000 | C006_Shing"
 msgid ""
 "We shouldn't dismiss this line of\n"
 "inquiry, however..."
 msgstr ""
 
-msgctxt "0068"
+#. わからない事を考え続けるよりも、
+#. 先に別の問題を片付けた方がいいかもしれないネ。
+msgctxt "0067 | c03_213_000 | C006_Shing"
 msgid ""
 "Instead of butting our heads against this, \n"
 "how about we concentrate on another issue?"
 msgstr ""
 
-msgctxt "0069"
+#. 別の問題って…なんだよ？
+msgctxt "0068 | c03_213_000 | C001_Momot"
 msgid "What other issue?"
 msgstr ""
 
-msgctxt "0070"
+#. まずは、茶柱さんがいつどうやって殺されたのかを
+#. ハッキリさせる方が先じゃないかな？
+msgctxt "0069 | c03_213_000 | C006_Shing"
 msgid ""
 "Perhaps first, we should figure out\n"
 "how and when exactly Tenko was killed."
 msgstr ""
 
-msgctxt "0071"
+#. いつって…降霊術の最中でしょ？
+msgctxt "0070 | c03_213_000 | C004_Gokuh"
 msgid "When...? So not during seance?"
 msgstr ""
 
-msgctxt "0072"
+#. じゃが、降霊術の最中、
+#. 転子はずっと鉄カゴの中におったんじゃぞ？
+msgctxt "0071 | c03_213_000 | C009_Yumen"
 msgid ""
 "Tenko was in the metal cage for the\n"
 "whole seance, wasn't she?"
 msgstr ""
 
-msgctxt "0073"
+#. その転子をどうやって襲ったと言うんじゃ。
+msgctxt "0072 | c03_213_000 | C009_Yumen"
 msgid "How could someone have gotten to her there?"
 msgstr ""
 
-msgctxt "0074"
+#. それなら、鉄カゴに入る前に殺したんじゃないですか？
+msgctxt "0073 | c03_213_000 | C007_Ki-Bo"
 msgid ""
 "Maybe the culprit killed her before she\n"
 "went under the metal cage?"
 msgstr ""
 
-msgctxt "0075"
+#. それはないヨ…
+#. 彼女はあの時までは確かに生きていたからネ。
+msgctxt "0074 | c03_213_000 | C006_Shing"
 msgid ""
 "That's not possible...\n"
 "She was alive at that point."
 msgstr ""
 
-msgctxt "0076"
+#. さて、ここからが本番だヨ…
+#. 茶柱さん、これ以降の会話は禁止だからネ。
+msgctxt "0075 | c03_213_000 | C006_Shing"
 msgid ""
 "This is the point of no return, Tenko.\n"
 "After this point, you mustn't speak."
 msgstr ""
 
-msgctxt "0077"
+#. 次に君が口を開くのは夜長さんの霊が憑依した時…
+#. それまでは絶対に喋っちゃダメだからネ。
+msgctxt "0076 | c03_213_000 | C006_Shing"
 msgid ""
 "The next time you open your mouth,\n"
 "it will be Angie speaking through you."
 msgstr ""
 
-msgctxt "0078"
+#. わかりました！　降霊術が終わるまでは、
+#. 転子は自分の意思では一切喋りません！
+msgctxt "0077 | c03_213_000 | C011_Chaba"
 msgid ""
 "Understood. I will not say a word until\n"
 "the seance is over!"
 msgstr ""
 
-msgctxt "0079"
+#. そう、降霊術を始める直前まで、
+#. 彼女は確かに生きていたんだ。
+msgctxt "0078 | c03_213_000 | C006_Shing"
 msgid ""
 "Yes. She was unmistakably alive\n"
 "when the seance began..."
 msgstr ""
 
-msgctxt "0080"
+#. ロウソクを消す直前だよね。
+#. でも、その後で明かりを付けた時には…
+msgctxt "0079 | c03_213_000 | C005_Oma__"
 msgid ""
 "That was right before we blew out the\n"
 "candles. But when the light came back..."
 msgstr ""
 
-msgctxt "0081"
+#. 問題の床板もあの時点で外れていたし、
+#. おそらく彼女はあの時点ですでに死んでいたんだろうネ。
+msgctxt "0080 | c03_213_000 | C006_Shing"
 msgid ""
 "The floorboard was removed at that point,\n"
 "so it's likely she was already dead then."
 msgstr ""
 
-msgctxt "0082"
+#. じゃあ、あいつは部屋が暗くなっている最中に
+#. 殺されたって事か？
+msgctxt "0081 | c03_213_000 | C001_Momot"
 msgid "So she was killed when the room was dark?"
 msgstr ""
 
-msgctxt "0083"
+#. でも、鉄カゴの中にいたんでしょ？
+#. それだと殺すのは無理だと思うんだけど…
+msgctxt "0082 | c03_213_000 | C004_Gokuh"
 msgid ""
 "But she was inside cage, right? \n"
 "Gonta think it unpossible to kill her then!"
 msgstr ""
 
-msgctxt "0084"
+#. だったら、あいつが殺されたのは暗闇の最中じゃねー！
+#. 別のタイミングで殺されたんだ！
+msgctxt "0083 | c03_213_000 | C014_Iruma"
 msgid ""
 "Then she wasn't killed when the room\n"
 "was dark! It was a different time!"
 msgstr ""
 
-msgctxt "0085"
+#. 別のタイミングって…？
+msgctxt "0084 | c03_213_000 | C006_Shing"
 msgid "A...different time?"
 msgstr ""
 
-msgctxt "0086"
+#. 知るかよ、ボケッ！
+#. それを考えるのがテメーらのカス脳だろ！
+msgctxt "0085 | c03_213_000 | C014_Iruma"
 msgid ""
 "How the fuck should I know!?\n"
 "You figure it out, shitheads!"
 msgstr ""
 
-msgctxt "0087"
+#. …は？
+msgctxt "0086 | c03_213_000 | C012_Shiro"
 msgid "Huh?"
 msgstr ""
 
-msgctxt "0088"
+#. オレ様はゴン太が無理っつーから、
+#. 別のタイミングの可能性を提示してやっただけだ。
+msgctxt "0087 | c03_213_000 | C014_Iruma"
 msgid ""
 "Since Gonta said it was impossible, I'm\n"
 "proposing an alternate theory."
 msgstr ""
 
-msgctxt "0089"
+#. つー訳で、さっさと考えろ！
+msgctxt "0088 | c03_213_000 | C014_Iruma"
 msgid "Now hurry up and think!"
 msgstr ""
 
-msgctxt "0090"
+#. オメーらのカス脳をシコシコ働かせて、
+#. オレ様の黄金の脳細胞をイカせてみやがれっ！！
+msgctxt "0089 | c03_213_000 | C014_Iruma"
 msgid ""
 "If you wanna make my golden brain tingle,\n"
 "start circlejerkin' your limpdick brains!"

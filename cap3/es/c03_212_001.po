@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,225 +11,281 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 犯人は降霊術中に
+msgctxt "0000 | c03_212_001 | C006_Shing"
 msgid ""
 "The culprit\n"
 "sneaked"
 msgstr ""
 
-msgctxt "0002"
+#. 犯人は降霊術中に床下を移動し…
+msgctxt "0001 | c03_212_001 | C006_Shing"
 msgid "The culprit sneaked in during the seance..."
 msgstr ""
 
-msgctxt "0003"
+#. 床下を移動し…
+msgctxt "0002 | c03_212_001 | C006_Shing"
 msgid ""
 "in during\n"
 "the seance..."
 msgstr ""
 
-msgctxt "0004"
+#. 現場に忍び込む事
+#. ができた人物。
+msgctxt "0003 | c03_212_001 | C006_Shing"
 msgid ""
 "by crawling\n"
 "under the floor."
 msgstr ""
 
-msgctxt "0005"
+#. 現場に忍び込む事ができた人物。
+msgctxt "0004 | c03_212_001 | C006_Shing"
 msgid "by crawling under the floor."
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=size2>降霊術中<CLT=size1>は<CLT=size2>　　　　真っ暗<CLT=size1>じゃぞ？
+msgctxt "0005 | c03_212_001 | C009_Yumen"
 msgid ""
 "But it was pitch\n"
 "<CLT=size2>black<CLT=size1> during<CLT=size2>　　　　<CLT=size1>the <CLT=size2>seance."
 msgstr ""
 
-msgctxt "0007"
+#. 降霊術中は真っ暗じゃぞ？
+msgctxt "0006 | c03_212_001 | C009_Yumen"
 msgid "But it was pitch black during the seance."
 msgstr ""
 
-msgctxt "0008"
+#. どうやって<CLT=size3>床下<CLT=size1>を移動するんじゃ？
+msgctxt "0007 | c03_212_001 | C009_Yumen"
 msgid ""
 "How could they even see \n"
 "if they were\n"
 "<CLT=size2>under<CLT=size1> the <CLT=size2>floor?"
 msgstr ""
 
-msgctxt "0009"
+#. どうやって床下を移動するんじゃ？
+msgctxt "0008 | c03_212_001 | C009_Yumen"
 msgid ""
 "How could they even see\n"
 "if they were under the floor?"
 msgstr ""
 
-msgctxt "0010"
+#. いや、
+#. <CLT=size2>床下<CLT=size1>は
+#. <CLT=size2>暗くなかった<CLT=size1>んだ。
+msgctxt "0009 | c03_212_001 | C006_Shing"
 msgid ""
 "Because it\n"
 "<CLT=size2>wasn't dark\n"
 "<CLT=size2>under<CLT=size1> the <CLT=size2>floor."
 msgstr ""
 
-msgctxt "0011"
+#. いや、床下は暗くなかったんだ。
+msgctxt "0010 | c03_212_001 | C006_Shing"
 msgid ""
 "Because it wasn't dark\n"
 "under the floor."
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=size2>犯人<CLT=size1>は
+msgctxt "0011 | c03_212_001 | C006_Shing"
 msgid "You see,"
 msgstr ""
 
-msgctxt "0013"
+#. 犯人は床下で明かりを使っていたのサ。
+msgctxt "0012 | c03_212_001 | C006_Shing"
 msgid "You see, our villain had a light."
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltWEAK><CLT=size2>床下<CLT=size1>で
+msgctxt "0013 | c03_212_001 | C006_Shing"
 msgid "<CLT=cltWEAK><CLT=size2>our "
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltWEAK><CLT=size2>明かり<CLT=size1>を
+msgctxt "0014 | c03_212_001 | C006_Shing"
 msgid "<CLT=cltWEAK><CLT=size2>villain"
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltWEAK><CLT=size2>使っていた<CLT=cltNORMAL><CLT=size1>のサ。
+msgctxt "0015 | c03_212_001 | C006_Shing"
 msgid "<CLT=cltWEAK><CLT=size2>had<CLT=size1> a <CLT=size2>light<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0017"
+#. <CLT=size2>明かり<CLT=size1>って<CLT=cltAGREE>ロウソク<CLT=cltNORMAL>の事？
+msgctxt "0016 | c03_212_001 | C004_Gokuh"
 msgid "<CLT=size2>Light?<CLT=size1> You mean <CLT=cltAGREE>candle<CLT=cltNORMAL>?"
 msgstr ""
 
-msgctxt "0018"
+#. 明かりってロウソクの事？
+msgctxt "0017 | c03_212_001 | C004_Gokuh"
 msgid "Light? You mean candle?"
 msgstr ""
 
-msgctxt "0019"
+#. キーボ君の
+#. <CLT=size3>懐中電灯機能<CLT=size1>だヨ。
+msgctxt "0018 | c03_212_001 | C006_Shing"
 msgid ""
 "I mean... Keebo's\n"
 "<CLT=size3>flashlight function."
 msgstr ""
 
-msgctxt "0020"
+#. キーボ君の懐中電灯機能だヨ。
+msgctxt "0019 | c03_212_001 | C006_Shing"
 msgid ""
 "I mean...\n"
 "Keebo's flashlight function."
 msgstr ""
 
-msgctxt "0021"
+#. <CLT=size3>え？
+msgctxt "0020 | c03_212_001 | C007_Ki-Bo"
 msgid "<CLT=size3>Huh?"
 msgstr ""
 
-msgctxt "0022"
+#. え？　ちょっと待ってください。
+msgctxt "0021 | c03_212_001 | C007_Ki-Bo"
 msgid "Huh? Now hold on a second..."
 msgstr ""
 
-msgctxt "0023"
+#. ちょっと待ってください。
+msgctxt "0022 | c03_212_001 | C007_Ki-Bo"
 msgid "Now hold on a second..."
 msgstr ""
 
-msgctxt "0024"
+#. キーボは<CLT=cltWEAK><CLT=size2>あの機能<CLT=size1>で
+#. <CLT=size2>床下<CLT=size1>を<CLT=size2>移動<CLT=cltNORMAL><CLT=size1>して…
+msgctxt "0023 | c03_212_001 | C014_Iruma"
 msgid ""
 "Keebo could've <CLT=cltWEAK><CLT=size2>used\n"
 "<CLT=size1>that <CLT=size2>function<CLT=size1> to get\n"
 "<CLT=size2>under<CLT=size1> the <CLT=size2>floor<CLT=cltNORMAL>..."
 msgstr ""
 
-msgctxt "0025"
+#. キーボはあの機能で床下を移動して…
+msgctxt "0024 | c03_212_001 | C014_Iruma"
 msgid ""
 "Keebo could've used that\n"
 "function to get under the floor..."
 msgstr ""
 
-msgctxt "0026"
+#. <CLT=size2>降霊術中<CLT=size1>の
+#. <CLT=size2>空き部屋<CLT=size1>に
+msgctxt "0025 | c03_212_001 | C014_Iruma"
 msgid ""
 "and <CLT=size2>sneak into\n"
 "<CLT=size1> the <CLT=size2>empty room"
 msgstr ""
 
-msgctxt "0027"
+#. 降霊術中の空き部屋に忍び込んだのか！
+msgctxt "0026 | c03_212_001 | C014_Iruma"
 msgid "and sneak into the empty room during the seance!"
 msgstr ""
 
-msgctxt "0028"
+#. <CLT=size2>忍び込んだ<CLT=size1>のか！
+msgctxt "0027 | c03_212_001 | C014_Iruma"
 msgid "during the <CLT=size2>seance!"
 msgstr ""
 
-msgctxt "0029"
+#. <CLT=size2>だから、
+msgctxt "0028 | c03_212_001 | C007_Ki-Bo"
 msgid "<CLT=size2>I said,"
 msgstr ""
 
-msgctxt "0030"
+#. だから、ちょっと待ってください！
+msgctxt "0029 | c03_212_001 | C007_Ki-Bo"
 msgid "I said, hold on a second!"
 msgstr ""
 
-msgctxt "0031"
+#. ちょっと<CLT=size2>待ってください！
+msgctxt "0030 | c03_212_001 | C007_Ki-Bo"
 msgid "<CLT=size2>hold on<CLT=size1> a <CLT=size2>second!"
 msgstr ""
 
-msgctxt "0032"
+#. ロボの機能を
+#. <CLT=size2>フル活用<CLT=size1>した
+#. 殺人だね！
+msgctxt "0031 | c03_212_001 | C014_Iruma"
 msgid ""
 "He used his\n"
 "<CLT=size2>robot functions\n"
 "<CLT=size1>to commit the murders!"
 msgstr ""
 
-msgctxt "0033"
+#. ロボの機能をフル活用した殺人だね！
+msgctxt "0032 | c03_212_001 | C014_Iruma"
 msgid ""
 "He used his\n"
 "robot functions\n"
 "to commit the murders!"
 msgstr ""
 
-msgctxt "0034"
+#. <CLT=size3>ちょっと待って
+msgctxt "0033 | c03_212_001 | C007_Ki-Bo"
 msgid "<CLT=size3>HOLD ON"
 msgstr ""
 
-msgctxt "0035"
+#. ちょっと待ってくださいってー！
+msgctxt "0034 | c03_212_001 | C007_Ki-Bo"
 msgid "HOLD ON A SECOND!!!"
 msgstr ""
 
-msgctxt "0036"
+#. <CLT=size3>くださいってー！
+msgctxt "0035 | c03_212_001 | C007_Ki-Bo"
 msgid "<CLT=size3>A SECOND!!!"
 msgstr ""
 
-msgctxt "0037"
+#. 床下も暗かったの？
+msgctxt "0036 | c03_212_001 | C004_Gokuh"
 msgid "Dark under floor, too?"
 msgstr ""
 
-msgctxt "0038"
+#. 照明の類はなかったよ。
+msgctxt "0037 | c03_212_001 | C010_Haruk"
 msgid "There were no lights."
 msgstr ""
 
-msgctxt "0039"
+#. なんじゃと？
+msgctxt "0038 | c03_212_001 | C009_Yumen"
 msgid "Whatcha mean?"
 msgstr ""
 
-msgctxt "0040"
+#. 明かりってなんだろ…？
+msgctxt "0039 | c03_212_001 | C012_Shiro"
 msgid "What light...?"
 msgstr ""
 
-msgctxt "0041"
+#. そんな形跡あったっけ？
+msgctxt "0040 | c03_212_001 | C012_Shiro"
 msgid "Was there evidence of that?"
 msgstr ""
 
-msgctxt "0042"
+#. キーボだとっ！？
+msgctxt "0041 | c03_212_001 | C001_Momot"
 msgid "Keebo...?"
 msgstr ""
 
-msgctxt "0043"
+#. キーボがそんな事
+#. するはずねぇ！
+msgctxt "0042 | c03_212_001 | C001_Momot"
 msgid ""
 "No way Keebo'd do \n"
 "something like that!"
 msgstr ""
 
-msgctxt "0044"
+#. 移動できるスペースは
+#. あったヨ？
+msgctxt "0043 | c03_212_001 | C006_Shing"
 msgid ""
 "He was certainly\n"
 "capable..."
 msgstr ""
 
-msgctxt "0045"
+#. キー坊が人殺しするなんて…
+msgctxt "0044 | c03_212_001 | C005_Oma__"
 msgid "Keebo killing someone..."
 msgstr ""
 
-msgctxt "0046"
+#. 悪のロボットだったんだね…
+msgctxt "0045 | c03_212_001 | C005_Oma__"
 msgid "So he's an evil robot..."
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,123 +11,163 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 赤松さんの蝋人形に刺さっていた、
+#. <CLT=cltSTRONG>金箔の日本刀<CLT=cltNORMAL>だよ。
+msgctxt "0000 | c03_209_000 | C000_Saiha"
 msgid ""
 "The <CLT=cltSTRONG>gold leaf katana<CLT=cltNORMAL> that was\n"
 "stabbed into Kaede's effigy."
 msgstr ""
 
-msgctxt "0002"
+#. 犯人はあれをスライド錠のツマミに当てて、
+#. スライド錠を動かしたんだ。
+msgctxt "0001 | c03_209_000 | C000_Saiha"
 msgid ""
 "The culprit used that to hit the knob\n"
 "of the sliding lock to lock the door."
 msgstr ""
 
-msgctxt "0003"
+#. じゃあ、あのスライド錠のツマミに
+#. <CLT=cltSTRONG>金箔<CLT=cltNORMAL>が付いてたのって…
+msgctxt "0002 | c03_209_000 | C010_Haruk"
 msgid ""
 "So the <CLT=cltSTRONG>gold leaf<CLT=cltNORMAL> was on the sliding lock\n"
 "because..."
 msgstr ""
 
-msgctxt "0004"
+#. うん、日本刀がツマミに触れた時に、
+#. 剥がれた金箔が付着したんだよ。
+msgctxt "0003 | c03_209_000 | C000_Saiha"
 msgid ""
 "Because when the katana hit the lock,\n"
 "some of the gold leaf rubbed off on it."
 msgstr ""
 
-msgctxt "0005"
+#. あの日本刀の金箔って、
+#. 触れると簡単に剥がれちゃうからね。
+msgctxt "0004 | c03_209_000 | C000_Saiha"
 msgid ""
 "The gold leaf on that katana\n"
 "did peel rather easily."
 msgstr ""
 
-msgctxt "0006"
+#. うーん、どこかで聞いた事があるような証拠だね。
+msgctxt "0005 | c03_209_000 | C020_Monok"
 msgid ""
 "Hmmm... That evidence rings a bell.\n"
 "Specifically, a school bell..."
 msgstr ""
 
-msgctxt "0007"
+#. えっ！？　それって何学園で！？
+#. ねぇ、どこの何学園で！？
+msgctxt "0006 | c03_209_000 | C023_Mfunn"
 msgid ""
 "Huh!? Are you talking about a different\n"
 "school!? What school was it!?"
 msgstr ""
 
-msgctxt "0008"
+#. まぁまぁ、もういいじゃないか。
+#. 過去の事は積極的に思い出さないようにしよう。
+msgctxt "0007 | c03_209_000 | C020_Monok"
 msgid ""
 "Now now, that doesn't matter anymore.\n"
 "Let's not dwell on the past."
 msgstr ""
 
-msgctxt "0009"
+#. ふーん、ツマミに金箔が付いていたのは、
+#. 日本刀が触れたせいだったんだ…
+msgctxt "0008 | c03_209_000 | C005_Oma__"
 msgid ""
 "Oooh, the gold leaf landed on the sliding \n"
 "lock when the katana touched it..."
 msgstr ""
 
-msgctxt "0010"
+#. じゃあ、犯人はあの日本刀を使って、
+#. スライド錠を動かしたんだね？
+msgctxt "0009 | c03_209_000 | C005_Oma__"
 msgid ""
 "So that means, the culprit used the katana \n"
 "to move the sliding lock, right?"
 msgstr ""
 
-msgctxt "0011"
+#. でもさ、日本刀でどうやってスライド錠を動かしたの？
+#. しかも扉の外からさ。
+msgctxt "0010 | c03_209_000 | C005_Oma__"
 msgid ""
 "But wait, how did they move it with a katana?\n"
 "And from outside Angie's lab?"
 msgstr ""
 
-msgctxt "0012"
+#. その方法を示す手掛かりは、
+#. <CLT=cltSTRONG>“あの現場の状況”<CLT=cltNORMAL>そのものにあるんじゃないかな？
+msgctxt "0011 | c03_209_000 | C000_Saiha"
 msgid ""
 "The clue that might give us the answer\n"
 "is the <CLT=cltSTRONG>layout of the area<CLT=cltNORMAL> itself."
 msgstr ""
 
-msgctxt "0013"
+#. だって、あの状況って、
+#. どう考えても不自然だったよね？
+msgctxt "0012 | c03_209_000 | C000_Saiha"
 msgid "It was an odd setup, after all."
 msgstr ""
 
-msgctxt "0014"
+#. 凶器が蝋人形に刺さってて…
+#. しかも、その蝋人形が逆さ吊りにされているなんてさ。
+msgctxt "0013 | c03_209_000 | C000_Saiha"
 msgid ""
 "The katana stabbed into the effigy, the\n"
 "effigies hung upside down..."
 msgstr ""
 
-msgctxt "0015"
+#. アンジーがやろうとしてた儀式の一環だろ？
+msgctxt "0014 | c03_209_000 | C014_Iruma"
 msgid "Angie didn't do that as part of the ritual?"
 msgstr ""
 
-msgctxt "0016"
+#. いや…“屍者の書”には、
+#. 蝋人形を吊るせなんて書いてなかったよ…
+msgctxt "0015 | c03_209_000 | C000_Saiha"
 msgid ""
 "No... Nowhere in the Necronomicon did\n"
 "it say you had to hang the effigies."
 msgstr ""
 
-msgctxt "0017"
+#. 儀式じゃないとなると…
+#. 何か別の目的があったという事ですよね？
+msgctxt "0016 | c03_209_000 | C007_Ki-Bo"
 msgid ""
 "If it was not part of the ritual...then it must\n"
 "have been for a different purpose, right?"
 msgstr ""
 
-msgctxt "0018"
+#. <CLT=cltMIND>別の目的…か。
+#. それはきっと…
+msgctxt "0017 | c03_209_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>A different purpose...\n"
 "What could that have been?"
 msgstr ""
 
-msgctxt "0019"
+#. <CLT=cltMIND>犯人は“あの現場の状況”を利用して、
+#. 密室を作り上げたんだ…
+msgctxt "0018 | c03_209_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>The culprit somehow used\n"
 "the setup to lock the room."
 msgstr ""
 
-msgctxt "0020"
+#. <CLT=cltMIND>だとすると“あの現場の状況”になった理由を
+#. １つずつひも解いていけば…
+msgctxt "0019 | c03_209_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>In that case, I need to know the reason\n"
 "behind every step of that setup..."
 msgstr ""
 
-msgctxt "0021"
+#. <CLT=cltMIND>犯人があの教室を密室にした方法が
+#. 見えてくるはずだ…！
+msgctxt "0020 | c03_209_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>If I do that, the way the culprit\n"
 "locked the room should be clear!"

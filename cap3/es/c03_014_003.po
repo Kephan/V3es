@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,54 +11,72 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. …そこは私の研究教室だけど？
+#. もしかして、説得に武器を持っていく気？
+msgctxt "0000 | c03_014_003 | C010_Haruk"
 msgid ""
 "...That's my lab. Are you planning to take\n"
 "a weapon for a little \"persuasion\"?"
 msgstr ""
 
-msgctxt "0002"
+#. なぁっ！？
+msgctxt "0001 | c03_014_003 | C011_Chaba"
 msgid "Whaaa—!?"
 msgstr ""
 
-msgctxt "0003"
+#. 最原さん！　止めるというのは物理的にではなく、
+#. 説得してほしいという事です！
+msgctxt "0002 | c03_014_003 | C011_Chaba"
 msgid ""
 "Shuichi! I want you to stop her with words,\n"
 "not violence!"
 msgstr ""
 
-msgctxt "0004"
+#. そこまで説明しないとわからないんですか！？
+#. 男死はどれだけ単細胞なんですか！
+msgctxt "0003 | c03_014_003 | C011_Chaba"
 msgid ""
 "Do I really have to explain this to you!?\n"
 "You really are a brainless degenerate!"
 msgstr ""
 
-msgctxt "0005"
+#. それに、物理的に止めて済むのなら
+#. 男死の手を借りずに転子が自らやってます！
+msgctxt "0004 | c03_014_003 | C011_Chaba"
 msgid ""
 "If I wanted her to stop her by force, I'd do it\n"
 "myself! Not ask a man for help!"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>…やっちゃうんだ。
+msgctxt "0005 | c03_014_003 | chara_Blank"
 msgid "<CLT=cltMIND>So you *would* use force..."
 msgstr ""
 
-msgctxt "0007"
+#. ともかく、武器は必要ありません！
+#. ほら、行きますよ最原さん！
+msgctxt "0006 | c03_014_003 | C011_Chaba"
 msgid "Anyway, no weapons! Let's go, Shuichi!"
 msgstr ""
 
-msgctxt "0008"
+#. 説得に武器は必要ありません！
+#. ほら、行きますよ最原さん！
+msgctxt "0007 | c03_014_003 | C011_Chaba"
 msgid ""
 "We don't need weapons to convince her!\n"
 "Let's go, Shuichi!"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>…連絡用のモニターだ。
+#. 今は何も映っていない。
+msgctxt "0008 | c03_014_003 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It's a monitor for communicating with us.\n"
 "There's nothing on the screen."
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>それでも…視界に入ってくるだけで
+#. 嫌な気分にさせられるな…
+msgctxt "0009 | c03_014_003 | chara_Blank"
 msgid "<CLT=cltMIND>But just seeing it makes me feel sick..."
 msgstr ""

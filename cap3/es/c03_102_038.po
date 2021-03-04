@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,923 +11,1202 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. やァ…王馬君から聞いたヨ？
+#. 最原君もこの降霊術に参加したいんだって？
+msgctxt "0000 | c03_102_038 | C006_Shing"
 msgid ""
 "So...Kokichi tells me you wish to participate \n"
 "in the seance as well, Shuichi?"
 msgstr ""
 
-msgctxt "0002"
+#. ククク…もちろん歓迎だヨ。
+msgctxt "0001 | c03_102_038 | C006_Shing"
 msgid "Kehehe... You are most welcome to join us."
 msgstr ""
 
-msgctxt "0003"
+#. …と言いたいところだけど、
+#. 降霊術は口寄せ役を含めて５人しか参加できないんだ。
+msgctxt "0002 | c03_102_038 | C006_Shing"
 msgid ""
 "...Is what I would like to say. However, only\n"
 "five, including the spiritual medium, may join."
 msgstr ""
 
-msgctxt "0004"
+#. そっかー、残念だね。
+#. キー坊には外れて貰うしかないかー。
+msgctxt "0003 | c03_102_038 | C005_Oma__"
 msgid ""
 "Aw maaan, what a shame.\n"
 "Well, Kee-boy, you're out."
 msgstr ""
 
-msgctxt "0005"
+#. …ボクですかっ！？
+msgctxt "0004 | c03_102_038 | C007_Ki-Bo"
 msgid "...Why me!?"
 msgstr ""
 
-msgctxt "0006"
+#. …転子もそれがいいと思います。
+#. 薄々勘付いていたんですけど…
+msgctxt "0005 | c03_102_038 | C011_Chaba"
 msgid ""
 "...I agree with Kokichi.\n"
 "I was thinking this for a while..."
 msgstr ""
 
-msgctxt "0007"
+#. ロボットと降霊術は合いません！
+#. 納豆と牛乳くらい合いません！
+msgctxt "0006 | c03_102_038 | C011_Chaba"
 msgid ""
 "Robots and seances don't mix! They're like\n"
 "toothpaste and orange juice!"
 msgstr ""
 
-msgctxt "0008"
+#. 実は、僕もそう思っていたんだ。
+#. ご苦労だったネ…キーボ君。
+msgctxt "0007 | c03_102_038 | C006_Shing"
 msgid ""
 "To be honest, I had the same thought.\n"
 "Your help was appreciated...Keebo."
 msgstr ""
 
-msgctxt "0009"
+#. りょ、良心は痛まないんですか？
+#. 無理矢理連れて来ておいて…酷いと思いませんか？
+msgctxt "0008 | c03_102_038 | C007_Ki-Bo"
 msgid ""
 "D-Don't any of you feel guilty for kicking me\n"
 "out after forcing me to come?"
 msgstr ""
 
-msgctxt "0010"
+#. だから、謝ってるじゃん！
+msgctxt "0009 | c03_102_038 | C005_Oma__"
 msgid "That's why we're apologizing!"
 msgstr ""
 
-msgctxt "0011"
+#. まだ謝ってませんよ！
+msgctxt "0010 | c03_102_038 | C007_Ki-Bo"
 msgid "No one's apologized yet!"
 msgstr ""
 
-msgctxt "0012"
+#. はいはい、悪かったからさ…
+#. 怒って電磁波をまき散らすのはやめてよ。
+msgctxt "0011 | c03_102_038 | C005_Oma__"
 msgid ""
 "Fine, fine, our bad... Just don't get mad and\n"
 "start shooting electromagnetic waves at us."
 msgstr ""
 
-msgctxt "0013"
+#. 電磁波なんて、まき散らしません！
+msgctxt "0012 | c03_102_038 | C007_Ki-Bo"
 msgid "Why would I do that!?"
 msgstr ""
 
-msgctxt "0014"
+#. キーボよ…ワガママ言うのはやめい。
+#. ウチは早く降霊術を始めたいんじゃ…
+msgctxt "0013 | c03_102_038 | C009_Yumen"
 msgid ""
 "Stop whining, Keebo... I want to start \n"
 "the seance as soon as possible."
 msgstr ""
 
-msgctxt "0015"
+#. わ、わかりましたよ…
+#. 酷い人ですね…最原クンは。
+msgctxt "0014 | c03_102_038 | C007_Ki-Bo"
 msgid ""
 "F-Fine...but I won't forget this betrayal,\n"
 "Shuichi!"
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>なんで…僕のせいなんだ？
+msgctxt "0015 | c03_102_038 | chara_Blank"
 msgid "<CLT=cltMIND>What did *I* do?"
 msgstr ""
 
-msgctxt "0017"
+#. さて、これで最原君も晴れて僕らの仲間入りだネ。
+#. じゃあ、最初に注意事項を言っておくけど…
+msgctxt "0016 | c03_102_038 | C006_Shing"
 msgid ""
 "So now Shuichi has joined us.\n"
 "First, some warnings..."
 msgstr ""
 
-msgctxt "0018"
+#. 床に描いてある魔法陣には、
+#. 決して入らないようにネ。
+msgctxt "0017 | c03_102_038 | C006_Shing"
 msgid ""
 "Do not enter the magic circle that I've \n"
 "drawn on the floor."
 msgstr ""
 
-msgctxt "0019"
+#. 清めの塩で描いてあるだけだから、
+#. 踏むと簡単に崩れてしまうんだヨ。
+msgctxt "0018 | c03_102_038 | C006_Shing"
 msgid ""
 "It is drawn with purifying salt, so it is \n"
 "easily disturbed when stepped upon."
 msgstr ""
 
-msgctxt "0020"
+#. この魔法陣って…塩で描いてるの？
+msgctxt "0019 | c03_102_038 | C000_Saiha"
 msgid "You drew this magic circle with salt?"
 msgstr ""
 
-msgctxt "0021"
+#. 僕はいつも魔法陣は塩で描くようにしているんだ。
+#. その方が術が成功しやすいからサ。
+msgctxt "0020 | c03_102_038 | C006_Shing"
 msgid ""
 "I always use salt for magic circles.\n"
 "It makes seances more likely to succeed."
 msgstr ""
 
-msgctxt "0022"
+#. という訳で、暗いから足元にはくれぐれも注意してネ。
+msgctxt "0021 | c03_102_038 | C006_Shing"
 msgid ""
 "Also, it's dark in here, so be sure \n"
 "to watch your step."
 msgstr ""
 
-msgctxt "0023"
+#. 途中で魔法陣が崩れると、
+#. 降霊術が上手くいかなくなるだけじゃなくて…
+msgctxt "0022 | c03_102_038 | C006_Shing"
 msgid ""
 "If the magic circle is broken,\n"
 "not only will the seance fail..."
 msgstr ""
 
-msgctxt "0024"
+#. …呪いが降りかかる事もあるからネ。
+msgctxt "0023 | c03_102_038 | C006_Shing"
 msgid "But it may also unleash a curse."
 msgstr ""
 
-msgctxt "0025"
+#. わ、わかったよ…気を付ける。
+msgctxt "0024 | c03_102_038 | C000_Saiha"
 msgid "G-Got it... I'll be careful."
 msgstr ""
 
-msgctxt "0026"
+#. それにしても…文献も見ないで、
+#. よくこんな魔法陣を描けるね？
+msgctxt "0025 | c03_102_038 | C000_Saiha"
 msgid ""
 "I'm surprised you were able to draw this\n"
 "without even looking at the picture..."
 msgstr ""
 
-msgctxt "0027"
+#. 僕はあの文献をすべて暗記しているからネ。
+#. この魔法陣も完璧に再現できているはずだヨ。
+msgctxt "0026 | c03_102_038 | C006_Shing"
 msgid ""
 "I have the entire document memorized,\n"
 "so this magic circle should be perfect."
 msgstr ""
 
-msgctxt "0028"
+#. もちろん、<CLT=cltSTRONG>“かごのこ”<CLT=cltNORMAL>の歌も暗記済みだヨ。
+#. だから、君も頑張ってネ。
+msgctxt "0027 | c03_102_038 | C006_Shing"
 msgid ""
 "Of course, I also have <CLT=cltSTRONG>The Caged Child<CLT=cltNORMAL>'s song\n"
 "memorized. You must do the same."
 msgstr ""
 
-msgctxt "0029"
+#. これは、僕が歌詞を書き写した物だけど、
+#. 今から君に覚えて貰うヨ。
+msgctxt "0028 | c03_102_038 | C006_Shing"
 msgid ""
 "I have copied the words to the song \n"
 "down here. Please commit it to memory."
 msgstr ""
 
-msgctxt "0030"
+#. もちろん、他のみんなも暗記済みサ。
+#. 暗闇だと歌詞を見る事もできないからネ。
+msgctxt "0029 | c03_102_038 | C006_Shing"
 msgid ""
 "Everyone else has already memorized it.\n"
 "After all, you'll be unable to read in the dark."
 msgstr ""
 
-msgctxt "0031"
+#. 今から…歌詞を暗記するの？
+msgctxt "0030 | c03_102_038 | C000_Saiha"
 msgid "We have to memorize the lyrics now?"
 msgstr ""
 
-msgctxt "0032"
+#. 探偵なら記憶力はいいでしょ？
+#. 教えるから、旋律もしっかり頭に叩き込んで貰うヨ。
+msgctxt "0031 | c03_102_038 | C006_Shing"
 msgid ""
 "You're a detective, so I expect your memory\n"
 "to be up to the task. Here is the melody..."
 msgstr ""
 
-msgctxt "0033"
+#. <CLT=cltMIND>そして、僕は真宮寺くんが歌うのを聴きながら、
+#. 必死に旋律と歌詞を頭へと叩き込んだ。
+msgctxt "0032 | c03_102_038 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I listened to Kiyo sing the song and did\n"
 "my best to memorize the melody and lyrics."
 msgstr ""
 
-msgctxt "0034"
+#. うん…なんとか覚えられたと思う。
+msgctxt "0033 | c03_102_038 | C000_Saiha"
 msgid "Alright...I think I've got it now."
 msgstr ""
 
-msgctxt "0035"
+#. ククク…さすがは<CLT=cltSTRONG>“超高校級の探偵”<CLT=cltNORMAL>だネ。
+#. 妙妙たる記憶力を持っているじゃないカ。
+msgctxt "0034 | c03_102_038 | C006_Shing"
 msgid ""
 "Kehehe... Your memory is extraordinary.\n"
 "You are, indeed, the <CLT=cltSTRONG>Ultimate Detective<CLT=cltNORMAL>."
 msgstr ""
 
-msgctxt "0036"
+#. それじゃあ、さっそく
+#. <CLT=cltSTRONG>“かごのこ”<CLT=cltNORMAL>の降霊術を始めるとしようカ。
+msgctxt "0035 | c03_102_038 | C006_Shing"
 msgid "Well then, let us begin the ritual right away."
 msgstr ""
 
-msgctxt "0037"
+#. わーい！　やっとアンジーちゃんと会えるんだねー！
+msgctxt "0036 | c03_102_038 | C005_Oma__"
 msgid "Yaaaay! We finally get to see Angie!"
 msgstr ""
 
-msgctxt "0038"
+#. その前に、口寄せ役を選ぼうか。
+#. できれば同じ女性がいいんだけど…
+msgctxt "0037 | c03_102_038 | C006_Shing"
 msgid ""
 "Before that, let's choose a spiritual\n"
 "medium. It would work best with a girl..."
 msgstr ""
 
-msgctxt "0039"
+#. …であれば、ウチがやるぞ。
+msgctxt "0038 | c03_102_038 | C009_Yumen"
 msgid "Then I'll do it."
 msgstr ""
 
-msgctxt "0040"
+#. アンジーの魂が体に入ってくるなら、
+#. その役はウチ以外には考えられん。
+msgctxt "0039 | c03_102_038 | C009_Yumen"
 msgid ""
 "I can't think of anyone but me\n"
 "that Angie's spirit should go in."
 msgstr ""
 
-msgctxt "0041"
+#. …いいえ、転子がやります。
+msgctxt "0040 | c03_102_038 | C011_Chaba"
 msgid "...No, I'll do it."
 msgstr ""
 
-msgctxt "0042"
+#. だって、夢野さんが口寄せ役になったら、
+#. アンジーさんと話せなくなるじゃないですか。
+msgctxt "0041 | c03_102_038 | C011_Chaba"
 msgid ""
 "Because if you're the spirit medium, you\n"
 "won't be able to talk to Angie."
 msgstr ""
 
-msgctxt "0043"
+#. …んあ？
+msgctxt "0042 | c03_102_038 | C009_Yumen"
 msgid "Nyeh?"
 msgstr ""
 
-msgctxt "0044"
+#. 夢野さんはアンジーさんと話したいんですよね？
+#. それなら、口寄せ役は転子がやりますから…
+msgctxt "0043 | c03_102_038 | C011_Chaba"
 msgid ""
 "You wanna talk to Angie, right?\n"
 "Then I'll be the spirit medium..."
 msgstr ""
 
-msgctxt "0045"
+#. その代わり、夢野さんは
+#. ちゃんとアンジーさんとお別れをしてくださいね。
+msgctxt "0044 | c03_102_038 | C011_Chaba"
 msgid "That way, you can say goodbye to her."
 msgstr ""
 
-msgctxt "0046"
+#. そして、そのお別れが済んだら…
+msgctxt "0045 | c03_102_038 | C011_Chaba"
 msgid ""
 "And after you've finished saying your\n"
 "goodbyes..."
 msgstr ""
 
-msgctxt "0047"
+#. ちゃんと、前を向いて生きてください。
+#. 転子や他のみんなと一緒に生き残ってください。
+msgctxt "0046 | c03_102_038 | C011_Chaba"
 msgid ""
 "Keep your chin up and live life facing forward!\n"
 "Survive with me and everyone else!"
 msgstr ""
 
-msgctxt "0048"
+#. …お願いします。
+msgctxt "0047 | c03_102_038 | C011_Chaba"
 msgid "...Please."
 msgstr ""
 
-msgctxt "0049"
+#. <CLT=cltMIND>茶柱さん…
+msgctxt "0048 | c03_102_038 | chara_Blank"
 msgid "<CLT=cltMIND>Tenko..."
 msgstr ""
 
-msgctxt "0050"
+#. ………………
+msgctxt "0049 | c03_102_038 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0051"
+#. それと…夢野さん。
+#. これだけは言わせてください。
+msgctxt "0050 | c03_102_038 | C011_Chaba"
 msgid "Also...Himiko, let me say this one thing."
 msgstr ""
 
-msgctxt "0052"
+#. 感情を出す事は恥ずかしい事ではないと思います。
+#. それは、人間として自然な行動ですから。
+msgctxt "0051 | c03_102_038 | C011_Chaba"
 msgid ""
 "Expressing your feelings is perfectly natural.\n"
 "You shouldn't feel ashamed at all."
 msgstr ""
 
-msgctxt "0053"
+#. だから…アンジーさんとお話して泣きたくなったら
+#. 泣いてもいいんですからね。
+msgctxt "0052 | c03_102_038 | C011_Chaba"
 msgid ""
 "So...if you feel like crying while you're talking\n"
 "to Angie, go ahead and cry your eyes out."
 msgstr ""
 
-msgctxt "0054"
+#. …泣いたらスッキリするじゃないですか。
+msgctxt "0053 | c03_102_038 | C011_Chaba"
 msgid "...You'll feel better when you do."
 msgstr ""
 
-msgctxt "0055"
+#. もちろん、笑ってもスッキリするし…
+msgctxt "0054 | c03_102_038 | C011_Chaba"
 msgid ""
 "Well, I mean...laughing makes you feel \n"
 "better too..."
 msgstr ""
 
-msgctxt "0056"
+#. 怒ってもスッキリします！
+msgctxt "0055 | c03_102_038 | C011_Chaba"
 msgid ""
 "And venting your anger onto something\n"
 "can really cheer you up!"
 msgstr ""
 
-msgctxt "0057"
+#. 夢野さんも、泣いたり笑ったり怒ったりして
+#. 心の柔軟をしましょう！
+msgctxt "0056 | c03_102_038 | C011_Chaba"
 msgid ""
 "Train your heart by crying, laughing,\n"
 "and venting your anger, Himiko."
 msgstr ""
 
-msgctxt "0058"
+#. ………………
+msgctxt "0057 | c03_102_038 | C009_Yumen"
 msgid "..."
 msgstr "..."
 
-msgctxt "0059"
+#. …お主は柔軟のし過ぎじゃがな。
+msgctxt "0058 | c03_102_038 | C009_Yumen"
 msgid "I think you've trained too much..."
 msgstr ""
 
-msgctxt "0060"
+#. あははっ、そうかもしれませんね。
+msgctxt "0059 | c03_102_038 | C011_Chaba"
 msgid "Hahaha, you're probably right."
 msgstr ""
 
-msgctxt "0061"
+#. <CLT=cltMIND>良かった…２人とも仲直りできたみたいだな。
+msgctxt "0060 | c03_102_038 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>It seems like the two of them\n"
 "made up... That's good."
 msgstr ""
 
-msgctxt "0062"
+#. さてと、口寄せ役も決まった事だし、
+#. さっそく始めるとしようカ。
+msgctxt "0061 | c03_102_038 | C006_Shing"
 msgid ""
 "So now that we've decided on a spiritual\n"
 "medium, let us begin."
 msgstr ""
 
-msgctxt "0063"
+#. それじゃあ、夢野さん！　また後で会いましょう！
+msgctxt "0062 | c03_102_038 | C011_Chaba"
 msgid "Alright, Himiko! I'll see you later!"
 msgstr ""
 
-msgctxt "0064"
+#. では、口寄せ役の茶柱さんには、
+#. 中央の円の中に入って貰うけど…
+msgctxt "0063 | c03_102_038 | C006_Shing"
 msgid ""
 "Now I would like the spirit medium, \n"
 "Tenko, to sit within the center circle..."
 msgstr ""
 
-msgctxt "0065"
+#. 魔法陣を踏まないように、
+#. 中央の円へと繋がる通路を歩いてくれる？
+msgctxt "0064 | c03_102_038 | C006_Shing"
 msgid ""
 "Please be sure to walk on the path, \n"
 "so as not to disturb the magic circle."
 msgstr ""
 
-msgctxt "0066"
+#. ふむふむ…足元が暗いので
+#. 注意して移動しなければなりませんね。
+msgctxt "0065 | c03_102_038 | C011_Chaba"
 msgid ""
 "Mm-hm... Make sure you watch your step\n"
 "since it's so dark in here."
 msgstr ""
 
-msgctxt "0067"
+#. 次に、その円の中で、
+#. 亀になって貰いたいんだけど…
+msgctxt "0066 | c03_102_038 | C006_Shing"
 msgid ""
 "Next, you must be as a turtle \n"
 "within that circle..."
 msgstr ""
 
-msgctxt "0068"
+#. 目印の石を置くから、
+#. そこに額を付けた体勢でお願いするヨ。
+msgctxt "0067 | c03_102_038 | C006_Shing"
 msgid ""
 "Please rest your forehead upon this\n"
 "stone marker I've placed here."
 msgstr ""
 
-msgctxt "0069"
+#. さっきウチが中庭から持って来た石じゃな。
+#. そんな石で大丈夫か？
+msgctxt "0068 | c03_102_038 | C009_Yumen"
 msgid ""
 "It's just a stone I brought from the courtyard.\n"
 "Are you sure it'll work?"
 msgstr ""
 
-msgctxt "0070"
+#. これは地面に額を付ける為の目印だから、
+#. なんでもいいのサ…
+msgctxt "0069 | c03_102_038 | C006_Shing"
 msgid ""
 "Certainly. It is merely needed as a \n"
 "marker for her forehead to rest upon."
 msgstr ""
 
-msgctxt "0071"
+#. えぇと、こうですか？
+msgctxt "0070 | c03_102_038 | C011_Chaba"
 msgid "Um...like this?"
 msgstr ""
 
-msgctxt "0072"
+#. ちょっと体勢が苦しいかもしれないけど、
+#. 終わるまでガマンしてネ…
+msgctxt "0071 | c03_102_038 | C006_Shing"
 msgid ""
 "This may be uncomfortable, but please \n"
 "endure it until the seance is complete."
 msgstr ""
 
-msgctxt "0073"
+#. 決して、途中で顔を上げたり、
+#. 体勢を変えたりしてはいけないヨ。
+msgctxt "0072 | c03_102_038 | C006_Shing"
 msgid ""
 "Whatever you do, you mustn't raise \n"
 "your head or change positions."
 msgstr ""
 
-msgctxt "0074"
+#. …お茶の子です！
+#. 転子は体の柔らかさは星５つレベルですからね！
+msgctxt "0073 | c03_102_038 | C011_Chaba"
 msgid "Piece of cake! I have 5-star flexibility!"
 msgstr ""
 
-msgctxt "0075"
+#. さて、ここからは他のみんなの出番だヨ。
+#. ４人で手分けして準備を完成させるんだけど…
+msgctxt "0074 | c03_102_038 | C006_Shing"
 msgid ""
 "Starting now, the rest of us must go to work.\n"
 "There are many things left to be done."
 msgstr ""
 
-msgctxt "0076"
+#. まずは、あの鉄カゴを茶柱さんに被せようカ。
+#. 重いから最原君と王馬君の２人にやって貰おう。
+msgctxt "0075 | c03_102_038 | C006_Shing"
 msgid ""
 "First, we must place this iron cage atop Tenko.\n"
 "I shall leave that to Shuichi and Kokichi."
 msgstr ""
 
-msgctxt "0077"
+#. ちなみに…君達も魔法陣を踏まないように、
+#. 注意して通路を歩いてネ。
+msgctxt "0076 | c03_102_038 | C006_Shing"
 msgid ""
 "And please keep in mind...walk carefully\n"
 "so as not to disturb the magic circle."
 msgstr ""
 
-msgctxt "0078"
+#. うん、任せてよ！
+#. こう見えて、オレって実は力持ちなんだっ！
+msgctxt "0077 | c03_102_038 | C005_Oma__"
 msgid ""
 "O-kay, you can count on me! I may not look like\n"
 "it, but I'm actually super duper strong!"
 msgstr ""
 
-msgctxt "0079"
+#. う、嘘はつくモンじゃないね…
+#. 虚弱体質のオレには…まさに荷が重いよ…
+msgctxt "0078 | c03_102_038 | C005_Oma__"
 msgid ""
 "U-Ugh...I shouldn't have lied...\n"
 "I'm way too weak...for this kinda stuff..."
 msgstr ""
 
-msgctxt "0080"
+#. 鉄でできてるだけあって…結構重いね。
+msgctxt "0079 | c03_102_038 | C000_Saiha"
 msgid "It's made of iron, no wonder it's heavy..."
 msgstr ""
 
-msgctxt "0081"
+#. ちょっと！　転子の上に落とさないでくださいよ！
+msgctxt "0080 | c03_102_038 | C011_Chaba"
 msgid "Hold on! Don't just drop it on top of me!"
 msgstr ""
 
-msgctxt "0082"
+#. わ、わかってるよ…
+#. 捜査中に死体発見アナウンスとか笑えないしね…
+msgctxt "0081 | c03_102_038 | C005_Oma__"
 msgid ""
 "I-I know... It wouldn't be very funny if a body\n"
 "discovery announcement happened during this."
 msgstr ""
 
-msgctxt "0083"
+#. 不吉な事を言わないでください！
+msgctxt "0082 | c03_102_038 | C011_Chaba"
 msgid "Please don't jinx us!"
 msgstr ""
 
-msgctxt "0084"
+#. ふー、疲れた。
+#. で、次はこのカゴを白い布で覆うんでしょ？
+msgctxt "0083 | c03_102_038 | C005_Oma__"
 msgid ""
 "Phew, I'm tired. So next, we cover the \n"
 "basket with a white cloth, right?"
 msgstr ""
 
-msgctxt "0085"
+#. その役目は僕がやるヨ。
+msgctxt "0084 | c03_102_038 | C006_Shing"
 msgid "I shall take that role."
 msgstr ""
 
-msgctxt "0086"
+#. さて、これで良し。
+#. 茶柱さん…大丈夫？
+msgctxt "0085 | c03_102_038 | C006_Shing"
 msgid ""
 "Alright, everything is prepared.\n"
 "Tenko...how are you doing?"
 msgstr ""
 
-msgctxt "0087"
+#. 床しか見えない体勢なのでわかりませんが、
+#. おそらく大丈夫だと思います。
+msgctxt "0086 | c03_102_038 | C011_Chaba"
 msgid ""
 "Well... I can only see the floor from this \n"
 "position, but I think I'm fine!"
 msgstr ""
 
-msgctxt "0088"
+#. じゃあ、次が最後だネ。
+#. この上に犬神様の木像を乗せるんだけど…
+msgctxt "0087 | c03_102_038 | C006_Shing"
 msgid ""
 "The final step is to place the wooden \n"
 "statue of the Dog God atop the cage..."
 msgstr ""
 
-msgctxt "0089"
+#. これは４人でやろうカ。
+#. 犬神様はかなりの重量だからネ。
+msgctxt "0088 | c03_102_038 | C006_Shing"
 msgid ""
 "The four of us may need to do this \n"
 "together. The statue is quite heavy."
 msgstr ""
 
-msgctxt "0090"
+#. んあー…！　んあー…！
+msgctxt "0089 | c03_102_038 | C009_Yumen"
 msgid "Nyeeeh! Nyeeeh..."
 msgstr ""
 
-msgctxt "0091"
+#. よ、４人がかりでも…かなり重いね…！
+msgctxt "0090 | c03_102_038 | C000_Saiha"
 msgid ""
 "E-Even with four people...\n"
 "it's still really heavy!"
 msgstr ""
 
-msgctxt "0092"
+#. クッ…これは１万キロはありそうだ…！
+msgctxt "0091 | c03_102_038 | C005_Oma__"
 msgid "Krgh! Holy crap, this weighs a ton!"
 msgstr ""
 
-msgctxt "0093"
+#. いや…せいぜい８０キロ位だと思うヨ。
+msgctxt "0092 | c03_102_038 | C006_Shing"
 msgid ""
 "No...it is not much more \n"
 "than 175 pounds..."
 msgstr ""
 
-msgctxt "0094"
+#. ふー、疲れたー。
+msgctxt "0093 | c03_102_038 | C005_Oma__"
 msgid "Phew, I'm totally wiped."
 msgstr ""
 
-msgctxt "0095"
+#. ま、魔法を使えば…楽に運べたんじゃが…
+#. 降霊術で…魔法はいかんしのぉ…
+msgctxt "0094 | c03_102_038 | C009_Yumen"
 msgid ""
 "I coulda used my magic to carry it \n"
 "easily...but seances and magic don't mix."
 msgstr ""
 
-msgctxt "0096"
+#. …そんなに重い物をカゴの上に載せて
+#. 大丈夫なんですか？
+msgctxt "0095 | c03_102_038 | C011_Chaba"
 msgid ""
 "Are you sure it's okay to put something\n"
 "so heavy on top of the cage?"
 msgstr ""
 
-msgctxt "0097"
+#. そもそも、降霊術用の鉄カゴだからネ。
+#. 重さに耐えられるようにできているはずだヨ。
+msgctxt "0096 | c03_102_038 | C006_Shing"
 msgid ""
 "The iron cage was made specifically \n"
 "for seances, so it can hold this weight."
 msgstr ""
 
-msgctxt "0098"
+#. なら…いいですけど。
+msgctxt "0097 | c03_102_038 | C011_Chaba"
 msgid "Okay...I guess that's fine then."
 msgstr ""
 
-msgctxt "0099"
+#. じゃあ、僕らは魔法陣から出ようカ。
+#. 出る時も魔法陣を踏まないように気を付けてネ。
+msgctxt "0098 | c03_102_038 | C006_Shing"
 msgid ""
 "Now, let us exit the magic circle. \n"
 "Take care to avoid disturbing it."
 msgstr ""
 
-msgctxt "0100"
+#. さて、ここからが本番だヨ…
+#. 茶柱さん、これ以降の会話は禁止だからネ。
+msgctxt "0099 | c03_102_038 | C006_Shing"
 msgid ""
 "This is the point of no return, Tenko.\n"
 "After this point, you mustn't speak."
 msgstr ""
 
-msgctxt "0101"
+#. 次に君が口を開くのは夜長さんの霊が憑依した時…
+#. それまでは絶対に喋っちゃダメだからネ。
+msgctxt "0100 | c03_102_038 | C006_Shing"
 msgid ""
 "The next time you open your mouth,\n"
 "it will be Angie speaking through you."
 msgstr ""
 
-msgctxt "0102"
+#. わかりました！　降霊術が終わるまでは、
+#. 転子は自分の意思では一切喋りません！
+msgctxt "0101 | c03_102_038 | C011_Chaba"
 msgid ""
 "Understood. I will not say a word until\n"
 "the seance is over!"
 msgstr ""
 
-msgctxt "0103"
+#. それでは、みなさん！
+#. また降霊術の後でお会いしましょう！
+msgctxt "0102 | c03_102_038 | C011_Chaba"
 msgid ""
 "Okay, everyone!\n"
 "I'll see you guys after the seance!"
 msgstr ""
 
-msgctxt "0104"
+#. …残った僕らは部屋の隅に移動するヨ。
+#. みんな、好きな角に立ってもらえる？
+msgctxt "0103 | c03_102_038 | C006_Shing"
 msgid ""
 "The rest of us shall move to the corners of \n"
 "the room. Please go to one of your choosing."
 msgstr ""
 
-msgctxt "0105"
+#. <CLT=cltMIND>そして、僕らがそれぞれ部屋の隅に立ったところで…
+msgctxt "0104 | c03_102_038 | chara_Blank"
 msgid "<CLT=cltMIND>We each stood in a different corner..."
 msgstr ""
 
-msgctxt "0106"
+#. そろそろ、部屋を暗くしようカ。
+#. ロウソクの位置が近いのは王馬君と最原君だネ。
+msgctxt "0105 | c03_102_038 | C006_Shing"
 msgid ""
 "Now we darken the room. Kokichi and \n"
 "Shuichi are closest to the candles."
 msgstr ""
 
-msgctxt "0107"
+#. じゃあ、ロウソクを消して戻って来てくれるかな？
+#. 壁沿いに歩けば暗くても問題ないよネ？
+msgctxt "0106 | c03_102_038 | C006_Shing"
 msgid ""
 "Please blow out the candles. You should \n"
 "be able to follow the walls in the dark."
 msgstr ""
 
-msgctxt "0108"
+#. 暗くした後でまた隅まで戻って来るんだね。
+#. おっけー、わかったよ。
+msgctxt "0107 | c03_102_038 | C005_Oma__"
 msgid ""
 "So, go back to the corner of the room after\n"
 "it's dark... O-kay, got it!"
 msgstr ""
 
-msgctxt "0109"
+#. 夢野さんはそのまま動かないでいいヨ。
+#. 君の傍の床は、隙間が空いてて危ないからネ。
+msgctxt "0108 | c03_102_038 | C006_Shing"
 msgid ""
 "You needn't move, Himiko. There are\n"
 "many gaps in the floor near you."
 msgstr ""
 
-msgctxt "0110"
+#. んあー…わかったぞ。
+msgctxt "0109 | c03_102_038 | C009_Yumen"
 msgid "Nyeh... Got it."
 msgstr ""
 
-msgctxt "0111"
+#. 部屋が暗くなったら僕が歌い出すから、
+#. みんなもそれに合わせて歌ってくれるかな？
+msgctxt "0110 | c03_102_038 | C006_Shing"
 msgid ""
 "Once the room is dark, I will begin \n"
 "the song. Please sing along with me."
 msgstr ""
 
-msgctxt "0112"
+#. その歌の後で、僕が夜長さんの霊に呼び掛けるけど、
+#. 彼女が答えるまでは私語厳禁で頼むヨ。
+msgctxt "0111 | c03_102_038 | C006_Shing"
 msgid ""
 "Then, I will call out to Angie. Until \n"
 "she replies, there must be silence."
 msgstr ""
 
-msgctxt "0113"
+#. ねぇ、降霊術が終わった後は、
+#. オレと最原ちゃんがまたロウソクに火を付ければいいの？
+msgctxt "0112 | c03_102_038 | C005_Oma__"
 msgid ""
 "After the seance is done, Shuichi and I are \n"
 "supposed to light the candles again, right?"
 msgstr ""
 
-msgctxt "0114"
+#. そうだネ…倉庫からマッチを持って来たから、
+#. これでロウソクに火を付けてくれるかな？
+msgctxt "0113 | c03_102_038 | C006_Shing"
 msgid ""
 "Correct. I brought matches from the \n"
 "warehouse, so please use those."
 msgstr ""
 
-msgctxt "0115"
+#. ほいよー。
+#. じゃあ、ロウソクの火を消すねー。
+msgctxt "0114 | c03_102_038 | C005_Oma__"
 msgid "Okie-dokie! Then I'll blow out the candle now."
 msgstr ""
 
-msgctxt "0116"
+#. <CLT=cltMIND>僕はロウソクのある位置まで移動すると、
+#. そこに灯る火を吹き消した。
+msgctxt "0115 | c03_102_038 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I walked up to the closest candle\n"
 "and blew out the flame."
 msgstr ""
 
-msgctxt "0117"
+#. <CLT=cltMIND>薄暗かった部屋は…一瞬で真っ暗になった。
+msgctxt "0116 | c03_102_038 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>The room instantly fell into\n"
 "complete darkness."
 msgstr ""
 
-msgctxt "0118"
+#. <CLT=cltMIND>完全な闇だ。
+msgctxt "0117 | c03_102_038 | chara_Blank"
 msgid "<CLT=cltMIND>Pitch black darkness."
 msgstr ""
 
-msgctxt "0119"
+#. <CLT=cltMIND>自分の体さえもまったく見えない完全な闇。
+msgctxt "0118 | c03_102_038 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>So dark, I couldn't even see\n"
 "my own body."
 msgstr ""
 
-msgctxt "0120"
+#. <CLT=cltMIND>暗闇への本能的な恐怖を感じながらも壁沿いに移動し、
+#. 部屋の隅まで戻ると…
+msgctxt "0119 | c03_102_038 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Overcoming my instinctual fear of the dark,\n"
 "I moved along the wall back to my corner."
 msgstr ""
 
-msgctxt "0121"
+#. <CLT=cltMIND>すぐに、不気味な声の不気味な歌が聞こえて来た。
+msgctxt "0120 | c03_102_038 | chara_Blank"
 msgid "<CLT=cltMIND>Then began the singing..."
 msgstr ""
 
-msgctxt "0122"
+#. 　
+msgctxt "0121 | c03_102_038 | chara_Blank"
 msgid "[EMPTY_LINE]"
 msgstr ""
 
-msgctxt "0123"
+#. <CLT=cltMIND>真宮寺くんの歌い出しに続いて、
+#. 僕らも声を揃えて<CLT=cltSTRONG>“かごのこ”<CLT=cltMIND>を歌う。
+msgctxt "0122 | c03_102_038 | chara_Blank"
 msgid "<CLT=cltMIND>Kiyo led us all in <CLT=cltSTRONG>The Caged Child<CLT=cltMIND> song."
 msgstr ""
 
-msgctxt "0124"
+#. 　
+msgctxt "0123 | c03_102_038 | chara_Blank"
 msgid "[EMPTY_LINE]"
 msgstr ""
 
-msgctxt "0125"
+#. 　
+msgctxt "0124 | c03_102_038 | chara_Blank"
 msgid "[EMPTY_LINE]"
 msgstr ""
 
-msgctxt "0126"
+#. 　
+msgctxt "0125 | c03_102_038 | chara_Blank"
 msgid "[EMPTY_LINE]"
 msgstr ""
 
-msgctxt "0127"
+#. <CLT=cltSYSTEM>「ドガッ…！」
+msgctxt "0126 | c03_102_038 | chara_Blank"
 msgid "<CLT=cltSYSTEM>*thunk!*"
 msgstr ""
 
-msgctxt "0128"
+#. 　
+msgctxt "0127 | c03_102_038 | chara_Blank"
 msgid "[EMPTY_LINE]"
 msgstr ""
 
-msgctxt "0129"
+#. 　
+msgctxt "0128 | c03_102_038 | chara_Blank"
 msgid "[EMPTY_LINE]"
 msgstr ""
 
-msgctxt "0130"
+#. <CLT=cltMIND>歌い終わった…けど…
+msgctxt "0129 | c03_102_038 | chara_Blank"
 msgid "<CLT=cltMIND>We finished singing the song, but..."
 msgstr ""
 
-msgctxt "0131"
+#. <CLT=cltMIND>なんか…途中で妙な物音が聞こえたよな。
+#. あの物音ってなんだ？
+msgctxt "0130 | c03_102_038 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I thought I heard an odd sound in\n"
 "the middle of it. What was that?"
 msgstr ""
 
-msgctxt "0132"
+#. <CLT=cltSTRONG>“かごのこ”<CLT=cltNORMAL>は…夜長アンジーさんかい？
+msgctxt "0131 | c03_102_038 | C006_Shing"
 msgid "Is <CLT=cltSTRONG>the caged child<CLT=cltNORMAL>...Angie Yonaga?"
 msgstr ""
 
-msgctxt "0133"
+#. <CLT=cltMIND>あ、呼び掛けが始まったな。
+#. これで口寄せ役が答えれば…
+msgctxt "0132 | c03_102_038 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>He began calling. Now if the\n"
 "medium answers..."
 msgstr ""
 
-msgctxt "0134"
+#. <CLT=cltMIND>………………
+msgctxt "0133 | c03_102_038 | chara_Blank"
 msgid "<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0135"
+#. <CLT=cltSTRONG>“かごのこ”<CLT=cltNORMAL>は…夜長アンジーさん？
+msgctxt "0134 | c03_102_038 | C006_Shing"
 msgid "Is <CLT=cltSTRONG>the caged child<CLT=cltNORMAL>...Angie Yonaga?"
 msgstr ""
 
-msgctxt "0136"
+#. <CLT=cltMIND>………………………………
+msgctxt "0135 | c03_102_038 | chara_Blank"
 msgid "<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0137"
+#. <CLT=cltMIND>ん？　どうしたんだ？
+msgctxt "0136 | c03_102_038 | chara_Blank"
 msgid "<CLT=cltMIND>What's...going on...?"
 msgstr ""
 
-msgctxt "0138"
+#. ねぇ…！　<CLT=cltSTRONG>“かごのこ”<CLT=cltNORMAL>は夜長アンジーさん…！？
+msgctxt "0137 | c03_102_038 | C006_Shing"
 msgid "Is <CLT=cltSTRONG>the caged child<CLT=cltNORMAL>...Angie Yonaga?"
 msgstr ""
 
-msgctxt "0139"
+#. <CLT=cltMIND>………………………………………………
+msgctxt "0138 | c03_102_038 | chara_Blank"
 msgid "<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0140"
+#. …どうしたんじゃ？
+#. アンジーはなぜ返事をせん？
+msgctxt "0139 | c03_102_038 | C009_Yumen"
 msgid ""
 "What's wrong?\n"
 "Why won't Angie answer?"
 msgstr ""
 
-msgctxt "0141"
+#. 夢野さん…喋ったらダメだと言ったよネ？
+msgctxt "0140 | c03_102_038 | C006_Shing"
 msgid ""
 "Himiko...I was very clear that you were \n"
 "not to speak, yes?"
 msgstr ""
 
-msgctxt "0142"
+#. でも…変だな？
+#. どうして答えてくれないんだろう。
+msgctxt "0141 | c03_102_038 | C006_Shing"
 msgid ""
 "But...something's weird.\n"
 "Why won't she answer?"
 msgstr ""
 
-msgctxt "0143"
+#. もしかして…失敗したとか？
+msgctxt "0142 | c03_102_038 | C005_Oma__"
 msgid "Maybe...it failed?"
 msgstr ""
 
-msgctxt "0144"
+#. ………………
+msgctxt "0143 | c03_102_038 | C006_Shing"
 msgid "..."
 msgstr "..."
 
-msgctxt "0145"
+#. いったん…ロウソクの火を付けてみようか。
+msgctxt "0144 | c03_102_038 | C006_Shing"
 msgid "Let's...light the candles briefly."
 msgstr ""
 
-msgctxt "0146"
+#. え？　いいの？
+msgctxt "0145 | c03_102_038 | C000_Saiha"
 msgid "What? Is that okay?"
 msgstr ""
 
-msgctxt "0147"
+#. と、とりあえず…いったんネ。
+msgctxt "0146 | c03_102_038 | C006_Shing"
 msgid "J-Just...for now."
 msgstr ""
 
-msgctxt "0148"
+#. <CLT=cltMIND>僕は困惑しながらも壁沿いに移動し、
+#. なんとかロウソクの位置まで辿り着くと…
+msgctxt "0147 | c03_102_038 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Confused, I walked along the wall\n"
 "back to the candle."
 msgstr ""
 
-msgctxt "0149"
+#. <CLT=cltMIND>マッチを擦って、
+#. 再びロウソクに明かりを灯した。
+msgctxt "0148 | c03_102_038 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>I managed to strike a match and\n"
 "light the candle once again."
 msgstr ""
 
-msgctxt "0150"
+#. ちょっと、どういう事ー？
+#. まさか、本当に失敗したのー？
+msgctxt "0149 | c03_102_038 | C005_Oma__"
 msgid "Hey, what's going on? Did it really fail?"
 msgstr ""
 
-msgctxt "0151"
+#. そ、そんなはず…ないんだけどな…
+#. 手順は完璧だったのに…
+msgctxt "0150 | c03_102_038 | C006_Shing"
 msgid ""
 "Th-That shouldn't be the case...\n"
 "The seance was perfect..."
 msgstr ""
 
-msgctxt "0152"
+#. …アンジーは現れんのか？
+#. そこにいるのは転子のままなのか？
+msgctxt "0151 | c03_102_038 | C009_Yumen"
 msgid ""
 "Is Angie not coming?\n"
 "Is that still Tenko in there?"
 msgstr ""
 
-msgctxt "0153"
+#. <CLT=cltMIND>………………
+msgctxt "0152 | c03_102_038 | chara_Blank"
 msgid "<CLT=cltMIND>..."
 msgstr ""
 
-msgctxt "0154"
+#. …茶柱さん？
+msgctxt "0153 | c03_102_038 | C000_Saiha"
 msgid "...Tenko?"
 msgstr ""
 
-msgctxt "0155"
+#. あァ…彼女には霊が降りて来るまで
+#. 喋っちゃダメだと言ってあったネ…
+msgctxt "0154 | c03_102_038 | C006_Shing"
 msgid ""
 "Ah...I told her that she mustn't speak\n"
 "until the spirit enters her..."
 msgstr ""
 
-msgctxt "0156"
+#. にしし…律義だね。
+#. とりあえず、いったん外に出してあげようか。
+msgctxt "0155 | c03_102_038 | C005_Oma__"
 msgid ""
 "Nee-heehee... She follows orders well.\n"
 "But how about we let her out for now?"
 msgstr ""
 
-msgctxt "0157"
+#. あ、待って…この手の呪術やおまじないは、
+#. 行きと帰りで同じ手順を踏まなければならないんだ。
+msgctxt "0156 | c03_102_038 | C006_Shing"
 msgid ""
 "Wait...dark arts such as this need to be \n"
 "started and completed the same way."
 msgstr ""
 
-msgctxt "0158"
+#. 魔法陣から道具を持ち出すのは、
+#. それを魔法陣に持ち込んだ人でないとダメなんだヨ。
+msgctxt "0157 | c03_102_038 | C006_Shing"
 msgid ""
 "Those who remove objects from the magic circle\n"
 "must be the same who brought them in."
 msgstr ""
 
-msgctxt "0159"
+#. そうしないと…霊が残ってしまう場合があるからネ。
+msgctxt "0158 | c03_102_038 | C006_Shing"
 msgid ""
 "If not...the spirit may stay \n"
 "in the medium's body."
 msgstr ""
 
-msgctxt "0160"
+#. 失敗しておいて霊が残るも何もないと思うけど…
+#. はーい、わかったよ。
+msgctxt "0159 | c03_102_038 | C005_Oma__"
 msgid ""
 "Seeing as how this was a failure, I don't think\n"
 "any spirit is sticking around...but whatever."
 msgstr ""
 
-msgctxt "0161"
+#. <CLT=cltMIND>僕らは、真宮寺くんに言われた通り、
+#. 魔法陣に持ち込んだ時と同じ人が同じ手順で…
+msgctxt "0160 | c03_102_038 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Just like setting up, Kiyo instructed\n"
 "us how to clean everything up."
 msgstr ""
 
-msgctxt "0162"
+#. <CLT=cltMIND>降霊術に使った道具を
+#. 順番に魔法陣から持ち出していった。
+msgctxt "0161 | c03_102_038 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>We were careful to remove everything\n"
 "exactly in the order Kiyo directed."
 msgstr ""
 
-msgctxt "0163"
+#. じゃあ、布を取るヨ。
+msgctxt "0162 | c03_102_038 | C006_Shing"
 msgid "Now, I will remove the sheet."
 msgstr ""
 
-msgctxt "0164"
+#. <CLT=cltMIND>そして、真宮寺くんが布を取り払った時だった。
+msgctxt "0163 | c03_102_038 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Kiyo pinched the fabric gently\n"
 "and pulled it aside."
 msgstr ""
 
-msgctxt "0165"
+#. …おや？
+msgctxt "0164 | c03_102_038 | C006_Shing"
 msgid "Oh...?"
 msgstr ""
 
-msgctxt "0166"
+#. 何か…変だな。
+msgctxt "0165 | c03_102_038 | C006_Shing"
 msgid "Something...is amiss..."
 msgstr ""
 
-msgctxt "0167"
+#. …んああっ！？
+msgctxt "0166 | c03_102_038 | C009_Yumen"
 msgid "Nyeeeh!?"
 msgstr ""
 
-msgctxt "0168"
+#. <CLT=cltMIND>直後、夢野さんは茶柱さんのいるカゴに向かって
+#. 一目散に駆け出した。
+msgctxt "0167 | c03_102_038 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Himiko ran toward the cage\n"
 "at a sprint."
 msgstr ""
 
-msgctxt "0169"
+#. あ、夢野さん！
+#. 魔法陣を踏んではダメだと――
+msgctxt "0168 | c03_102_038 | C006_Shing"
 msgid "Himiko! I told you not to step on the—"
 msgstr ""
 
-msgctxt "0170"
+#. <CLT=cltMIND>彼女は真宮寺くんの言葉に耳も貸さず、
+#. カゴに飛び付くと…
+msgctxt "0169 | c03_102_038 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>But she wasn't listening.\n"
 "She jumped onto the cage, and..."
 msgstr ""
 
-msgctxt "0171"
+#. て、転子ーっ！！
+msgctxt "0170 | c03_102_038 | C009_Yumen"
 msgid "T-Tenkooo!!!"
 msgstr ""
 
-msgctxt "0172"
+#. <CLT=cltMIND>そして、カゴにしがみついた夢野さんが、
+#. 必死の形相でそれを持ち上げると…
+msgctxt "0171 | c03_102_038 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Fueled by desperation, Himiko grabbed\n"
 "the cage, lifted it up, and..."
 msgstr ""
 
-msgctxt "0173"
+#. <CLT=cltSYSTEM>「ピンポンパンポーン…！」
+msgctxt "0172 | c03_102_038 | chara_Blank"
 msgid "<CLT=cltSYSTEM>*ding dong, dong ding!*"
 msgstr ""
 
-msgctxt "0174"
+#. ま、まさか…捜査タイム中に、
+#. さらなる犠牲者が出てしまうなんて…
+msgctxt "0173 | c03_102_038 | C021_Mtaro"
 msgid ""
 "Wh-Who would've thought...there'd be another\n"
 "victim during the investigation...?"
 msgstr ""
 
-msgctxt "0175"
+#. もしや、モノファニーの不吉な緑色のゲロって、
+#. この惨事を予言してたんじゃ…！
+msgctxt "0174 | c03_102_038 | C021_Mtaro"
 msgid ""
 "Maybe Monophanie's green puke was\n"
 "predicting this tragedy...!"
 msgstr ""
 
-msgctxt "0176"
+#. …でろでろでろでろでろでろでろ。
+msgctxt "0175 | c03_102_038 | C023_Mfunn"
 msgid "...BLRGHBLRBLRGHBLRBLRGH!"
 msgstr ""
 
-msgctxt "0177"
+#. あっ、普通の色に戻ってる！
+#. やっぱり、そうだったんだよ！
+msgctxt "0176 | c03_102_038 | C021_Mtaro"
 msgid ""
 "Oh, the puke's color is normal now!\n"
 "I guess it *was* predicting this!"
 msgstr ""
 
-msgctxt "0178"
+#. ト、トリアエズ…死体発見現場ニ
+#. 集合シテクダサイ…
+msgctxt "0177 | c03_102_038 | C024_Mdam_"
 msgid ""
 "E-EVERYONE...PLEASE-ASSEMBLE-IN-\n"
 "THE-SEANCE-ROOM..."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,85 +11,115 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. 口寄せ役は体勢を変えてはいけないんだヨ？
+msgctxt "0000 | c03_214_000 | C006_Shing"
 msgid ""
 "The spiritual medium mustn't move\n"
 "during the seance."
 msgstr ""
 
-msgctxt "0002"
+#. 茶柱さんは、それを間違いなく行っていたし…
+#. ずっとカゴの中にいたのは揺ぎない事実サ。
+msgctxt "0001 | c03_214_000 | C006_Shing"
 msgid ""
 "Tenko was definitely following the\n"
 "directions. She did not leave the cage."
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0002 | c03_214_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0004"
+#. でも…降霊術の後に殺されたとしたら、
+#. その時にしかできないと思うけど…
+msgctxt "0003 | c03_214_000 | C004_Gokuh"
 msgid ""
 "But...Gonta think that only possible if\n"
 "she was killed after seance..."
 msgstr ""
 
-msgctxt "0005"
+#. もしかして最原君は、
+#. そうじゃなかった理由を知ってるの？
+msgctxt "0004 | c03_214_000 | C004_Gokuh"
 msgid ""
 "Unless you know reason why that not\n"
 "true, Shuichi?"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0005 | c03_214_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0007"
+#. えー？　カゴを開けた瞬間に殺したなら、
+#. 夢野ちゃんしかチャンスはないはずだよ？
+msgctxt "0006 | c03_214_000 | C005_Oma__"
 msgid ""
 "Huh? If the culprit killed her when they opened \n"
 "the cage, then only Himiko could've done it."
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0007 | c03_214_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>降霊術中じゃない時に
+#. 茶柱さんが殺された可能性か…
+msgctxt "0008 | c03_214_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Tenko not being killed\n"
 "during the seance...?"
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>いや…カゴを開けた瞬間に殺すなんて無理だ。
+#. その矛盾を証明するぞ…！
+msgctxt "0009 | c03_214_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Impossible, she couldn't have been killed\n"
 "when the cage was opened! I'll prove it!"
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>降霊術中じゃない時に
+#. 茶柱さんが殺された可能性か…
+msgctxt "0010 | c03_214_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Tenko not being killed\n"
 "during the seance...?"
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>あり得ないとは言い切れないけど、
+#. 絶対にそうであるという証拠もないよな…
+msgctxt "0011 | c03_214_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>That might not be impossible,\n"
 "but there's no evidence for it..."
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>降霊術中じゃない時に
+#. 茶柱さんが殺された可能性か…
+msgctxt "0012 | c03_214_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Tenko not being killed\n"
 "during the seance...?"
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>あり得ないとは言い切れないけど、
+#. 絶対にそうであるという証拠もないよな…
+msgctxt "0013 | c03_214_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>That might not be impossible,\n"
 "but there's no evidence for it..."

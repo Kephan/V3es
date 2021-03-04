@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,86 +11,119 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. あ？　カゴの中にいたってことは、
+#. 普通に座ってたんだろ？
+msgctxt "0000 | c03_216_000 | C014_Iruma"
 msgid ""
 "Huh? She was probably sitting down\n"
 "normally while she was in the cage."
 msgstr ""
 
-msgctxt "0002"
+#. 文句あんなら、もっとまともな事言いやがれっ！
+#. この腐れチェリー！
+msgctxt "0001 | c03_216_000 | C014_Iruma"
 msgid ""
 "If you got a problem with that, then come\n"
 "up with a better explanation, bucko!"
 msgstr ""
 
-msgctxt "0003"
+#. <CLT=cltMIND>間違えてしまった…
+#. もう１度考え直さないと！
+#. <CLT=cltNORMAL>
+msgctxt "0002 | c03_216_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I made a mistake...\n"
 "I need to think it over again! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0004"
+#. <CLT=cltMIND>入間さんの勢いに負けちゃダメだ…！
+#. 僕も切り返さないと！
+msgctxt "0003 | c03_216_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I can't let Miu bully me!\n"
 "I need to turn this around!"
 msgstr ""
 
-msgctxt "0005"
+#. <CLT=cltMIND>入間さんの言っている事には
+#. 絶対に穴があるはずなんだ…
+msgctxt "0004 | c03_216_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>There has to be a hole\n"
 "in Miu's logic somewhere!"
 msgstr ""
 
-msgctxt "0006"
+#. <CLT=cltMIND>彼女は中で座ってたんじゃない…
+#. それを証明する目印だってあったはずだ！
+msgctxt "0005 | c03_216_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>Tenko wasn't sitting down when she\n"
 "was inside... There must be proof..."
 msgstr ""
 
-msgctxt "0007"
+#. <CLT=cltMIND>入間さんの言っている事には
+#. 絶対に穴があるはずなんだ…
+msgctxt "0006 | c03_216_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>There has to be a hole\n"
 "in Miu's logic somewhere!"
 msgstr ""
 
-msgctxt "0008"
+#. <CLT=cltMIND>後は、それを示す証拠で
+#. 入間さんの主張を切り崩さないと…！
+msgctxt "0007 | c03_216_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>All I have to do is show the evidence\n"
 "that will counter Miu's claims!"
 msgstr ""
 
-msgctxt "0009"
+#. <CLT=cltMIND>入間さんの言っている事には
+#. 絶対に穴があるはずなんだ…
+msgctxt "0008 | c03_216_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>There has to be a hole\n"
 "in Miu's logic somewhere!"
 msgstr ""
 
-msgctxt "0010"
+#. <CLT=cltMIND>後は、それを示す証拠で
+#. 入間さんの主張を切り崩さないと…！
+msgctxt "0009 | c03_216_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>All I have to do is show the evidence\n"
 "that will counter Miu's claims!"
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>押し切られてしまった…！
+#. これじゃ埒が明かない…！
+#. <CLT=cltNORMAL>
+msgctxt "0010 | c03_216_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I'm being pushed back!\n"
 "At this rate, we'll never reach an agreement!\n"
 "<CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0012"
+#. <CLT=cltMIND>押し切られてしまった…！
+#. 話を戻されてしまう…！
+#. <CLT=cltNORMAL>
+msgctxt "0011 | c03_216_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I was so close! I couldn't do it,\n"
 "I'm being pushed back! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0013"
+#. <CLT=cltMIND>あと少しで押し切れそうだったのに…！
+#. 次こそは負けない…！
+#. <CLT=cltNORMAL>
+msgctxt "0012 | c03_216_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I was this close to pushing them back!\n"
 "I'll do it this time...I know I can! <CLT=cltNORMAL>"
 msgstr ""
 
-msgctxt "0014"
+#. <CLT=cltMIND>あと少しのところだったのに…！
+#. 話を戻されてしまう…！
+#. <CLT=cltNORMAL>
+msgctxt "0013 | c03_216_000 | C000_Saiha"
 msgid ""
 "<CLT=cltMIND>I was so close! I couldn't do it,\n"
 "I'm being pushed back! <CLT=cltNORMAL>"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DRV3\n"
 "Report-Msgid-Bugs-To: your_email\n"
-"POT-Creation-Date: 27/04/2020\n"
+"POT-Creation-Date: 06/02/2021\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,200 +11,256 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "0001"
+#. おはよう、真宮寺くん。
+msgctxt "0000 | c03_010_258 | C000_Saiha"
 msgid "Good morning, Kiyo."
 msgstr ""
 
-msgctxt "0002"
+#. おはよう…
+#. 君も朝食？
+msgctxt "0001 | c03_010_258 | C006_Shing"
 msgid ""
 "Good morning...\n"
 "Are you going to have breakfast as well?"
 msgstr ""
 
-msgctxt "0003"
+#. うん、真宮寺くんも？
+msgctxt "0002 | c03_010_258 | C000_Saiha"
 msgid "Yeah, are you coming?"
 msgstr ""
 
-msgctxt "0004"
+#. あァ、そうだヨ。
+msgctxt "0003 | c03_010_258 | C006_Shing"
 msgid "Indeed."
 msgstr ""
 
-msgctxt "0005"
+#. その後、今日も研究教室で文献の整理と調査を
+#. するつもりなんだけど…
+msgctxt "0004 | c03_010_258 | C006_Shing"
 msgid ""
 "I also intend to do some research \n"
 "and organize my lab today..."
 msgstr ""
 
-msgctxt "0006"
+#. もしよかったら、手伝ってくれない？
+msgctxt "0005 | c03_010_258 | C006_Shing"
 msgid ""
 "If you are able, can I request \n"
 "your assistance?"
 msgstr ""
 
-msgctxt "0007"
+#. 文献の整理と調査って…あの本棚の？
+#. 凄い量だったし、それは大変だろうね。
+msgctxt "0006 | c03_010_258 | C000_Saiha"
 msgid ""
 "Organizing your lab? With all the stuff in that\n"
 "bookcase, it must be hard..."
 msgstr ""
 
-msgctxt "0008"
+#. でも少しも苦ではないんだ…
+#. あの本棚も宝の山なんだヨ。
+msgctxt "0007 | c03_010_258 | C006_Shing"
 msgid ""
 "Oh, not at all...\n"
 "That bookcase is a mountain of treasures."
 msgstr ""
 
-msgctxt "0009"
+#. 籠犬村の文献以外にも、実に興味深い降霊術を
+#. 記述したものがあったしネ…
+msgctxt "0008 | c03_010_258 | C006_Shing"
 msgid ""
 "I've found things besides the Caged Dog \n"
 "Village documents that detail other seances."
 msgstr ""
 
-msgctxt "0010"
+#. でも、やっぱり僕が最も惹かれるのは
+#. <CLT=cltSTRONG>“かごのこ”<CLT=cltNORMAL>だヨ…！
+msgctxt "0009 | c03_010_258 | C006_Shing"
 msgid ""
 "But the one I am most interested in is, \n"
 "of course, still <CLT=cltSTRONG>The Caged Child<CLT=cltNORMAL>!"
 msgstr ""
 
-msgctxt "0011"
+#. <CLT=cltMIND>ま、また降霊術の話か…
+msgctxt "0010 | c03_010_258 | chara_Blank"
 msgid "<CLT=cltMIND>The seance again..."
 msgstr ""
 
-msgctxt "0012"
+#. ともかく、それらの文献を体系化しておきたくてネ…
+#. どう？　手を貸してくれない？
+msgctxt "0011 | c03_010_258 | C006_Shing"
 msgid ""
 "In any case, I would like to sort my various \n"
 "documents... Well? Will you assist me?"
 msgstr ""
 
-msgctxt "0013"
+#. う、うん、まぁ、ヒマだったら手伝うよ。
+msgctxt "0012 | c03_010_258 | C000_Saiha"
 msgid "Y-Yeah, sure, if I have time."
 msgstr ""
 
-msgctxt "0014"
+#. あァ、気が向いたらで構わないヨ。
+#. それじゃ…
+msgctxt "0013 | c03_010_258 | C006_Shing"
 msgid ""
 "Excellent. Please drop by at your earliest \n"
 "convenience. Well then..."
 msgstr ""
 
-msgctxt "0015"
+#. <CLT=cltMIND>真宮寺くん…
+#. このところずっと降霊術の話をしているな。
+msgctxt "0014 | c03_010_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>Kiyo's been talking about seances\n"
 "nonstop lately."
 msgstr ""
 
-msgctxt "0016"
+#. <CLT=cltMIND>まるで…取り憑かれたみたいに…
+msgctxt "0015 | c03_010_258 | chara_Blank"
 msgid "<CLT=cltMIND>He's obsessed with it..."
 msgstr ""
 
-msgctxt "0017"
+#. あ…おはよう、春川さん。
+msgctxt "0016 | c03_010_258 | C000_Saiha"
 msgid "Ah, good morning, Maki."
 msgstr ""
 
-msgctxt "0018"
+#. …ねぇ、あんたは大丈夫だった？
+msgctxt "0017 | c03_010_258 | C010_Haruk"
 msgid "...Hey, you okay?"
 msgstr ""
 
-msgctxt "0019"
+#. え？　大丈夫だったって…何が？
+msgctxt "0018 | c03_010_258 | C000_Saiha"
 msgid "Okay? What do you mean?"
 msgstr ""
 
-msgctxt "0020"
+#. …別に、心当たりがないならいいよ。
+msgctxt "0019 | c03_010_258 | C010_Haruk"
 msgid "...If you don't know, then don't worry about it."
 msgstr ""
 
-msgctxt "0021"
+#. いや、その言い方は逆に気になるんだけど…
+msgctxt "0020 | c03_010_258 | C000_Saiha"
 msgid ""
 "W-Well if you say it like that,\n"
 "it makes me worried!"
 msgstr ""
 
-msgctxt "0022"
+#. 昨夜、寄宿舎の部屋に戻ろうとしたら
+#. 生徒会の連中に絡まれたんだよ。
+msgctxt "0021 | c03_010_258 | C010_Haruk"
 msgid ""
 "I got stopped by the student council while\n"
 "I was going back to my room last night."
 msgstr ""
 
-msgctxt "0023"
+#. 夜時間に出歩くな…って。
+msgctxt "0022 | c03_010_258 | C010_Haruk"
 msgid ""
 "They told me...I can't walk around during\n"
 "nighttime anymore."
 msgstr ""
 
-msgctxt "0024"
+#. え？　どうして？
+#. 校則違反でもないのに？
+msgctxt "0023 | c03_010_258 | C000_Saiha"
 msgid ""
 "What? Why?\n"
 "It's not breaking the rules, is it?"
 msgstr ""
 
-msgctxt "0025"
+#. 前の東条の犯行は夜時間に起きたでしょ？
+#. だからだって。
+msgctxt "0024 | c03_010_258 | C010_Haruk"
 msgid ""
 "They said it's because Kirumi committed\n"
 "her crime during nighttime."
 msgstr ""
 
-msgctxt "0026"
+#. 後は、お決まりのあれだよ。
+#. 『神さまが言ったから』…って。
+msgctxt "0025 | c03_010_258 | C010_Haruk"
 msgid ""
 "And then Angie gave her usual\n"
 "\"Atua says\" speech."
 msgstr ""
 
-msgctxt "0027"
+#. 神さま…
+msgctxt "0026 | c03_010_258 | C000_Saiha"
 msgid "Atua..."
 msgstr ""
 
-msgctxt "0028"
+#. このまま夜長を放っておくのはマズイかもね。
+#. 自由を奪われるだけならまだ良いけど、その内…
+msgctxt "0027 | c03_010_258 | C010_Haruk"
 msgid ""
 "We shouldn't ignore Angie. Losing our freedom\n"
 "may seem fine for now, but soon enough..."
 msgstr ""
 
-msgctxt "0029"
+#. …まぁ、夜長も私に言われたくないだろうけど。
+msgctxt "0028 | c03_010_258 | C010_Haruk"
 msgid ""
 "...Well, I'm sure Angie's not interested in\n"
 "anything I have to say."
 msgstr ""
 
-msgctxt "0030"
+#. <CLT=cltMIND>確かに…このままでいいとは思えない。
+msgctxt "0029 | c03_010_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>That's true...\n"
 "We should do something about this."
 msgstr ""
 
-msgctxt "0031"
+#. <CLT=cltMIND>生徒会がどんどん暴走して、
+#. みんなの間に亀裂が走ったら…
+msgctxt "0030 | c03_010_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>With the student council running things\n"
 "like this, a rift might form in the group."
 msgstr ""
 
-msgctxt "0032"
+#. <CLT=cltMIND>それが元になって、
+#. 取り返しのつかない事態になる可能性もある…
+msgctxt "0031 | c03_010_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>And then we'll be in a situation\n"
 "we can't go back from."
 msgstr ""
 
-msgctxt "0033"
+#. <CLT=cltMIND>そういう意味でも、
+#. “死者の蘇り”は問題だよな…
+msgctxt "0032 | c03_010_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>And resurrecting the dead is\n"
 "going to be a problem as well."
 msgstr ""
 
-msgctxt "0034"
+#. <CLT=cltMIND>これにアイテムを使ったら一気にツタが枯れたけど…
+#. どう言う仕組みなんだ？
+msgctxt "0033 | c03_010_258 | chara_Blank"
 msgid ""
 "<CLT=cltMIND>When I used the item, the vine suddenly\n"
 "withered... How does that work?"
 msgstr ""
 
-msgctxt "0035"
+#. <CLT=cltMIND>プール入り口　ゼルダギミック植物
+msgctxt "0034 | c03_010_258 | chara_Blank"
 msgid "<CLT=cltMIND>Pool Entrance Zelda gimmick plant"
 msgstr ""
 
-msgctxt "0036"
+#. <CLT=cltMIND>これが門の鍵になってたんだな…
+msgctxt "0035 | c03_010_258 | chara_Blank"
 msgid "<CLT=cltMIND>So this is the key to the gate..."
 msgstr ""
 
-msgctxt "0037"
+#. <CLT=cltMIND>カジノエリア扉　六角レンチギミック(閉)
+msgctxt "0036 | c03_010_258 | chara_Blank"
 msgid "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Closed)"
 msgstr ""
 
-msgctxt "0038"
+#. <CLT=cltMIND>カジノエリア扉　六角レンチギミック(開)
+msgctxt "0037 | c03_010_258 | chara_Blank"
 msgid "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Open)"
 msgstr ""
